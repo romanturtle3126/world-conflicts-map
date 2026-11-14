@@ -1,12 +1,12 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-14T11:43:09+00:00",
+  "lastUpdated": "2026-11-14T16:40:20+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
     "source": "Al Jazeera",
     "ok": true,
-    "count": 5
+    "count": 6
    },
    {
     "source": "BBC News Middle East",
@@ -52,6 +52,90 @@
  },
  "items": [
   {
+   "headline": "‘Loss of confidence’: US Navy fires commanders of warships deployed against Iran",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/news/loss-confidence-us-navy-fires-commanders-warships-deployed-against-iran",
+   "date": "2026-11-14T16:34:57.000Z"
+  },
+  {
+   "headline": "EU calls for immediate humanitarian access to Gaza",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+   "date": "2026-11-14T15:57:22.000Z"
+  },
+  {
+   "headline": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
+   "date": "2026-11-14T15:36:37.000Z"
+  },
+  {
+   "headline": "Three Israelis emerge as possible successors to Nvidia chief Jensen Huang, local media says",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/news/three-israelis-emerge-possible-successors-nvidia-chief-jensen-huang-local-media-says",
+   "date": "2026-11-14T14:47:58.000Z"
+  },
+  {
+   "headline": "UN official urges Iran, US to let fertilisers through Hormuz Strait",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/un-official-urges-iran-us-let-fertilisers-through-hormuz-strait",
+   "date": "2026-11-14T13:30:26.000Z"
+  },
+  {
+   "headline": "How does Iran view shift in US approach after JD Vance ordered away?",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
+   "date": "2026-11-14T13:24:44.000Z"
+  },
+  {
+   "headline": "Diplomats from 18 Muslim-majority countries condemn Israeli strike on Nasser hospital",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/diplomats-18-muslim-majority-countries-condemn-israeli-strike-nasser",
+   "date": "2026-11-14T13:16:37.000Z"
+  },
+  {
+   "headline": "US floated idea of Ukraine ceding Donbas for NATO membership, Zelenskiy says",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/us-floated-idea-ukraine-ceding-donbas-nato-membership-zelenskiy-says",
+   "date": "2026-11-14T12:47:07.000Z"
+  },
+  {
+   "headline": "Iran says it intercepted US MQ-1 Predator drone over Qeshm Island",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-said-it-intercepted-us-mq-1-predator-drone-over-qeshm-island",
+   "date": "2026-11-14T12:33:51.000Z"
+  },
+  {
+   "headline": "Ethiopia blames Egypt, Eritrea for Tigray attacks",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/ethiopia-blames-egypt-eritrea-for-tigray-attacks?traffic_source=rss",
+   "date": "2026-11-14T12:28:19.000Z"
+  },
+  {
+   "headline": "Oil tanker on fire in Strait of Hormuz: Iran's navy",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/oil-tanker-fire-strait-hormuz-iran-navy",
+   "date": "2026-11-14T12:27:12.000Z"
+  },
+  {
+   "headline": "Amnesty urges Pakistan-administered Kashmir to free activists and end crackdown",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/news/amnesty-urges-pakistan-administered-kashmir-free-activists-and-end-crackdown",
+   "date": "2026-11-14T11:54:38.000Z"
+  },
+  {
+   "headline": "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/trump-tells-advisers-he-may-hold-iran-attacks-barring-new-provocations-sources",
+   "date": "2026-11-14T11:46:28.000Z"
+  },
+  {
+   "headline": "Analysis-A new 'Yalta'? Trump and Putin push for a meeting that Xi is wary of hosting",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/analysis-new-yalta-trump-and-putin-push-meeting-xi-wary-hosting",
+   "date": "2026-11-14T11:46:28.000Z"
+  },
+  {
    "headline": "US air travel thrown into chaos as nationwide flights grounded over 'radar instability'",
    "source": "Middle East Eye",
    "link": "https://www.middleeasteye.net/news/us-air-travel-thrown-chaos-nationwide-flights-grounded-over-radar-instability",
@@ -94,12 +178,6 @@
    "date": "2026-11-14T07:56:57.000Z"
   },
   {
-   "headline": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
-   "date": "2026-11-14T07:46:36.000Z"
-  },
-  {
    "headline": "Morning update",
    "source": "Middle East Eye",
    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-669",
@@ -124,22 +202,10 @@
    "date": "2026-11-14T06:54:34.000Z"
   },
   {
-   "headline": "Salah breaks Egypt scoring record, Tunisia lose to Libya in AFCON qualifier",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/sports/2026/11/14/mohamed-salah-egypt-goals-record-africa-cup-of-nations-afcon-2027-qualifiers?traffic_source=rss",
-   "date": "2026-11-14T06:33:57.000Z"
-  },
-  {
    "headline": "'A moral red line'? World on cusp of autonomous weapons revolution",
    "source": "Al-Monitor",
    "link": "https://www.al-monitor.com/originals/2026/11/moral-red-line-world-cusp-autonomous-weapons-revolution",
    "date": "2026-11-14T06:30:22.000Z"
-  },
-  {
-   "headline": "Siege fuels disease fears in Yemen’s Taiz",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/news/2026/11/14/siege-fuels-disease-fears-in-yemens-besieged-taiz?traffic_source=rss",
-   "date": "2026-11-14T06:17:27.000Z"
   },
   {
    "headline": "'What would be left of international legal order': Araghchi on US strikes",
@@ -208,46 +274,10 @@
    "date": "2026-11-14T02:05:06.000Z"
   },
   {
-   "headline": "Iran's navy claims US MQ-I drone shot down off southern coast",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-navy-claims-us-mq-i-drone-shot-down-southern-coast",
-   "date": "2026-11-14T01:45:02.000Z"
-  },
-  {
-   "headline": "Iran warns of 'immediate response' to any US-Israeli attack, slams Gulf nations",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-warns-immediate-response-any-us-israeli-attack-slams-gulf-nations",
-   "date": "2026-11-14T01:32:54.000Z"
-  },
-  {
-   "headline": "UN, partners urge Israel to lift restrictions on aid into Gaza",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/un-partners-urge-israel-lift-restrictions-aid-gaza",
-   "date": "2026-11-14T01:02:19.000Z"
-  },
-  {
-   "headline": "Centcom says two Iranian drones aimed at Bahrain shot down",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-says-two-iranian-drones-aimed-bahrain-shot-down",
-   "date": "2026-11-14T00:32:31.000Z"
-  },
-  {
-   "headline": "US flights halted nationwide after FAA communications outage",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-flights-halted-nationwide-after-faa-communications-outage",
-   "date": "2026-11-14T00:18:14.000Z"
-  },
-  {
    "headline": "ASEAN unity faces test as energy crisis, regional conflicts loom over summit",
    "source": "Al-Monitor",
    "link": "https://www.al-monitor.com/originals/2026/11/asean-unity-faces-test-energy-crisis-regional-conflicts-loom-over-summit",
    "date": "2026-11-13T23:46:28.000Z"
-  },
-  {
-   "headline": "Six Palestinians killed in Israeli strikes across Gaza",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/six-palestinians-killed-israeli-attacks-across-gaza",
-   "date": "2026-11-13T23:28:10.000Z"
   },
   {
    "headline": "Trump to hold summit with Xi, Putin in Shenzhen on Thursday, NY Post reports",
@@ -292,24 +322,6 @@
    "date": "2026-11-13T18:01:46.000Z"
   },
   {
-   "headline": "UN rights chief demands Houthis return body of Yemeni staff member",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/un-rights-chief-demands-houthis-return-body-yemeni-staff-member",
-   "date": "2026-11-13T17:47:08.000Z"
-  },
-  {
-   "headline": "Turkey, Qatar sign mutual defence agreement, pledge unified stance against attack",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/turkey-qatar-sign-mutual-defence-agreement-pledge-unified-stance-against-attack",
-   "date": "2026-11-13T16:46:47.000Z"
-  },
-  {
-   "headline": "Judges close part of ICC Afghanistan investigations that could look at US troops",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/judges-close-part-icc-afghanistan-investigations-could-look-us-troops",
-   "date": "2026-11-13T16:46:47.000Z"
-  },
-  {
    "headline": "West Bank: ‘Without international trade and financial support, large settlements would not exist’",
    "source": "France 24 Middle East",
    "link": "https://www.france24.com/en/video/20261113-west-bank-without-international-trade-and-financial-support-large-settlements-would-not-exist-1",
@@ -320,12 +332,6 @@
    "source": "France 24 Middle East",
    "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261113-un-refugee-chief-barham-salih-slams-shameful-war-in-sudan-urges-political-solution",
    "date": "2026-11-13T15:56:30.000Z"
-  },
-  {
-   "headline": "UN chief urges drastic emissions cuts as COP31 wrestles with fossil fuels",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/un-chief-urges-drastic-emissions-cuts-cop31-wrestles-fossil-fuels",
-   "date": "2026-11-13T15:46:43.000Z"
   },
   {
    "headline": "The truth about Douma: How Syria covered up a chemical attack",
@@ -344,6 +350,12 @@
    "source": "BBC News Middle East",
    "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-13T12:28:28.000Z"
+  },
+  {
+   "headline": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
+   "source": "UN News Middle East",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168804",
+   "date": "2026-11-13T12:00:00.000Z"
   },
   {
    "headline": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
@@ -848,12 +860,6 @@
    "source": "UN News Middle East",
    "link": "https://news.un.org/feed/view/en/story/2026/10/1168589",
    "date": "2026-10-13T12:00:00.000Z"
-  },
-  {
-   "headline": "Security Council LIVE: Syria’s fragile transition – economic strain, Israeli incursions and progress towards elections",
-   "source": "UN News Middle East",
-   "link": "https://news.un.org/feed/view/en/story/2026/10/1168578",
-   "date": "2026-10-12T12:00:00.000Z"
   }
  ]
 }
