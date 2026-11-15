@@ -2,11 +2,11 @@
  "schemaVersion": 1,
  "map": "ukraine",
  "meta": {
-  "lastUpdated": "2026-11-14T06:05:19-05:00",
-  "coverage": "2026-10-10 to 2026-11-14",
+  "lastUpdated": "2026-11-15T06:04:39-05:00",
+  "coverage": "2026-10-10 to 2026-11-15",
   "notes": [
-   "Refreshed Nov 14, 2026 (UTC midday) from Telegram channels of the Ukrainian General Staff (GeneralStaffZSU), Air Force (kpszsu, alert posts only) and Russian MoD (mod_russia), Kyiv Independent and Ukrinform articles from Nov 13-14, and the headline leads file (pulled Nov 13 17:57 UTC, so it does not cover Nov 14).",
-   "Not read this run: ISW/Critical Threats assessment for Nov 13 (not found), X posts (two web searches returned no usable 2026 X posts), Ukrainska Pravda (blocked by Cloudflare), Reuters/AP direct.",
+   "Refreshed Nov 15, 2026 (UTC midday) from Telegram channels of the Ukrainian General Staff (GeneralStaffZSU), Air Force (kpszsu, alert posts only) and Russian MoD (mod_russia), Kyiv Independent and Ukrinform articles from Nov 14, and the headline leads file (pulled Nov 14 16:40 UTC, so it does not cover Nov 15).",
+   "Not read this run: ISW/Critical Threats assessment, X posts (no web search for X was attempted successfully), Ukrainska Pravda, Reuters/AP direct. Ukrinform's Nov 15 report of a fire at a Tatarstan petrochemical plant was seen only as a headline and is not cited.",
    "Coordinates are city-level or approximate (see coordPrecision); markers flagged 'oblast' are not geolocated.",
    "Casualty figures are as reported by the cited outlet at time of writing and may have been revised."
   ]
@@ -4127,17 +4127,108 @@
     }
    ],
    "read": "snippet"
+  },
+  {
+   "id": "pavlohrad-1114",
+   "date": "2026-11-14",
+   "region": "south",
+   "oblast": "Dnipropetrovsk",
+   "front": "Dnipropetrovsk",
+   "type": "missile",
+   "status": "ONE_PARTY",
+   "title": "Russian missile strike on Pavlohrad kills one, injures ten",
+   "caption": "Ukrinform, citing the Dnipropetrovsk Regional Military Administration, reports that a Russian missile strike on Pavlohrad on Nov 14 killed one person and injured ten, among them a seven-year-old boy; several of the injured were hospitalised in moderate condition. No Russian statement on this strike was read.",
+   "lat": 48.5321,
+   "lon": 35.8688,
+   "coordPrecision": "city",
+   "place": "Pavlohrad",
+   "sources": [
+    {
+     "id": "ukrinform_pavlohrad_1114",
+     "title": "Ukrinform: Strike on Pavlohrad: One killed, injury toll rises to ten (Nov 14)",
+     "url": "https://www.ukrinform.net/rubric-ato/4184713-strike-on-pavlohrad-one-killed-injury-toll-rises-to-ten.html"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "zaporizhzhia-1114",
+   "date": "2026-11-14",
+   "region": "south",
+   "oblast": "Zaporizhzhia",
+   "front": "Zaporizhzhia",
+   "type": "missile",
+   "status": "ONE_PARTY",
+   "title": "Russian afternoon attack on Zaporizhzhia injures 22, including a six-month-old baby",
+   "caption": "Ukrinform, citing the State Emergency Service, says 22 people were injured in a Russian attack on Zaporizhzhia on the afternoon of Nov 14, including a six-month-old baby, a two-year-old girl and a 12-year-old boy. The Kyiv Independent, citing Governor Ivan Fedorov, reports that 10 missiles hit a multi-storey residential building, injuring 29 (six seriously), and that attacks across Zaporizhzhia Oblast over 24 hours killed three and injured 62. Figures differ between reports and were rising; no Russian statement was read.",
+   "lat": 47.8517,
+   "lon": 35.1171,
+   "coordPrecision": "city",
+   "place": "Zaporizhzhia",
+   "sources": [
+    {
+     "id": "ukrinform_zp_1114_pm",
+     "title": "Ukrinform: Injury toll after Russian attack on Zaporizhzhia rises to 22 (Nov 14)",
+     "url": "https://www.ukrinform.net/rubric-ato/4184708-injury-toll-after-russian-attack-on-zaporizhzhia-rises-to-22.html"
+    },
+    {
+     "id": "ki_overview_1114",
+     "title": "Kyiv Independent: At least 7 killed, 80 injured in Russian attacks across Ukraine, Zaporizhzhia among worst hit (Nov 14)",
+     "url": "https://kyivindependent.com/at-least-7-killed-80-injured-in-russian-attacks-across-ukraine-zaporizhzhia-among-worst-hit/"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "nizhnekamsk-1115",
+   "date": "2026-11-15",
+   "region": "russia",
+   "oblast": "Tatarstan, Russia",
+   "front": "Russia deep strikes",
+   "type": "deep-strike",
+   "status": "ONE_PARTY",
+   "title": "Ukraine's General Staff claims strikes on Nizhnekamsk petrochemical and refinery plants",
+   "caption": "Ukraine's General Staff says Defence Forces hit Nizhnekamskneftekhim and the primary distillation unit (ELOU-AVT-7) at the TAIF-NK refinery in Nizhnekamsk, Tatarstan, overnight on Nov 15, causing explosions and fires, and also hit the Monolit helicopter-parts plant in Trubchevsk, Bryansk region. It says the extent of damage is being established. Russia's MoD said that overnight its air defences intercepted 533 Ukrainian drones, including over Tatarstan, but did not mention damage. No independent confirmation was read.",
+   "lat": 55.6379,
+   "lon": 51.815,
+   "coordPrecision": "city",
+   "place": "Nizhnekamsk",
+   "sources": [
+    {
+     "id": "gs_nizhnekamsk_1115",
+     "title": "General Staff of Ukraine (Telegram): strikes on Nizhnekamsk plants and Monolit in Trubchevsk (Nov 15)",
+     "url": "https://t.me/GeneralStaffZSU/42911"
+    },
+    {
+     "id": "mod_pvo_1115",
+     "title": "Russian MoD (Telegram): air defence claims overnight Nov 15",
+     "url": "https://t.me/mod_russia/69026"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Ukraine's General Staff",
+     "says": "Nizhnekamskneftekhim and the TAIF-NK ELOU-AVT-7 unit were hit, with explosions and fires; damage being assessed.",
+     "source": "gs_nizhnekamsk_1115"
+    },
+    {
+     "who": "Russia's MoD",
+     "says": "533 Ukrainian fixed-wing drones intercepted overnight over 11 regions including Tatarstan; no damage mentioned.",
+     "source": "mod_pvo_1115"
+    }
+   ],
+   "read": "full"
   }
  ],
  "stats": [
   {
    "label": "Russian military personnel losses (cumulative, since Feb 24, 2022)",
    "category": "casualties",
-   "asOf": "2026-11-14",
+   "asOf": "2026-11-15",
    "status": "ONE_PARTY",
    "ukraine": {
-    "value": "~1,620,630 killed and wounded, calculated from the Nov 13 figure of 1,618,920 plus the General Staff's +1,710 for the past day (Nov 14 summary); the cumulative tally itself is posted as an image and was not read",
-    "source": "gs_ops_1114"
+    "value": "~1,622,860 killed and wounded, calculated from the Nov 14 figure of ~1,620,630 plus the General Staff's +2,230 for the past day (Nov 15 summary); the cumulative tally itself is posted as an image and was not read",
+    "source": "gs_ops_1115"
    },
    "russia": {
     "value": "No official cumulative figure published",
@@ -4890,6 +4981,36 @@
    "russia": {
     "value": "MoD claims 29 fixed-wing drones intercepted overnight over Belgorod, Bryansk, Tula and Rostov regions, the Moscow region and the Black and Azov Seas",
     "source": "mod_pvo_1114"
+   },
+   "independent": []
+  },
+  {
+   "label": "Russian drones and missiles launched at Ukraine (night of Nov 14-15)",
+   "category": "shootdowns",
+   "asOf": "2026-11-15",
+   "status": "DISPUTED",
+   "ukraine": {
+    "value": "132 Shahed-type drones (78 jet-powered), Gerbera and Parodiya decoys; 106 downed or suppressed as of 08:00 (61 jet-powered), some still airborne; hits at 20 locations (General Staff)",
+    "source": "gs_air_1115"
+   },
+   "russia": {
+    "value": "No launch count published; MoD says drones hit a substation in Velyki Mezhyrichi (Rivne region), Chornomorsk port facilities, a cargo ship bound for Odesa and two locomotives near Dnipropetrovsk station",
+    "source": "mod_strikes_1115"
+   },
+   "independent": []
+  },
+  {
+   "label": "Ukrainian drones shot down over Russia (Nov 14-15)",
+   "category": "shootdowns",
+   "asOf": "2026-11-15",
+   "status": "ONE_PARTY",
+   "ukraine": {
+    "value": "No count published",
+    "source": null
+   },
+   "russia": {
+    "value": "MoD claims 533 fixed-wing drones intercepted overnight (20:00-08:00 Moscow time) over 11 regions, Krasnodar Krai, Tatarstan, Crimea and the Azov and Black Seas; 39 more intercepted during the day on Nov 14",
+    "source": "mod_pvo_1115"
    },
    "independent": []
   }
@@ -6099,6 +6220,46 @@
    "id": "mod_tersianka_1114",
    "title": "Russian MoD (Telegram): Vostok group takes Tersianka, Zaporizhzhia region (Nov 14)",
    "url": "https://t.me/mod_russia/69009"
+  },
+  {
+   "id": "gs_ops_1115",
+   "title": "General Staff of Ukraine (Telegram): operational information as of 08:00 Nov 15",
+   "url": "https://t.me/GeneralStaffZSU/42908"
+  },
+  {
+   "id": "gs_air_1115",
+   "title": "General Staff of Ukraine (Telegram): air attack night of Nov 14-15",
+   "url": "https://t.me/GeneralStaffZSU/42909"
+  },
+  {
+   "id": "mod_strikes_1115",
+   "title": "Russian MoD (Telegram): overnight strikes on energy, port and rail targets (Nov 15)",
+   "url": "https://t.me/mod_russia/69025"
+  },
+  {
+   "id": "mod_pvo_1115",
+   "title": "Russian MoD (Telegram): air defence claims overnight Nov 15",
+   "url": "https://t.me/mod_russia/69026"
+  },
+  {
+   "id": "ukrinform_pavlohrad_1114",
+   "title": "Ukrinform: Strike on Pavlohrad: One killed, injury toll rises to ten (Nov 14)",
+   "url": "https://www.ukrinform.net/rubric-ato/4184713-strike-on-pavlohrad-one-killed-injury-toll-rises-to-ten.html"
+  },
+  {
+   "id": "ukrinform_zp_1114_pm",
+   "title": "Ukrinform: Injury toll after Russian attack on Zaporizhzhia rises to 22 (Nov 14)",
+   "url": "https://www.ukrinform.net/rubric-ato/4184708-injury-toll-after-russian-attack-on-zaporizhzhia-rises-to-22.html"
+  },
+  {
+   "id": "ki_overview_1114",
+   "title": "Kyiv Independent: At least 7 killed, 80 injured in Russian attacks across Ukraine, Zaporizhzhia among worst hit (Nov 14)",
+   "url": "https://kyivindependent.com/at-least-7-killed-80-injured-in-russian-attacks-across-ukraine-zaporizhzhia-among-worst-hit/"
+  },
+  {
+   "id": "gs_nizhnekamsk_1115",
+   "title": "General Staff of Ukraine (Telegram): strikes on Nizhnekamsk plants and Monolit in Trubchevsk (Nov 15)",
+   "url": "https://t.me/GeneralStaffZSU/42911"
   }
  ]
 }
