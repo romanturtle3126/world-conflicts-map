@@ -2,6 +2,17 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-15 06:41 Toronto — Middle East — OK
+- Added 6 event(s):
+  - `riffa-1115` 2026-11-15 [ONE_PARTY] IRGC says six drones targeted a US air-defence radar at Riffa base, Bahrain
+  - `khan-younis-1114` 2026-11-14 [CONFIRMED] Israeli strike in Mawasi, Khan Younis kills Hamas Rafah brigade commander, Hamas says
+  - `riyadh-1115` 2026-11-15 [ONE_PARTY] Saudi-led coalition says it shot down two Houthi missiles over Riyadh and drones in the Eastern Province
+  - `taiz-1115` 2026-11-15 [CONFIRMED] Yemeni government forces withdraw from Dhubab airport and Bab el-Mandeb area; Houthis now in control, Reuters says
+  - `damascus-1115` 2026-11-15 [ONE_PARTY] Car bomb in Damascus suburb kills two including a child, Syrian state media says
+  - `nablus-1114` 2026-11-14 [ONE_PARTY] Settlers attack home near Beita and olive harvesters in Sa'ir; at least five injured, Wafa says
+- 10 new source link(s)
+- Totals: 74 events, 18 stats, 109 sources; coverage 2026-10-06 to 2026-11-15
+
 ## 2026-11-15 06:04 Toronto — Ukraine — OK
 - Added 3 event(s):
   - `pavlohrad-1114` 2026-11-14 [ONE_PARTY] Russian missile strike on Pavlohrad kills one, injures ten

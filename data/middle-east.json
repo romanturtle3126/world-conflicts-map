@@ -2,11 +2,11 @@
  "schemaVersion": 1,
  "map": "middle-east",
  "meta": {
-  "lastUpdated": "2026-11-14T06:42:35-05:00",
-  "coverage": "2026-10-06 to 2026-11-14",
+  "lastUpdated": "2026-11-15T06:41:21-05:00",
+  "coverage": "2026-10-06 to 2026-11-15",
   "notes": [
-   "Refreshed 2026-11-14 (UTC) from Middle East Eye live blog, Al Jazeera, ISW/CTP Iran Update (Nov 13), OCHA oPt situation report (Nov 13), the Houthi military spokesman's Telegram channel (army21ye) and Tasnim English (Telegram), plus the headline feed.",
-   "Not read: UKMTO site (403; figures come via Middle East Eye and Al Jazeera), IDF and CENTCOM X posts (searches returned no dated Nov 13-14 posts; the CENTCOM Bahrain statement is via Middle East Eye), Gaza MoH Telegram, Lebanon MoPH. Brent Nov 12-13 settles not found, so the Brent stat is unchanged.",
+   "Refreshed 2026-11-15 (UTC) from Al Jazeera, Al-Monitor (Reuters), Middle East Eye live blog, the Houthi military spokesman's Telegram (army21ye), Tasnim English Telegram, OCHA oPt publications list (latest sitrep Nov 13, already used), plus the headline feed.",
+   "Not read: UKMTO and ISW/CTP (blocked, 403), IDF and CENTCOM X posts (searches returned no dated Nov 14-15 posts), Tasnim/IRGC Telegram post on the Bahrain claim (not in the channel preview), Gaza MoH Telegram. Brent Nov 12-13 settles not found, so Brent, Hormuz traffic and lanes are unchanged.",
    "Marker positions are approximate (see coordPrecision)."
   ]
  },
@@ -2297,6 +2297,224 @@
      "says": "Main routes cleared of mines; strait open to commercial shipping."
     }
    ]
+  },
+  {
+   "front": "Gaza & West Bank",
+   "read": "full",
+   "id": "khan-younis-1114",
+   "date": "2026-11-14",
+   "region": "gaza",
+   "oblast": "Gaza",
+   "type": "airstrike",
+   "status": "CONFIRMED",
+   "title": "Israeli strike in Mawasi, Khan Younis kills Hamas Rafah brigade commander, Hamas says",
+   "caption": "An Israeli air strike hit a street in the Mawasi area of Khan Younis on Nov 14; medics said the target was killed and others wounded. Hamas's armed wing named him as Samir Abu Younis, 53, commander of its Rafah brigade. Reuters (via Al-Monitor) says the Israeli military said it killed him; Middle East Eye says the military confirmed a strike on a senior armed-wing commander without naming him. Gaza health authorities count at least 1,600 killed since the Oct 2025 ceasefire. Marker is at Khan Younis.",
+   "lat": 31.3402,
+   "lon": 34.3063,
+   "coordPrecision": "approx",
+   "place": "Khan Younis",
+   "sources": [
+    {
+     "id": "am_1115_hamas",
+     "title": "Al-Monitor (Reuters), Senior Hamas commander killed in Israeli strike in Gaza, Nov 15",
+     "url": "https://www.al-monitor.com/originals/2026/11/senior-hamas-commander-killed-israeli-strike-gaza"
+    },
+    {
+     "id": "mee_1115_abuyounis",
+     "title": "Middle East Eye live blog, Hamas commander Samir Abu Younis killed in Israeli strike on Khan Younis, Nov 15",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-commander-samir-abu-younis-killed-israeli-strike-khan-younis"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Hamas (Al-Qassam Brigades)",
+     "says": "Samir Abu Younis, Rafah brigade commander, was killed; funeral Nov 15."
+    },
+    {
+     "who": "Israeli military",
+     "says": "Struck a senior armed-wing commander (Reuters reports it said it killed Abu Younis)."
+    }
+   ]
+  },
+  {
+   "front": "Gaza & West Bank",
+   "read": "full",
+   "id": "nablus-1114",
+   "date": "2026-11-14",
+   "region": "westbank",
+   "oblast": "West Bank",
+   "type": "other",
+   "status": "ONE_PARTY",
+   "title": "Settlers attack home near Beita and olive harvesters in Sa'ir; at least five injured, Wafa says",
+   "caption": "Wafa, relayed by Middle East Eye, reports settlers attacked a home and smashed two vehicles in al-Harayeq, Beita, south of Nablus, and that dozens of masked settlers attacked olive harvesters in Sa'ir on Saturday, injuring at least five Palestinians. No Israeli comment was included. Marker is at Nablus, not the exact spots.",
+   "lat": 32.2211,
+   "lon": 35.2544,
+   "coordPrecision": "approx",
+   "place": "Nablus",
+   "sources": [
+    {
+     "id": "mee_1115_settlers",
+     "title": "Middle East Eye live blog, West Bank: Israeli settlers attack Palestinian home, olive harvesters, Nov 15",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-israeli-settlers-attack-palestinian-home-olive-harvesters"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Wafa (via Middle East Eye)",
+     "says": "Settler attacks in Beita and Sa'ir; at least five injured."
+    },
+    {
+     "who": "Israel",
+     "says": "No statement included."
+    }
+   ]
+  },
+  {
+   "front": "Iran war / Gulf / Yemen",
+   "read": "full",
+   "id": "riffa-1115",
+   "date": "2026-11-15",
+   "region": "gulf",
+   "oblast": "Bahrain",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "IRGC says six drones targeted a US air-defence radar at Riffa base, Bahrain",
+   "caption": "Iran's Revolutionary Guards say six IRGC Aerospace Force drones targeted a US air-defence radar at the Riffa helicopter base in Bahrain, in a statement carried by Iranian state TV. Bahrain sounded sirens and issued two danger alerts, and its defence force says air defences stopped several Iranian aerial attacks. The US had not commented on this claim; Al Jazeera reports no casualties. It is the second such IRGC claim in three days, after the Nov 13 claim that CENTCOM denied. Marker is at Riffa, not the impact point.",
+   "lat": 26.13,
+   "lon": 50.555,
+   "coordPrecision": "city",
+   "place": "Riffa",
+   "sources": [
+    {
+     "id": "aj_1115_bahrain",
+     "title": "Al Jazeera, Iran says it targets US radar in Bahrain. What do we know? Nov 15",
+     "url": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know"
+    },
+    {
+     "id": "mee_1115_riffa",
+     "title": "Middle East Eye live blog, US radar facility at Bahrain base attacked with six drones, IRGC claims, Nov 15",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-radar-facility-bahrain-base-attacked-six-drones-irgc-claims"
+    }
+   ],
+   "claims": [
+    {
+     "who": "IRGC",
+     "says": "Six drones targeted a US air-defence radar at Riffa base."
+    },
+    {
+     "who": "Bahrain Defence Force",
+     "says": "Air defences intercepted several Iranian aerial attacks."
+    },
+    {
+     "who": "US",
+     "says": "No comment on the Nov 15 claim found."
+    }
+   ]
+  },
+  {
+   "front": "Iran war / Gulf / Yemen",
+   "read": "full",
+   "id": "riyadh-1115",
+   "date": "2026-11-15",
+   "region": "gulf",
+   "oblast": "Saudi Arabia",
+   "type": "missile",
+   "status": "ONE_PARTY",
+   "title": "Saudi-led coalition says it shot down two Houthi missiles over Riyadh and drones in the Eastern Province",
+   "caption": "Coalition spokesman Turki al-Maliki said on X that Saudi air defences destroyed two Houthi ballistic missiles launched toward Riyadh; Reuters adds three drones intercepted in the Eastern Province. Civil Defence issued then lifted an alert for Riyadh. No damage or casualties were reported and no Houthi statement on these launches was found. The Houthi military spokesman separately claims it shot down a Saudi CH-4 drone over al-Jawf and drove off Saudi warplanes. Marker is at Riyadh.",
+   "lat": 24.6877,
+   "lon": 46.7219,
+   "coordPrecision": "oblast",
+   "place": "Riyadh",
+   "sources": [
+    {
+     "id": "am_1115_riyadh",
+     "title": "Al-Monitor (Reuters), Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province, Nov 15",
+     "url": "https://www.al-monitor.com/originals/2026/11/saudi-led-coalition-intercepts-missiles-towards-riyadh-drones-eastern-province"
+    },
+    {
+     "id": "mee_1115_riyadh",
+     "title": "Middle East Eye live blog, Two Houthi ballistic missiles shot down over Riyadh, coalition spokesman says, Nov 15",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-houthi-ballistic-missiles-shot-down-over-riyadh-coalition-spokesman"
+    },
+    {
+     "id": "tg_army21ye_4082",
+     "title": "Houthi military spokesman (Telegram), downing of a Saudi CH-4 drone over al-Jawf, Nov 15",
+     "url": "https://t.me/army21ye/4082"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Saudi-led coalition",
+     "says": "Two ballistic missiles toward Riyadh and three drones in the Eastern Province intercepted."
+    },
+    {
+     "who": "Houthi military spokesman",
+     "says": "Shot down a Saudi CH-4 armed drone over al-Jawf (Telegram, Nov 15)."
+    }
+   ]
+  },
+  {
+   "front": "Iran war / Gulf / Yemen",
+   "read": "full",
+   "id": "taiz-1115",
+   "date": "2026-11-15",
+   "region": "yemen",
+   "oblast": "Yemen",
+   "type": "frontline",
+   "status": "CONFIRMED",
+   "title": "Yemeni government forces withdraw from Dhubab airport and Bab el-Mandeb area; Houthis now in control, Reuters says",
+   "caption": "Government-aligned Southern Armed Forces withdrew from Dhubab Airport and the Bab el-Mandeb area west of Taiz governorate. They describe it as a redeployment to secure Aden; Reuters (via Al-Monitor) reports the Houthis now control the area. No Houthi statement on it was reported. Marker is at Taiz, not the area.",
+   "lat": 13.5795,
+   "lon": 44.0209,
+   "coordPrecision": "oblast",
+   "place": "Taiz",
+   "sources": [
+    {
+     "id": "am_1115_dhubab",
+     "title": "Al-Monitor (Reuters), Yemen government forces withdraw from area near Bab el-Mandeb Strait, Houthis in control, Nov 15",
+     "url": "https://www.al-monitor.com/originals/2026/11/yemen-government-forces-withdraw-area-near-bab-el-mandeb-strait-houthis-control"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Southern Armed Forces",
+     "says": "Redeployment to prioritise securing Aden."
+    },
+    {
+     "who": "Reuters",
+     "says": "Houthis are in control of the area."
+    }
+   ]
+  },
+  {
+   "front": "Lebanon & Syria",
+   "read": "full",
+   "id": "damascus-1115",
+   "date": "2026-11-15",
+   "region": "syria",
+   "oblast": "Syria",
+   "type": "other",
+   "status": "ONE_PARTY",
+   "title": "Car bomb in Damascus suburb kills two including a child, Syrian state media says",
+   "caption": "The Syrian state news agency SANA says a car bomb in a Damascus suburb killed two people, including a child, and wounded one. Security forces cordoned the scene and opened an investigation. No claim of responsibility was reported (Middle East Eye). Exact suburb not named; marker is at Damascus.",
+   "lat": 33.5102,
+   "lon": 36.2913,
+   "coordPrecision": "approx",
+   "place": "Damascus",
+   "sources": [
+    {
+     "id": "mee_1115_damascus",
+     "title": "Middle East Eye live blog, Car bomb in Damascus suburb kills two, including child, Nov 15",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/car-bomb-damascus-suburb-kills-two-including-child"
+    }
+   ],
+   "claims": [
+    {
+     "who": "SANA (Syrian state media)",
+     "says": "Two killed including a child, one wounded; investigation opened."
+    }
+   ]
   }
  ],
  "lanes": [
@@ -3305,6 +3523,56 @@
    "id": "tg_army21ye_4075",
    "title": "Houthi military spokesman (Telegram), strike on weapons stores at Ras Abbas, Aden, Nov 13",
    "url": "https://t.me/army21ye/4075"
+  },
+  {
+   "id": "aj_1115_bahrain",
+   "title": "Al Jazeera, Iran says it targets US radar in Bahrain. What do we know? Nov 15",
+   "url": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know"
+  },
+  {
+   "id": "mee_1115_riffa",
+   "title": "Middle East Eye live blog, US radar facility at Bahrain base attacked with six drones, IRGC claims, Nov 15",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-radar-facility-bahrain-base-attacked-six-drones-irgc-claims"
+  },
+  {
+   "id": "am_1115_hamas",
+   "title": "Al-Monitor (Reuters), Senior Hamas commander killed in Israeli strike in Gaza, Nov 15",
+   "url": "https://www.al-monitor.com/originals/2026/11/senior-hamas-commander-killed-israeli-strike-gaza"
+  },
+  {
+   "id": "mee_1115_abuyounis",
+   "title": "Middle East Eye live blog, Hamas commander Samir Abu Younis killed in Israeli strike on Khan Younis, Nov 15",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-commander-samir-abu-younis-killed-israeli-strike-khan-younis"
+  },
+  {
+   "id": "am_1115_riyadh",
+   "title": "Al-Monitor (Reuters), Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province, Nov 15",
+   "url": "https://www.al-monitor.com/originals/2026/11/saudi-led-coalition-intercepts-missiles-towards-riyadh-drones-eastern-province"
+  },
+  {
+   "id": "mee_1115_riyadh",
+   "title": "Middle East Eye live blog, Two Houthi ballistic missiles shot down over Riyadh, coalition spokesman says, Nov 15",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-houthi-ballistic-missiles-shot-down-over-riyadh-coalition-spokesman"
+  },
+  {
+   "id": "tg_army21ye_4082",
+   "title": "Houthi military spokesman (Telegram), downing of a Saudi CH-4 drone over al-Jawf, Nov 15",
+   "url": "https://t.me/army21ye/4082"
+  },
+  {
+   "id": "am_1115_dhubab",
+   "title": "Al-Monitor (Reuters), Yemen government forces withdraw from area near Bab el-Mandeb Strait, Houthis in control, Nov 15",
+   "url": "https://www.al-monitor.com/originals/2026/11/yemen-government-forces-withdraw-area-near-bab-el-mandeb-strait-houthis-control"
+  },
+  {
+   "id": "mee_1115_damascus",
+   "title": "Middle East Eye live blog, Car bomb in Damascus suburb kills two, including child, Nov 15",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/car-bomb-damascus-suburb-kills-two-including-child"
+  },
+  {
+   "id": "mee_1115_settlers",
+   "title": "Middle East Eye live blog, West Bank: Israeli settlers attack Palestinian home, olive harvesters, Nov 15",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-israeli-settlers-attack-palestinian-home-olive-harvesters"
   }
  ]
 }
