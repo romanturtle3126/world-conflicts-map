@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-15T11:05:18+00:00",
+  "lastUpdated": "2026-11-15T11:41:51+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -47,6 +47,12 @@
  },
  "items": [
   {
+   "headline": "Invaders hit company in Chuhuiv with drone, fire breaks out",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4184837-invaders-hit-company-in-chuhuiv-with-drone-fire-breaks-out.html",
+   "date": "2026-11-15T11:12:00.000Z"
+  },
+  {
    "headline": "Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia?",
    "source": "Al Jazeera",
    "link": "https://www.aljazeera.com/news/2026/11/15/give-donbas-take-nato-seat-could-new-us-pitch-work-for-ukraine-russia?traffic_source=rss",
@@ -57,6 +63,12 @@
    "source": "Ukrinform",
    "link": "https://www.ukrinform.net/rubric-ato/4184835-warehouses-catch-fire-in-vyshhorod-district-following-enemy-attack.html",
    "date": "2026-11-15T10:53:00.000Z"
+  },
+  {
+   "headline": "Ukraine strikes two petrochemical plants in Tatarstan and Russian helicopter manufacturing facility",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/15/8062944/",
+   "date": "2026-11-15T10:46:00.000Z"
   },
   {
    "headline": "Two injured in Russian drone strike on Bilozerka",
@@ -323,12 +335,6 @@
    "date": "2026-11-15T01:39:00.000Z"
   },
   {
-   "headline": "Four more former Crimean prosecutors sentenced for treason",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-crime/4184577-four-more-former-crimean-prosecutors-sentenced-for-treason.html",
-   "date": "2026-11-15T00:40:00.000Z"
-  },
-  {
    "headline": "\"This is a recipe for the next war\": Macron explains how an unjust peace in Ukraine threatens Europe",
    "source": "Ukrainska Pravda",
    "link": "https://www.pravda.com.ua/eng/news/2026/11/15/8062909/",
@@ -393,12 +399,6 @@
    "source": "Ukrainska Pravda",
    "link": "https://www.pravda.com.ua/eng/news/2026/11/14/8062890/",
    "date": "2026-11-14T17:43:00.000Z"
-  },
-  {
-   "headline": "Two killed and one injured in Russian strike on infrastructure facility in Chernihiv Oblast",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/14/8062888/",
-   "date": "2026-11-14T17:13:00.000Z"
   },
   {
    "headline": "Zelensky says senior officials named in drug ring tapes have no links to criminal network",
