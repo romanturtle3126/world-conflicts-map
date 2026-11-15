@@ -2,6 +2,15 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-15 06:04 Toronto — Ukraine — OK
+- Added 3 event(s):
+  - `pavlohrad-1114` 2026-11-14 [ONE_PARTY] Russian missile strike on Pavlohrad kills one, injures ten
+  - `zaporizhzhia-1114` 2026-11-14 [ONE_PARTY] Russian afternoon attack on Zaporizhzhia injures 22, including a six-month-old baby
+  - `nizhnekamsk-1115` 2026-11-15 [ONE_PARTY] Ukraine's General Staff claims strikes on Nizhnekamsk petrochemical and refinery plants
+- Stats: 1 updated, 2 added
+- 8 new source link(s)
+- Totals: 149 events, 44 stats, 249 sources; coverage 2026-10-10 to 2026-11-15
+
 ## 2026-11-14 06:42 Toronto — Middle East — OK
 - Added 5 event(s):
   - `deir-el-balah-1113` 2026-11-13 [ONE_PARTY] Six Palestinians killed in Israeli strikes and shelling across Gaza, medics say
