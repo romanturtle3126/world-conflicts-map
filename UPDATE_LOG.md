@@ -2,6 +2,17 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-16 06:04 Toronto — Ukraine — OK
+- Added 5 event(s):
+  - `odesa-1115` 2026-11-15 [ONE_PARTY] Russian mass attack on Odesa Oblast hits energy facility, injures six
+  - `mena-1115` 2026-11-15 [ONE_PARTY] Strike on critical infrastructure in Mena, Chernihiv region, kills two
+  - `akhtubinsk-1115` 2026-11-15 [ONE_PARTY] Ukraine's General Staff claims strike on Akhtubinsk airfield
+  - `taganrog-1115` 2026-11-15 [ONE_PARTY] Drone attack on Rostov Oblast kills substation engineer, hits Taganrog substations
+  - `azov-1116` 2026-11-16 [ONE_PARTY] Ukraine's General Staff claims strike on oil depot in Azov
+- Stats: 1 updated, 2 added
+- 10 new source link(s)
+- Totals: 154 events, 46 stats, 259 sources; coverage 2026-10-10 to 2026-11-16
+
 ## 2026-11-15 06:41 Toronto — Middle East — OK
 - Added 6 event(s):
   - `riffa-1115` 2026-11-15 [ONE_PARTY] IRGC says six drones targeted a US air-defence radar at Riffa base, Bahrain
