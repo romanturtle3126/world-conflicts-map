@@ -2,11 +2,11 @@
  "schemaVersion": 1,
  "map": "ukraine",
  "meta": {
-  "lastUpdated": "2026-11-15T06:04:39-05:00",
-  "coverage": "2026-10-10 to 2026-11-15",
+  "lastUpdated": "2026-11-16T06:04:55-05:00",
+  "coverage": "2026-10-10 to 2026-11-16",
   "notes": [
-   "Refreshed Nov 15, 2026 (UTC midday) from Telegram channels of the Ukrainian General Staff (GeneralStaffZSU), Air Force (kpszsu, alert posts only) and Russian MoD (mod_russia), Kyiv Independent and Ukrinform articles from Nov 14, and the headline leads file (pulled Nov 14 16:40 UTC, so it does not cover Nov 15).",
-   "Not read this run: ISW/Critical Threats assessment, X posts (no web search for X was attempted successfully), Ukrainska Pravda, Reuters/AP direct. Ukrinform's Nov 15 report of a fire at a Tatarstan petrochemical plant was seen only as a headline and is not cited.",
+   "Refreshed Nov 16, 2026 (UTC morning) from Telegram channels of the Ukrainian General Staff (GeneralStaffZSU), Air Force (kpszsu, alert posts only) and Russian MoD (mod_russia), Kyiv Independent articles of Nov 15, Ukrinform, and the headline leads file (pulled Nov 15 ~17:10 UTC, so it does not cover Nov 16).",
+   "Not read this run: ISW/Critical Threats assessment (latest found in search was Nov 9; Nov 15 not found), X posts (web searches for x.com returned no posts), Ukrainska Pravda, Reuters/AP direct.",
    "Coordinates are city-level or approximate (see coordPrecision); markers flagged 'oblast' are not geolocated.",
    "Casualty figures are as reported by the cited outlet at time of writing and may have been revised."
   ]
@@ -4218,17 +4218,154 @@
     }
    ],
    "read": "full"
+  },
+  {
+   "id": "odesa-1115",
+   "date": "2026-11-15",
+   "region": "south",
+   "oblast": "Odesa",
+   "front": "Odesa",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Russian mass attack on Odesa Oblast hits energy facility, injures six",
+   "caption": "The Kyiv Independent, citing Governor Oleh Kiper, reports a Russian 'mass attack' on Odesa Oblast on Nov 15. A strike on a DTEK energy facility left about 41,000 families temporarily without power and six people were injured; an administrative building, cars, a gas pipeline, homes and a school were damaged. Ukrinform, citing the Odesa city military administration, reports infrastructure damage and burning cars in Odesa with no casualties reported at that time. No Russian statement on these specific hits was read.",
+   "lat": 46.4857,
+   "lon": 30.7438,
+   "coordPrecision": "approx",
+   "place": "Odesa",
+   "sources": [
+    {
+     "id": "ki_overview_1115",
+     "title": "Kyiv Independent: Russia launches mass attack on Odesa Oblast as strikes kill 4, injure 69 across Ukraine over past day (Nov 15)",
+     "url": "https://kyivindependent.com/russia-launches-mass-attack-on-odesa-oblast-as-strikes-kill-4-injure-69-across-ukraine-over-past-day/"
+    },
+    {
+     "id": "ukrinform_odesa_1115",
+     "title": "Ukrinform: Russians attack Odesa, damaging infrastructure (Nov 15)",
+     "url": "https://www.ukrinform.net/rubric-ato/4184892-russians-attack-odesa-damaging-infrastructure.html"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "mena-1115",
+   "date": "2026-11-15",
+   "region": "rear",
+   "oblast": "Chernihiv",
+   "front": "Chernihiv",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Strike on critical infrastructure in Mena, Chernihiv region, kills two",
+   "caption": "The Kyiv Independent, citing Chernihiv Governor Viacheslav Chaus, reports that a Russian strike on critical infrastructure in Mena killed two men aged 42 and 45 and injured a 33-year-old man. No Russian statement on this strike was read.",
+   "lat": 51.5221,
+   "lon": 32.2136,
+   "coordPrecision": "city",
+   "place": "Mena",
+   "sources": [
+    {
+     "id": "ki_overview_1115",
+     "title": "Kyiv Independent: Russia launches mass attack on Odesa Oblast as strikes kill 4, injure 69 across Ukraine over past day (Nov 15)",
+     "url": "https://kyivindependent.com/russia-launches-mass-attack-on-odesa-oblast-as-strikes-kill-4-injure-69-across-ukraine-over-past-day/"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "akhtubinsk-1115",
+   "date": "2026-11-15",
+   "region": "russia",
+   "oblast": "Astrakhan Oblast, Russia",
+   "front": "Russia deep strikes",
+   "type": "deep-strike",
+   "status": "ONE_PARTY",
+   "title": "Ukraine's General Staff claims strike on Akhtubinsk airfield",
+   "caption": "Ukraine's General Staff says Defence Forces hit the Akhtubinsk airfield in Astrakhan Oblast overnight on Nov 15, causing a secondary detonation at a depot of aircraft-missile components, and also struck a mobile radar altimeter and a drone-launch site in Oryol region. The Kyiv Independent cites a Telegram channel reporting 30+ explosions; Astrakhan Governor Igor Babushkin said 31 drones were destroyed in the north of the region. No independent confirmation of damage was read.",
+   "lat": 48.2834,
+   "lon": 46.1652,
+   "coordPrecision": "city",
+   "place": "Akhtubinsk",
+   "sources": [
+    {
+     "id": "gs_akhtubinsk_1115",
+     "title": "General Staff of Ukraine (Telegram): Akhtubinsk airfield and drone port hit (Nov 15)",
+     "url": "https://t.me/GeneralStaffZSU/42912"
+    },
+    {
+     "id": "ki_akhtubinsk_1115",
+     "title": "Kyiv Independent: Ukraine reportedly strikes Russian military airfield in Astrakhan Oblast, at least 30 explosions heard (Nov 15)",
+     "url": "https://kyivindependent.com/ukraine-reportedly-strikes-russian-military-airfield-in-astrakhan-oblast-at-least-30-explosions-heard/"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Ukraine's General Staff",
+     "says": "Airfield hit, powerful secondary detonation at a depot of aircraft-missile components.",
+     "source": "gs_akhtubinsk_1115"
+    },
+    {
+     "who": "Astrakhan Governor Igor Babushkin",
+     "says": "31 drones were destroyed in the northern part of the region overnight.",
+     "source": "ki_akhtubinsk_1115"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "taganrog-1115",
+   "date": "2026-11-15",
+   "region": "russia",
+   "oblast": "Rostov Oblast, Russia",
+   "front": "Russia (rear)",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Drone attack on Rostov Oblast kills substation engineer, hits Taganrog substations",
+   "caption": "The Kyiv Independent, citing Rostov Governor Yuri Slyusar, reports that overnight on Nov 15 drone attacks killed the chief engineer of a Taganrog electrical substation and injured four people. Two Taganrog substations were damaged, one supplying railway infrastructure, a substation in the Shubin district caught fire, rail traffic between two stations was suspended and a highway bridge in the Neklinovsky district was struck. The governor said about 50 drones were destroyed. Ukraine had not publicly claimed responsibility at the time of reporting.",
+   "lat": 47.2363,
+   "lon": 38.9053,
+   "coordPrecision": "approx",
+   "place": "Taganrog",
+   "sources": [
+    {
+     "id": "ki_rostov_1115",
+     "title": "Kyiv Independent: Drone attack kills 1, injures 4 in Russia's Rostov Oblast, governor says (Nov 15)",
+     "url": "https://kyivindependent.com/drone-attack-kills-1-injures-4-in-russias-rostov-oblast-governor-says/"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "azov-1116",
+   "date": "2026-11-16",
+   "region": "russia",
+   "oblast": "Rostov Oblast, Russia",
+   "front": "Russia deep strikes",
+   "type": "deep-strike",
+   "status": "ONE_PARTY",
+   "title": "Ukraine's General Staff claims strike on oil depot in Azov",
+   "caption": "Ukraine's General Staff says Defence Forces hit the Flash Energy oil depot in Azov, Rostov Oblast, overnight into Nov 16, causing explosions and a fire, with the extent of damage being established. It also claims hits on command posts in Donetsk and Zaporizhzhia regions, a supply depot near Rivnopil and an armament concentration in Berdiansk. No Russian statement and no independent confirmation were read.",
+   "lat": 47.1069,
+   "lon": 39.4149,
+   "coordPrecision": "city",
+   "place": "Azov",
+   "sources": [
+    {
+     "id": "gs_azov_1116",
+     "title": "General Staff of Ukraine (Telegram): oil depot in Azov and command posts hit (Nov 16)",
+     "url": "https://t.me/GeneralStaffZSU/42918"
+    }
+   ],
+   "read": "full"
   }
  ],
  "stats": [
   {
    "label": "Russian military personnel losses (cumulative, since Feb 24, 2022)",
    "category": "casualties",
-   "asOf": "2026-11-15",
+   "asOf": "2026-11-16",
    "status": "ONE_PARTY",
    "ukraine": {
-    "value": "~1,622,860 killed and wounded, calculated from the Nov 14 figure of ~1,620,630 plus the General Staff's +2,230 for the past day (Nov 15 summary); the cumulative tally itself is posted as an image and was not read",
-    "source": "gs_ops_1115"
+    "value": "~1,625,420 killed and wounded, calculated from the Nov 15 figure of ~1,622,860 plus the General Staff's +2,560 for the past day (Nov 16 summary); the cumulative tally itself is posted as an image and was not read",
+    "source": "gs_ops_1116"
    },
    "russia": {
     "value": "No official cumulative figure published",
@@ -5011,6 +5148,36 @@
    "russia": {
     "value": "MoD claims 533 fixed-wing drones intercepted overnight (20:00-08:00 Moscow time) over 11 regions, Krasnodar Krai, Tatarstan, Crimea and the Azov and Black Seas; 39 more intercepted during the day on Nov 14",
     "source": "mod_pvo_1115"
+   },
+   "independent": []
+  },
+  {
+   "label": "Russian drones and missiles launched at Ukraine (night of Nov 15-16)",
+   "category": "shootdowns",
+   "asOf": "2026-11-16",
+   "status": "DISPUTED",
+   "ukraine": {
+    "value": "158 Shahed-type drones (77 jet-powered), Gerbera and Parodiya decoys; 131 downed or suppressed as of 08:00 (55 jet-powered), some still airborne; hits at 19 locations, debris at 11 (General Staff)",
+    "source": "gs_air_1116"
+   },
+   "russia": {
+    "value": "No launch count published; MoD says drones hit a cargo ship heading to Chornomorsk port and a locomotive near Zaporizhzhia station",
+    "source": "mod_strikes_1116"
+   },
+   "independent": []
+  },
+  {
+   "label": "Ukrainian drones shot down over Russia (Nov 15-16)",
+   "category": "shootdowns",
+   "asOf": "2026-11-16",
+   "status": "ONE_PARTY",
+   "ukraine": {
+    "value": "No count published",
+    "source": null
+   },
+   "russia": {
+    "value": "MoD claims 1,336 fixed-wing drones intercepted overnight over Tver, Belgorod, Bryansk, Kursk, Kaluga, Tula, Ryazan, Oryol, Voronezh, Vladimir, Smolensk, Nizhny Novgorod and Rostov regions, Krasnodar Krai, Crimea, the Moscow region and the Azov and Black Seas",
+    "source": "mod_pvo_1116"
    },
    "independent": []
   }
@@ -6260,6 +6427,56 @@
    "id": "gs_nizhnekamsk_1115",
    "title": "General Staff of Ukraine (Telegram): strikes on Nizhnekamsk plants and Monolit in Trubchevsk (Nov 15)",
    "url": "https://t.me/GeneralStaffZSU/42911"
+  },
+  {
+   "id": "gs_ops_1116",
+   "title": "General Staff of Ukraine (Telegram): operational information as of 08:00 Nov 16",
+   "url": "https://t.me/GeneralStaffZSU/42915"
+  },
+  {
+   "id": "gs_air_1116",
+   "title": "General Staff of Ukraine (Telegram): air attack overnight Nov 16",
+   "url": "https://t.me/GeneralStaffZSU/42916"
+  },
+  {
+   "id": "mod_strikes_1116",
+   "title": "Russian MoD (Telegram): overnight strikes on port, rail and ships (Nov 16)",
+   "url": "https://t.me/mod_russia/69055"
+  },
+  {
+   "id": "mod_pvo_1116",
+   "title": "Russian MoD (Telegram): air defence claims overnight Nov 16",
+   "url": "https://t.me/mod_russia/69054"
+  },
+  {
+   "id": "ki_overview_1115",
+   "title": "Kyiv Independent: Russia launches mass attack on Odesa Oblast as strikes kill 4, injure 69 across Ukraine over past day (Nov 15)",
+   "url": "https://kyivindependent.com/russia-launches-mass-attack-on-odesa-oblast-as-strikes-kill-4-injure-69-across-ukraine-over-past-day/"
+  },
+  {
+   "id": "ukrinform_odesa_1115",
+   "title": "Ukrinform: Russians attack Odesa, damaging infrastructure (Nov 15)",
+   "url": "https://www.ukrinform.net/rubric-ato/4184892-russians-attack-odesa-damaging-infrastructure.html"
+  },
+  {
+   "id": "gs_akhtubinsk_1115",
+   "title": "General Staff of Ukraine (Telegram): Akhtubinsk airfield and drone port hit (Nov 15)",
+   "url": "https://t.me/GeneralStaffZSU/42912"
+  },
+  {
+   "id": "ki_akhtubinsk_1115",
+   "title": "Kyiv Independent: Ukraine reportedly strikes Russian military airfield in Astrakhan Oblast, at least 30 explosions heard (Nov 15)",
+   "url": "https://kyivindependent.com/ukraine-reportedly-strikes-russian-military-airfield-in-astrakhan-oblast-at-least-30-explosions-heard/"
+  },
+  {
+   "id": "ki_rostov_1115",
+   "title": "Kyiv Independent: Drone attack kills 1, injures 4 in Russia's Rostov Oblast, governor says (Nov 15)",
+   "url": "https://kyivindependent.com/drone-attack-kills-1-injures-4-in-russias-rostov-oblast-governor-says/"
+  },
+  {
+   "id": "gs_azov_1116",
+   "title": "General Staff of Ukraine (Telegram): oil depot in Azov and command posts hit (Nov 16)",
+   "url": "https://t.me/GeneralStaffZSU/42918"
   }
  ]
 }
