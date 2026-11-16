@@ -2,6 +2,19 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-16 06:42 Toronto — Middle East — OK
+- Added 4 event(s):
+  - `khasab-1116` 2026-11-16 [UNVERIFIED] Vessel hit by 'unknown projectile' in Hormuz per UKMTO; IRGC and Iran's navy say tankers hit mines
+  - `lahij-1115` 2026-11-15 [ONE_PARTY] Houthis reported within about 60 km of Aden after taking districts in Lahij, AFP sources say
+  - `riyadh-1115-2` 2026-11-15 [ONE_PARTY] Houthis say they fired missiles at Riyadh airport and financial district and drones at East-West pipeline stations
+  - `jenin-1116` 2026-11-16 [ONE_PARTY] Israeli military jeep hits two Palestinians on a motorcycle near Jenin, Red Crescent says
+- Lanes: 1 updated
+- 10 new source link(s)
+- Totals: 78 events, 18 stats, 119 sources; coverage 2026-10-06 to 2026-11-16
+
+## 2026-11-16 06:42 Toronto — Middle East — FAILED (data not changed)
+- lane "hormuz-lane": missing name
+
 ## 2026-11-16 06:04 Toronto — Ukraine — OK
 - Added 5 event(s):
   - `odesa-1115` 2026-11-15 [ONE_PARTY] Russian mass attack on Odesa Oblast hits energy facility, injures six

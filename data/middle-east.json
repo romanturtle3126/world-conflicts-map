@@ -2,11 +2,11 @@
  "schemaVersion": 1,
  "map": "middle-east",
  "meta": {
-  "lastUpdated": "2026-11-15T06:41:21-05:00",
-  "coverage": "2026-10-06 to 2026-11-15",
+  "lastUpdated": "2026-11-16T06:42:12-05:00",
+  "coverage": "2026-10-06 to 2026-11-16",
   "notes": [
-   "Refreshed 2026-11-15 (UTC) from Al Jazeera, Al-Monitor (Reuters), Middle East Eye live blog, the Houthi military spokesman's Telegram (army21ye), Tasnim English Telegram, OCHA oPt publications list (latest sitrep Nov 13, already used), plus the headline feed.",
-   "Not read: UKMTO and ISW/CTP (blocked, 403), IDF and CENTCOM X posts (searches returned no dated Nov 14-15 posts), Tasnim/IRGC Telegram post on the Bahrain claim (not in the channel preview), Gaza MoH Telegram. Brent Nov 12-13 settles not found, so Brent, Hormuz traffic and lanes are unchanged.",
+   "Refreshed 2026-11-16 (UTC) from Middle East Eye live blog (Hormuz, West Bank, Riyadh, morning update), France 24 (AFP), Al Jazeera (carrier arrival), the Houthi military spokesman's Telegram (army21ye) and Tasnim English Telegram, plus the headline feed.",
+   "Not read: UKMTO site (403; UKMTO text read only as relayed by Middle East Eye), ISW/CTP, IDF and CENTCOM X posts (search returned an undated CENTCOM denial of an IRGC mine claim, not cited), Gaza MoH Telegram, OCHA (latest sitrep Nov 13 already used). No Brent settle after Nov 11 found, so Brent, Hormuz traffic stats are unchanged. Tasnim Telegram reported an Israeli strike on Kafr Tibnit in Lebanon, a single party claim not added.",
    "Marker positions are approximate (see coordPrecision)."
   ]
  },
@@ -2515,18 +2515,185 @@
      "says": "Two killed including a child, one wounded; investigation opened."
     }
    ]
+  },
+  {
+   "id": "lahij-1115",
+   "date": "2026-11-15",
+   "region": "yemen",
+   "oblast": "Yemen",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "frontline",
+   "status": "ONE_PARTY",
+   "title": "Houthis reported within about 60 km of Aden after taking districts in Lahij, AFP sources say",
+   "caption": "AFP, citing four government-force military sources and two government sources, reports the Houthis seized the al-Maqatirah and al-Madaribah districts of Lahij province and are about 60 km from Aden. The government says it completed a pullback from the Bab el-Mandeb area to prioritise securing Aden. The article carries no Houthi statement; the Houthi military spokesman separately claims missile strikes on Saudi troop gatherings in Lahij (Telegram, Nov 15). Marker is at Lahij town.",
+   "lat": 13.0567,
+   "lon": 44.8819,
+   "coordPrecision": "oblast",
+   "place": "Lahij",
+   "sources": [
+    {
+     "id": "f24_1115_aden",
+     "title": "France 24 (AFP), Yemen's Houthis advance on Aden as government forces retreat, Nov 15",
+     "url": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say"
+    },
+    {
+     "id": "tg_army21ye_4088",
+     "title": "Houthi military spokesman (Telegram), ballistic missiles at Saudi gatherings at Qa'wa camp, Lahij, Nov 15",
+     "url": "https://t.me/army21ye/4088"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "Government military sources (via AFP)",
+     "says": "Houthis hold al-Maqatirah and al-Madaribah and are about 60 km from Aden."
+    },
+    {
+     "who": "Houthi military spokesman",
+     "says": "Fired six ballistic missiles at Saudi-led gatherings at Qa'wa camp in Lahij, with dozens killed and wounded (unverified)."
+    }
+   ]
+  },
+  {
+   "id": "riyadh-1115-2",
+   "date": "2026-11-15",
+   "region": "gulf",
+   "oblast": "Saudi Arabia",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "missile",
+   "status": "ONE_PARTY",
+   "title": "Houthis say they fired missiles at Riyadh airport and financial district and drones at East-West pipeline stations",
+   "caption": "The Houthi military spokesman says two ballistic missiles targeted King Khalid International Airport and the financial centre in Riyadh, and two drones hit oil pumping stations 5 and 6 on the East-West pipeline, with both operations 'successful'. Middle East Eye reports Saudi Arabia had not responded; the coalition earlier said it shot down two Houthi missiles toward Riyadh. No damage figures were reported. Marker is at Riyadh.",
+   "lat": 24.6877,
+   "lon": 46.7219,
+   "coordPrecision": "oblast",
+   "place": "Riyadh",
+   "sources": [
+    {
+     "id": "mee_1115_houthiriyadh",
+     "title": "Middle East Eye live blog, Houthis say they fired missiles at Riyadh airport and financial district, Nov 15",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-fired-missiles-riyadh-airport-and-financial-district"
+    },
+    {
+     "id": "tg_army21ye_4089",
+     "title": "Houthi military spokesman (Telegram), two ballistic missiles at Riyadh airport and financial centre, Nov 15",
+     "url": "https://t.me/army21ye/4089"
+    },
+    {
+     "id": "tg_army21ye_4090",
+     "title": "Houthi military spokesman (Telegram), two drones at East-West pipeline pumping stations 5 and 6, Nov 15",
+     "url": "https://t.me/army21ye/4090"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "Houthi military spokesman",
+     "says": "Ballistic missiles hit targets in Riyadh; drones hit pumping stations 5 and 6."
+    },
+    {
+     "who": "Saudi-led coalition",
+     "says": "Intercepted two Houthi ballistic missiles toward Riyadh earlier on Nov 15; no response yet to this claim found."
+    }
+   ]
+  },
+  {
+   "id": "khasab-1116",
+   "date": "2026-11-16",
+   "region": "gulf",
+   "oblast": "Strait of Hormuz",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "naval",
+   "status": "UNVERIFIED",
+   "title": "Vessel hit by 'unknown projectile' in Hormuz per UKMTO; IRGC and Iran's navy say tankers hit mines",
+   "caption": "UKMTO says an outbound vessel in the Strait of Hormuz was struck by an unknown projectile, causing an engine-room fire; all crew are accounted for. Separately, Iran's IRGC says two oil tankers hit mines on what it calls an illegal southern route, and Iran's navy says a tanker caught fire after hitting a mine east of the strait. It is not clear whether these are the same vessels, no vessel names were given, and the mine claims have no independent confirmation. Marker is at Khasab, not the exact position.",
+   "lat": 26.1799,
+   "lon": 56.2477,
+   "coordPrecision": "oblast",
+   "place": "Khasab",
+   "sources": [
+    {
+     "id": "mee_1116_projectile",
+     "title": "Middle East Eye live blog, Vessel struck by 'unknown projectile' in Hormuz Strait, Nov 16",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vessel-struck-unknown-projectile-hormuz-strait"
+    },
+    {
+     "id": "mee_1116_irgcmines",
+     "title": "Middle East Eye live blog, IRGC says two oil tankers hit mines in the Hormuz Strait, Nov 16",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-two-oil-tankers-hit-mines-hormuz-strait"
+    },
+    {
+     "id": "mee_1116_navy",
+     "title": "Middle East Eye live blog, Iranian navy says vessel ablaze after hitting mine east of Hormuz Strait, Nov 16",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-navy-says-vessel-ablaze-after-hitting-mine-east-hormuz-strait"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "UKMTO (via Middle East Eye)",
+     "says": "Outbound vessel hit by an unknown projectile; engine-room fire; crew accounted for."
+    },
+    {
+     "who": "IRGC",
+     "says": "Two tankers hit mines on an 'illegal southern route' with tracking off."
+    },
+    {
+     "who": "Iranian navy",
+     "says": "A vessel is ablaze after hitting a naval mine east of the strait."
+    }
+   ]
+  },
+  {
+   "id": "jenin-1116",
+   "date": "2026-11-16",
+   "region": "westbank",
+   "oblast": "West Bank",
+   "front": "Gaza & West Bank",
+   "type": "other",
+   "status": "ONE_PARTY",
+   "title": "Israeli military jeep hits two Palestinians on a motorcycle near Jenin, Red Crescent says",
+   "caption": "Middle East Eye, citing the Palestine Red Crescent Society, reports an Israeli military jeep ran over two Palestinians riding a motorcycle near Jenin; both were wounded, one with a head injury. The article gives no Israeli comment. Marker is at Jenin, not the exact spot.",
+   "lat": 32.4594,
+   "lon": 35.3009,
+   "coordPrecision": "approx",
+   "place": "Jenin",
+   "sources": [
+    {
+     "id": "mee_1116_jeep",
+     "title": "Middle East Eye live blog, Israeli military jeep runs over Palestinians in occupied West Bank, Nov 16",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-jeep-runs-over-palestinians-occupied-west-bank"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "Palestine Red Crescent Society (via Middle East Eye)",
+     "says": "Two wounded when a military jeep hit their motorcycle."
+    },
+    {
+     "who": "Israeli military",
+     "says": "No comment included."
+    }
+   ]
   }
  ],
  "lanes": [
   {
    "id": "hormuz-lane",
+   "name": "Strait of Hormuz",
    "status": "DISPUTED",
-   "text": "Restricted since Feb 28. Nov 14: Iran's IRGC Navy and army navy say three tankers hit mines and caught fire; no independent confirmation. UKMTO counted at least seven tanker attacks in the week to Nov 11 and puts transits about 65% below pre-war. The UN says at least 25 seafarers have died since February. The US says routes are cleared and the strait is open; Iran says it stays shut until its conditions are met.",
+   "text": "Restricted since Feb 28. Nov 16: UKMTO says an outbound vessel was hit by an unknown projectile and had an engine-room fire, crew safe; Iran's IRGC says two tankers hit mines and Iran's navy says a vessel is ablaze after hitting a mine, with no independent confirmation. Nov 14: Iran said three tankers hit mines. UKMTO counted at least seven tanker attacks in the week to Nov 11 and puts transits about 65% below pre-war. The UN says at least 25 seafarers have died since February. The US says routes are cleared and the strait is open; Iran says it stays shut until its conditions are met. Al Jazeera reports a third US carrier, USS Theodore Roosevelt, reached the region on Nov 16 (a US official; not formally confirmed).",
    "sources": [
     {
-     "id": "mee_1114_tankers",
-     "title": "Middle East Eye live blog, Iran says three tankers hit by mines in Hormuz catch fire, Nov 14",
-     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-three-tankers-hit-mines-hormuz-fire"
+     "id": "mee_1116_projectile",
+     "title": "Middle East Eye live blog, Vessel struck by 'unknown projectile' in Hormuz Strait, Nov 16",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vessel-struck-unknown-projectile-hormuz-strait"
+    },
+    {
+     "id": "mee_1116_irgcmines",
+     "title": "Middle East Eye live blog, IRGC says two oil tankers hit mines in the Hormuz Strait, Nov 16",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-two-oil-tankers-hit-mines-hormuz-strait"
     },
     {
      "id": "mee_1113_ukmto",
@@ -2537,20 +2704,27 @@
      "id": "aj_1114_seafarers",
      "title": "Al Jazeera, UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran, Nov 14",
      "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february"
+    },
+    {
+     "id": "aj_1116_roosevelt",
+     "title": "Al Jazeera, USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume? Nov 16",
+     "url": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume"
     }
    ],
    "claims": [
     {
-     "who": "Iran (IRGC Navy, army navy)",
-     "says": "Three tankers hit mines on unauthorised routes; Hormuz stays shut until the US meets Iran's conditions."
+     "who": "Iran (IRGC, army navy)",
+     "says": "Tankers hit mines on unauthorised routes; Hormuz stays shut until the US meets Iran's conditions."
     },
     {
-     "who": "US military (via Al Jazeera)",
+     "who": "UKMTO (via Middle East Eye)",
+     "says": "A vessel was hit by an unknown projectile on Nov 16; no mine mentioned."
+    },
+    {
+     "who": "US military (via Al Jazeera, Nov 14)",
      "says": "Main routes cleared of mines; strait open to commercial shipping."
     }
    ],
-   "name": "Strait of Hormuz",
-   "color": "#ff4d6d",
    "points": [
     [
      50.3,
@@ -2580,7 +2754,8 @@
      60.5,
      24.2
     ]
-   ]
+   ],
+   "color": "#ff4d6d"
   },
   {
    "id": "red-sea-lane",
@@ -3573,6 +3748,56 @@
    "id": "mee_1115_settlers",
    "title": "Middle East Eye live blog, West Bank: Israeli settlers attack Palestinian home, olive harvesters, Nov 15",
    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-israeli-settlers-attack-palestinian-home-olive-harvesters"
+  },
+  {
+   "id": "mee_1116_projectile",
+   "title": "Middle East Eye live blog, Vessel struck by 'unknown projectile' in Hormuz Strait, Nov 16",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/vessel-struck-unknown-projectile-hormuz-strait"
+  },
+  {
+   "id": "mee_1116_irgcmines",
+   "title": "Middle East Eye live blog, IRGC says two oil tankers hit mines in the Hormuz Strait, Nov 16",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-two-oil-tankers-hit-mines-hormuz-strait"
+  },
+  {
+   "id": "mee_1116_navy",
+   "title": "Middle East Eye live blog, Iranian navy says vessel ablaze after hitting mine east of Hormuz Strait, Nov 16",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-navy-says-vessel-ablaze-after-hitting-mine-east-hormuz-strait"
+  },
+  {
+   "id": "f24_1115_aden",
+   "title": "France 24 (AFP), Yemen's Houthis advance on Aden as government forces retreat, Nov 15",
+   "url": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say"
+  },
+  {
+   "id": "tg_army21ye_4088",
+   "title": "Houthi military spokesman (Telegram), ballistic missiles at Saudi gatherings at Qa'wa camp, Lahij, Nov 15",
+   "url": "https://t.me/army21ye/4088"
+  },
+  {
+   "id": "mee_1115_houthiriyadh",
+   "title": "Middle East Eye live blog, Houthis say they fired missiles at Riyadh airport and financial district, Nov 15",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-fired-missiles-riyadh-airport-and-financial-district"
+  },
+  {
+   "id": "tg_army21ye_4089",
+   "title": "Houthi military spokesman (Telegram), two ballistic missiles at Riyadh airport and financial centre, Nov 15",
+   "url": "https://t.me/army21ye/4089"
+  },
+  {
+   "id": "tg_army21ye_4090",
+   "title": "Houthi military spokesman (Telegram), two drones at East-West pipeline pumping stations 5 and 6, Nov 15",
+   "url": "https://t.me/army21ye/4090"
+  },
+  {
+   "id": "mee_1116_jeep",
+   "title": "Middle East Eye live blog, Israeli military jeep runs over Palestinians in occupied West Bank, Nov 16",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-jeep-runs-over-palestinians-occupied-west-bank"
+  },
+  {
+   "id": "aj_1116_roosevelt",
+   "title": "Al Jazeera, USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume? Nov 16",
+   "url": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume"
   }
  ]
 }
