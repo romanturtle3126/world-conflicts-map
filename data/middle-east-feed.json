@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-16T11:05:38+00:00",
+  "lastUpdated": "2026-11-16T11:42:42+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -51,6 +51,18 @@
   ]
  },
  "items": [
+  {
+   "headline": "Can Hezbollah salvage Syrian networks without clashing with Damascus?",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/news/can-hezbollah-salvage-syrian-network-without-clashing-damascus",
+   "date": "2026-11-16T11:17:40.000Z"
+  },
+  {
+   "headline": "Yemeni forces retreat to defend port city from Houthis",
+   "source": "BBC News Middle East",
+   "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-16T11:09:38.000Z"
+  },
   {
    "headline": "Revealed: Israel uploaded millions of photos to Amazon’s facial recognition platform to track Palestinians",
    "source": "The Guardian (Middle East)",
@@ -146,12 +158,6 @@
    "source": "Middle East Eye",
    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/vessel-struck-unknown-projectile-hormuz-strait",
    "date": "2026-11-16T07:37:55.000Z"
-  },
-  {
-   "headline": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
-   "source": "BBC News Middle East",
-   "link": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-16T07:23:23.000Z"
   },
   {
    "headline": "The Red Sea cannot be secured without restoring the Yemeni state",
@@ -284,12 +290,6 @@
    "source": "Middle East Eye",
    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-fired-missiles-riyadh-airport-and-financial-district",
    "date": "2026-11-15T18:44:54.000Z"
-  },
-  {
-   "headline": "Houthis deny targeting Mecca or Medina in Saudi drone attacks",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-deny-targeting-mecca-or-medina-saudi-drone-attacks",
-   "date": "2026-11-15T18:24:02.000Z"
   },
   {
    "headline": "Iran launches drone attacks against US military base in Bahrain",
