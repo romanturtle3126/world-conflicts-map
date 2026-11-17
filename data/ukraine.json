@@ -2,11 +2,12 @@
  "schemaVersion": 1,
  "map": "ukraine",
  "meta": {
-  "lastUpdated": "2026-11-16T06:04:55-05:00",
-  "coverage": "2026-10-10 to 2026-11-16",
+  "lastUpdated": "2026-11-17T06:04:45-05:00",
+  "coverage": "2026-10-10 to 2026-11-17",
   "notes": [
-   "Refreshed Nov 16, 2026 (UTC morning) from Telegram channels of the Ukrainian General Staff (GeneralStaffZSU), Air Force (kpszsu, alert posts only) and Russian MoD (mod_russia), Kyiv Independent articles of Nov 15, Ukrinform, and the headline leads file (pulled Nov 15 ~17:10 UTC, so it does not cover Nov 16).",
-   "Not read this run: ISW/Critical Threats assessment (latest found in search was Nov 9; Nov 15 not found), X posts (web searches for x.com returned no posts), Ukrainska Pravda, Reuters/AP direct.",
+   "Refreshed Nov 17, 2026 (UTC morning) from Telegram channels of the Ukrainian General Staff (GeneralStaffZSU), Air Force (kpszsu, alert posts only) and Russian MoD (mod_russia), Kyiv Independent and Ukrinform articles of Nov 16, and the headline leads file (pulled Nov 16 ~20:37 UTC, so it does not cover Nov 17).",
+   "Not read this run: ISW/Critical Threats assessment, X posts, BBC (fetch blocked), Reuters/AP direct. No Ukrainian Air Force launch/interception count for the night of Nov 16-17 was found.",
+   "Crimean Bridge: the Kyiv Independent (Nov 16) reports a strike on an arch and Russian-installed traffic restrictions but could not confirm damage; Ukraine's General Staff post, dated Nov 17, says a span collapsed. The dates and extent of damage are unresolved.",
    "Coordinates are city-level or approximate (see coordPrecision); markers flagged 'oblast' are not geolocated.",
    "Casualty figures are as reported by the cited outlet at time of writing and may have been revised."
   ]
@@ -4355,6 +4356,160 @@
     }
    ],
    "read": "full"
+  },
+  {
+   "id": "kerch-1116",
+   "date": "2026-11-16",
+   "region": "crimea-sea",
+   "oblast": "Crimea (occupied)",
+   "front": "Crimea (occupied)",
+   "type": "deep-strike",
+   "status": "UNVERIFIED",
+   "title": "Crimean Bridge reportedly hit; Ukraine's General Staff says a span collapsed",
+   "caption": "The Kyiv Independent reports a strike on an arch of the Crimean (Kerch) Bridge at about 05:38 local time on Nov 16, citing the pro-Ukrainian monitor Crimean Wind, and says Russian-installed Crimean head Sergey Aksyonov announced traffic restrictions; it could not confirm the damage and Kyiv had not commented at the time. A later General Staff post, dated Nov 17, says the road span and arch collapsed, the road is out of action and the rail arch is damaged. Ukrainska Pravda headlines say Russians claim the bridge partially reopened to traffic. The extent of damage and the exact date are not independently established. The marker sits at Kerch, near the bridge.",
+   "lat": 45.3568,
+   "lon": 36.4754,
+   "coordPrecision": "approx",
+   "place": "Kerch",
+   "sources": [
+    {
+     "id": "ki_kerch_1116",
+     "title": "Kyiv Independent: Ukraine war latest: Crimean Bridge hit in reported attack, traffic restrictions imposed (Nov 16)",
+     "url": "https://kyivindependent.com/ukraine-war-latest-crimean-bridge-hit-in-reported-attack-traffic-restrictions-imposed/"
+    },
+    {
+     "id": "gs_kerch_1117",
+     "title": "General Staff of Ukraine (Telegram): Defence Forces hit the Kerch bridge, span fell (dated Nov 17)",
+     "url": "https://t.me/GeneralStaffZSU/42926"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Ukraine's General Staff",
+     "says": "The arch and the road span collapsed after a multi-week operation; the road is out of use and the rail arch is damaged.",
+     "source": "gs_kerch_1117"
+    },
+    {
+     "who": "Crimean Wind (pro-Ukrainian monitor, via Kyiv Independent)",
+     "says": "An arch of the navigable span was hit at about 05:38 local time.",
+     "source": "ki_kerch_1116"
+    },
+    {
+     "who": "Russian-installed Crimean head Aksyonov (via Kyiv Independent)",
+     "says": "Traffic restrictions began about 08:00 and an emergency response headquarters was set up.",
+     "source": "ki_kerch_1116"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "ilskyi-1116",
+   "date": "2026-11-16",
+   "region": "russia",
+   "oblast": "Krasnodar Krai, Russia",
+   "front": "Russia deep strikes",
+   "type": "deep-strike",
+   "status": "ONE_PARTY",
+   "title": "Ukraine's General Staff claims strike on Ilskyi refinery in Krasnodar Krai",
+   "caption": "Ukraine's General Staff says Defence Forces hit the Ilskyi oil refinery (about 6.6 million tonnes a year) overnight into Nov 16, damaging primary distillation units AT-4, AT-5 and AT-6 and the motor gasoline complex; damage is still being assessed. The Kyiv Independent repeats the claim. No Russian statement on damage and no independent assessment were read.",
+   "lat": 44.8422,
+   "lon": 38.5669,
+   "coordPrecision": "city",
+   "place": "Il’skiy",
+   "sources": [
+    {
+     "id": "gs_ilskyi_1116",
+     "title": "General Staff of Ukraine (Telegram): Ilskyi oil refinery hit (Nov 16)",
+     "url": "https://t.me/GeneralStaffZSU/42919"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "dnipro-1116",
+   "date": "2026-11-16",
+   "region": "south",
+   "oblast": "Dnipropetrovsk",
+   "front": "Dnipropetrovsk",
+   "type": "energy",
+   "status": "ONE_PARTY",
+   "title": "Dnipro left without power after Russian attack on energy facilities",
+   "caption": "Ukrinform reports that a Russian attack on energy facilities left the city of Dnipro with no electricity on the evening of Nov 16, citing the energy company DTEK, with some residents of two other districts also cut off. Ukrenergo says Dnipro, Kharkiv, Poltava and Zaporizhzhia had the most difficult situation, with significant damage limiting supply. No casualties were reported in the article. Russia's MoD later claimed a strike on a Dnipro substation (PS-330) among its Nov 17 targets.",
+   "lat": 48.4666,
+   "lon": 35.0407,
+   "coordPrecision": "city",
+   "place": "Dnipro",
+   "sources": [
+    {
+     "id": "ukrinform_dnipro_1116",
+     "title": "Ukrinform: Dnipro left completely without power after Russian attack (Nov 16)",
+     "url": "https://www.ukrinform.net/rubric-ato/4185289-dnipro-left-completely-without-power-after-russian-attack.html"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "salavat-1117",
+   "date": "2026-11-17",
+   "region": "russia",
+   "oblast": "Bashkortostan, Russia",
+   "front": "Russia deep strikes",
+   "type": "deep-strike",
+   "status": "ONE_PARTY",
+   "title": "Ukraine's General Staff claims strike on Salavat petrochemical complex in Bashkortostan",
+   "caption": "Ukraine's General Staff says Defence Forces hit the Gazprom Neftekhim Salavat refinery and petrochemical complex in Bashkortostan overnight into Nov 17, with explosions and a fire at the site. Russia's MoD said it shot down 1,441 Ukrainian drones overnight, including over Bashkortostan, but gave no damage details for the plant. No independent confirmation was read.",
+   "lat": 53.3828,
+   "lon": 55.9109,
+   "coordPrecision": "city",
+   "place": "Salavat",
+   "sources": [
+    {
+     "id": "gs_salavat_1117",
+     "title": "General Staff of Ukraine (Telegram): Salavat petrochemical complex hit (Nov 17)",
+     "url": "https://t.me/GeneralStaffZSU/42927"
+    },
+    {
+     "id": "mod_pvo_1117",
+     "title": "Russian MoD (Telegram): 1,441 Ukrainian drones shot down overnight Nov 17",
+     "url": "https://t.me/mod_russia/69074"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Ukraine's General Staff",
+     "says": "Fire and explosions at the Salavat complex after a strike.",
+     "source": "gs_salavat_1117"
+    },
+    {
+     "who": "Russia's MoD",
+     "says": "Air defence shot down 1,441 drones overnight, including over Bashkortostan.",
+     "source": "mod_pvo_1117"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "zalyvne-1117",
+   "date": "2026-11-17",
+   "region": "south",
+   "oblast": "Zaporizhzhia",
+   "front": "Hulyaipole / Orikhiv",
+   "type": "claim",
+   "status": "ONE_PARTY",
+   "title": "Russia's MoD claims capture of Zalyvne in Zaporizhzhia region",
+   "caption": "Russia's Ministry of Defence says its Vostok group took the settlement of Zalyvne (Zalivnoye) in Zaporizhzhia Oblast. The post names no district, and several places share the name, so the marker is placed at the village of that name in the Zaporizhzhia/Dnipropetrovsk border area and is approximate. No Ukrainian response or independent assessment was read.",
+   "lat": 47.8695,
+   "lon": 35.8914,
+   "coordPrecision": "approx",
+   "place": "Zalyvne",
+   "sources": [
+    {
+     "id": "mod_zalyvne_1117",
+     "title": "Russian MoD (Telegram): Vostok group takes Zalyvne, Zaporizhzhia region (Nov 17)",
+     "url": "https://t.me/mod_russia/69079"
+    }
+   ],
+   "read": "snippet"
   }
  ],
  "stats": [
@@ -5178,6 +5333,36 @@
    "russia": {
     "value": "MoD claims 1,336 fixed-wing drones intercepted overnight over Tver, Belgorod, Bryansk, Kursk, Kaluga, Tula, Ryazan, Oryol, Voronezh, Vladimir, Smolensk, Nizhny Novgorod and Rostov regions, Krasnodar Krai, Crimea, the Moscow region and the Azov and Black Seas",
     "source": "mod_pvo_1116"
+   },
+   "independent": []
+  },
+  {
+   "label": "Ukrainian drones shot down over Russia (Nov 16-17)",
+   "category": "shootdowns",
+   "asOf": "2026-11-17",
+   "status": "ONE_PARTY",
+   "ukraine": {
+    "value": "No count published",
+    "source": null
+   },
+   "russia": {
+    "value": "MoD claims 1,441 fixed-wing drones intercepted overnight (20:00 Nov 16 to 08:00 Nov 17 Moscow time) over 18 regions, Moscow region, Bashkortostan, Crimea, Krasnodar Krai and the Azov and Black Seas; 148 more by day on Nov 16",
+    "source": "mod_pvo_1117"
+   },
+   "independent": []
+  },
+  {
+   "label": "Russian drones and missiles launched at Ukraine (night of Nov 16-17)",
+   "category": "shootdowns",
+   "asOf": "2026-11-17",
+   "status": "ONE_PARTY",
+   "ukraine": {
+    "value": "No Air Force launch count read for this night; alerts posted for jet-powered drones and 'Banderol' missiles across central, east and south Ukraine",
+    "source": null
+   },
+   "russia": {
+    "value": "MoD claims a 'massive' strike with high-precision weapons and drones on defence plants, energy, transport and port infrastructure in Kyiv, Zaporizhzhia, Cherkasy, Dnipropetrovsk, Kharkiv and Odesa regions, plus a cargo ship",
+    "source": "mod_strikes_1117"
    },
    "independent": []
   }
@@ -6477,6 +6662,46 @@
    "id": "gs_azov_1116",
    "title": "General Staff of Ukraine (Telegram): oil depot in Azov and command posts hit (Nov 16)",
    "url": "https://t.me/GeneralStaffZSU/42918"
+  },
+  {
+   "id": "mod_pvo_1117",
+   "title": "Russian MoD (Telegram): 1,441 Ukrainian drones shot down overnight Nov 17",
+   "url": "https://t.me/mod_russia/69074"
+  },
+  {
+   "id": "mod_strikes_1117",
+   "title": "Russian MoD (Telegram): massive strike on Ukraine overnight Nov 17",
+   "url": "https://t.me/mod_russia/69077"
+  },
+  {
+   "id": "ki_kerch_1116",
+   "title": "Kyiv Independent: Ukraine war latest: Crimean Bridge hit in reported attack, traffic restrictions imposed (Nov 16)",
+   "url": "https://kyivindependent.com/ukraine-war-latest-crimean-bridge-hit-in-reported-attack-traffic-restrictions-imposed/"
+  },
+  {
+   "id": "gs_kerch_1117",
+   "title": "General Staff of Ukraine (Telegram): Defence Forces hit the Kerch bridge, span fell (dated Nov 17)",
+   "url": "https://t.me/GeneralStaffZSU/42926"
+  },
+  {
+   "id": "gs_ilskyi_1116",
+   "title": "General Staff of Ukraine (Telegram): Ilskyi oil refinery hit (Nov 16)",
+   "url": "https://t.me/GeneralStaffZSU/42919"
+  },
+  {
+   "id": "ukrinform_dnipro_1116",
+   "title": "Ukrinform: Dnipro left completely without power after Russian attack (Nov 16)",
+   "url": "https://www.ukrinform.net/rubric-ato/4185289-dnipro-left-completely-without-power-after-russian-attack.html"
+  },
+  {
+   "id": "gs_salavat_1117",
+   "title": "General Staff of Ukraine (Telegram): Salavat petrochemical complex hit (Nov 17)",
+   "url": "https://t.me/GeneralStaffZSU/42927"
+  },
+  {
+   "id": "mod_zalyvne_1117",
+   "title": "Russian MoD (Telegram): Vostok group takes Zalyvne, Zaporizhzhia region (Nov 17)",
+   "url": "https://t.me/mod_russia/69079"
   }
  ]
 }

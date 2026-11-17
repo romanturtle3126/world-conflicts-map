@@ -2,6 +2,17 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-17 06:04 Toronto — Ukraine — OK
+- Added 5 event(s):
+  - `kerch-1116` 2026-11-16 [UNVERIFIED] Crimean Bridge reportedly hit; Ukraine's General Staff says a span collapsed
+  - `ilskyi-1116` 2026-11-16 [ONE_PARTY] Ukraine's General Staff claims strike on Ilskyi refinery in Krasnodar Krai
+  - `dnipro-1116` 2026-11-16 [ONE_PARTY] Dnipro left without power after Russian attack on energy facilities
+  - `salavat-1117` 2026-11-17 [ONE_PARTY] Ukraine's General Staff claims strike on Salavat petrochemical complex in Bashkortostan
+  - `zalyvne-1117` 2026-11-17 [ONE_PARTY] Russia's MoD claims capture of Zalyvne in Zaporizhzhia region
+- Stats: 0 updated, 2 added
+- 8 new source link(s)
+- Totals: 159 events, 48 stats, 267 sources; coverage 2026-10-10 to 2026-11-17
+
 ## 2026-11-16 06:42 Toronto — Middle East — OK
 - Added 4 event(s):
   - `khasab-1116` 2026-11-16 [UNVERIFIED] Vessel hit by 'unknown projectile' in Hormuz per UKMTO; IRGC and Iran's navy say tankers hit mines
