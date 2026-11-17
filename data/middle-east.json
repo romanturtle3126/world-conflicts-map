@@ -2,11 +2,11 @@
  "schemaVersion": 1,
  "map": "middle-east",
  "meta": {
-  "lastUpdated": "2026-11-16T06:42:12-05:00",
-  "coverage": "2026-10-06 to 2026-11-16",
+  "lastUpdated": "2026-11-17T06:41:46-05:00",
+  "coverage": "2026-10-06 to 2026-11-17",
   "notes": [
-   "Refreshed 2026-11-16 (UTC) from Middle East Eye live blog (Hormuz, West Bank, Riyadh, morning update), France 24 (AFP), Al Jazeera (carrier arrival), the Houthi military spokesman's Telegram (army21ye) and Tasnim English Telegram, plus the headline feed.",
-   "Not read: UKMTO site (403; UKMTO text read only as relayed by Middle East Eye), ISW/CTP, IDF and CENTCOM X posts (search returned an undated CENTCOM denial of an IRGC mine claim, not cited), Gaza MoH Telegram, OCHA (latest sitrep Nov 13 already used). No Brent settle after Nov 11 found, so Brent, Hormuz traffic stats are unchanged. Tasnim Telegram reported an Israeli strike on Kafr Tibnit in Lebanon, a single party claim not added.",
+   "Refreshed 2026-11-17 (UTC, about 07:45 Toronto) from Middle East Eye live-blog entries (Bahrain, Hormuz tankers, drone, Qatar), Al-Monitor/Reuters (Jericho), and the Houthi military spokesman's Telegram (army21ye, read through Nov 16).",
+   "Not read: UKMTO site (403), ISW/CTP, IDF and CENTCOM X posts, Gaza MoH Telegram, Tasnim Telegram preview (no posts returned), OCHA (no new report found). Brent and Hormuz traffic stats, lanes unchanged: no new settle or verified figures found.",
    "Marker positions are approximate (see coordPrecision)."
   ]
  },
@@ -2676,6 +2676,158 @@
      "says": "No comment included."
     }
    ]
+  },
+  {
+   "id": "khasab-1116-2",
+   "date": "2026-11-16",
+   "region": "gulf",
+   "oblast": "Strait of Hormuz",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "naval",
+   "status": "UNVERIFIED",
+   "title": "Indian minister says no casualties after missile hit LPG tanker Tara Gas in Hormuz",
+   "caption": "India's shipping minister Sarbananda Sonowal said on X that all 25 crew, including 24 Indians, aboard the Panama-flagged LPG tanker Tara Gas are safe after it was hit by a missile in the Strait of Hormuz on Nov 16. Middle East Eye does not say who fired it, and it is not established whether this is the vessel in the UKMTO report of the same day. Marker is at Khasab, not the exact position.",
+   "lat": 26.1799,
+   "lon": 56.2477,
+   "coordPrecision": "oblast",
+   "place": "Khasab",
+   "sources": [
+    {
+     "id": "mee_1117_taragas",
+     "title": "Middle East Eye live blog, Indian minister confirms no casualties onboard tanker hit by missile in Hormuz Strait, Nov 17",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/indian-minister-confirms-no-casualties-onboard-tanker-hit-missile-hormuz"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "manama-1117",
+   "date": "2026-11-17",
+   "region": "gulf",
+   "oblast": "Bahrain",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "drone",
+   "status": "DISPUTED",
+   "title": "IRGC says drones hit US radar at Isa airbase in Bahrain; Bahrain says attack was intercepted",
+   "caption": "Iran's IRGC says it carried out a drone attack on a US radar system at the Isa airbase in Bahrain and warns continued use of regional bases against Iran 'will not go unanswered'. Bahraini state television says the drone attack was intercepted. Blasts were reported in Manama and residents received a 'potential threat' phone alert. Marker is at Manama, not the base.",
+   "lat": 26.2279,
+   "lon": 50.5857,
+   "coordPrecision": "approx",
+   "place": "Manama",
+   "sources": [
+    {
+     "id": "mee_1117_bahrain",
+     "title": "Middle East Eye live blog, IRGC claims attack on US radar system in Bahrain, as Manama says it thwarted them, Nov 17",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-claims-attack-us-radar-system-bahrain-manama-says-it-thwarted-them"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "IRGC",
+     "says": "Drone attack targeted a US radar system at Isa airbase."
+    },
+    {
+     "who": "Bahraini state television",
+     "says": "The drone attack was intercepted."
+    }
+   ]
+  },
+  {
+   "id": "khasab-1117",
+   "date": "2026-11-17",
+   "region": "gulf",
+   "oblast": "Strait of Hormuz",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "naval",
+   "status": "ONE_PARTY",
+   "title": "IRGC says two tankers caught fire after hitting mines and that it seized a US drone near Qeshm",
+   "caption": "Iran's IRGC navy, via Fars, says two tankers, one a supertanker with over 2 million barrels of crude and one carrying LPG, caught fire after hitting naval mines in the Strait of Hormuz, and that they breached Iran's crossing protocol. The IRGC also says it seized a US MQM-170 drone south of Qeshm Island. Middle East Eye gives no independent confirmation of the fires, mines, cargoes or the drone. Marker is at Khasab, not the exact position.",
+   "lat": 26.1799,
+   "lon": 56.2477,
+   "coordPrecision": "oblast",
+   "place": "Khasab",
+   "sources": [
+    {
+     "id": "mee_1117_tankers",
+     "title": "Middle East Eye live blog, Iran's IRGC says two tankers ablaze in Hormuz, Nov 17",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-says-two-tankers-ablaze-hormuz"
+    },
+    {
+     "id": "mee_1117_drone",
+     "title": "Middle East Eye live blog, IRGC says forces seized US drone near Hormuz Strait, Nov 17",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-forces-seized-us-drone-near-hormuz-strait"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "IRGC",
+     "says": "Two tankers hit mines and are ablaze; a US MQM-170 drone was seized south of Qeshm."
+    }
+   ]
+  },
+  {
+   "id": "jericho-1117",
+   "date": "2026-11-17",
+   "region": "westbank",
+   "oblast": "West Bank",
+   "front": "Gaza & West Bank",
+   "type": "other",
+   "status": "DISPUTED",
+   "title": "Palestinian woman, 72, shot dead overnight in Duyuk al-Tahta near Jericho; Israeli military describes a car-ramming clash",
+   "caption": "The Palestinian health ministry says Israeli settlers shot dead Fadha Wadha, 72, in Duyuk al-Tahta on the outskirts of Jericho; her son was wounded and a grandson arrested. Reuters, via Al-Monitor, found at least five rifle rounds at the scene. The Israeli military did not comment on her death and said Palestinians rammed an Israeli vehicle and attacked Israelis, who opened fire. The Binyamin settler council says eight homes there were bought from Palestinians; Jericho's governor disputes that the land could be legally bought. Marker is at Jericho.",
+   "lat": 31.8667,
+   "lon": 35.45,
+   "coordPrecision": "approx",
+   "place": "Jericho",
+   "sources": [
+    {
+     "id": "am_1117_jericho",
+     "title": "Al-Monitor (Reuters), Israeli settlers kill Palestinian woman, 72, in West Bank, Nov 17",
+     "url": "https://www.al-monitor.com/originals/2026/11/israeli-settlers-kill-palestinian-woman-72-west-bank"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "Palestinian health ministry and family",
+     "says": "Settlers shot dead a 72-year-old woman and wounded her son."
+    },
+    {
+     "who": "Israeli military",
+     "says": "Palestinians rammed an Israeli vehicle and attacked Israelis, who opened fire; no comment on her death."
+    }
+   ]
+  },
+  {
+   "id": "doha-1117",
+   "date": "2026-11-17",
+   "region": "gulf",
+   "oblast": "Qatar",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "diplomacy",
+   "status": "ONE_PARTY",
+   "title": "Qatar says it will meet Iranian officials Tuesday as mediation continues",
+   "caption": "Qatari foreign ministry spokesman Majed al-Ansari said a meeting with Iranian officials would take place Tuesday as part of mediation, to exchange views on current proposals and try to reconcile positions. He urged Washington and Tehran to avoid escalation. No outcome or participants were reported. Marker is at Doha.",
+   "lat": 25.2855,
+   "lon": 51.531,
+   "coordPrecision": "city",
+   "place": "Doha",
+   "sources": [
+    {
+     "id": "mee_1117_qatar",
+     "title": "Middle East Eye live blog, Qatar announces meeting with Iran and says mediation efforts continue, Nov 17",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-announces-meeting-iran-says-mediation-efforts-continue"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "Qatari foreign ministry (al-Ansari)",
+     "says": "Meeting with Iran planned as part of mediation; urges no escalation."
+    }
+   ]
   }
  ],
  "lanes": [
@@ -3798,6 +3950,36 @@
    "id": "aj_1116_roosevelt",
    "title": "Al Jazeera, USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume? Nov 16",
    "url": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume"
+  },
+  {
+   "id": "mee_1117_bahrain",
+   "title": "Middle East Eye live blog, IRGC claims attack on US radar system in Bahrain, as Manama says it thwarted them, Nov 17",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-claims-attack-us-radar-system-bahrain-manama-says-it-thwarted-them"
+  },
+  {
+   "id": "mee_1117_tankers",
+   "title": "Middle East Eye live blog, Iran's IRGC says two tankers ablaze in Hormuz, Nov 17",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-says-two-tankers-ablaze-hormuz"
+  },
+  {
+   "id": "mee_1117_drone",
+   "title": "Middle East Eye live blog, IRGC says forces seized US drone near Hormuz Strait, Nov 17",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-forces-seized-us-drone-near-hormuz-strait"
+  },
+  {
+   "id": "mee_1117_taragas",
+   "title": "Middle East Eye live blog, Indian minister confirms no casualties onboard tanker hit by missile in Hormuz Strait, Nov 17",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/indian-minister-confirms-no-casualties-onboard-tanker-hit-missile-hormuz"
+  },
+  {
+   "id": "am_1117_jericho",
+   "title": "Al-Monitor (Reuters), Israeli settlers kill Palestinian woman, 72, in West Bank, Nov 17",
+   "url": "https://www.al-monitor.com/originals/2026/11/israeli-settlers-kill-palestinian-woman-72-west-bank"
+  },
+  {
+   "id": "mee_1117_qatar",
+   "title": "Middle East Eye live blog, Qatar announces meeting with Iran and says mediation efforts continue, Nov 17",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-announces-meeting-iran-says-mediation-efforts-continue"
   }
  ]
 }
