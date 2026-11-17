@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-17T11:05:14+00:00",
+  "lastUpdated": "2026-11-17T11:42:21+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -47,16 +47,64 @@
  },
  "items": [
   {
+   "headline": "7th Air Assault Corps Commander Lasiichuk: If Pokrovsk had simply let the Russians through, Dobropillia would no longer exist",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063263/",
+   "date": "2026-11-17T11:36:00.000Z"
+  },
+  {
+   "headline": "USF commander shows drones used in strike on Crimean Bridge",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4185551-usf-commander-shows-drones-used-in-strike-on-crimean-bridge.html",
+   "date": "2026-11-17T11:32:00.000Z"
+  },
+  {
+   "headline": "Russian attacks kill 14, injure 78 across Ukraine over past day, hitting Kyiv’s Southern, Northern bridges",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/russian-attacks-kill-14-injure-78-across-ukraine-over-past-day-hitting-kyivs-southern-northern-bridges/",
+   "date": "2026-11-17T11:23:46.000Z"
+  },
+  {
+   "headline": "Trump says he is willing to hold separate talks with Putin in China",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/trump-says-he-is-willing-to-hold-separate-talks-with-putin-in-china/",
+   "date": "2026-11-17T11:23:12.000Z"
+  },
+  {
    "headline": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
    "source": "The Guardian (Ukraine)",
    "link": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-   "date": "2026-11-17T10:52:50.000Z"
+   "date": "2026-11-17T11:15:00.000Z"
+  },
+  {
+   "headline": "Arch and road span collapse: General Staff confirms results of strike on Crimean Bridge",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4185542-arch-and-road-span-collapse-general-staff-confirms-results-of-strike-on-crimean-bridge.html",
+   "date": "2026-11-17T11:12:07.000Z"
+  },
+  {
+   "headline": "General Staff: Russia has lost 1,627,040 troops in Ukraine since Feb. 24, 2022",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/general-staff-russia-has-lost-1-627-040-troops-in-ukraine-since-feb-24-2022/",
+   "date": "2026-11-17T11:04:18.000Z"
+  },
+  {
+   "headline": "Russian strikes cause power outages in 9 Ukrainian oblasts, emergency cuts imposed in 3 others",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063253/",
+   "date": "2026-11-17T10:57:00.000Z"
+  },
+  {
+   "headline": "Russia stands against Europe participating in peace talks",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063252/",
+   "date": "2026-11-17T10:51:00.000Z"
   },
   {
    "headline": "Families with children ordered to evacuate from Balabyne in Zaporizhzhia region",
    "source": "Ukrinform",
    "link": "https://www.ukrinform.net/rubric-ato/4185529-families-with-children-ordered-to-evacuate-from-balabyne-in-zaporizhzhia-region.html",
-   "date": "2026-11-17T10:48:55.000Z"
+   "date": "2026-11-17T10:48:00.000Z"
   },
   {
    "headline": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
@@ -65,19 +113,25 @@
    "date": "2026-11-17T10:45:55.000Z"
   },
   {
-   "headline": "Russian forces strike Mukachevo in Zakarpattia region",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185517-russian-forces-strike-mukachevo-in-zakarpattia-region.html",
-   "date": "2026-11-17T10:30:40.000Z"
-  },
-  {
    "headline": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
    "source": "The Guardian (Ukraine)",
    "link": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
    "date": "2026-11-17T10:30:22.000Z"
   },
   {
-   "headline": "Ukraine’s Security Service on Crimean Bridge strike: Road section is destroyed and no vehicles can cross it",
+   "headline": "Russian forces strike Mukachevo in Zakarpattia region",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4185517-russian-forces-strike-mukachevo-in-zakarpattia-region.html",
+   "date": "2026-11-17T10:30:00.000Z"
+  },
+  {
+   "headline": "One killed and two injured in Russian attack on Kirovohrad Oblast – photos",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063247/",
+   "date": "2026-11-17T10:13:00.000Z"
+  },
+  {
+   "headline": "Ukraine's Security Service on Crimean Bridge strike: Road section is destroyed and no vehicles can cross it",
    "source": "Ukrainska Pravda",
    "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063248/",
    "date": "2026-11-17T10:12:00.000Z"
@@ -175,7 +229,7 @@
   {
    "headline": "Ukrainian Armed Forces hold first-ever sergeants’ forum in Kyiv",
    "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185462-ukrainian-armed-forces-hold-firstever-sergeants-forum-in-kyiv.html",
+   "link": "https://www.ukrinform.net/rubric-defense/4185462-ukrainian-armed-forces-hold-firstever-sergeants-forum-in-kyiv.html",
    "date": "2026-11-17T09:00:00.000Z"
   },
   {
@@ -281,13 +335,7 @@
    "date": "2026-11-17T07:16:00.000Z"
   },
   {
-   "headline": "Overnight Russian attack on Kyiv: Klitschko shows damage to Pivnichnyi Bridge",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063208/",
-   "date": "2026-11-17T07:13:00.000Z"
-  },
-  {
-   "headline": "317 Buildings in Kyiv’s Darnytskyi District left without heating after Russian attack",
+   "headline": "317 buildings in Kyiv’s Darnytskyi district left without heating after Russian attack",
    "source": "Ukrinform",
    "link": "https://www.ukrinform.net/rubric-ato/4185409-317-buildings-in-kyivs-darnytskyi-district-left-without-heating-after-russian-attack.html",
    "date": "2026-11-17T07:11:00.000Z"
@@ -305,34 +353,16 @@
    "date": "2026-11-17T06:54:00.000Z"
   },
   {
-   "headline": "Crimean Bridge arch collapses into sea after attack, all traffic suspended – photo, video",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063205/",
-   "date": "2026-11-17T06:44:00.000Z"
-  },
-  {
    "headline": "Russian shelling reported in four Kyiv districts, one person injured",
    "source": "Ukrinform",
    "link": "https://www.ukrinform.net/rubric-ato/4185397-russian-shelling-reported-in-four-kyiv-districts-one-person-injured.html",
    "date": "2026-11-17T06:39:00.000Z"
   },
   {
-   "headline": "Ukrainian ambassador to France meets Le Pen to discuss support for Kyiv",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063204/",
-   "date": "2026-11-17T06:36:00.000Z"
-  },
-  {
    "headline": "Russian army loses another 1,620 personnel, four MLRS in Ukraine",
    "source": "Ukrinform",
    "link": "https://www.ukrinform.net/rubric-ato/4185395-russian-army-loses-another-1620-personnel-four-mlrs-in-ukraine.html",
    "date": "2026-11-17T06:21:00.000Z"
-  },
-  {
-   "headline": "Overnight Russian attack on Kyiv: infrastructure and bridges damaged, water and heating disrupted, one injured",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063203/",
-   "date": "2026-11-17T06:19:00.000Z"
   },
   {
    "headline": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
@@ -357,18 +387,6 @@
    "source": "Ukrinform",
    "link": "https://www.ukrinform.net/rubric-ato/4185378-woman-rescued-from-rubble-of-damaged-industrial-facility-in-zaporizhzhia.html",
    "date": "2026-11-17T05:15:00.000Z"
-  },
-  {
-   "headline": "Military evacuate last resident from village in Sumy region",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185376-military-evacuate-last-resident-from-village-in-sumy-region.html",
-   "date": "2026-11-17T04:42:00.000Z"
-  },
-  {
-   "headline": "Evacuation continues in 96 settlements in Kharkiv region",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185379-evacuation-continues-in-96-settlements-in-kharkiv-region.html",
-   "date": "2026-11-17T04:24:00.000Z"
   },
   {
    "headline": "Fire reported at major Russian petrochemical complex in Bashkortostan amid drone attack",
@@ -425,28 +443,10 @@
    "date": "2026-11-16T20:29:01.000Z"
   },
   {
-   "headline": "Komyshuvakha rescue operations cease two weeks after Russian strike, 72 dead, 4 still missing",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/komyshuvakha-rescue-operation-cease-two-weeks-after-russian-strike-72-dead-4-still-missing/",
-   "date": "2026-11-16T20:19:40.000Z"
-  },
-  {
    "headline": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
    "source": "BBC News Europe",
    "link": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-16T20:16:15.000Z"
-  },
-  {
-   "headline": "Ukraine war latest: Crimean Bridge hit in reported attack, traffic restrictions imposed",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/ukraine-war-latest-crimean-bridge-hit-in-reported-attack-traffic-restrictions-imposed/",
-   "date": "2026-11-16T19:15:13.000Z"
-  },
-  {
-   "headline": "Cargo ship sinks in Bulgaria's Black Sea after reported drone attack, all 12 crew rescued",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/cargo-ship-sinks-in-bulgarias-black-sea-after-reported-drone-attack-all-12-crew-rescued/",
-   "date": "2026-11-16T19:02:57.000Z"
   },
   {
    "headline": "The Guardian view on Europe and Burnham: a future that can only be viewed through a glass darkly | Editorial",

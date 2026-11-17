@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-17T11:05:15+00:00",
+  "lastUpdated": "2026-11-17T11:42:21+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -52,6 +52,18 @@
  },
  "items": [
   {
+   "headline": "Where does Iran get its weapons, and can the US really stop the flow?",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/explainers/iran-weapons-routes-us-iron-gate",
+   "date": "2026-11-17T11:25:27.000Z"
+  },
+  {
+   "headline": "Britain sanctions Israeli settlement builders, Gaza aid-blocking activists",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/britain-sanctions-israeli-settlement-builders-gaza-aid-blocking",
+   "date": "2026-11-17T11:16:16.000Z"
+  },
+  {
    "headline": "Tehran denies report of alleged Iranian plan to detonate 'dirty bomb' in Washington",
    "source": "Middle East Eye",
    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-denies-report-alleged-iranian-plan-detonate-dirty-bomb-washington",
@@ -68,6 +80,12 @@
    "source": "Middle East Eye",
    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-irgc-says-two-tankers-ablaze-hormuz",
    "date": "2026-11-17T10:56:42.000Z"
+  },
+  {
+   "headline": "Who is behind Habibi UK, an X account that targeted critics of Israel?",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/17/who-is-behind-habibi-uk-an-x-account-that-targeted-critics-of-israel?traffic_source=rss",
+   "date": "2026-11-17T10:53:42.000Z"
   },
   {
    "headline": "Qatar announces meeting with Iran and says mediation efforts continue",
@@ -202,12 +220,6 @@
    "date": "2026-11-17T04:22:33.000Z"
   },
   {
-   "headline": "Gunfire erupts in occupied West Bank settler attack",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
-   "date": "2026-11-17T04:00:08.000Z"
-  },
-  {
    "headline": "IRGC says forces seized US drone near Hormuz Strait",
    "source": "Middle East Eye",
    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-forces-seized-us-drone-near-hormuz-strait",
@@ -266,18 +278,6 @@
    "source": "BBC News Middle East",
    "link": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-16T21:40:07.000Z"
-  },
-  {
-   "headline": "Mamdani to disband special NYPD unit deployed during pro-Palestinian protests",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/news/mamdani-disband-special-nypd-unit-deployed-during-pro-palestinian-protests",
-   "date": "2026-11-16T21:38:43.000Z"
-  },
-  {
-   "headline": "Iran still retains up to 2,500 ballistic missiles: Report",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-still-retains-2500-ballistic-missiles-report",
-   "date": "2026-11-16T21:15:56.000Z"
   },
   {
    "headline": "Third US aircraft carrier brings thousands more troops to Middle East",
