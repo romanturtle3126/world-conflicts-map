@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-17T11:42:21+00:00",
+  "lastUpdated": "2026-11-17T19:16:58+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -36,333 +36,429 @@
    {
     "source": "Al Jazeera",
     "ok": true,
-    "count": 1
+    "count": 0
    },
    {
     "source": "UK Ministry of Defence (GOV.UK)",
     "ok": true,
-    "count": 1
+    "count": 2
    }
   ]
  },
  "items": [
   {
-   "headline": "7th Air Assault Corps Commander Lasiichuk: If Pokrovsk had simply let the Russians through, Dobropillia would no longer exist",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063263/",
-   "date": "2026-11-17T11:36:00.000Z"
-  },
-  {
-   "headline": "USF commander shows drones used in strike on Crimean Bridge",
+   "headline": "Germany, Norway to contribute $300M each toward U.S. arms purchases for Ukraine – Pistorius",
    "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185551-usf-commander-shows-drones-used-in-strike-on-crimean-bridge.html",
-   "date": "2026-11-17T11:32:00.000Z"
+   "link": "https://www.ukrinform.net/rubric-polytics/4185771-germany-norway-to-contribute-300m-each-toward-us-arms-purchases-for-ukraine-pistorius.html",
+   "date": "2026-11-17T19:05:00.000Z"
   },
   {
-   "headline": "Russian attacks kill 14, injure 78 across Ukraine over past day, hitting Kyiv’s Southern, Northern bridges",
+   "headline": "Sweden allocates additional SEK 720M in military aid to Ukraine",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4185767-sweden-allocates-additional-sek-720m-in-military-aid-to-ukraine.html",
+   "date": "2026-11-17T18:54:00.000Z"
+  },
+  {
+   "headline": "Russian strike on central Vinnytsia injures four",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4185762-russian-strike-on-central-vinnytsia-injures-four.html",
+   "date": "2026-11-17T18:45:00.000Z"
+  },
+  {
+   "headline": "7 drones cross into Moldovan airspace during latest Russian attack against Ukraine, 1 spotted over Chisinau",
    "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/russian-attacks-kill-14-injure-78-across-ukraine-over-past-day-hitting-kyivs-southern-northern-bridges/",
-   "date": "2026-11-17T11:23:46.000Z"
+   "link": "https://kyivindependent.com/7-drones-cross-into-moldovan-airspace-during-latest-russian-attack-against-ukraine-1-spotted-over-chisinau/",
+   "date": "2026-11-17T18:37:20.000Z"
   },
   {
-   "headline": "Trump says he is willing to hold separate talks with Putin in China",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/trump-says-he-is-willing-to-hold-separate-talks-with-putin-in-china/",
-   "date": "2026-11-17T11:23:12.000Z"
+   "headline": "Seven drones detected in Moldovan airspace, some crash",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063339/",
+   "date": "2026-11-17T18:36:00.000Z"
   },
   {
-   "headline": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
+   "headline": "Germany to supply Ukraine with new radars for future Freyja air defense system – Pistorius",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4185759-germany-to-supply-ukraine-with-new-radars-for-future-freyja-air-defense-system-pistorius.html",
+   "date": "2026-11-17T18:34:00.000Z"
+  },
+  {
+   "headline": "Joe Biden criticizes Zelenskyy as ‘moody’ and ‘not as grateful’ in new memoir",
    "source": "The Guardian (Ukraine)",
-   "link": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-   "date": "2026-11-17T11:15:00.000Z"
+   "link": "https://www.theguardian.com/us-news/2026/nov/17/biden-memoir-zelenskyy-ukraine",
+   "date": "2026-11-17T18:27:51.000Z"
   },
   {
-   "headline": "Arch and road span collapse: General Staff confirms results of strike on Crimean Bridge",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185542-arch-and-road-span-collapse-general-staff-confirms-results-of-strike-on-crimean-bridge.html",
-   "date": "2026-11-17T11:12:07.000Z"
-  },
-  {
-   "headline": "General Staff: Russia has lost 1,627,040 troops in Ukraine since Feb. 24, 2022",
+   "headline": "Vilnius will not budge on 'absolutely complicit' Belarus, Lithuania's FM says",
    "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/general-staff-russia-has-lost-1-627-040-troops-in-ukraine-since-feb-24-2022/",
-   "date": "2026-11-17T11:04:18.000Z"
+   "link": "https://kyivindependent.com/vilnius-will-not-budge-on-absolutely-complicit-belarus-lithuanias-fm-says/",
+   "date": "2026-11-17T18:25:59.000Z"
   },
   {
-   "headline": "Russian strikes cause power outages in 9 Ukrainian oblasts, emergency cuts imposed in 3 others",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063253/",
-   "date": "2026-11-17T10:57:00.000Z"
-  },
-  {
-   "headline": "Russia stands against Europe participating in peace talks",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063252/",
-   "date": "2026-11-17T10:51:00.000Z"
-  },
-  {
-   "headline": "Families with children ordered to evacuate from Balabyne in Zaporizhzhia region",
+   "headline": "German Defense Minister highlights Ukraine’s battlefield gains at Ramstein, urges greater pressure on Russia",
    "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185529-families-with-children-ordered-to-evacuate-from-balabyne-in-zaporizhzhia-region.html",
-   "date": "2026-11-17T10:48:00.000Z"
+   "link": "https://www.ukrinform.net/rubric-polytics/4185755-german-defense-minister-highlights-ukraines-battlefield-gains-at-ramstein-urges-greater-pressure-on-russia.html",
+   "date": "2026-11-17T18:22:00.000Z"
   },
   {
-   "headline": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+   "headline": "Pentagon's deputy chief condemns Ukrainian long-range strikes on Russia, saying they \"incur pain on Russian population\"",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063337/",
+   "date": "2026-11-17T18:16:00.000Z"
+  },
+  {
+   "headline": "Strike on Kerch Bridge marks another impressive success for Ukraine – Austrian colonel",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4185747-strike-on-kerch-bridge-marks-another-impressive-success-for-ukraine-austrian-colonel.html",
+   "date": "2026-11-17T18:05:00.000Z"
+  },
+  {
+   "headline": "UK defense secretary praises Ukraine's strike on Kerch Bridge, calls year terrible for Putin",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4185743-uk-defense-secretary-praises-ukraines-strike-on-crimean-bridge-calls-year-terrible-for-putin.html",
+   "date": "2026-11-17T18:03:00.000Z"
+  },
+  {
+   "headline": "Russia attacks Vinnytsia for second time in one day: fire breaks out in city centre, four injured",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063333/",
+   "date": "2026-11-17T18:01:00.000Z"
+  },
+  {
+   "headline": "Moldova closes six border crossing points with Ukraine following Russian drone incursion",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063332/",
+   "date": "2026-11-17T18:00:00.000Z"
+  },
+  {
+   "headline": "Ukraine has proposed Oleshky-like humanitarian operation in 10 more occupied settlements, Zelensky says",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/ukraine-has-proposed-oleshky-like-humanitarian-operation-in-10-more-occupied-settlements-zelensky-says/",
+   "date": "2026-11-17T17:49:41.000Z"
+  },
+  {
+   "headline": "Ukraine releases footage of strike on Crimean Bridge – video",
+   "source": "The Guardian (Ukraine)",
+   "link": "https://www.theguardian.com/world/video/2026/nov/17/ukraine-releases-footage-of-strike-on-crimean-bridge-video",
+   "date": "2026-11-17T17:48:38.000Z"
+  },
+  {
+   "headline": "Russian military transport plane crashes, 17 feared dead",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-emergencies/4185741-russian-military-transport-plane-crashes-17-feared-dead.html",
+   "date": "2026-11-17T17:44:00.000Z"
+  },
+  {
+   "headline": "Sweden allocates €65m to support Ukraine's defence",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063330/",
+   "date": "2026-11-17T17:44:00.000Z"
+  },
+  {
+   "headline": "15 Ukrainians among 46 injured in Prague train collision",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/15-ukrainians-among-46-injured-in-prague-train-collision-2/",
+   "date": "2026-11-17T17:35:46.000Z"
+  },
+  {
+   "headline": "Bundeswehr tests Ukraine’s DELTA system, considers adopting it – Pistorius",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4185739-bundeswehr-tests-ukraines-delta-system-considers-adopting-it-pistorius.html",
+   "date": "2026-11-17T17:34:00.000Z"
+  },
+  {
+   "headline": "Kyiv begins preparations for tunnel under Dnipro with help from US company Robbins",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-vidbudova/4185738-kyiv-begins-preparations-for-tunnel-under-dnipro-with-help-from-us-company-robbins.html",
+   "date": "2026-11-17T17:32:00.000Z"
+  },
+  {
+   "headline": "Twenty injured, including two children, in Russian attacks on Dnipropetrovsk Oblast",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063328/",
+   "date": "2026-11-17T17:31:00.000Z"
+  },
+  {
+   "headline": "How Ukraine struck the Kerch bridge, a symbol of Putin’s rule",
+   "source": "The Guardian (Ukraine)",
+   "link": "https://www.theguardian.com/world/2026/nov/17/how-ukraine-struck-kerch-bridge-symbol-vladimir-putin-rule",
+   "date": "2026-11-17T17:30:40.000Z"
+  },
+  {
+   "headline": "Zelenskyy proposes air defence missile exchange at Ukraine Defence Contact Group meeting",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063336/",
+   "date": "2026-11-17T17:30:00.000Z"
+  },
+  {
+   "headline": "Men convicted of murdering Russian opposition leader Boris Nemtsov reportedly released from prison to join Russian forces",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063326/",
+   "date": "2026-11-17T17:21:00.000Z"
+  },
+  {
+   "headline": "Ramstein: Zelensky proposes swapping partners’ Patriot and IRIS-T missile stockpiles for future deliveries",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4185731-ramstein-zelensky-proposes-swapping-partners-patriot-and-irist-missile-stockpiles-for-future-deliveries.html",
+   "date": "2026-11-17T17:20:00.000Z"
+  },
+  {
+   "headline": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+   "source": "BBC News Europe",
+   "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T17:19:57.000Z"
+  },
+  {
+   "headline": "UK to announce new commitments to strengthen Ukraine's air defenses – defense secretary",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4185729-uk-to-announce-new-commitments-to-strengthen-ukraines-air-defenses-defense-secretary.html",
+   "date": "2026-11-17T17:17:31.000Z"
+  },
+  {
+   "headline": "Zelenskyy requests 40 more F-16 fighter jets at Ukraine Defence Contact Group meeting",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063323/",
+   "date": "2026-11-17T17:13:00.000Z"
+  },
+  {
+   "headline": "Russians strike key energy facility in Kyiv Oblast",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063322/",
+   "date": "2026-11-17T17:01:00.000Z"
+  },
+  {
+   "headline": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
    "source": "BBC News Europe",
    "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-17T10:45:55.000Z"
+   "date": "2026-11-17T16:56:38.000Z"
+  },
+  {
+   "headline": "Analysis: Why Ukraine's strike on the Crimean Bridge is such a big deal",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/analysis-why-ukraines-strike-on-the-crimean-bridge-is-such-a-big-deal/",
+   "date": "2026-11-17T16:49:30.000Z"
+  },
+  {
+   "headline": "Rutte on strike on Crimean Bridge: Ukraine must defend itself, including by targeting Russian logistics",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4185714-rutte-on-strike-on-crimean-bridge-ukraine-must-defend-itself-including-by-targeting-russian-logistics.html",
+   "date": "2026-11-17T16:45:00.000Z"
+  },
+  {
+   "headline": "‘They were keeping it for a rainy day’: Ukraine’s Kerch bridge attack is proof Kyiv still has cards to play",
+   "source": "The Guardian (Ukraine)",
+   "link": "https://www.theguardian.com/world/2026/nov/17/ukraine-kerch-bridge-attack-russia-crimea-analysis",
+   "date": "2026-11-17T16:40:26.000Z"
+  },
+  {
+   "headline": "Zelenskyy urges allies to send air defence deliveries without delay as Russia intensifies attacks – as it happened",
+   "source": "The Guardian (Ukraine)",
+   "link": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+   "date": "2026-11-17T16:40:21.000Z"
+  },
+  {
+   "headline": "UK urges allies at Ramstein to commit to military support for Ukraine through 2027",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4185713-uk-urges-allies-at-ramstein-to-commit-to-military-support-for-ukraine-through-2027.html",
+   "date": "2026-11-17T16:38:00.000Z"
+  },
+  {
+   "headline": "Over 1,000 air defense missiles: UK announces GBP 240M military aid package for Ukraine",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4185706-over-1000-air-defense-missiles-uk-announces-gbp-240m-military-aid-package-for-ukraine.html",
+   "date": "2026-11-17T16:25:00.000Z"
+  },
+  {
+   "headline": "Russian milbloggers are furious about the Crimean Bridge attack",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/russian-milbloggers-are-furious-about-the-crimean-bridge-attack/",
+   "date": "2026-11-17T16:22:44.000Z"
+  },
+  {
+   "headline": "UK pledges over 1,000 short-range missiles for Ukraine in 240 million-pound air defense package",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/uk-pledges-over-1-000-short-range-missiles-for-ukraine-in-240-million-pound-air-defense-package-2/",
+   "date": "2026-11-17T16:21:09.000Z"
+  },
+  {
+   "headline": "Moldova closes airspace after Russian Shahed drone spotted over capital – video",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063312/",
+   "date": "2026-11-17T16:19:00.000Z"
+  },
+  {
+   "headline": "The danger lurking in Russia's frozen wars",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/the-danger-lurking-in-russias-frozen-wars/",
+   "date": "2026-11-17T16:16:48.000Z"
+  },
+  {
+   "headline": "17 killed in crash of Russian An-12 military plane in Siberia",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/17-killed-in-crash-of-russian-an-12-military-plane-in-siberia/",
+   "date": "2026-11-17T16:06:17.000Z"
+  },
+  {
+   "headline": "Missiles and equipment: Sweden, UK to help arm Ukraine’s Gripen fighter jets",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4185698-missiles-and-equipment-sweden-uk-to-help-arm-ukraines-gripen-fighter-jets.html",
+   "date": "2026-11-17T16:02:00.000Z"
+  },
+  {
+   "headline": "Hungary halts rail services with Ukraine for 2 days after Russian attack on Zakarpattia",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/hungary-halts-rail-services-with-ukraine-for-2-days-after-russian-attack-on-zakarpattia/",
+   "date": "2026-11-17T15:53:45.000Z"
+  },
+  {
+   "headline": "How the attack on Putin's prized Crimean Bridge unfolded",
+   "source": "BBC News Europe",
+   "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T15:38:10.000Z"
+  },
+  {
+   "headline": "Korolivskyi Smak plant in Kirovohrad region destroyed following Russian strike",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-economy/4185664-korolivskyi-smak-plant-in-kirovohrad-region-destroyed-following-russian-strike.html",
+   "date": "2026-11-17T15:32:00.000Z"
+  },
+  {
+   "headline": "Russia reports plane crash, likely involving An-12 military transport aircraft: 17 people killed",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063306/",
+   "date": "2026-11-17T15:32:00.000Z"
+  },
+  {
+   "headline": "UK announces US$316m air defence package for Ukraine",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063305/",
+   "date": "2026-11-17T15:20:00.000Z"
+  },
+  {
+   "headline": "Finland denies entry to Russian figure skaters for Grand Prix stage",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063302/",
+   "date": "2026-11-17T15:18:00.000Z"
+  },
+  {
+   "headline": "Ukraine, Finland sign memorandum on joint defense production",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-economy/4185648-ukraine-finland-sign-memorandum-on-joint-defense-production.html",
+   "date": "2026-11-17T15:03:00.000Z"
+  },
+  {
+   "headline": "NATO secretary general backs strikes on Crimean Bridge: \"It is important that Ukraine defends itself\"",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063303/",
+   "date": "2026-11-17T15:00:00.000Z"
+  },
+  {
+   "headline": "UK anticipates \"number of announcements\" on weapons for Ukraine at Ukraine Defence Contact Group meeting",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063307/",
+   "date": "2026-11-17T15:00:00.000Z"
+  },
+  {
+   "headline": "More than 1,000 air defence missiles for Ukraine as UK delivers £240 million in winter support",
+   "source": "UK Ministry of Defence (GOV.UK)",
+   "link": "https://www.gov.uk/government/news/more-than-1000-air-defence-missiles-for-ukraine-as-uk-delivers-240-million-in-winter-support",
+   "date": "2026-11-17T15:00:00.000Z"
+  },
+  {
+   "headline": "Traffic partially resumed on Kyiv's Pivdennyi Bridge",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063300/",
+   "date": "2026-11-17T14:43:00.000Z"
+  },
+  {
+   "headline": "Ukraine harvests 68.2 Mt of grain and oilseed crops",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-economy/4185647-ukraine-harvests-682-mt-of-grain-and-oilseed-crops.html",
+   "date": "2026-11-17T14:42:00.000Z"
+  },
+  {
+   "headline": "Monument to North Korean soldiers who fought against Ukraine appears in Kursk",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063298/",
+   "date": "2026-11-17T14:38:00.000Z"
+  },
+  {
+   "headline": "Amount of FIFA and UEFA payments to Russia since full-scale invasion revealed",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063286/",
+   "date": "2026-11-17T14:30:00.000Z"
+  },
+  {
+   "headline": "Zelensky announces Berlin talks with US, European allies to shape next phase of Russia negotiations",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/zelensky-announces-berlin-talks-with-us-european-allies-to-shape-next-phase-of-russia-negotiations/",
+   "date": "2026-11-17T14:27:27.000Z"
+  },
+  {
+   "headline": "Zelenskyy outlines preparation for major prisoner swap: intelligence agencies in contact",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063293/",
+   "date": "2026-11-17T14:21:00.000Z"
+  },
+  {
+   "headline": "Once shunned, Poland's Ukraine-bashing firebrand sees political breakthrough",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/once-shunned-polands-ukraine-bashing-firebrand-sees-political-breakthrough/",
+   "date": "2026-11-17T14:08:25.000Z"
+  },
+  {
+   "headline": "EU to assist Ukraine in developing customs IT systems",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-economy/4185624-eu-to-assist-ukraine-in-developing-customs-it-systems.html",
+   "date": "2026-11-17T14:06:00.000Z"
+  },
+  {
+   "headline": "Axios: Witkoff, Kushner to meet Ukrainian, EU officials to discuss peace plan",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4185725-axios-witkoff-kushner-to-meet-ukrainian-eu-officials-to-discuss-peace-plan.html",
+   "date": "2026-11-17T13:52:00.000Z"
+  },
+  {
+   "headline": "BTA Bank to rebrand as NovaBank",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-economy/4185616-bta-bank-to-rebrand-as-novabank.html",
+   "date": "2026-11-17T13:43:00.000Z"
+  },
+  {
+   "headline": "New EU funding rules to protect sports from Russian influence, visa ban in the works",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/new-eu-funding-rules-to-protect-sports-from-russian-influence-visa-ban-in-the-works/",
+   "date": "2026-11-17T13:41:04.000Z"
   },
   {
    "headline": "Ukraine critically damages Kerch bridge linking occupied Crimea with Russia",
    "source": "The Guardian (Ukraine)",
    "link": "https://www.theguardian.com/world/2026/nov/17/ukraine-strikes-critical-damage-russia-kerch-bridge-crimea",
-   "date": "2026-11-17T10:30:22.000Z"
+   "date": "2026-11-17T13:25:02.000Z"
   },
   {
-   "headline": "Russian forces strike Mukachevo in Zakarpattia region",
+   "headline": "Dutch company withdraws lawsuit against Ukraine’s honorary consul in Netherlands over alleged ties to Russia",
    "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185517-russian-forces-strike-mukachevo-in-zakarpattia-region.html",
-   "date": "2026-11-17T10:30:00.000Z"
+   "link": "https://www.ukrinform.net/rubric-polytics/4185582-dutch-company-withdraws-lawsuit-against-ukraines-honorary-consul-in-netherlands-over-alleged-ties-to-russia.html",
+   "date": "2026-11-17T13:00:00.000Z"
   },
   {
-   "headline": "One killed and two injured in Russian attack on Kirovohrad Oblast – photos",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063247/",
-   "date": "2026-11-17T10:13:00.000Z"
-  },
-  {
-   "headline": "Ukraine's Security Service on Crimean Bridge strike: Road section is destroyed and no vehicles can cross it",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063248/",
-   "date": "2026-11-17T10:12:00.000Z"
-  },
-  {
-   "headline": "Kremlin claims to make Crimean Bridge 'better than before' after destruction of arch",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063246/",
-   "date": "2026-11-17T10:12:00.000Z"
-  },
-  {
-   "headline": "Germany pledges $300 million for Ukraine weapons to put Putin 'in his place'",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/germany-pledges-300-million-for-ukraine-weapons-to-put-putin-in-his-place/",
-   "date": "2026-11-17T10:06:34.000Z"
-  },
-  {
-   "headline": "Germany to contribute $300M to new PURL package with Patriot missiles – Pistorius",
+   "headline": "Ukraine’s air defense neutralizes three Russian missiles, three Banderols, 205 drones",
    "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4185501-germany-to-contribute-300m-to-new-purl-package-with-patriot-missiles-pistorius.html",
-   "date": "2026-11-17T10:03:00.000Z"
+   "link": "https://www.ukrinform.net/rubric-ato/4185574-ukraines-air-defense-neutralizes-three-russian-missiles-three-banderols-205-drones.html",
+   "date": "2026-11-17T12:37:00.000Z"
   },
   {
-   "headline": "Ukrainian Sense Bank fires CEO implicated in money laundering scheme",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/ukrainian-sense-bank-fires-ceo-implicated-in-money-laundering-scheme/",
-   "date": "2026-11-17T09:59:15.000Z"
-  },
-  {
-   "headline": "Palianytsia struck road section of Crimean Bridge, Neptune, Ruta, and FP-5 hit rail section - Zelensky",
+   "headline": "General Staff confirms strike on Gazprom oil refinery in Bashkortostan",
    "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185493--palianytsia-struck-road-section-of-crimean-bridge-neptune-ruta-and-fp5-hit-rail-section-zelensky.html",
-   "date": "2026-11-17T09:48:00.000Z"
+   "link": "https://www.ukrinform.net/rubric-ato/4185570-general-staff-confirms-strike-on-gazprom-oil-refinery-in-bashkortostan.html",
+   "date": "2026-11-17T12:15:00.000Z"
   },
   {
-   "headline": "Russia opposes separate Black Sea deal without a peace agreement, Turkish FM says",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4185489-russia-opposes-separate-black-sea-deal-without-a-peace-agreement-turkish-fm-says.html",
-   "date": "2026-11-17T09:41:00.000Z"
-  },
-  {
-   "headline": "Finland's Stubb urges Europe to take Russia talks into its own hands after 'irresponsible' US reliance",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/finlands-stubb-urges-europe-to-take-russia-talks-into-its-own-hands/",
-   "date": "2026-11-17T09:39:07.000Z"
-  },
-  {
-   "headline": "Russian drone strikes police patrol vehicle in Sumy Oblast, injuring two officers – photos",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063241/",
-   "date": "2026-11-17T09:35:00.000Z"
-  },
-  {
-   "headline": "Zelenskyy details weapons used by Ukrainian forces to strike Crimean Bridge – video",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063242/",
-   "date": "2026-11-17T09:35:00.000Z"
-  },
-  {
-   "headline": "Ukrainian Tencore showcases AI-powered evacuation ground robot in Netherlands",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063240/",
-   "date": "2026-11-17T09:26:00.000Z"
-  },
-  {
-   "headline": "Russian strike cuts power to more than 300 settlements in Rivne region",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185482-russian-strike-cuts-power-to-more-than-300-settlements-in-rivne-region.html",
-   "date": "2026-11-17T09:24:00.000Z"
-  },
-  {
-   "headline": "Emergency power outages affect four regions following Russian attacks",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185477-emergency-power-outages-affect-four-regions-following-russian-attacks.html",
-   "date": "2026-11-17T09:17:00.000Z"
-  },
-  {
-   "headline": "One killed and one injured in Russian hit on car park in Vinnytsia",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063235/",
-   "date": "2026-11-17T09:09:00.000Z"
-  },
-  {
-   "headline": "Russian drone strikes parking lot in Vinnytsia, killing one woman and injuring another",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185465-russian-drone-strikes-parking-lot-in-vinnytsia-killing-one-woman-and-injuring-another.html",
-   "date": "2026-11-17T09:06:00.000Z"
-  },
-  {
-   "headline": "Russian forces strike confectionery factory and residential area in Dnipro, injuring seven – photos",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063233/",
-   "date": "2026-11-17T09:05:00.000Z"
-  },
-  {
-   "headline": "Ukrainian Armed Forces hold first-ever sergeants’ forum in Kyiv",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-defense/4185462-ukrainian-armed-forces-hold-firstever-sergeants-forum-in-kyiv.html",
-   "date": "2026-11-17T09:00:00.000Z"
-  },
-  {
-   "headline": "Interview: Lithuania's foreign minister says Europe needs to 'just ignore' Russia's demands and stay focused",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/interview-lithuanias-foreign-minister-says-europe-needs-to-just-ignore-russias-demands-and-stay-focused/",
-   "date": "2026-11-17T08:40:16.000Z"
-  },
-  {
-   "headline": "Russian attack on Kyiv kills two, injures one",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185451-russian-attack-on-kyiv-kills-two-injures-one.html",
-   "date": "2026-11-17T08:35:00.000Z"
-  },
-  {
-   "headline": "Ukraine should join NATO, must not give up territory in exchange, Estonian DM says",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4185445--ukraine-should-join-nato-must-not-give-up-territory-in-exchange-estonian-dm-says.html",
-   "date": "2026-11-17T08:27:00.000Z"
-  },
-  {
-   "headline": "Two killed and one injured in Russian attack on Kyiv",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063228/",
-   "date": "2026-11-17T08:26:00.000Z"
-  },
-  {
-   "headline": "Germany announces joint package with Norway to purchase Patriot missiles for Ukraine",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063227/",
-   "date": "2026-11-17T08:20:00.000Z"
-  },
-  {
-   "headline": "Two killed and 31 injured in Russian attack on industrial facilities in Zaporizhzhia",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063226/",
-   "date": "2026-11-17T08:18:00.000Z"
-  },
-  {
-   "headline": "Ukraine drone attack kills two in Crimea as Kyiv targets bridge to Russia",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/news/2026/11/17/ukrainian-drone-attack-kills-two-in-crimea-as-kyiv-targets-kerch-bridge?traffic_source=rss",
-   "date": "2026-11-17T08:12:06.000Z"
-  },
-  {
-   "headline": "Fire breaks out at a petrochemical complex after attack in Russia’s Bashkortostan – media",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185432-fire-breaks-out-at-a-petrochemical-complex-after-attack-in-russias-bashkortostan-media.html",
-   "date": "2026-11-17T07:59:00.000Z"
-  },
-  {
-   "headline": "IMF notes progress on structural benchmarks required for US$1.6bn tranche",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063220/",
-   "date": "2026-11-17T07:54:00.000Z"
-  },
-  {
-   "headline": "Ukrainian forces used Flamingo missile to strike Crimean Bridge – videos",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063218/",
-   "date": "2026-11-17T07:48:00.000Z"
-  },
-  {
-   "headline": "Russian missile strike on Smila damages industrial facilities, injures six",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185426-russian-missile-strike-on-smila-damages-industrial-facilities-injures-six.html",
-   "date": "2026-11-17T07:40:00.000Z"
-  },
-  {
-   "headline": "Death toll from attack on Chernihiv rises to three – photos",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063213/",
-   "date": "2026-11-17T07:40:00.000Z"
-  },
-  {
-   "headline": "Finnish president explains why European leaders need direct dialogue with Putin",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063212/",
-   "date": "2026-11-17T07:39:00.000Z"
-  },
-  {
-   "headline": "Russians attack Odesa Oblast, damaging energy facility, warehouses and student accommodation, one injured",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063215/",
-   "date": "2026-11-17T07:39:00.000Z"
-  },
-  {
-   "headline": "Kyiv’s Northern and Southern Bridges remain closed as experts assess damage from Russian attack – Klitschko",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185420-kyivs-northern-and-southern-bridges-remain-closed-as-experts-assess-damage-from-russian-attack-klitschko.html",
-   "date": "2026-11-17T07:29:00.000Z"
-  },
-  {
-   "headline": "Russian attack on industrial facilities in Zaporizhzhia kills one, injures nine",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185418-russian-attack-on-industrial-facilities-in-zaporizhzhia-kills-one-injures-nine.html",
-   "date": "2026-11-17T07:19:00.000Z"
-  },
-  {
-   "headline": "Russia claims it shot down a record number of Ukrainian drones overnight",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/17/8063209/",
-   "date": "2026-11-17T07:16:00.000Z"
-  },
-  {
-   "headline": "317 buildings in Kyiv’s Darnytskyi district left without heating after Russian attack",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185409-317-buildings-in-kyivs-darnytskyi-district-left-without-heating-after-russian-attack.html",
-   "date": "2026-11-17T07:11:00.000Z"
-  },
-  {
-   "headline": "One of Crimean Bridge’s arches damaged in second strike",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185406-one-of-crimean-bridges-arches-damaged-in-second-strike.html",
-   "date": "2026-11-17T07:01:00.000Z"
-  },
-  {
-   "headline": "War update: 135 combat engagements on front line over past day",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185400-war-update-135-combat-engagements-on-front-line-over-past-day.html",
-   "date": "2026-11-17T06:54:00.000Z"
-  },
-  {
-   "headline": "Russian shelling reported in four Kyiv districts, one person injured",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185397-russian-shelling-reported-in-four-kyiv-districts-one-person-injured.html",
-   "date": "2026-11-17T06:39:00.000Z"
-  },
-  {
-   "headline": "Russian army loses another 1,620 personnel, four MLRS in Ukraine",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185395-russian-army-loses-another-1620-personnel-four-mlrs-in-ukraine.html",
-   "date": "2026-11-17T06:21:00.000Z"
+   "headline": "Japan sends up jets after alleged Russian incursion of its airspace",
+   "source": "BBC News Europe",
+   "link": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-17T07:44:17.000Z"
   },
   {
    "headline": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
@@ -371,46 +467,10 @@
    "date": "2026-11-17T05:59:01.000Z"
   },
   {
-   "headline": "Car driver killed in drone attack on Zaporizhzhia",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185381-car-driver-killed-in-drone-attack-on-zaporizhzhia.html",
-   "date": "2026-11-17T05:53:00.000Z"
-  },
-  {
-   "headline": "Traffic suspended on Kyiv's Northern and Southern bridges following Russian attacks",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185380-traffic-suspended-on-kyivs-northern-and-southern-bridges-following-russian-attacks.html",
-   "date": "2026-11-17T05:39:00.000Z"
-  },
-  {
-   "headline": "Woman rescued from rubble of damaged industrial facility in Zaporizhzhia",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4185378-woman-rescued-from-rubble-of-damaged-industrial-facility-in-zaporizhzhia.html",
-   "date": "2026-11-17T05:15:00.000Z"
-  },
-  {
-   "headline": "Fire reported at major Russian petrochemical complex in Bashkortostan amid drone attack",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/fire-reported-at-major-russian-petrochemical-complex-in-bashkortostan-amid-drone-attack/",
-   "date": "2026-11-17T04:23:49.000Z"
-  },
-  {
-   "headline": "South Korea scrambles fighter jets after Russian military aircraft enter air defense zone",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/south-korea-scrambles-fighter-jets-after-russian-military-aircraft-enter-air-defense-zone/",
-   "date": "2026-11-17T03:26:35.000Z"
-  },
-  {
    "headline": "Ukraine war briefing: Crimea bridge attacked again after Russia strikes major Kyiv bridges",
    "source": "The Guardian (Ukraine)",
    "link": "https://www.theguardian.com/world/2026/nov/17/ukraine-war-briefing-crimea-bridge-attacked-again-after-russia-strikes-major-kyiv-bridges",
    "date": "2026-11-17T03:12:08.000Z"
-  },
-  {
-   "headline": "Estonia plans to send over 70 locomotives to Ukraine, first deliveries possible this year",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/estonia-plans-to-send-over-70-locomotives-to-ukraine-first-deliveries-possible-this-year/",
-   "date": "2026-11-17T02:15:08.000Z"
   },
   {
    "headline": "Entire section of Crimean Bridge collapses after 'seven-phase operation,' Zelensky reveals",
@@ -419,28 +479,10 @@
    "date": "2026-11-17T00:40:27.000Z"
   },
   {
-   "headline": "European foreign ministers call on EU to crack down on Russian crypto networks",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/european-foreign-ministers-call-on-eu-to-crack-down-on-russian-crypto-networks-financing-war-against-ukraine/",
-   "date": "2026-11-16T23:49:54.000Z"
-  },
-  {
    "headline": "2 key bridges in Kyiv struck in massive Russian ballistic missile attack across Ukraine",
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/key-bridges-in-kyiv-struck-in-massive-russian-ballistic-missile-attack-across-ukraine/",
    "date": "2026-11-16T22:20:30.000Z"
-  },
-  {
-   "headline": "Zelensky warns of imminent Russian attacks, 'extremely dangerous' North Korean missile development",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/zelensky-warns-of-imminent-russian-attacks-extremely-dangerous-north-korean-missile-development/",
-   "date": "2026-11-16T21:27:18.000Z"
-  },
-  {
-   "headline": "A new defense for Ukraine's corruption suspects: Anti-graft probes help Russia at the negotiating table",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/a-new-defense-for-ukraines-corruption-suspects-anti-graft-probes-help-russia-at-the-negotiating-table/",
-   "date": "2026-11-16T20:29:01.000Z"
   },
   {
    "headline": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
@@ -521,18 +563,6 @@
    "date": "2026-11-15T03:38:18.000Z"
   },
   {
-   "headline": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-   "source": "BBC News Europe",
-   "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-14T22:37:25.000Z"
-  },
-  {
-   "headline": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-   "source": "BBC News Europe",
-   "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-14T15:53:55.000Z"
-  },
-  {
    "headline": "Zelenskyy accuses SpaceX of lying about Starshield – and says US floated Donbas-for-Nato deal",
    "source": "The Guardian (Ukraine)",
    "link": "https://www.theguardian.com/world/2026/nov/14/spacex-not-honest-slowing-starshield-elon-musk-volodymyr-zelenskyy",
@@ -551,46 +581,16 @@
    "date": "2026-11-14T07:00:40.000Z"
   },
   {
-   "headline": "Ukraine war briefing: Zelenskyy says Starshield restrictions continue on ‘entire front line’",
-   "source": "The Guardian (Ukraine)",
-   "link": "https://www.theguardian.com/world/2026/nov/14/ukraine-war-briefing-zelenskyy-says-starshield-restrictions-continue-on-entire-front-line",
-   "date": "2026-11-14T02:06:00.000Z"
-  },
-  {
-   "headline": "Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns",
-   "source": "The Guardian (Ukraine)",
-   "link": "https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit",
-   "date": "2026-11-13T20:38:25.000Z"
-  },
-  {
    "headline": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
    "source": "BBC News Europe",
    "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-13T16:40:31.000Z"
   },
   {
-   "headline": "Europe should not walk into Russia’s ‘traps’ on Ukraine talks, EU’s foreign policy chief Kallas says – as it happened",
-   "source": "The Guardian (Ukraine)",
-   "link": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
-   "date": "2026-11-13T16:39:34.000Z"
-  },
-  {
-   "headline": "Moscow car bomb severely injures former aide to Ukraine’s pro-Russia ex-PM",
-   "source": "The Guardian (Ukraine)",
-   "link": "https://www.theguardian.com/world/2026/nov/13/car-bomb-attack-moscow-russia",
-   "date": "2026-11-13T13:01:44.000Z"
-  },
-  {
    "headline": "Ukraine’s drone pioneers bring battle-tested tech and high-skilled jobs to Britain",
    "source": "UK Ministry of Defence (GOV.UK)",
    "link": "https://www.gov.uk/government/news/ukraines-drone-pioneers-bring-battle-tested-tech-and-high-skilled-jobs-to-britain",
    "date": "2026-11-12T17:07:37.000Z"
-  },
-  {
-   "headline": "Inside devastated front-line city that Russia wants Ukraine to give up",
-   "source": "BBC News Europe",
-   "link": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-10T17:00:11.000Z"
   },
   {
    "headline": "Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom",
