@@ -2,6 +2,16 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-17 06:41 Toronto — Middle East — OK
+- Added 5 event(s):
+  - `manama-1117` 2026-11-17 [DISPUTED] IRGC says drones hit US radar at Isa airbase in Bahrain; Bahrain says attack was intercepted
+  - `khasab-1117` 2026-11-17 [ONE_PARTY] IRGC says two tankers caught fire after hitting mines and that it seized a US drone near Qeshm
+  - `khasab-1116-2` 2026-11-16 [UNVERIFIED] Indian minister says no casualties after missile hit LPG tanker Tara Gas in Hormuz
+  - `jericho-1117` 2026-11-17 [DISPUTED] Palestinian woman, 72, shot dead overnight in Duyuk al-Tahta near Jericho; Israeli military describes a car-ramming clash
+  - `doha-1117` 2026-11-17 [ONE_PARTY] Qatar says it will meet Iranian officials Tuesday as mediation continues
+- 6 new source link(s)
+- Totals: 83 events, 18 stats, 125 sources; coverage 2026-10-06 to 2026-11-17
+
 ## 2026-11-17 06:04 Toronto — Ukraine — OK
 - Added 5 event(s):
   - `kerch-1116` 2026-11-16 [UNVERIFIED] Crimean Bridge reportedly hit; Ukraine's General Staff says a span collapsed
