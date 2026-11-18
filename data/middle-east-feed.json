@@ -1,12 +1,12 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-18T11:08:49+00:00",
+  "lastUpdated": "2026-11-18T11:42:02+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
     "source": "Al Jazeera",
     "ok": true,
-    "count": 3
+    "count": 5
    },
    {
     "source": "BBC News Middle East",
@@ -52,6 +52,24 @@
  },
  "items": [
   {
+   "headline": "India lodges complaint against Palestinian footballer after under-17 match",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/sports/2026/11/18/india-lodges-complaint-against-palestinian-footballer-after-under-17-match?traffic_source=rss",
+   "date": "2026-11-18T11:32:24.000Z"
+  },
+  {
+   "headline": "Tim Hortons accused of sharing user data with firm linked to Israeli army",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/18/tim-hortons-app-sharing-extensive-data-with-israeli-military-linked-firm?traffic_source=rss",
+   "date": "2026-11-18T11:30:34.000Z"
+  },
+  {
+   "headline": "Trump lands in China for meeting with Xi and Putin",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-lands-china-meeting-xi-and-putin",
+   "date": "2026-11-18T11:09:50.000Z"
+  },
+  {
    "headline": "Why has an NYT report on Iran’s dams ignited fierce pushback?",
    "source": "Al Jazeera",
    "link": "https://www.aljazeera.com/news/2026/11/18/why-has-an-nyt-report-on-irans-dams-ignited-fierce-pushback?traffic_source=rss",
@@ -70,7 +88,7 @@
    "date": "2026-11-18T10:30:32.000Z"
   },
   {
-   "headline": "Fears grow over US sanctions on ICJ judges ahead of Myanmar genocide ruling",
+   "headline": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
    "source": "The Guardian (Middle East)",
    "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
    "date": "2026-11-18T09:58:28.000Z"
@@ -290,12 +308,6 @@
    "source": "France 24 Middle East",
    "link": "https://www.france24.com/en/major-setbacks-for-netanyahu-ahead-of-vote-to-name-new-knesset-speaker",
    "date": "2026-11-17T21:05:20.000Z"
-  },
-  {
-   "headline": "Iraq resumes shipping oil for export to Turkey via pipeline",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/news/iraq-resumes-shipping-oil-export-turkey-pipeline",
-   "date": "2026-11-17T20:58:46.000Z"
   },
   {
    "headline": "Iraq and Turkey resume oil flows via pipeline damaged by ISIS: What to know",
