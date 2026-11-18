@@ -2,12 +2,12 @@
  "schemaVersion": 1,
  "map": "ukraine",
  "meta": {
-  "lastUpdated": "2026-11-17T06:04:45-05:00",
-  "coverage": "2026-10-10 to 2026-11-17",
+  "lastUpdated": "2026-11-18T06:08:08-05:00",
+  "coverage": "2026-10-10 to 2026-11-18",
   "notes": [
-   "Refreshed Nov 17, 2026 (UTC morning) from Telegram channels of the Ukrainian General Staff (GeneralStaffZSU), Air Force (kpszsu, alert posts only) and Russian MoD (mod_russia), Kyiv Independent and Ukrinform articles of Nov 16, and the headline leads file (pulled Nov 16 ~20:37 UTC, so it does not cover Nov 17).",
-   "Not read this run: ISW/Critical Threats assessment, X posts, BBC (fetch blocked), Reuters/AP direct. No Ukrainian Air Force launch/interception count for the night of Nov 16-17 was found.",
-   "Crimean Bridge: the Kyiv Independent (Nov 16) reports a strike on an arch and Russian-installed traffic restrictions but could not confirm damage; Ukraine's General Staff post, dated Nov 17, says a span collapsed. The dates and extent of damage are unresolved.",
+   "Refreshed Nov 18, 2026 (UTC midday) from the Telegram channels of the Ukrainian General Staff (GeneralStaffZSU), Air Force (kpszsu, alert posts only) and Russian MoD (mod_russia), Kyiv Independent and Ukrinform articles of Nov 16-17, and the headline leads file (pulled Nov 17 ~19:17 UTC, so it does not cover Nov 18).",
+   "Not read this run: ISW/Critical Threats assessments for Nov 15-17 (understandingwar.org returned 403; web search found none newer than Nov 14), direct X posts (searches returned only news sites), BBC and Guardian (fetch blocked, headlines only), Reuters/AP. No Air Force launch count beyond the General Staff's morning summaries was found.",
+   "Crimean Bridge: Ukraine's SBU and General Staff say an arch and the road span collapsed overnight into Nov 17; Russian officials confirm a strike and suspended traffic but gave no damage assessment, and no satellite imagery was read, so the extent of damage is unverified.",
    "Coordinates are city-level or approximate (see coordPrecision); markers flagged 'oblast' are not geolocated.",
    "Casualty figures are as reported by the cited outlet at time of writing and may have been revised."
   ]
@@ -4366,7 +4366,7 @@
    "type": "deep-strike",
    "status": "UNVERIFIED",
    "title": "Crimean Bridge reportedly hit; Ukraine's General Staff says a span collapsed",
-   "caption": "The Kyiv Independent reports a strike on an arch of the Crimean (Kerch) Bridge at about 05:38 local time on Nov 16, citing the pro-Ukrainian monitor Crimean Wind, and says Russian-installed Crimean head Sergey Aksyonov announced traffic restrictions; it could not confirm the damage and Kyiv had not commented at the time. A later General Staff post, dated Nov 17, says the road span and arch collapsed, the road is out of action and the rail arch is damaged. Ukrainska Pravda headlines say Russians claim the bridge partially reopened to traffic. The extent of damage and the exact date are not independently established. The marker sits at Kerch, near the bridge.",
+   "caption": "The Kyiv Independent reports a strike on an arch of the Crimean (Kerch) Bridge at about 05:38 local time on Nov 16, citing the pro-Ukrainian monitor Crimean Wind, and says Russian-installed Crimean head Sergey Aksyonov announced traffic restrictions; it could not confirm the damage and Kyiv had not commented at the time. A later General Staff post, dated Nov 17, says the road span and arch collapsed, the road is out of action and the rail arch is damaged. Ukrainska Pravda headlines say Russians claim the bridge partially reopened to traffic. The extent of damage and the exact date are not independently established. The marker sits at Kerch, near the bridge. Update (Nov 18): later reporting, including Zelensky and the SBU, places the collapse overnight into Nov 17; see event kerch-1117.",
    "lat": 45.3568,
    "lon": 36.4754,
    "coordPrecision": "approx",
@@ -4449,6 +4449,29 @@
    "read": "full"
   },
   {
+   "id": "vlasivka-1116",
+   "date": "2026-11-16",
+   "region": "rear",
+   "oblast": "Kirovohrad",
+   "front": "Rear (Kirovohrad)",
+   "type": "other",
+   "status": "ONE_PARTY",
+   "title": "Russian attack destroys Korolivskyi Smak food plant in Kirovohrad region; one killed",
+   "caption": "Ukrinform reports that a Russian attack on Nov 16 started a fire at the Korolivskyi Smak sunflower-oil plant in Vlasivka (Svitlovodsk community); by the next day the company said the plant was completely destroyed and production permanently halted. Ukrinform's earlier reporting, as cited in the article, said one person was killed and two injured. Statements come from the company's PR director on Facebook and Ukrinform; no Russian statement or independent confirmation was read.",
+   "lat": 49.1183,
+   "lon": 33.2797,
+   "coordPrecision": "approx",
+   "place": "Vlasivka",
+   "sources": [
+    {
+     "id": "ukrinform_vlasivka_1117",
+     "title": "Ukrinform: Korolivskyi Smak plant in Kirovohrad region destroyed following Russian strike (Nov 17)",
+     "url": "https://www.ukrinform.net/rubric-economy/4185664-korolivskyi-smak-plant-in-kirovohrad-region-destroyed-following-russian-strike.html"
+    }
+   ],
+   "read": "full"
+  },
+  {
    "id": "salavat-1117",
    "date": "2026-11-17",
    "region": "russia",
@@ -4510,17 +4533,219 @@
     }
    ],
    "read": "snippet"
+  },
+  {
+   "id": "kyiv-1117",
+   "date": "2026-11-17",
+   "region": "rear",
+   "oblast": "Kyiv City",
+   "front": "Rear (Kyiv)",
+   "type": "missile",
+   "status": "CONFIRMED",
+   "title": "Russian ballistic missiles hit Kyiv's Northern and Southern bridges; two killed in Obolonskyi district",
+   "caption": "The Kyiv Independent reports that Russian ballistic missiles struck Kyiv's Northern (Pivnichnyi) and Southern (Pivdennyi) bridges over the Dnipro overnight into Nov 17. President Zelensky said seven ballistic missiles were aimed at the bridges, four at the Southern and three at the Northern; he did not say how many hit. Both bridges were closed; by about 16:00 the Southern Bridge had partly reopened to light vehicles. Two people were killed in Obolonskyi district, and the State Emergency Service did not say whether they died in the missile strike or a later drone alert. The marker sits at central Kyiv, not at the bridges. No Russian statement on the bridge strikes was read.",
+   "lat": 50.4547,
+   "lon": 30.5238,
+   "coordPrecision": "approx",
+   "place": "Kyiv",
+   "sources": [
+    {
+     "id": "ki_bridges_1117",
+     "title": "Kyiv Independent: Key bridges in Kyiv struck in massive Russian ballistic missile attack across Ukraine (Nov 17)",
+     "url": "https://kyivindependent.com/key-bridges-in-kyiv-struck-in-massive-russian-ballistic-missile-attack-across-ukraine/"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Ukraine's President Zelensky (via Kyiv Independent)",
+     "says": "Seven ballistic missiles were aimed at the bridges: four at the Southern Bridge and three at the Northern Bridge.",
+     "source": "ki_bridges_1117"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "zaporizhzhia-1117",
+   "date": "2026-11-17",
+   "region": "south",
+   "oblast": "Zaporizhzhia",
+   "front": "Zaporizhzhia",
+   "type": "missile",
+   "status": "CONFIRMED",
+   "title": "Russian attack on Zaporizhzhia kills two, injures 31; industrial facility hit",
+   "caption": "The Kyiv Independent reports that two people were killed and 31 injured in Zaporizhzhia during the overnight Russian attack into Nov 17, and that an industrial facility was hit. Zaporizhzhia, Dnipropetrovsk and Kharkiv oblasts had significant power outages, and DTEK said about 700,000 households in Dnipropetrovsk Oblast were affected. Russia's MoD (Nov 17 summary) says it struck defence plants, energy, transport and port infrastructure but gave no casualty figures.",
+   "lat": 47.8517,
+   "lon": 35.1171,
+   "coordPrecision": "city",
+   "place": "Zaporizhzhya",
+   "sources": [
+    {
+     "id": "ki_bridges_1117",
+     "title": "Kyiv Independent: Key bridges in Kyiv struck in massive Russian ballistic missile attack across Ukraine (Nov 17)",
+     "url": "https://kyivindependent.com/key-bridges-in-kyiv-struck-in-massive-russian-ballistic-missile-attack-across-ukraine/"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "kerch-1117",
+   "date": "2026-11-17",
+   "region": "crimea-sea",
+   "oblast": "Crimea (occupied)",
+   "front": "Crimea (occupied)",
+   "type": "deep-strike",
+   "status": "UNVERIFIED",
+   "title": "Crimean Bridge: arch and road span reported collapsed after Ukrainian strike",
+   "caption": "Overnight into Nov 17, Zelensky called a strike on the Crimean (Kerch) Bridge the seventh phase of an operation under way for several weeks, saying Palianytsia drones hit the road section and Neptune missiles with Ruta and FP-5 drones hit the rail section. The SBU said one metal arch and the road span under it were completely destroyed. The Kyiv Independent reports that a section collapsed into the strait, citing social-media photos and OSINT video, and said road and rail traffic were closed; a later headline there says trains resumed while road traffic stays halted. Russian-installed Crimean head Aksyonov said Ukraine struck the bridge and traffic was suspended; Russia's Transport Ministry said preliminary information showed no casualties; Kremlin spokesman Peskov said the bridge will be restored. No independent damage assessment (e.g. satellite imagery) was read, so the extent of damage is unverified. Marker is at Kerch, near the bridge.",
+   "lat": 45.3568,
+   "lon": 36.4754,
+   "coordPrecision": "approx",
+   "place": "Kerch",
+   "sources": [
+    {
+     "id": "ki_kerch_1117",
+     "title": "Kyiv Independent: Ukrainian forces reportedly strike Crimean Bridge after Russian missiles hit Kyiv bridges (Nov 17)",
+     "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-crimean-bridge-after-russian-missiles-hit-kyiv-bridges/"
+    },
+    {
+     "id": "ki_kerch_an_1117",
+     "title": "Kyiv Independent: Analysis: Why Ukraine's strike on the Crimean Bridge is such a big deal (Nov 17)",
+     "url": "https://kyivindependent.com/analysis-why-ukraines-strike-on-the-crimean-bridge-is-such-a-big-deal/"
+    },
+    {
+     "id": "gs_kerch_1117",
+     "title": "General Staff of Ukraine (Telegram): Defence Forces hit the Kerch bridge, span fell (dated Nov 17)",
+     "url": "https://t.me/GeneralStaffZSU/42926"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Ukraine's SBU and General Staff",
+     "says": "An arch and the road span collapsed; the road section is out of use and the rail arch is damaged.",
+     "source": "gs_kerch_1117"
+    },
+    {
+     "who": "Russia's Transport Ministry and Crimean head Aksyonov (via Kyiv Independent)",
+     "says": "Road and rail traffic was suspended; preliminary information showed no casualties.",
+     "source": "ki_kerch_1117"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "vinnytsia-1117",
+   "date": "2026-11-17",
+   "region": "rear",
+   "oblast": "Vinnytsia",
+   "front": "Rear (Vinnytsia)",
+   "type": "other",
+   "status": "ONE_PARTY",
+   "title": "Russian strike on central Vinnytsia injures four",
+   "caption": "Ukrinform, relaying Vinnytsia Mayor Serhii Morhunov's preliminary account, reports a Russian strike on a civilian infrastructure facility in central Vinnytsia on the evening of Nov 17. Four people sought medical help (three with acoustic barotrauma, one with acute stress reaction) and are in stable condition. The article gives no damage details and the weapon type is not stated. No Russian statement was read.",
+   "lat": 49.2322,
+   "lon": 28.4687,
+   "coordPrecision": "city",
+   "place": "Vinnytsya",
+   "sources": [
+    {
+     "id": "ukrinform_vinnytsia_1117",
+     "title": "Ukrinform: Russian strike on central Vinnytsia injures four (Nov 17)",
+     "url": "https://www.ukrinform.net/rubric-ato/4185762-russian-strike-on-central-vinnytsia-injures-four.html"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "mukachevo-1117",
+   "date": "2026-11-17",
+   "region": "rear",
+   "oblast": "Zakarpattia",
+   "front": "Rear (west)",
+   "type": "drone",
+   "status": "CONFIRMED",
+   "title": "Russian drone hits near Mukachevo railway station; Hungary halts rail service for two days",
+   "caption": "The Kyiv Independent reports that three Shahed-type drones were detected over Zakarpattia on Nov 17; one hit the Mukachevo community and two were suppressed by electronic warfare. Hungarian Prime Minister Péter Magyar said a drone came down about 300 metres from Mukachevo railway station and the crew of a train arriving from Hungary was evacuated; Hungary is halting rail traffic to and from Ukraine for two days. Governor Myroslav Biletskyi reported no casualties or damage, and Ukrzaliznytsia said no rail infrastructure was damaged.",
+   "lat": 48.4425,
+   "lon": 22.718,
+   "coordPrecision": "city",
+   "place": "Mukachevo",
+   "sources": [
+    {
+     "id": "ki_mukachevo_1117",
+     "title": "Kyiv Independent: Hungary halts rail services with Ukraine for 2 days after Russian attack on Zakarpattia (Nov 17)",
+     "url": "https://kyivindependent.com/hungary-halts-rail-services-with-ukraine-for-2-days-after-russian-attack-on-zakarpattia/"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Hungarian PM Péter Magyar (via Kyiv Independent)",
+     "says": "A drone fell about 300 m from Mukachevo station; Hungary halts rail traffic with Ukraine for two days.",
+     "source": "ki_mukachevo_1117"
+    },
+    {
+     "who": "Zakarpattia governor and Ukrzaliznytsia (via Kyiv Independent)",
+     "says": "No casualties, damage or rail infrastructure damage reported.",
+     "source": "ki_mukachevo_1117"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "chisinau-1117",
+   "date": "2026-11-17",
+   "region": "rear",
+   "oblast": "Moldova",
+   "front": "Rear (west)",
+   "type": "drone",
+   "status": "CONFIRMED",
+   "title": "Seven drones enter Moldovan airspace during Russian attack on Ukraine; one over Chisinau",
+   "caption": "The Kyiv Independent reports, citing Moldova's Defence Ministry, that seven drones entered Moldovan airspace on Nov 17 during the Russian attack on Ukraine, with one Shahed-type drone seen over Chisinau. Five crashed near the villages of Cheltuitori, Pohorniceni, Pohrebeni, Cuhurestii de Jos and Baxani (Cheltuitori is about 10.7 km from the capital), a possible sixth impact was reported in Ocnita district, and the seventh disappeared from radar near Leova. No casualties were reported. President Maia Sandu condemned the violation and said Moldova lacks the means to counter drones. Marker is at Chisinau, approximate. No Russian statement was read.",
+   "lat": 47.009,
+   "lon": 28.8594,
+   "coordPrecision": "approx",
+   "place": "Chisinau",
+   "sources": [
+    {
+     "id": "ki_moldova_1117",
+     "title": "Kyiv Independent: 7 drones cross into Moldovan airspace during latest Russian attack against Ukraine, 1 spotted over Chisinau (Nov 17)",
+     "url": "https://kyivindependent.com/7-drones-cross-into-moldovan-airspace-during-latest-russian-attack-against-ukraine-1-spotted-over-chisinau/"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "izmail-1118",
+   "date": "2026-11-18",
+   "region": "south",
+   "oblast": "Odesa",
+   "front": "South (Odesa)",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Russia's MoD claims drone strikes on Izmail port infrastructure and a cargo ship",
+   "caption": "Russia's Ministry of Defence says its drones struck infrastructure in the Danube port of Izmail used for unloading and storing military cargo for Ukraine's forces, and a dry-cargo ship at sea carrying dual-use cargo to the port of Pivdennyi, overnight into Nov 18. Ukraine's General Staff reported hits by Russian drones at 7 locations overnight but named none. No Ukrainian statement on Izmail and no independent confirmation were read.",
+   "lat": 45.3506,
+   "lon": 28.8375,
+   "coordPrecision": "city",
+   "place": "Izmail",
+   "sources": [
+    {
+     "id": "mod_strikes_1118",
+     "title": "Russian MoD (Telegram): strikes on Izmail port and a cargo ship (Nov 18)",
+     "url": "https://t.me/mod_russia/69108"
+    }
+   ],
+   "read": "full"
   }
  ],
  "stats": [
   {
    "label": "Russian military personnel losses (cumulative, since Feb 24, 2022)",
    "category": "casualties",
-   "asOf": "2026-11-16",
+   "asOf": "2026-11-18",
    "status": "ONE_PARTY",
    "ukraine": {
-    "value": "~1,625,420 killed and wounded, calculated from the Nov 15 figure of ~1,622,860 plus the General Staff's +2,560 for the past day (Nov 16 summary); the cumulative tally itself is posted as an image and was not read",
-    "source": "gs_ops_1116"
+    "value": "~1,629,010 killed and wounded, calculated from the Nov 16 figure of ~1,625,420 plus the General Staff's +1,620 (Nov 17) and +1,970 (Nov 18); the cumulative tally itself is posted as an image and was not read",
+    "source": "gs_ops_1118"
    },
    "russia": {
     "value": "No official cumulative figure published",
@@ -4830,10 +5055,10 @@
   {
    "label": "Komyshuvakha strike deaths (Nov 2)",
    "category": "casualties",
-   "asOf": "2026-11-07",
+   "asOf": "2026-11-18",
    "ukraine": {
-    "value": "55 dead (SES via Ukrainska Pravda, Nov 7; KI: at least 55 with 50+ still missing); Semikin: 53 on Nov 6; Zelensky: 43 confirmed killed (Nov 5); civilians at a publicised aid distribution",
-    "source": "up_komysh_1107"
+    "value": "72 killed, 4 still missing; rescue operation ended after two weeks (Interior Minister Vyhivskyi, via Kyiv Independent, Nov 16). Earlier: SES 55 dead (Nov 7); Zelensky 43 (Nov 5). Civilians at a publicised aid distribution; a second strike hit rescuers and a shelter",
+    "source": "ki_komysh_1116"
    },
    "russia": {
     "value": "Reuters: MoD said it targeted Ukrainian military units around Komyshuvakha and two other settlements, killing up to 25 servicemen; BBC Russian and Meduza said the MoD did not comment on the strike itself",
@@ -4852,7 +5077,8 @@
      "value": "RFE/RL relayed the rising SES toll (toward 55) on Nov 7; Reuters and BBC Verify verified bodycam footage of the second strike but gave no independent toll",
      "source": "rferl_1107"
     }
-   ]
+   ],
+   "status": "DISPUTED"
   },
   {
    "label": "Russian strike on Ukraine (night of Nov 2-3)",
@@ -5354,15 +5580,45 @@
   {
    "label": "Russian drones and missiles launched at Ukraine (night of Nov 16-17)",
    "category": "shootdowns",
-   "asOf": "2026-11-17",
-   "status": "ONE_PARTY",
+   "asOf": "2026-11-18",
+   "status": "DISPUTED",
    "ukraine": {
-    "value": "No Air Force launch count read for this night; alerts posted for jet-powered drones and 'Banderol' missiles across central, east and south Ukraine",
-    "source": null
+    "value": "306 Shahed-type drones (92 jet-powered), Gerbera, S8000 Banderol/Dan-T and Parodiya decoys, plus Iskander-M/Zircon/S-400 ballistic missiles, Iskander-K cruise missiles and Kh-59/Kh-69 guided missiles (missile counts not given). As of 12:00: 205 drones, 3 Kh-59/69 and 3 Banderol downed or suppressed; 44 locations hit (General Staff)",
+    "source": "gs_air_1117"
    },
    "russia": {
     "value": "MoD claims a 'massive' strike with high-precision weapons and drones on defence plants, energy, transport and port infrastructure in Kyiv, Zaporizhzhia, Cherkasy, Dnipropetrovsk, Kharkiv and Odesa regions, plus a cargo ship",
     "source": "mod_strikes_1117"
+   },
+   "independent": []
+  },
+  {
+   "label": "Russian drones and missiles launched at Ukraine (night of Nov 17-18)",
+   "category": "shootdowns",
+   "asOf": "2026-11-18",
+   "status": "DISPUTED",
+   "ukraine": {
+    "value": "141 Shahed-type drones (73 jet-powered), Gerbera and Parodiya decoys; 126 downed or suppressed as of 08:00 (59 jet-powered), some still airborne; hits at 7 locations (General Staff)",
+    "source": "gs_air_1118"
+   },
+   "russia": {
+    "value": "No launch count published; MoD says drones hit Izmail port infrastructure and a dry-cargo ship heading to Pivdennyi",
+    "source": "mod_strikes_1118"
+   },
+   "independent": []
+  },
+  {
+   "label": "Ukrainian drones shot down over Russia (Nov 17-18)",
+   "category": "shootdowns",
+   "asOf": "2026-11-18",
+   "status": "ONE_PARTY",
+   "ukraine": {
+    "value": "No count published",
+    "source": null
+   },
+   "russia": {
+    "value": "MoD claims 184 fixed-wing drones intercepted overnight (20:00 Nov 17 to 08:00 Nov 18 Moscow time) over Belgorod and Rostov regions, Krasnodar Krai, Crimea and the Azov Sea",
+    "source": "mod_pvo_1118"
    },
    "independent": []
   }
@@ -6702,6 +6958,71 @@
    "id": "mod_zalyvne_1117",
    "title": "Russian MoD (Telegram): Vostok group takes Zalyvne, Zaporizhzhia region (Nov 17)",
    "url": "https://t.me/mod_russia/69079"
+  },
+  {
+   "id": "gs_ops_1118",
+   "title": "General Staff of Ukraine (Telegram): operational information as of 08:00 Nov 18, losses over past day",
+   "url": "https://t.me/GeneralStaffZSU/42932"
+  },
+  {
+   "id": "gs_air_1117",
+   "title": "General Staff of Ukraine (Telegram): 211 targets downed/suppressed, night of Nov 16-17",
+   "url": "https://t.me/GeneralStaffZSU/42928"
+  },
+  {
+   "id": "gs_air_1118",
+   "title": "General Staff of Ukraine (Telegram): 126 targets downed/suppressed, night of Nov 17-18",
+   "url": "https://t.me/GeneralStaffZSU/42933"
+  },
+  {
+   "id": "mod_strikes_1118",
+   "title": "Russian MoD (Telegram): strikes on Izmail port and a cargo ship (Nov 18)",
+   "url": "https://t.me/mod_russia/69108"
+  },
+  {
+   "id": "mod_pvo_1118",
+   "title": "Russian MoD (Telegram): 184 Ukrainian drones shot down overnight Nov 18",
+   "url": "https://t.me/mod_russia/69109"
+  },
+  {
+   "id": "ki_komysh_1116",
+   "title": "Kyiv Independent: Komyshuvakha rescue operation ceases two weeks after Russian strike; 72 dead, 4 still missing (Nov 16)",
+   "url": "https://kyivindependent.com/komyshuvakha-rescue-operation-cease-two-weeks-after-russian-strike-72-dead-4-still-missing/"
+  },
+  {
+   "id": "ki_bridges_1117",
+   "title": "Kyiv Independent: Key bridges in Kyiv struck in massive Russian ballistic missile attack across Ukraine (Nov 17)",
+   "url": "https://kyivindependent.com/key-bridges-in-kyiv-struck-in-massive-russian-ballistic-missile-attack-across-ukraine/"
+  },
+  {
+   "id": "ki_kerch_1117",
+   "title": "Kyiv Independent: Ukrainian forces reportedly strike Crimean Bridge after Russian missiles hit Kyiv bridges (Nov 17)",
+   "url": "https://kyivindependent.com/ukrainian-forces-reportedly-strike-crimean-bridge-after-russian-missiles-hit-kyiv-bridges/"
+  },
+  {
+   "id": "ki_kerch_an_1117",
+   "title": "Kyiv Independent: Analysis: Why Ukraine's strike on the Crimean Bridge is such a big deal (Nov 17)",
+   "url": "https://kyivindependent.com/analysis-why-ukraines-strike-on-the-crimean-bridge-is-such-a-big-deal/"
+  },
+  {
+   "id": "ukrinform_vinnytsia_1117",
+   "title": "Ukrinform: Russian strike on central Vinnytsia injures four (Nov 17)",
+   "url": "https://www.ukrinform.net/rubric-ato/4185762-russian-strike-on-central-vinnytsia-injures-four.html"
+  },
+  {
+   "id": "ki_mukachevo_1117",
+   "title": "Kyiv Independent: Hungary halts rail services with Ukraine for 2 days after Russian attack on Zakarpattia (Nov 17)",
+   "url": "https://kyivindependent.com/hungary-halts-rail-services-with-ukraine-for-2-days-after-russian-attack-on-zakarpattia/"
+  },
+  {
+   "id": "ki_moldova_1117",
+   "title": "Kyiv Independent: 7 drones cross into Moldovan airspace during latest Russian attack against Ukraine, 1 spotted over Chisinau (Nov 17)",
+   "url": "https://kyivindependent.com/7-drones-cross-into-moldovan-airspace-during-latest-russian-attack-against-ukraine-1-spotted-over-chisinau/"
+  },
+  {
+   "id": "ukrinform_vlasivka_1117",
+   "title": "Ukrinform: Korolivskyi Smak plant in Kirovohrad region destroyed following Russian strike (Nov 17)",
+   "url": "https://www.ukrinform.net/rubric-economy/4185664-korolivskyi-smak-plant-in-kirovohrad-region-destroyed-following-russian-strike.html"
   }
  ]
 }

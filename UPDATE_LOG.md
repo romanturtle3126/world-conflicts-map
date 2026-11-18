@@ -2,6 +2,22 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-18 06:08 Toronto — Ukraine — OK
+- Added 8 event(s):
+  - `kyiv-1117` 2026-11-17 [CONFIRMED] Russian ballistic missiles hit Kyiv's Northern and Southern bridges; two killed in Obolonskyi district
+  - `zaporizhzhia-1117` 2026-11-17 [CONFIRMED] Russian attack on Zaporizhzhia kills two, injures 31; industrial facility hit
+  - `kerch-1117` 2026-11-17 [UNVERIFIED] Crimean Bridge: arch and road span reported collapsed after Ukrainian strike
+  - `vinnytsia-1117` 2026-11-17 [ONE_PARTY] Russian strike on central Vinnytsia injures four
+  - `mukachevo-1117` 2026-11-17 [CONFIRMED] Russian drone hits near Mukachevo railway station; Hungary halts rail service for two days
+  - `chisinau-1117` 2026-11-17 [CONFIRMED] Seven drones enter Moldovan airspace during Russian attack on Ukraine; one over Chisinau
+  - `vlasivka-1116` 2026-11-16 [ONE_PARTY] Russian attack destroys Korolivskyi Smak food plant in Kirovohrad region; one killed
+  - `izmail-1118` 2026-11-18 [ONE_PARTY] Russia's MoD claims drone strikes on Izmail port infrastructure and a cargo ship
+- Updated 1 event(s):
+  - `kerch-1116` changed caption
+- Stats: 3 updated, 2 added
+- 13 new source link(s)
+- Totals: 167 events, 50 stats, 280 sources; coverage 2026-10-10 to 2026-11-18
+
 ## 2026-11-17 06:41 Toronto — Middle East — OK
 - Added 5 event(s):
   - `manama-1117` 2026-11-17 [DISPUTED] IRGC says drones hit US radar at Isa airbase in Bahrain; Bahrain says attack was intercepted
