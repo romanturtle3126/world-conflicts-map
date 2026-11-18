@@ -1,12 +1,12 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-18T11:42:02+00:00",
+  "lastUpdated": "2026-11-18T18:57:18+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
     "source": "Al Jazeera",
     "ok": true,
-    "count": 5
+    "count": 12
    },
    {
     "source": "BBC News Middle East",
@@ -52,118 +52,340 @@
  },
  "items": [
   {
-   "headline": "India lodges complaint against Palestinian footballer after under-17 match",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/sports/2026/11/18/india-lodges-complaint-against-palestinian-footballer-after-under-17-match?traffic_source=rss",
-   "date": "2026-11-18T11:32:24.000Z"
-  },
-  {
-   "headline": "Tim Hortons accused of sharing user data with firm linked to Israeli army",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/news/2026/11/18/tim-hortons-app-sharing-extensive-data-with-israeli-military-linked-firm?traffic_source=rss",
-   "date": "2026-11-18T11:30:34.000Z"
-  },
-  {
-   "headline": "Trump lands in China for meeting with Xi and Putin",
+   "headline": "Did the US almost invade Saudi Arabia over oil?",
    "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-lands-china-meeting-xi-and-putin",
-   "date": "2026-11-18T11:09:50.000Z"
+   "link": "https://www.middleeasteye.net/video/did-us-almost-invade-saudi-arabia-over-oil",
+   "date": "2026-11-18T18:44:12.000Z"
   },
   {
-   "headline": "Why has an NYT report on Iran’s dams ignited fierce pushback?",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/news/2026/11/18/why-has-an-nyt-report-on-irans-dams-ignited-fierce-pushback?traffic_source=rss",
-   "date": "2026-11-18T10:38:13.000Z"
-  },
-  {
-   "headline": "Iran launches attacks on military base in Kuwait",
+   "headline": "No US personnel injured in any attempted Iranian attacks this week, Centcom says",
    "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/news/iran-launches-attacks-military-base-kuwait",
-   "date": "2026-11-18T10:33:03.000Z"
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/no-us-personnel-injured-any-attempted-iranian-attacks-week",
+   "date": "2026-11-18T18:43:13.000Z"
   },
   {
-   "headline": "Gulf countries under fire after US hits Iran island",
+   "headline": "‘Class shaped me more than race’: Mona Chalabi on why we’re all insecure about money",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/video/class-shaped-me-more-race-mona-chalabi-why-were-all-insecure-about-money",
+   "date": "2026-11-18T18:41:23.000Z"
+  },
+  {
+   "headline": "Israeli defence minister says Israel will indefinitely occupy Gaza, Lebanon, Syria",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-defence-minister-says-israel-will-indefinitely-occupy-gaza",
+   "date": "2026-11-18T18:29:40.000Z"
+  },
+  {
+   "headline": "Tim Hortons app sending user data to Israeli cybertech company, advocacy group confirms",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/news/tim-hortons-app-sending-user-data-israeli-cybertech-company-advocacy-group-confirms",
+   "date": "2026-11-18T18:29:06.000Z"
+  },
+  {
+   "headline": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
+   "date": "2026-11-18T18:22:26.000Z"
+  },
+  {
+   "headline": "What leverage does the UAE have over permanent UN Security Council members?",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/what-leverage-does-uae-have-over-permanent-un-security-council-members",
+   "date": "2026-11-18T18:21:40.000Z"
+  },
+  {
+   "headline": "Israeli forces launch new military operation in central Gaza",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
+   "date": "2026-11-18T18:12:42.000Z"
+  },
+  {
+   "headline": "Threats from Iran have increased substantially, US intelligence director says",
    "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/gulf-countries-under-fire-after-us-hits-iran-island",
-   "date": "2026-11-18T10:30:32.000Z"
+   "link": "https://www.al-monitor.com/originals/2026/11/threats-iran-have-increased-substantially-us-intelligence-director-says",
+   "date": "2026-11-18T17:46:35.000Z"
   },
   {
-   "headline": "Fears grow that US will impose sanctions on ICJ judges ahead of Myanmar genocide ruling",
+   "headline": "As criticism mounts, Trump administration says tech outages not coordinated",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/criticism-mounts-trump-administration-says-tech-outages-not-coordinated",
+   "date": "2026-11-18T17:46:35.000Z"
+  },
+  {
+   "headline": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss",
+   "date": "2026-11-18T17:45:09.000Z"
+  },
+  {
+   "headline": "‘I still love you, pal’: Biden's last gushing call with Netanyahu conflicts with memoir claims",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/news/i-still-love-you-pal-bidens-last-gushing-call-netanyahu-conflicts-memoir",
+   "date": "2026-11-18T17:43:40.000Z"
+  },
+  {
+   "headline": "US attacks Iran’s Qeshm Island",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-attacks-irans-qeshm-island",
+   "date": "2026-11-18T17:06:52.000Z"
+  },
+  {
+   "headline": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
+   "date": "2026-11-18T16:47:26.000Z"
+  },
+  {
+   "headline": "Israeli spy chief lobbied for joint Iran strikes on US visit, sources say",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/israeli-spy-chief-lobbied-joint-iran-strikes-us-visit-sources-say",
+   "date": "2026-11-18T16:46:40.000Z"
+  },
+  {
+   "headline": "Turkish court hands new sentence and political ban to jailed Istanbul mayor, media says",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/turkish-court-hands-new-sentence-and-political-ban-jailed-istanbul-mayor-media",
+   "date": "2026-11-18T16:46:40.000Z"
+  },
+  {
+   "headline": "World Bank official says Lebanon reconstruction making slow progress",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
+   "date": "2026-11-18T16:44:59.000Z"
+  },
+  {
+   "headline": "Saudi-led coalition says two drones intercepted and destroyed over Saudi Arabia",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-two-drones-intercepted-and-destroyed-over-saudi",
+   "date": "2026-11-18T16:34:33.000Z"
+  },
+  {
+   "headline": "Israel army launches ground operation in Hamas-controlled area of Gaza",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/israel-army-launches-ground-operation-hamas-controlled-area-gaza",
+   "date": "2026-11-18T16:30:27.000Z"
+  },
+  {
+   "headline": "What leverage does the UAE have over permanent UN Security Council members?",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/news/heres-leverage-uae-has-over-5-permanent-members-un-security-council-veto-power",
+   "date": "2026-11-18T16:15:19.000Z"
+  },
+  {
+   "headline": "Gazans flee shelters as Israeli army launches ground operation beyond Yellow Line",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261118-gazans-flee-shelters-as-israeli-army-launches-ground-operation-beyond-yellow-line",
+   "date": "2026-11-18T16:03:21.000Z"
+  },
+  {
+   "headline": "Yemen: Why the Houthis may besiege Aden rather than storm it",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261118-yemen-why-the-houthis-may-besiege-aden-rather-than-storm-it",
+   "date": "2026-11-18T15:55:41.000Z"
+  },
+  {
+   "headline": "OPEC speaks up for fossil fuels at COP31 climate talks",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/opec-speaks-fossil-fuels-cop31-climate-talks",
+   "date": "2026-11-18T15:48:56.000Z"
+  },
+  {
+   "headline": "IAEA chief says planned US-Saudi nuclear deal 'very satisfactory' on inspections",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/iaea-chief-says-planned-us-saudi-nuclear-deal-very-satisfactory-inspections",
+   "date": "2026-11-18T15:48:56.000Z"
+  },
+  {
+   "headline": "Tunisia olive oil exports jump nearly 50 pct on bumper harvest",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/tunisia-olive-oil-exports-jump-nearly-50-pct-bumper-harvest",
+   "date": "2026-11-18T15:30:28.000Z"
+  },
+  {
+   "headline": "Indonesia explores joining the Mecca defence pact, officials say",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/news/indonesia-explores-joining-mecca-pact-turkish-officials-say",
+   "date": "2026-11-18T15:22:53.000Z"
+  },
+  {
+   "headline": "'I still love you, pal,' Biden told Netanyahu in final phone call",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/i-still-love-you-pal-biden-told-netanyahu-final-phone-call",
+   "date": "2026-11-18T15:20:49.000Z"
+  },
+  {
+   "headline": "Turkey turns up pressure over integration of Kurdish-led forces in Syria",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/turkey-turns-pressure-over-integration-kurdish-led-forces-syria",
+   "date": "2026-11-18T15:17:13.000Z"
+  },
+  {
+   "headline": "What is Iraq’s Jurf al-Sakhar and what is behind gov’t push to control it?",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/18/what-is-iraqs-jurf-al-sakhar-and-what-is-behind-govt-push-to-control-it?traffic_source=rss",
+   "date": "2026-11-18T15:00:34.000Z"
+  },
+  {
+   "headline": "Amnesty calls for RSF drone strikes on el-Obeid to be investigated as war crimes",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/amnesty-calls-rsf-drone-strikes-el-obeid-be-investigated-war-crimes",
+   "date": "2026-11-18T14:57:28.000Z"
+  },
+  {
+   "headline": "Israeli forces demolish homes in southern Lebanon",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-demolish-homes-in-southern-lebanon?traffic_source=rss",
+   "date": "2026-11-18T14:52:31.000Z"
+  },
+  {
+   "headline": "US official says Hormuz insurance hits $64m: Is the strait really open?",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/18/us-official-says-hormuz-insurance-hits-64m-is-the-strait-really-open?traffic_source=rss",
+   "date": "2026-11-18T14:47:34.000Z"
+  },
+  {
+   "headline": "Explainer-What is Iraq's Kataib Hezbollah militia?",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/explainer-what-iraqs-kataib-hezbollah-militia",
+   "date": "2026-11-18T14:46:32.000Z"
+  },
+  {
+   "headline": "Explainer-Untangling Yemen's complex civil war",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/explainer-untangling-yemens-complex-civil-war",
+   "date": "2026-11-18T14:46:32.000Z"
+  },
+  {
+   "headline": "Israel launches ground operation in central Gaza, dozens flee",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/israel-launches-ground-operation-central-gaza-dozens-flee",
+   "date": "2026-11-18T14:46:32.000Z"
+  },
+  {
+   "headline": "Israeli settlers establish outpost in Palestinian-controlled Area A of West Bank",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/news/israeli-settlers-establish-outpost-palestinian-controlled-area-west-bank",
+   "date": "2026-11-18T14:46:15.000Z"
+  },
+  {
+   "headline": "Israeli prison guard ‘slapped and tore off hijab’ of Palestinian detainee",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/news/israeli-prison-guard-slapped-and-removed-hijab-palestinian-detainee",
+   "date": "2026-11-18T14:40:59.000Z"
+  },
+  {
+   "headline": "Three killed as Israel launches first ground push since ‘ceasefire’ began",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss",
+   "date": "2026-11-18T14:39:09.000Z"
+  },
+  {
+   "headline": "‘Status quo’ between US and Iran could break out into war, analysts warn",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/18/status-quo-between-us-and-iran-could-break-out-into-war-analysts-warn?traffic_source=rss",
+   "date": "2026-11-18T14:36:20.000Z"
+  },
+  {
+   "headline": "Jordan gets $6.7bn funding for water desalination project",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/jordan-gets-67bn-funding-water-desalination-project",
+   "date": "2026-11-18T14:35:43.000Z"
+  },
+  {
+   "headline": "Israel launches assault targeting residential areas in Gaza despite ceasefire",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-launches-assault-targeting-residential-areas-gaza-despite",
+   "date": "2026-11-18T14:15:19.000Z"
+  },
+  {
+   "headline": "Can the US and Iran sustain a ‘frozen war’?",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/18/can-the-us-and-iran-sustain-a-frozen?traffic_source=rss",
+   "date": "2026-11-18T14:13:51.000Z"
+  },
+  {
+   "headline": "Mada Masr’s Lina Attalah due to appear before court in Egypt",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_lina-attalah-of-mada-masr-on-trial-181126?traffic_source=rss",
+   "date": "2026-11-18T14:11:07.000Z"
+  },
+  {
+   "headline": "Labour MPs quit Somaliland group over Israel and chair’s ties to far-right Restore",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/labour-mps-quit-somaliland-group-over-israel-and-chairs-ties-far-right",
+   "date": "2026-11-18T14:08:31.000Z"
+  },
+  {
+   "headline": "Israel delays building contracts for West Bank settlement after UK sanctions",
+   "source": "The Guardian (Middle East)",
+   "link": "https://www.theguardian.com/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions",
+   "date": "2026-11-18T14:05:38.000Z"
+  },
+  {
+   "headline": "Israel kills three Palestinians, including a child, in attacks across Gaza",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-kills-three-palestinians-including-child-attacks-across-gaza",
+   "date": "2026-11-18T13:59:36.000Z"
+  },
+  {
+   "headline": "Exclusive: Labour MPs quit Somaliland group over Israel and chair’s ties to far-right Restore",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/news/whole-ethos-changed-how-uks-pro-somaliland-parliamentary-group-tore-apart-over-israel-restore",
+   "date": "2026-11-18T13:48:57.000Z"
+  },
+  {
+   "headline": "Saudis preparing for Yemen campaign to last well into 2027",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/saudis-preparing-yemen-campaign-last-well-2027",
+   "date": "2026-11-18T13:46:26.000Z"
+  },
+  {
+   "headline": "With new speaker, Israel parliament moves to unravel Netanyahu legacy",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/new-speaker-israel-parliament-moves-unravel-netanyahu-legacy",
+   "date": "2026-11-18T13:30:29.000Z"
+  },
+  {
+   "headline": "US Saudi nuclear agreement 'satisfactory': IAEA",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/us-saudi-nuclear-agreement-satisfactory-iaea",
+   "date": "2026-11-18T13:30:29.000Z"
+  },
+  {
+   "headline": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+   "source": "BBC News Middle East",
+   "link": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-18T13:04:48.000Z"
+  },
+  {
+   "headline": "Dozens more children killed in Yemen amid escalating hostilities",
+   "source": "UN News Middle East",
+   "link": "https://news.un.org/feed/view/en/story/2026/11/1168830",
+   "date": "2026-11-18T12:00:00.000Z"
+  },
+  {
+   "headline": "Ethiopia and Eritrea amass forces along border, heightening war fears, sources say",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/ethiopia-and-eritrea-amass-forces-along-border-heightening-war-fears-sources-say",
+   "date": "2026-11-18T11:47:09.000Z"
+  },
+  {
+   "headline": "Trump's Board of Peace faults Israel and Hamas for failure to end Gaza war",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/trumps-board-peace-faults-israel-and-hamas-failure-end-gaza-war",
+   "date": "2026-11-18T11:47:09.000Z"
+  },
+  {
+   "headline": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
    "source": "The Guardian (Middle East)",
    "link": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
    "date": "2026-11-18T09:58:28.000Z"
-  },
-  {
-   "headline": "Thirty years after Rabin's assassination, Israel is again flirting with political violence",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/opinion/thirty-years-after-rabins-assassination-israel-again-flirting-political-violence",
-   "date": "2026-11-18T09:26:29.000Z"
-  },
-  {
-   "headline": "Ships risk Hormuz Strait due to limited US protection",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ships-risk-hormuz-strait-due-to-limited-us-protection?traffic_source=rss",
-   "date": "2026-11-18T08:12:20.000Z"
-  },
-  {
-   "headline": "Morning update",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-673",
-   "date": "2026-11-18T08:02:45.000Z"
-  },
-  {
-   "headline": "Italy approves antisemitism law amid leftist opposition protests",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/italy-approves-antisemitism-law-amid-leftist-opposition-protests",
-   "date": "2026-11-18T07:46:31.000Z"
-  },
-  {
-   "headline": "Iran fires at Kuwait, widening strikes after US hit Iranian island",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/iran-fires-kuwait-widening-strikes-after-us-hit-iranian-island",
-   "date": "2026-11-18T07:46:31.000Z"
-  },
-  {
-   "headline": "UAE company says 11 wounded, one missing after vessel attacked in Hormuz Strait",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-company-says-11-wounded-one-missing-after-vessel-attacked-hormuz",
-   "date": "2026-11-18T07:27:54.000Z"
-  },
-  {
-   "headline": "Iran's foreign minister vows 'unforgettable response' if US-Israeli attacks target civilian infrastructure",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-foreign-minister-vows-unforgettable-response-if-us-israeli-attacks",
-   "date": "2026-11-18T07:22:25.000Z"
-  },
-  {
-   "headline": "Kuwait slams Iranian attacks on its territory",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-slams-iranian-attacks-its-territory",
-   "date": "2026-11-18T06:59:03.000Z"
   },
   {
    "headline": "‘They want silence’: how the film NAZA is shaking Israel",
    "source": "The Guardian (Middle East)",
    "link": "https://www.theguardian.com/world/2026/nov/18/wednesday-briefing-how-naza-shook-israel-and-sparked-a-debate-the-country-had-ignored",
    "date": "2026-11-18T06:44:25.000Z"
-  },
-  {
-   "headline": "Trump says US doing 'very well in Iran'",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-us-doing-very-well-iran",
-   "date": "2026-11-18T06:43:02.000Z"
-  },
-  {
-   "headline": "How the Houthis fund war effort and tighten grip on Yemen",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss",
-   "date": "2026-11-18T06:19:17.000Z"
-  },
-  {
-   "headline": "Saudi-led coalition says it intercepted Houthi missile, destroyed 60 targets across Yemen",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-destroyed-houthi-missile",
-   "date": "2026-11-18T05:52:02.000Z"
   },
   {
    "headline": "European Commission accused of sugarcoating figures to release funds to Egypt",
@@ -178,58 +400,10 @@
    "date": "2026-11-18T05:00:32.000Z"
   },
   {
-   "headline": "Bahrain's civil defence evacuates multi-storey building due to fire",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrains-civil-defence-evacuates-multi-storey-building-due-fire",
-   "date": "2026-11-18T04:43:21.000Z"
-  },
-  {
-   "headline": "Iran's army launches drone attack at Kuwait base used by US military",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-army-launches-drone-attack-kuwait-base-used-us-military",
-   "date": "2026-11-18T04:35:47.000Z"
-  },
-  {
-   "headline": "US Centcom commander expected in Saudi Arabia with dozens of air defence experts, sources say",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-centcom-commander-expected-saudi-arabia-dozens-air-defence-experts",
-   "date": "2026-11-18T04:32:24.000Z"
-  },
-  {
-   "headline": "Rubio says 'no imminent threat' to US from Iran",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-says-no-imminent-threat-us-iran",
-   "date": "2026-11-18T03:57:43.000Z"
-  },
-  {
-   "headline": "Watch: Israeli settles kill Palestinian grandmother in occupied West Bank",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-israeli-settles-kill-palestinian-grandmother-occupied-west-bank",
-   "date": "2026-11-18T03:41:16.000Z"
-  },
-  {
-   "headline": "Gulf nations attacked after US strikes Iranian island",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/gulf-nations-attacked-after-us-strikes-iranian-island",
-   "date": "2026-11-18T02:30:28.000Z"
-  },
-  {
-   "headline": "Middle East live: Tehran warns of 'more devastating' response to attacks on Iran",
+   "headline": "Loud blast rocks Riyadh as Saudi-led coalition says it intercepted Houthi missiles",
    "source": "France 24 Middle East",
    "link": "https://www.france24.com/en/middle-east/20261118-middle-east-live-kuwait-bahrain-report-drone-and-missile-attacks",
    "date": "2026-11-18T02:06:39.000Z"
-  },
-  {
-   "headline": "Pakistani man convicted of plotting to kill Trump is sentenced to over 27 years in prison",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/pakistani-man-convicted-plotting-kill-trump-sentenced-over-27-years-prison",
-   "date": "2026-11-18T01:46:28.000Z"
-  },
-  {
-   "headline": "Australia sanctions Israeli settlers, organisations over West Bank expansion",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/australia-sanctions-israeli-settlers-organisations-over-west-bank-expansion",
-   "date": "2026-11-18T00:46:28.000Z"
   },
   {
    "headline": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
@@ -238,64 +412,10 @@
    "date": "2026-11-18T00:21:33.000Z"
   },
   {
-   "headline": "Houthis are 'occupying' part of Saudi Arabia, Tucker Carlson says",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-are-occupying-part-saudi-arabia-tucker-carlson-says",
-   "date": "2026-11-17T23:02:18.000Z"
-  },
-  {
-   "headline": "Israeli parliament elects speaker backed by Netanyahu opponents",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/israeli-parliament-elects-speaker-backed-netanyahu-opponents",
-   "date": "2026-11-17T22:46:27.000Z"
-  },
-  {
-   "headline": "‘We’re in the midst of a divorce with Israel’: Palestinian American zeroes in on Senator Fetterman",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/news/were-midst-divorce-israel-palestinian-american-looks-unseat-fetterman",
-   "date": "2026-11-17T22:45:00.000Z"
-  },
-  {
-   "headline": "Kuwait air defences countering hostile drone attacks, army says",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/kuwait-air-defences-countering-hostile-drone-attacks-army-says",
-   "date": "2026-11-17T22:32:42.000Z"
-  },
-  {
-   "headline": "Israel parliament elects Eisenkot ally as speaker in blow for Netanyahu",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/israel-parliament-elects-eisenkot-ally-speaker-blow-netanyahu",
-   "date": "2026-11-17T22:30:23.000Z"
-  },
-  {
    "headline": "Israeli parliament elects new speaker backed by Netanyahu’s opponents",
    "source": "The Guardian (Middle East)",
    "link": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
    "date": "2026-11-17T22:30:17.000Z"
-  },
-  {
-   "headline": "Iran will respond ‘at the same level’ to US nuclear attack, lawmaker says",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-will-respond-same-level-us-nuclear-attack-lawmaker-says",
-   "date": "2026-11-17T22:15:28.000Z"
-  },
-  {
-   "headline": "Houthis are 'occupying' part of Saudi Arabia, Tucker Carlson says",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/news/houthis-are-occupying-part-saudi-arabia-tucker-carlson-says",
-   "date": "2026-11-17T22:14:23.000Z"
-  },
-  {
-   "headline": "Israeli parliament elects Eisenkot ally as speaker in blow for Netanyahu",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-parliament-elects-eisenkot-ally-speaker-blow-netanyahu",
-   "date": "2026-11-17T21:54:57.000Z"
-  },
-  {
-   "headline": "At hearing, US Navy chief blasted over Iran war and its toll on sailors",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/hearing-us-navy-chief-blasted-over-iran-war-and-its-toll-sailors",
-   "date": "2026-11-17T21:46:28.000Z"
   },
   {
    "headline": "Israeli parliament elects Eisenkot ally Matan Kahana as speaker in blow for Netanyahu",
@@ -308,24 +428,6 @@
    "source": "France 24 Middle East",
    "link": "https://www.france24.com/en/major-setbacks-for-netanyahu-ahead-of-vote-to-name-new-knesset-speaker",
    "date": "2026-11-17T21:05:20.000Z"
-  },
-  {
-   "headline": "Iraq and Turkey resume oil flows via pipeline damaged by ISIS: What to know",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/iraq-and-turkey-resume-oil-flows-pipeline-damaged-isis-what-know",
-   "date": "2026-11-17T20:40:05.000Z"
-  },
-  {
-   "headline": "NSA’s secret communications system suffers hourslong outage: What to know",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/nsas-secret-communications-system-suffers-hourslong-outage-what-know",
-   "date": "2026-11-17T20:39:54.000Z"
-  },
-  {
-   "headline": "From contract killers to cartels: A history of Iran-linked plots on US soil",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/contract-killers-cartels-history-iran-linked-plots-us-soil",
-   "date": "2026-11-17T20:39:06.000Z"
   },
   {
    "headline": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
@@ -368,18 +470,6 @@
    "source": "BBC News Middle East",
    "link": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-17T17:37:04.000Z"
-  },
-  {
-   "headline": "US-Israeli war created 'horrific' situation for Iranians: Amnesty",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/us-israeli-war-created-horrific-situation-iranians-amnesty",
-   "date": "2026-11-17T17:30:31.000Z"
-  },
-  {
-   "headline": "Israel vows retaliation after UK sanctions firms for West Bank settlements",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/israel-vows-retaliation-after-uk-sanctions-firms-west-bank-settlements",
-   "date": "2026-11-17T17:30:31.000Z"
   },
   {
    "headline": "Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’",
@@ -458,12 +548,6 @@
    "source": "The Guardian (Middle East)",
    "link": "https://www.theguardian.com/commentisfree/2026/nov/16/hero-villain-or-victim-why-are-refugees-so-rarely-seen-now-as-fully-human",
    "date": "2026-11-16T16:22:51.000Z"
-  },
-  {
-   "headline": "Though Trump is giving him the cold shoulder, Netanyahu is pulling out all the stops to cling to power. And he just might | Simon Tisdall",
-   "source": "The Guardian (Middle East)",
-   "link": "https://www.theguardian.com/commentisfree/2026/nov/16/donald-trump-benjamin-netanyahu-power-israel-pm",
-   "date": "2026-11-16T15:00:46.000Z"
   },
   {
    "headline": "Lebanon leading the way in mental health support",
@@ -628,12 +712,6 @@
    "date": "2026-11-12T20:03:55.000Z"
   },
   {
-   "headline": "Two men guilty of spying for Iran over plan to target journalists and lawyer",
-   "source": "BBC News Middle East",
-   "link": "https://www.bbc.co.uk/news/articles/ck9q8g8209l2o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-12T18:54:00.000Z"
-  },
-  {
    "headline": "Israel to ban far-left French politician Jean-Luc Mélenchon from entry",
    "source": "France 24 Middle East",
    "link": "https://www.france24.com/en/middle-east/20261112-israel-to-ban-far-left-french-politician-jean-luc-m%C3%A9lenchon-from-entry",
@@ -670,24 +748,6 @@
    "date": "2026-11-12T12:00:00.000Z"
   },
   {
-   "headline": "Israeli occupation in southern Lebanon: Displaced families struggle to cope",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/tv-shows/focus/20261112-israeli-occupation-in-southern-lebanon-displaced-families-struggle-to-cope",
-   "date": "2026-11-12T11:51:05.000Z"
-  },
-  {
-   "headline": "Gadi Eisenkot unveils agenda to reverse Netanyahu’s policies",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/tv-shows/a-propos/20261111-gadi-eisenkot-unveils-agenda-to-reverse-netanyahu-s-policies",
-   "date": "2026-11-11T22:13:05.000Z"
-  },
-  {
-   "headline": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-   "source": "BBC News Middle East",
-   "link": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-11T13:25:47.000Z"
-  },
-  {
    "headline": "Lebanon: Devastation awaits returnees as UN peacekeepers prepare exit",
    "source": "UN News Middle East",
    "link": "https://news.un.org/feed/view/en/story/2026/11/1168784",
@@ -710,6 +770,12 @@
    "source": "BBC News Middle East",
    "link": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-06T13:23:44.000Z"
+  },
+  {
+   "headline": "Could Democrats in Congress end the war in Iran?",
+   "source": "BBC News Middle East",
+   "link": "https://www.bbc.co.uk/news/videos/cqg7xkv1rze1o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-04T22:14:41.000Z"
   },
   {
    "headline": "Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms",
@@ -842,12 +908,6 @@
    "source": "UN News Middle East",
    "link": "https://news.un.org/feed/view/en/story/2026/10/1168619",
    "date": "2026-10-17T12:00:00.000Z"
-  },
-  {
-   "headline": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
-   "source": "UN News Middle East",
-   "link": "https://news.un.org/feed/view/en/story/2026/10/1168611",
-   "date": "2026-10-16T12:00:00.000Z"
   },
   {
    "headline": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
