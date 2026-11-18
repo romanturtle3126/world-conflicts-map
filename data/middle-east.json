@@ -2,11 +2,11 @@
  "schemaVersion": 1,
  "map": "middle-east",
  "meta": {
-  "lastUpdated": "2026-11-17T06:41:46-05:00",
-  "coverage": "2026-10-06 to 2026-11-17",
+  "lastUpdated": "2026-11-18T06:41:34-05:00",
+  "coverage": "2026-10-06 to 2026-11-18",
   "notes": [
-   "Refreshed 2026-11-17 (UTC, about 07:45 Toronto) from Middle East Eye live-blog entries (Bahrain, Hormuz tankers, drone, Qatar), Al-Monitor/Reuters (Jericho), and the Houthi military spokesman's Telegram (army21ye, read through Nov 16).",
-   "Not read: UKMTO site (403), ISW/CTP, IDF and CENTCOM X posts, Gaza MoH Telegram, Tasnim Telegram preview (no posts returned), OCHA (no new report found). Brent and Hormuz traffic stats, lanes unchanged: no new settle or verified figures found.",
+   "Refreshed 2026-11-18 (UTC, around 11:30; early morning Toronto) from Al-Monitor/Reuters, Middle East Eye, the Houthi military spokesman's Telegram (army21ye, through Nov 17) and Tasnim's English Telegram.",
+   "Not read: UKMTO site (403), ISW/CTP (403), IDF and CENTCOM X posts (search only returned secondary coverage), Gaza MoH Telegram; OCHA's latest found report is Nov 13 (already used). Stats and lanes unchanged: no new Gaza, Lebanon or Brent figures found; Gaza, Lebanon and West Bank events not refreshed (BBC and Guardian pages blocked).",
    "Marker positions are approximate (see coordPrecision)."
   ]
  },
@@ -2828,6 +2828,257 @@
      "says": "Meeting with Iran planned as part of mediation; urges no escalation."
     }
    ]
+  },
+  {
+   "id": "qeshm-1117",
+   "date": "2026-11-17",
+   "region": "iran-war",
+   "oblast": "Iran (Qeshm Island)",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "airstrike",
+   "status": "DISPUTED",
+   "title": "US jets strike missile launch site on Qeshm Island; Iranian media say no infrastructure damage",
+   "caption": "Reuters, via Al-Monitor, reports US fighter aircraft hit a missile launch site on Iran's Qeshm Island on Tuesday evening. A US military official called it retaliation for Iranian attacks on US personnel and assets. Iranian media, citing an Iranian official, said the strike caused no infrastructure damage. No casualties were reported. Marker is at Qeshm, not the exact site.",
+   "lat": 26.9492,
+   "lon": 56.2691,
+   "coordPrecision": "approx",
+   "place": "Qeshm",
+   "sources": [
+    {
+     "id": "am_1118_kuwait",
+     "title": "Al-Monitor (Reuters), Iran fires at Kuwait, widening strikes after US hit Iranian island, Nov 18",
+     "url": "https://www.al-monitor.com/originals/2026/11/iran-fires-kuwait-widening-strikes-after-us-hit-iranian-island"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "US military official (via Reuters)",
+     "says": "Struck a missile launch site in response to Iranian attacks on US personnel and assets.",
+     "source": "am_1118_kuwait"
+    },
+    {
+     "who": "Iranian media, citing an Iranian official",
+     "says": "The strike caused no infrastructure damage.",
+     "source": "am_1118_kuwait"
+    }
+   ]
+  },
+  {
+   "id": "khasab-1117-3",
+   "date": "2026-11-17",
+   "region": "gulf",
+   "oblast": "Strait of Hormuz",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "naval",
+   "status": "ONE_PARTY",
+   "title": "ADNOC says one of its vessels was attacked in Hormuz: 11 injured, one missing",
+   "caption": "The UAE's ADNOC L&S said one of its vessels was attacked late on Nov 17 while transiting the Strait of Hormuz, leaving 11 crew injured and one missing, and said its priority was supporting search and rescue. The reports do not say who attacked it or name the ship. Marker is at Khasab, not the exact position.",
+   "lat": 26.1799,
+   "lon": 56.2477,
+   "coordPrecision": "oblast",
+   "place": "Khasab",
+   "sources": [
+    {
+     "id": "mee_1118_adnoc",
+     "title": "Middle East Eye live blog, UAE company says 11 wounded, one missing after vessel attacked in Hormuz Strait, Nov 18",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-company-says-11-wounded-one-missing-after-vessel-attacked-hormuz"
+    },
+    {
+     "id": "am_1118_kuwait",
+     "title": "Al-Monitor (Reuters), Iran fires at Kuwait, widening strikes after US hit Iranian island, Nov 18",
+     "url": "https://www.al-monitor.com/originals/2026/11/iran-fires-kuwait-widening-strikes-after-us-hit-iranian-island"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "ADNOC L&S",
+     "says": "One vessel attacked in Hormuz; 11 injured, one missing."
+    }
+   ]
+  },
+  {
+   "id": "riyadh-1117",
+   "date": "2026-11-17",
+   "region": "gulf",
+   "oblast": "Saudi Arabia",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Houthis say drones hit East-West pipeline pumping stations 8 and 9 west of Riyadh and an early-warning radar at Sharurah",
+   "caption": "The Houthi military statement on Telegram says its forces hit pumping station No. 9 (three drones) and No. 8 (two drones) on the East-West pipeline west of Riyadh, causing large fires, and an early-warning radar at Sharurah with a drone. Saudi Arabia has not confirmed these claims in the sources read. Marker is at Riyadh, not the sites.",
+   "lat": 24.6877,
+   "lon": 46.7219,
+   "coordPrecision": "oblast",
+   "place": "Riyadh",
+   "sources": [
+    {
+     "id": "tg_army21ye_4107",
+     "title": "Houthi military spokesman Telegram (army21ye), post 4107, Nov 17",
+     "url": "https://t.me/army21ye/4107"
+    },
+    {
+     "id": "tg_army21ye_4109",
+     "title": "Houthi military spokesman Telegram (army21ye), post 4109, Nov 17",
+     "url": "https://t.me/army21ye/4109"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "Houthi armed forces",
+     "says": "Drones hit pumping stations 8 and 9 and an early-warning radar at Sharurah."
+    }
+   ]
+  },
+  {
+   "id": "al-jahra-1118",
+   "date": "2026-11-18",
+   "region": "gulf",
+   "oblast": "Kuwait",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "drone",
+   "status": "CONFIRMED",
+   "title": "Iran says drones targeted US air-defence systems at Kuwait's Ali Al Salem base; Kuwait says its defences are countering the attack",
+   "caption": "Iran's army said combat and kamikaze drones targeted Patriot air-defence systems and drone and missile launchers of US forces at Ali Al Salem air base, Kuwait, overnight into Nov 18. Kuwait's army said its air defences were countering hostile drone attacks, and its foreign ministry called the attacks 'repeated and criminal' and reserved the right to self-defence. Reuters calls it Iran's first attack on Kuwait since September. No casualties were reported. Bahrain said it also intercepted Iranian aerial attacks on Wednesday, its fourth in six days per Al-Monitor. Marker is at Al Jahra, near the base.",
+   "lat": 29.3375,
+   "lon": 47.6581,
+   "coordPrecision": "approx",
+   "place": "Al Jahra",
+   "sources": [
+    {
+     "id": "am_1118_kuwait",
+     "title": "Al-Monitor (Reuters), Iran fires at Kuwait, widening strikes after US hit Iranian island, Nov 18",
+     "url": "https://www.al-monitor.com/originals/2026/11/iran-fires-kuwait-widening-strikes-after-us-hit-iranian-island"
+    },
+    {
+     "id": "am_1118_gulf",
+     "title": "Al-Monitor, Gulf countries under fire after US hits Iran island, Nov 18",
+     "url": "https://www.al-monitor.com/originals/2026/11/gulf-countries-under-fire-after-us-hits-iran-island"
+    },
+    {
+     "id": "mee_1118_kuwait",
+     "title": "Middle East Eye, Iran launches attacks on military base in Kuwait, Nov 18",
+     "url": "https://www.middleeasteye.net/news/iran-launches-attacks-military-base-kuwait"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "Iran's army",
+     "says": "Drones targeted US Patriot systems and launchers at Ali Al Salem base."
+    },
+    {
+     "who": "Kuwait's army and foreign ministry",
+     "says": "Air defences countering hostile drone attacks; attacks are a direct threat; reserves right to self-defence."
+    }
+   ]
+  },
+  {
+   "id": "riyadh-1118",
+   "date": "2026-11-18",
+   "region": "gulf",
+   "oblast": "Saudi Arabia",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "missile",
+   "status": "ONE_PARTY",
+   "title": "Saudi-led coalition says it intercepted Houthi cruise missile aimed at Riyadh",
+   "caption": "Coalition spokesman Turki al-Malki said a Houthi cruise missile launched toward the Riyadh area on Nov 18 was intercepted and destroyed. Reuters, via Al-Monitor, says explosions were heard and residents in north Riyadh reported windows rattling; the Houthis did not confirm the launch.",
+   "lat": 24.6877,
+   "lon": 46.7219,
+   "coordPrecision": "approx",
+   "place": "Riyadh",
+   "sources": [
+    {
+     "id": "mee_1118_coalition",
+     "title": "Middle East Eye live blog, Saudi-led coalition says it intercepted, destroyed Houthi missile, Nov 18",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-destroyed-houthi-missile"
+    },
+    {
+     "id": "am_1118_kuwait",
+     "title": "Al-Monitor (Reuters), Iran fires at Kuwait, widening strikes after US hit Iranian island, Nov 18",
+     "url": "https://www.al-monitor.com/originals/2026/11/iran-fires-kuwait-widening-strikes-after-us-hit-iranian-island"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "Saudi-led coalition (al-Malki)",
+     "says": "Intercepted a Houthi cruise missile aimed at Riyadh."
+    },
+    {
+     "who": "Houthis",
+     "says": "Did not confirm the launch (per Reuters)."
+    }
+   ]
+  },
+  {
+   "id": "sanaa-1118",
+   "date": "2026-11-18",
+   "region": "yemen",
+   "oblast": "Yemen",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "airstrike",
+   "status": "DISPUTED",
+   "title": "Coalition says it destroyed 60 Houthi targets in four governorates; Houthis say 81 Saudi raids hit civilian sites",
+   "caption": "The Saudi-led coalition says a 'precision operation' destroyed 60 military targets in Sanaa, Hodeidah, Amran and Saada governorates, including tunnels holding ballistic missile storage and workshops. The Houthi military statement says Saudi aircraft carried out 81 air raids and missiles in 24 hours on civilian sites in Sanaa, Hodeidah, Taiz, Lahij, al-Jawf, Hajjah, Marib and Saada, leaving dozens of civilians dead or wounded. Neither account is independently verified. Marker is at Sanaa.",
+   "lat": 15.3545,
+   "lon": 44.2065,
+   "coordPrecision": "oblast",
+   "place": "Sanaa",
+   "sources": [
+    {
+     "id": "mee_1118_coalition",
+     "title": "Middle East Eye live blog, Saudi-led coalition says it intercepted, destroyed Houthi missile, Nov 18",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-destroyed-houthi-missile"
+    },
+    {
+     "id": "tg_army21ye_4108",
+     "title": "Houthi military spokesman Telegram (army21ye), post 4108, Nov 17",
+     "url": "https://t.me/army21ye/4108"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "Saudi-led coalition",
+     "says": "Destroyed 60 military targets in Sanaa, Hodeidah, Amran and Saada."
+    },
+    {
+     "who": "Houthi armed forces",
+     "says": "81 Saudi air raids and missiles in 24 hours hit civilian sites, dozens of civilians killed or wounded."
+    }
+   ]
+  },
+  {
+   "id": "bandar-abbas-1118",
+   "date": "2026-11-18",
+   "region": "iran-war",
+   "oblast": "Iran (Hormuz)",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Iran's army says it destroyed a US MQ-9 drone east of the Strait of Hormuz",
+   "caption": "Iran's army public relations office, via Tasnim, says its air defence identified and destroyed a US MQ-9 drone east of the Strait of Hormuz with domestic systems in the southeast on Nov 18. No US comment or wreckage evidence was seen. Marker is at Bandar Abbas, not the location.",
+   "lat": 27.1865,
+   "lon": 56.2808,
+   "coordPrecision": "oblast",
+   "place": "Bandar Abbas",
+   "sources": [
+    {
+     "id": "tg_tasnim_47985",
+     "title": "Tasnim News (English) Telegram, post 47985, Nov 18",
+     "url": "https://t.me/Tasnimnews_en/47985"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "Iran's army",
+     "says": "Destroyed a US MQ-9 drone east of the Strait of Hormuz."
+    }
+   ]
   }
  ],
  "lanes": [
@@ -3980,6 +4231,51 @@
    "id": "mee_1117_qatar",
    "title": "Middle East Eye live blog, Qatar announces meeting with Iran and says mediation efforts continue, Nov 17",
    "url": "https://www.middleeasteye.net/live-blog/live-blog-update/qatar-announces-meeting-iran-says-mediation-efforts-continue"
+  },
+  {
+   "id": "am_1118_kuwait",
+   "title": "Al-Monitor (Reuters), Iran fires at Kuwait, widening strikes after US hit Iranian island, Nov 18",
+   "url": "https://www.al-monitor.com/originals/2026/11/iran-fires-kuwait-widening-strikes-after-us-hit-iranian-island"
+  },
+  {
+   "id": "am_1118_gulf",
+   "title": "Al-Monitor, Gulf countries under fire after US hits Iran island, Nov 18",
+   "url": "https://www.al-monitor.com/originals/2026/11/gulf-countries-under-fire-after-us-hits-iran-island"
+  },
+  {
+   "id": "mee_1118_kuwait",
+   "title": "Middle East Eye, Iran launches attacks on military base in Kuwait, Nov 18",
+   "url": "https://www.middleeasteye.net/news/iran-launches-attacks-military-base-kuwait"
+  },
+  {
+   "id": "mee_1118_adnoc",
+   "title": "Middle East Eye live blog, UAE company says 11 wounded, one missing after vessel attacked in Hormuz Strait, Nov 18",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-company-says-11-wounded-one-missing-after-vessel-attacked-hormuz"
+  },
+  {
+   "id": "mee_1118_coalition",
+   "title": "Middle East Eye live blog, Saudi-led coalition says it intercepted, destroyed Houthi missile, Nov 18",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-destroyed-houthi-missile"
+  },
+  {
+   "id": "tg_army21ye_4108",
+   "title": "Houthi military spokesman Telegram (army21ye), post 4108, Nov 17",
+   "url": "https://t.me/army21ye/4108"
+  },
+  {
+   "id": "tg_army21ye_4107",
+   "title": "Houthi military spokesman Telegram (army21ye), post 4107, Nov 17",
+   "url": "https://t.me/army21ye/4107"
+  },
+  {
+   "id": "tg_army21ye_4109",
+   "title": "Houthi military spokesman Telegram (army21ye), post 4109, Nov 17",
+   "url": "https://t.me/army21ye/4109"
+  },
+  {
+   "id": "tg_tasnim_47985",
+   "title": "Tasnim News (English) Telegram, post 47985, Nov 18",
+   "url": "https://t.me/Tasnimnews_en/47985"
   }
  ]
 }

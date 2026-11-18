@@ -2,6 +2,18 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-18 06:41 Toronto — Middle East — OK
+- Added 7 event(s):
+  - `qeshm-1117` 2026-11-17 [DISPUTED] US jets strike missile launch site on Qeshm Island; Iranian media say no infrastructure damage
+  - `al-jahra-1118` 2026-11-18 [CONFIRMED] Iran says drones targeted US air-defence systems at Kuwait's Ali Al Salem base; Kuwait says its defences are countering the attack
+  - `khasab-1117-3` 2026-11-17 [ONE_PARTY] ADNOC says one of its vessels was attacked in Hormuz: 11 injured, one missing
+  - `riyadh-1118` 2026-11-18 [ONE_PARTY] Saudi-led coalition says it intercepted Houthi cruise missile aimed at Riyadh
+  - `sanaa-1118` 2026-11-18 [DISPUTED] Coalition says it destroyed 60 Houthi targets in four governorates; Houthis say 81 Saudi raids hit civilian sites
+  - `riyadh-1117` 2026-11-17 [ONE_PARTY] Houthis say drones hit East-West pipeline pumping stations 8 and 9 west of Riyadh and an early-warning radar at Sharurah
+  - `bandar-abbas-1118` 2026-11-18 [ONE_PARTY] Iran's army says it destroyed a US MQ-9 drone east of the Strait of Hormuz
+- 9 new source link(s)
+- Totals: 90 events, 18 stats, 134 sources; coverage 2026-10-06 to 2026-11-18
+
 ## 2026-11-18 06:08 Toronto — Ukraine — OK
 - Added 8 event(s):
   - `kyiv-1117` 2026-11-17 [CONFIRMED] Russian ballistic missiles hit Kyiv's Northern and Southern bridges; two killed in Obolonskyi district
