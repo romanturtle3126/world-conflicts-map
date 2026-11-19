@@ -2,12 +2,12 @@
  "schemaVersion": 1,
  "map": "ukraine",
  "meta": {
-  "lastUpdated": "2026-11-18T06:08:08-05:00",
-  "coverage": "2026-10-10 to 2026-11-18",
+  "lastUpdated": "2026-11-19T06:04:46-05:00",
+  "coverage": "2026-10-10 to 2026-11-19",
   "notes": [
-   "Refreshed Nov 18, 2026 (UTC midday) from the Telegram channels of the Ukrainian General Staff (GeneralStaffZSU), Air Force (kpszsu, alert posts only) and Russian MoD (mod_russia), Kyiv Independent and Ukrinform articles of Nov 16-17, and the headline leads file (pulled Nov 17 ~19:17 UTC, so it does not cover Nov 18).",
-   "Not read this run: ISW/Critical Threats assessments for Nov 15-17 (understandingwar.org returned 403; web search found none newer than Nov 14), direct X posts (searches returned only news sites), BBC and Guardian (fetch blocked, headlines only), Reuters/AP. No Air Force launch count beyond the General Staff's morning summaries was found.",
-   "Crimean Bridge: Ukraine's SBU and General Staff say an arch and the road span collapsed overnight into Nov 17; Russian officials confirm a strike and suspended traffic but gave no damage assessment, and no satellite imagery was read, so the extent of damage is unverified.",
+   "Refreshed Nov 19, 2026 (about 06:00 Toronto) from the Telegram channels of the Ukrainian General Staff (GeneralStaffZSU), Air Force (kpszsu, alert posts only) and Russian MoD (mod_russia), Kyiv Independent, Ukrinform and Al Jazeera/AFP articles of Nov 18, and the headline leads file (pulled Nov 18 ~19:00 UTC).",
+   "Not read this run: ISW/Critical Threats assessments (not found newer than earlier runs), direct X posts and X searches, BBC and Guardian (headlines only), Reuters/AP. The Air Force channel posted only alert messages, so launch counts come from the General Staff.",
+   "The Kerch Bridge Neptune-strike claim of Nov 19 rests on a General Staff post alone; Russian officials had not commented in anything read.",
    "Coordinates are city-level or approximate (see coordPrecision); markers flagged 'oblast' are not geolocated.",
    "Casualty figures are as reported by the cited outlet at time of writing and may have been revised."
   ]
@@ -4714,6 +4714,34 @@
    "read": "full"
   },
   {
+   "id": "stanytsia-1117",
+   "date": "2026-11-17",
+   "region": "donbas",
+   "oblast": "Luhansk (occupied)",
+   "front": "Kramatorsk / Sloviansk",
+   "type": "deep-strike",
+   "status": "ONE_PARTY",
+   "title": "Ukraine's General Staff claims strike on road bridge near Stanytsia Luhanska",
+   "caption": "Ukraine's General Staff says forces hit a road bridge over the Siverskyi Donets near Stanytsia Luhanska in Russian-occupied Luhansk Oblast on Nov 17, describing it as a crossing used to move ammunition, fuel and equipment to the front. The Kyiv Independent says it could not independently verify the strike or the extent of damage. The same report covers a claimed hit on a repair base near Khomutovka in Kursk Oblast.",
+   "lat": 48.6625,
+   "lon": 39.4836,
+   "coordPrecision": "approx",
+   "place": "Stanytsya-Luhanska",
+   "sources": [
+    {
+     "id": "ki_stanytsia_1118",
+     "title": "Kyiv Independent: Ukraine strikes Russian bridge in occupied Luhansk Oblast, damages 3 military aircraft, General Staff says (Nov 18)",
+     "url": "https://kyivindependent.com/ukraine-strikes-russian-bridge-in-occupied-luhansk-oblast-damages-3-military-aircraft-general-staff-says/"
+    },
+    {
+     "id": "ukrinform_stanytsia_1118",
+     "title": "Ukrinform: Ukrainian forces strike bridge over Siverskyi Donets River (Nov 18)",
+     "url": "https://www.ukrinform.net/rubric-ato/4186002-ukrainian-forces-strike-bridge-over-siverskyi-donets-river.html"
+    }
+   ],
+   "read": "full"
+  },
+  {
    "id": "izmail-1118",
    "date": "2026-11-18",
    "region": "south",
@@ -4735,17 +4763,182 @@
     }
    ],
    "read": "full"
+  },
+  {
+   "id": "odesa-1118",
+   "date": "2026-11-18",
+   "region": "south",
+   "oblast": "Odesa",
+   "front": "Odesa",
+   "type": "drone",
+   "status": "CONFIRMED",
+   "title": "Three Russian strikes on central Odesa kill four, injure 13",
+   "caption": "Al Jazeera, citing AFP, reports that at least four people were killed and 13 wounded in three Russian strikes on Odesa's historic centre on Nov 18, according to Odesa region head Oleh Kiper. The city council said one strike hit a UNESCO-protected area and blew out windows in at least seven buildings. President Zelensky said the attack included double-tap strikes after first responders and police had arrived. Ukrinform quotes the city military administration on a fourth death after the third strike.",
+   "lat": 46.4857,
+   "lon": 30.7438,
+   "coordPrecision": "city",
+   "place": "Odesa",
+   "sources": [
+    {
+     "id": "aj_odesa_1118",
+     "title": "Al Jazeera: Russian attacks on Ukraine kill at least five people (Nov 18)",
+     "url": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss"
+    },
+    {
+     "id": "ukrinform_odesa_1118",
+     "title": "Ukrinform: Russian forces strike central Odesa for third time, death toll rises to four (Nov 18)",
+     "url": "https://www.ukrinform.net/rubric-ato/4185995-russian-forces-strike-central-odesa-for-third-time-death-toll-rises-to-four.html"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "kyiv-1118",
+   "date": "2026-11-18",
+   "region": "rear",
+   "oblast": "Kyiv City",
+   "front": "Rear (Kyiv)",
+   "type": "drone",
+   "status": "CONFIRMED",
+   "title": "Russian drone debris hits 28-storey Kyiv building; three injured in the capital",
+   "caption": "The Kyiv Independent reports that during a drone attack of almost two hours on Nov 18, debris hit the 11th floor of a 28-storey residential building and fell in a park in Pechersk district, and another drone's debris set several trucks on fire at a commercial site. Mayor Vitali Klitschko said three people were injured in the capital, one hospitalised. In Kyiv Oblast, the State Emergency Service said four people including a child were injured in Novi Petrivtsi. The attack was still ongoing when the article was published.",
+   "lat": 50.4547,
+   "lon": 30.5238,
+   "coordPrecision": "city",
+   "place": "Kyiv",
+   "sources": [
+    {
+     "id": "ki_kyiv_1118",
+     "title": "Kyiv Independent: Russia attacks Kyiv with drones, injures 3, hits 28-story residential building (Nov 18)",
+     "url": "https://kyivindependent.com/russia-attacks-kyiv-with-drones-injures-3-hits-28-story-residential-building/"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "chuhuiv-1118",
+   "date": "2026-11-18",
+   "region": "north",
+   "oblast": "Kharkiv",
+   "front": "Kharkiv",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Russian drone strikes apartment building and post office in Chuhuiv, says Kharkiv governor",
+   "caption": "Ukrinform, citing a Telegram post by Kharkiv regional head Oleh Syniehubov, reports a Russian drone attack on Chuhuiv that struck an apartment building and a post office on Nov 18. Emergency services were working and further details were still being clarified. No casualty figures were given and no independent confirmation was read.",
+   "lat": 49.8354,
+   "lon": 36.6865,
+   "coordPrecision": "city",
+   "place": "Chuhuiv",
+   "sources": [
+    {
+     "id": "ukrinform_chuhuiv_1118",
+     "title": "Ukrinform: Drone strikes apartment building, post office in Chuhuiv (Nov 18)",
+     "url": "https://www.ukrinform.net/rubric-ato/4186143-drone-strikes-apartment-building-post-office-in-chuhuiv.html"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "afipsky-1118",
+   "date": "2026-11-18",
+   "region": "russia",
+   "oblast": "Krasnodar Krai",
+   "front": "Russia deep strikes",
+   "type": "deep-strike",
+   "status": "ONE_PARTY",
+   "title": "Ukraine's General Staff claims strikes on Ilsky and Afipsky refineries in Krasnodar Krai",
+   "caption": "Ukraine's General Staff says Ukrainian forces attacked the Ilsky and Afipsky refineries in the night of Nov 17-18. It reports explosions, smoke and hit storage tanks at Ilsky and a hit on an oil-processing unit at Afipsky (preliminary information). Ukrinform relays the claim. The marker sits at Afipsky; Ilsky is a separate site nearby. No Russian statement and no independent confirmation of the damage were read.",
+   "lat": 44.9001,
+   "lon": 38.8427,
+   "coordPrecision": "approx",
+   "place": "Afipskiy",
+   "sources": [
+    {
+     "id": "gs_refineries_1118",
+     "title": "General Staff of Ukraine (Telegram): Ilsky and Afipsky refineries hit (Nov 18)",
+     "url": "https://t.me/GeneralStaffZSU/42938"
+    },
+    {
+     "id": "ukrinform_afipsky_1118",
+     "title": "Ukrinform: General Staff confirms strikes on Ilsky and Afipsky oil refineries (Nov 18)",
+     "url": "https://www.ukrinform.net/rubric-ato/4186044-general-staff-confirms-strikes-on-ilsky-and-afipsky-oil-refineries.html"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "kerch-1119",
+   "date": "2026-11-19",
+   "region": "crimea-sea",
+   "oblast": "Crimea (occupied)",
+   "front": "Crimea (occupied)",
+   "type": "missile",
+   "status": "ONE_PARTY",
+   "title": "Ukraine's General Staff claims Neptune missiles hit the Kerch Bridge rail line again",
+   "caption": "Ukraine's General Staff says Navy Neptune coastal missile systems struck the Kerch Bridge in the night of Nov 19, that traffic on the bridge was closed and that the railway track was damaged. This follows the Nov 16-17 strike that Ukraine says collapsed a span (see kerch-1117). No Russian statement and no imagery of the new damage were read, so the claim is unverified. The marker sits at Kerch, near the bridge.",
+   "lat": 45.3568,
+   "lon": 36.4754,
+   "coordPrecision": "approx",
+   "place": "Kerch",
+   "sources": [
+    {
+     "id": "gs_kerch_1119",
+     "title": "General Staff of Ukraine (Telegram): Neptune strike on Kerch Bridge, rail track damaged (Nov 19)",
+     "url": "https://t.me/GeneralStaffZSU/42945"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "sumy-1119",
+   "date": "2026-11-19",
+   "region": "north",
+   "oblast": "Sumy",
+   "front": "North (Sumy/Kharkiv)",
+   "type": "energy",
+   "status": "ONE_PARTY",
+   "title": "Russia's MoD claims drone strike on Sumy North substation and Odesa-region energy and port sites",
+   "caption": "Russia's Ministry of Defence says its drones hit the 330 kV Sumy Northern substation, which it says supplies military industry and logistics, overnight into Nov 19. It also claims hits on 110 kV substations at Karolino-Buhaz and Bilhorod-Dnistrovskyi, fuel storage at Chornomorsk port and a dry-cargo ship near Odesa. Ukraine's General Staff reported hits at 18 locations overnight but named none. No Ukrainian statement on these sites and no independent confirmation were read.",
+   "lat": 50.9174,
+   "lon": 34.7991,
+   "coordPrecision": "city",
+   "place": "Sumy",
+   "sources": [
+    {
+     "id": "mod_strikes_1119",
+     "title": "Russian MoD (Telegram): strikes on energy and port infrastructure, Sumy and Odesa region (Nov 19)",
+     "url": "https://t.me/mod_russia/69144"
+    },
+    {
+     "id": "gs_air_1119",
+     "title": "General Staff of Ukraine (Telegram): 69 targets downed/suppressed, night of Nov 18-19",
+     "url": "https://t.me/GeneralStaffZSU/42943"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Russia's MoD",
+     "says": "Drones hit the Sumy Northern 330 kV substation, Karolino-Buhaz and Bilhorod-Dnistrovskyi 110 kV substations, Chornomorsk fuel storage and a cargo ship.",
+     "source": "mod_strikes_1119"
+    },
+    {
+     "who": "Ukraine's General Staff",
+     "says": "Hits by Russian attack assets at 18 locations; no sites named.",
+     "source": "gs_air_1119"
+    }
+   ],
+   "read": "full"
   }
  ],
  "stats": [
   {
    "label": "Russian military personnel losses (cumulative, since Feb 24, 2022)",
    "category": "casualties",
-   "asOf": "2026-11-18",
+   "asOf": "2026-11-19",
    "status": "ONE_PARTY",
    "ukraine": {
-    "value": "~1,629,010 killed and wounded, calculated from the Nov 16 figure of ~1,625,420 plus the General Staff's +1,620 (Nov 17) and +1,970 (Nov 18); the cumulative tally itself is posted as an image and was not read",
-    "source": "gs_ops_1118"
+    "value": "~1,630,980 killed and wounded, calculated from the Nov 16 figure of ~1,625,420 plus the General Staff's +1,620 (Nov 17), +1,970 (Nov 18) and +1,970 (Nov 19); the cumulative tally itself is posted as an image and was not read",
+    "source": "gs_ops_1119"
    },
    "russia": {
     "value": "No official cumulative figure published",
@@ -5619,6 +5812,36 @@
    "russia": {
     "value": "MoD claims 184 fixed-wing drones intercepted overnight (20:00 Nov 17 to 08:00 Nov 18 Moscow time) over Belgorod and Rostov regions, Krasnodar Krai, Crimea and the Azov Sea",
     "source": "mod_pvo_1118"
+   },
+   "independent": []
+  },
+  {
+   "label": "Russian drones and missiles launched at Ukraine (night of Nov 18-19)",
+   "category": "shootdowns",
+   "asOf": "2026-11-19",
+   "status": "DISPUTED",
+   "ukraine": {
+    "value": "98 Shahed-type drones (61 jet-powered), Gerbera and Parodiya decoys, plus Oniks anti-ship missiles from Crimea; 69 downed or suppressed as of 08:00 (48 jet-powered), a few still airborne; hits at 18 locations (General Staff)",
+    "source": "gs_air_1119"
+   },
+   "russia": {
+    "value": "No launch count published; MoD claims drone hits on Sumy, Odesa-region substations, Chornomorsk fuel storage and a cargo ship",
+    "source": "mod_strikes_1119"
+   },
+   "independent": []
+  },
+  {
+   "label": "Ukrainian drones shot down over Russia (Nov 18-19)",
+   "category": "shootdowns",
+   "asOf": "2026-11-19",
+   "status": "ONE_PARTY",
+   "ukraine": {
+    "value": "No count published",
+    "source": null
+   },
+   "russia": {
+    "value": "MoD claims 53 fixed-wing drones intercepted overnight (20:00 Nov 18 to 08:00 Nov 19 Moscow time) over Belgorod, Voronezh, Kursk, Lipetsk, Oryol, Rostov, Ryazan, Smolensk and Tula regions and Tatarstan",
+    "source": "mod_pvo_1119"
    },
    "independent": []
   }
@@ -7023,6 +7246,71 @@
    "id": "ukrinform_vlasivka_1117",
    "title": "Ukrinform: Korolivskyi Smak plant in Kirovohrad region destroyed following Russian strike (Nov 17)",
    "url": "https://www.ukrinform.net/rubric-economy/4185664-korolivskyi-smak-plant-in-kirovohrad-region-destroyed-following-russian-strike.html"
+  },
+  {
+   "id": "gs_ops_1119",
+   "title": "General Staff of Ukraine (Telegram): operational information as of 08:00 Nov 19, losses over past day",
+   "url": "https://t.me/GeneralStaffZSU/42942"
+  },
+  {
+   "id": "mod_pvo_1119",
+   "title": "Russian MoD (Telegram): 53 Ukrainian drones shot down overnight Nov 19",
+   "url": "https://t.me/mod_russia/69145"
+  },
+  {
+   "id": "aj_odesa_1118",
+   "title": "Al Jazeera: Russian attacks on Ukraine kill at least five people (Nov 18)",
+   "url": "https://www.aljazeera.com/news/2026/11/18/russian-attacks-on-ukraine-kill-at-least-five-people?traffic_source=rss"
+  },
+  {
+   "id": "ukrinform_odesa_1118",
+   "title": "Ukrinform: Russian forces strike central Odesa for third time, death toll rises to four (Nov 18)",
+   "url": "https://www.ukrinform.net/rubric-ato/4185995-russian-forces-strike-central-odesa-for-third-time-death-toll-rises-to-four.html"
+  },
+  {
+   "id": "ki_kyiv_1118",
+   "title": "Kyiv Independent: Russia attacks Kyiv with drones, injures 3, hits 28-story residential building (Nov 18)",
+   "url": "https://kyivindependent.com/russia-attacks-kyiv-with-drones-injures-3-hits-28-story-residential-building/"
+  },
+  {
+   "id": "ukrinform_chuhuiv_1118",
+   "title": "Ukrinform: Drone strikes apartment building, post office in Chuhuiv (Nov 18)",
+   "url": "https://www.ukrinform.net/rubric-ato/4186143-drone-strikes-apartment-building-post-office-in-chuhuiv.html"
+  },
+  {
+   "id": "gs_refineries_1118",
+   "title": "General Staff of Ukraine (Telegram): Ilsky and Afipsky refineries hit (Nov 18)",
+   "url": "https://t.me/GeneralStaffZSU/42938"
+  },
+  {
+   "id": "ukrinform_afipsky_1118",
+   "title": "Ukrinform: General Staff confirms strikes on Ilsky and Afipsky oil refineries (Nov 18)",
+   "url": "https://www.ukrinform.net/rubric-ato/4186044-general-staff-confirms-strikes-on-ilsky-and-afipsky-oil-refineries.html"
+  },
+  {
+   "id": "ki_stanytsia_1118",
+   "title": "Kyiv Independent: Ukraine strikes Russian bridge in occupied Luhansk Oblast, damages 3 military aircraft, General Staff says (Nov 18)",
+   "url": "https://kyivindependent.com/ukraine-strikes-russian-bridge-in-occupied-luhansk-oblast-damages-3-military-aircraft-general-staff-says/"
+  },
+  {
+   "id": "ukrinform_stanytsia_1118",
+   "title": "Ukrinform: Ukrainian forces strike bridge over Siverskyi Donets River (Nov 18)",
+   "url": "https://www.ukrinform.net/rubric-ato/4186002-ukrainian-forces-strike-bridge-over-siverskyi-donets-river.html"
+  },
+  {
+   "id": "gs_kerch_1119",
+   "title": "General Staff of Ukraine (Telegram): Neptune strike on Kerch Bridge, rail track damaged (Nov 19)",
+   "url": "https://t.me/GeneralStaffZSU/42945"
+  },
+  {
+   "id": "mod_strikes_1119",
+   "title": "Russian MoD (Telegram): strikes on energy and port infrastructure, Sumy and Odesa region (Nov 19)",
+   "url": "https://t.me/mod_russia/69144"
+  },
+  {
+   "id": "gs_air_1119",
+   "title": "General Staff of Ukraine (Telegram): 69 targets downed/suppressed, night of Nov 18-19",
+   "url": "https://t.me/GeneralStaffZSU/42943"
   }
  ]
 }
