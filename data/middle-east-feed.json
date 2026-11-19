@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-19T11:05:34+00:00",
+  "lastUpdated": "2026-11-19T11:42:13+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -51,6 +51,18 @@
   ]
  },
  "items": [
+  {
+   "headline": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
+   "source": "The Guardian (Middle East)",
+   "link": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
+   "date": "2026-11-19T11:23:11.000Z"
+  },
+  {
+   "headline": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+   "source": "BBC News Middle East",
+   "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T11:07:37.000Z"
+  },
   {
    "headline": "Cousin fights cousin as war in Yemen splits families down the middle",
    "source": "Middle East Eye",
@@ -278,18 +290,6 @@
    "source": "Middle East Eye",
    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/coalition-says-missile-launch-platform-destroyed-saada",
    "date": "2026-11-18T23:28:42.000Z"
-  },
-  {
-   "headline": "Israeli tanks cross ‘yellow line’ boundary into Hamas-controlled central Gaza",
-   "source": "The Guardian (Middle East)",
-   "link": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza",
-   "date": "2026-11-18T23:25:25.000Z"
-  },
-  {
-   "headline": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
-   "source": "BBC News Middle East",
-   "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-18T22:34:56.000Z"
   },
   {
    "headline": "Israeli army launches ground operation in Hamas-controlled area of Gaza",

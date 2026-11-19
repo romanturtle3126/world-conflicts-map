@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-19T11:05:33+00:00",
+  "lastUpdated": "2026-11-19T11:42:13+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -50,13 +50,25 @@
    "headline": "Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live",
    "source": "The Guardian (Ukraine)",
    "link": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "date": "2026-11-19T11:03:00.000Z"
+   "date": "2026-11-19T11:37:39.000Z"
+  },
+  {
+   "headline": "Russian forces strike residential building in Izium, two injured",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4186336-russian-forces-strike-residential-building-in-izium-two-injured.html",
+   "date": "2026-11-19T11:35:00.000Z"
   },
   {
    "headline": "Badenoch says using amputee athletes to justify cutting disability benefits was ‘message of hope’ – UK politics live",
    "source": "The Guardian (Ukraine)",
    "link": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-   "date": "2026-11-19T10:58:32.000Z"
+   "date": "2026-11-19T11:17:43.000Z"
+  },
+  {
+   "headline": "Russian forces attack industrial facility in Mykolaiv region, one injured",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4186323-russian-forces-attack-industrial-facility-in-mykolaiv-region-one-injured.html",
+   "date": "2026-11-19T11:11:00.000Z"
   },
   {
    "headline": "Russian drone hits office building in Kyiv's Podilskyi district",
@@ -83,6 +95,12 @@
    "date": "2026-11-19T10:13:00.000Z"
   },
   {
+   "headline": "Russian attacks on Kyiv cause fire in two office buildings and medical centre – photos",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063593/",
+   "date": "2026-11-19T10:10:00.000Z"
+  },
+  {
    "headline": "Russian forces attack Shostka, damaging four apartment buildings",
    "source": "Ukrinform",
    "link": "https://www.ukrinform.net/rubric-ato/4186295-russian-forces-attack-shostka-damaging-four-apartment-buildings.html",
@@ -105,6 +123,18 @@
    "source": "Ukrinform",
    "link": "https://www.ukrinform.net/rubric-ato/4186277-drone-attack-reported-on-kaleykino-oil-pumping-station-in-russias-tatarstan.html",
    "date": "2026-11-19T09:45:00.000Z"
+  },
+  {
+   "headline": "Asked about Starlink, Musk urges empathy for Russian soldiers: \"Imagine if that was your son\"",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063582/",
+   "date": "2026-11-19T09:31:00.000Z"
+  },
+  {
+   "headline": "\"Just like before USSR collapsed\": journalists reveal number of \"frozen\" construction megaprojects in Russia",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063583/",
+   "date": "2026-11-19T09:26:00.000Z"
   },
   {
    "headline": "Trump proposes Xi join talks with Putin on ending war in Ukraine",
@@ -131,7 +161,7 @@
    "date": "2026-11-19T08:51:00.000Z"
   },
   {
-   "headline": "Trump says he hopes 'friend' Putin wants to end war in Ukraine as he meets Russian, Chinese leaders",
+   "headline": "Trump joins Putin, Xi in signing 'declaration of peace' as summit largely sidesteps Ukraine",
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/trump-sits-down-with-his-friend-putin-chinas-xi-for-unprecedented-trilateral-talks/",
    "date": "2026-11-19T08:46:09.000Z"
@@ -395,12 +425,6 @@
    "date": "2026-11-19T03:00:12.000Z"
   },
   {
-   "headline": "Ukrainian law enforcers, FBI expose hacking network that stole data and demanded multimillion-dollar ransoms",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-crime/4186012-ukrainian-law-enforcers-fbi-expose-hacking-network-that-stole-data-and-demanded-multimilliondollar-ransoms.html",
-   "date": "2026-11-19T02:40:00.000Z"
-  },
-  {
    "headline": "Ukraine war briefing: Russia asks if Netherlands has joined conflict after Crimea bridge strike",
    "source": "The Guardian (Ukraine)",
    "link": "https://www.theguardian.com/world/2026/nov/19/ukraine-war-briefing-russia-embassy-netherlands-destinus-missiles-kerch-crimea-bridge-strike",
@@ -413,28 +437,16 @@
    "date": "2026-11-19T01:49:00.000Z"
   },
   {
-   "headline": "19-year-old woman suspected of murdering Colombian national who served in Ukrainian army",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-crime/4185963-19yearold-woman-suspected-of-murdering-colombian-national-who-served-in-ukrainian-army.html",
-   "date": "2026-11-19T01:22:00.000Z"
-  },
-  {
    "headline": "Ukrainian strikes cut Russian oil refinery processing by 45%, Reuters reports",
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/ukrainian-strikes-cut-russian-oil-refinery-processing-by-45-reuters-reports/",
    "date": "2026-11-19T00:47:47.000Z"
   },
   {
-   "headline": "Russia's Crimean Bridge hit once again, railway traffic halted days after devastating strike",
+   "headline": "'Please vacate Crimea' — Crimean Bridge hit by Neptune missiles, Ukraine confirms, railway traffic halted",
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/ukrainian-forces-once-more-hit-russias-crimean-bridge-days-after-devastating-strike/",
    "date": "2026-11-19T00:04:38.000Z"
-  },
-  {
-   "headline": "Number injured in Russian attack on Zaporizhzhia rises",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063538/",
-   "date": "2026-11-18T23:54:00.000Z"
   },
   {
    "headline": "Russian arrested for spying on US defence company Palantir over Ukraine support",
@@ -443,22 +455,10 @@
    "date": "2026-11-18T23:28:03.000Z"
   },
   {
-   "headline": "Crimean Bridge attacked again",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063537/",
-   "date": "2026-11-18T23:15:00.000Z"
-  },
-  {
    "headline": "'Unacceptable attempt at intimidation' — Russian man charged with spying, targeting Silicon Valley",
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/unacceptable-attempt-at-intimidation-russian-man-charged-with-spying-targeting-silicon-valley/",
    "date": "2026-11-18T23:08:55.000Z"
-  },
-  {
-   "headline": "Zelenskyy explains why Ukraine struck Crimean Bridge: Russia respects no rules",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063536/",
-   "date": "2026-11-18T22:47:00.000Z"
   },
   {
    "headline": "EU proposes €45bn loan for Ukraine to avert cash crisis and boost defences",
