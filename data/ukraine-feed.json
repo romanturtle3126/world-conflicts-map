@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-19T11:42:13+00:00",
+  "lastUpdated": "2026-11-19T19:06:01+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -36,7 +36,7 @@
    {
     "source": "Al Jazeera",
     "ok": true,
-    "count": 7
+    "count": 5
    },
    {
     "source": "UK Ministry of Defence (GOV.UK)",
@@ -47,10 +47,400 @@
  },
  "items": [
   {
-   "headline": "Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live",
+   "headline": "Russians kill man in drone attack on Kushuhum, Zaporizhzhia Oblast",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063697/",
+   "date": "2026-11-19T18:44:00.000Z"
+  },
+  {
+   "headline": "Macron calls for four-way peace talks, reopens debate on Ukraine’s NATO membership",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4186548-macron-calls-for-fourway-peace-talks-reopens-debate-on-ukraines-nato-membership.html",
+   "date": "2026-11-19T18:38:00.000Z"
+  },
+  {
+   "headline": "'No viable suggestions' on Russian assets yet, Belgium's Euroclear tells European Parliament",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/no-viable-suggestions-on-russian-assets-yet-belgiums-euroclear-tells-european-parliament/",
+   "date": "2026-11-19T18:25:09.000Z"
+  },
+  {
+   "headline": "Latvian diplomats to continue working in Ukraine despite Russian strikes – FM",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4186535-latvian-diplomats-to-continue-working-in-ukraine-despite-russian-strikes-fm.html",
+   "date": "2026-11-19T18:19:00.000Z"
+  },
+  {
+   "headline": "Politico: Trump casts doubt on further military aid spending for Ukraine",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063695/",
+   "date": "2026-11-19T18:17:00.000Z"
+  },
+  {
+   "headline": "Trump-Xi-Putin summit: Five things you need to know",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss",
+   "date": "2026-11-19T18:13:52.000Z"
+  },
+  {
+   "headline": "Ukraine allies warn ‘Yalta format’ will not bring about peace – as it happened",
    "source": "The Guardian (Ukraine)",
    "link": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-   "date": "2026-11-19T11:37:39.000Z"
+   "date": "2026-11-19T18:03:54.000Z"
+  },
+  {
+   "headline": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
+   "source": "The Guardian (Ukraine)",
+   "link": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+   "date": "2026-11-19T18:02:33.000Z"
+  },
+  {
+   "headline": "Trump envoy: US convinces Russia of need for Article 5-style security guarantees for Ukraine",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063690/",
+   "date": "2026-11-19T18:02:00.000Z"
+  },
+  {
+   "headline": "Merz outlines key conditions for peace deal with Russia, floats partial sanctions relief",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4186528-merz-outlines-key-conditions-for-peace-deal-with-russia-floats-partial-sanctions-relief.html",
+   "date": "2026-11-19T18:00:00.000Z"
+  },
+  {
+   "headline": "Ukraine deploys experimental laser air defense system in Kyiv",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/ukraine-deploys-experimental-laser-air-defense-system-in-kyiv/",
+   "date": "2026-11-19T17:55:51.000Z"
+  },
+  {
+   "headline": "Interview: Move fast to secure Kyiv's future, Brussels economy chief tells Ukraine, EU countries",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/interview-move-fast-to-secure-kyivs-future-brussels-economy-chief-tells-ukraine-eu-countries/",
+   "date": "2026-11-19T17:52:32.000Z"
+  },
+  {
+   "headline": "China’s Xi urges US and Russia to join forces to safeguard world peace",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_chinas-xi-urges-us-and-russia-for-world-peace-191126?traffic_source=rss",
+   "date": "2026-11-19T17:50:21.000Z"
+  },
+  {
+   "headline": "Ukrainian forces refute Russian claim of capturing Shylivka in Donetsk region",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4186525-ukrainian-forces-refute-russian-claim-of-capturing-shylivka-in-donetsk-region.html",
+   "date": "2026-11-19T17:40:00.000Z"
+  },
+  {
+   "headline": "'We will not negotiate' — Putin addresses Ukraine's strikes on Crimean Bridge",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/we-will-not-negotiate-putin-addresses-ukraines-strikes-on-crimean-bridge/",
+   "date": "2026-11-19T17:23:44.000Z"
+  },
+  {
+   "headline": "Zelenskyy: Europeans to take part in negotiation formats with Russians",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063685/",
+   "date": "2026-11-19T17:23:00.000Z"
+  },
+  {
+   "headline": "Russia destroys 420 UOC churches, kills 25 priests since start of full-scale invasion",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-society/4186512-russia-destroys-420-uoc-churches-kills-25-priests-since-start-of-fullscale-invasion.html",
+   "date": "2026-11-19T17:22:00.000Z"
+  },
+  {
+   "headline": "Facing charges, SBU general goes all-in against anti-graft agencies investigating him",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/facing-charges-sbu-general-goes-on-offensive-against-anti-graft-agencies-investigating-him/",
+   "date": "2026-11-19T17:13:45.000Z"
+  },
+  {
+   "headline": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+   "source": "The Guardian (Ukraine)",
+   "link": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+   "date": "2026-11-19T17:13:23.000Z"
+  },
+  {
+   "headline": "EU ambassador to Ukraine recounts downing of Russian drone overhead",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063681/",
+   "date": "2026-11-19T17:10:00.000Z"
+  },
+  {
+   "headline": "Austrian Embassy in Kyiv damaged in Russian attack",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4186509-austrian-embassy-in-kyiv-damaged-in-russian-attack.html",
+   "date": "2026-11-19T17:03:00.000Z"
+  },
+  {
+   "headline": "Trump and Putin ‘hijacked’ China summit",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-and-putin-hijacked-china-summit?traffic_source=rss",
+   "date": "2026-11-19T17:02:22.000Z"
+  },
+  {
+   "headline": "Russian drone attacks enterprise in Kremenchuk",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063679/",
+   "date": "2026-11-19T17:01:00.000Z"
+  },
+  {
+   "headline": "Austrian foreign minister shares details of Kyiv embassy damage after Russian attack",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063678/",
+   "date": "2026-11-19T16:56:00.000Z"
+  },
+  {
+   "headline": "Zelensky outlines key topics for Coalition of the Willing meeting in Berlin",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4186503-zelensky-outlines-key-topics-for-coalition-of-the-willing-meeting-in-berlin.html",
+   "date": "2026-11-19T16:46:00.000Z"
+  },
+  {
+   "headline": "Trump says Putin upset with Zelenskyy over Kerch Bridge attack",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063675/",
+   "date": "2026-11-19T16:45:00.000Z"
+  },
+  {
+   "headline": "Russian forces trying to advance toward Orikhiv in small infantry groups but fail – military",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4186488-russian-forces-trying-to-advance-toward-orikhiv-in-small-infantry-groups-but-fail-military.html",
+   "date": "2026-11-19T16:30:00.000Z"
+  },
+  {
+   "headline": "Russians strike Kharkiv: five injured, shops damaged",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063672/",
+   "date": "2026-11-19T16:29:00.000Z"
+  },
+  {
+   "headline": "Russian attack damages St Volodymyr's Cathedral in Kyiv",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063671/",
+   "date": "2026-11-19T16:23:00.000Z"
+  },
+  {
+   "headline": "“Shenzhen is not the Yalta of Putin's dreams,” FM Sybiha says",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4186475-shenzhen-is-not-the-yalta-of-putins-dreams-fm-sybiha-says.html",
+   "date": "2026-11-19T16:12:00.000Z"
+  },
+  {
+   "headline": "Exclusive: Ukrainian authorities agree on landmark bill regulating crypto market",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/exclusive-ukrainian-authorities-agree-on-landmark-bill-regulating-crypto-market/",
+   "date": "2026-11-19T16:07:55.000Z"
+  },
+  {
+   "headline": "Freelance Commercial Content Writer",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/freelance-commercial-content-writer/",
+   "date": "2026-11-19T16:03:13.000Z"
+  },
+  {
+   "headline": "Zelenskyy meets leaders of Germany, UK and France in Berlin",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063666/",
+   "date": "2026-11-19T16:01:00.000Z"
+  },
+  {
+   "headline": "Russia's newest strike drones still depend on Western technology",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/russias-newest-strike-drones-still-depend-on-western-technology/",
+   "date": "2026-11-19T16:00:06.000Z"
+  },
+  {
+   "headline": "Open-source analyst shows satellite images of Kerch Bridge after Neptune attack",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063662/",
+   "date": "2026-11-19T15:57:00.000Z"
+  },
+  {
+   "headline": "No cause for concern about Ukraine’s food security, minister says",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-economy/4186469-no-cause-for-concern-about-ukraines-food-security-minister-says.html",
+   "date": "2026-11-19T15:55:00.000Z"
+  },
+  {
+   "headline": "One killed, five injured in Russian drone attack on Kyiv, St. Volodymyr’s Cathedral damaged",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4186467-one-killed-four-injured-in-russian-drone-attack-on-kyiv.html",
+   "date": "2026-11-19T15:37:00.000Z"
+  },
+  {
+   "headline": "Hungary lifts block on further progress for Ukraine, Moldova EU membership bids",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/hungary-lifts-block-on-further-progress-for-ukraine-moldova-eu-membership-bids/",
+   "date": "2026-11-19T15:27:14.000Z"
+  },
+  {
+   "headline": "Russian drone debris falls on Ukraine's Foreign Ministry grounds in Kyiv - photos",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063656/",
+   "date": "2026-11-19T15:23:00.000Z"
+  },
+  {
+   "headline": "Putin comments on strikes on Kerch bridge for first time",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4186452-putin-comments-on-strikes-on-kerch-bridge-for-first-time.html",
+   "date": "2026-11-19T15:20:00.000Z"
+  },
+  {
+   "headline": "Putin pitches Arctic route, calls for investment: Will it work?",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/19/putin-pitches-arctic-route-calls-for-investment-will-it-work?traffic_source=rss",
+   "date": "2026-11-19T15:16:43.000Z"
+  },
+  {
+   "headline": "NATO secretary general calls Trump, Putin and Xi meeting \"normal\"",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063655/",
+   "date": "2026-11-19T15:15:00.000Z"
+  },
+  {
+   "headline": "Putin vows ‘painful’ response to Ukraine’s bombing of Kerch bridge",
+   "source": "The Guardian (Ukraine)",
+   "link": "https://www.theguardian.com/world/2026/nov/19/putin-vows-painful-response-to-ukraine-bombing-of-kerch-bridge",
+   "date": "2026-11-19T15:04:16.000Z"
+  },
+  {
+   "headline": "Putin sets condition for European involvement in talks on war in Ukraine",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4186437-putin-sets-condition-for-european-involvement-in-talks-on-war-in-ukraine.html",
+   "date": "2026-11-19T14:59:00.000Z"
+  },
+  {
+   "headline": "Russian attack kills one person in Kyiv",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063653/",
+   "date": "2026-11-19T14:56:00.000Z"
+  },
+  {
+   "headline": "UNESCO condemns Russian attack on historic centre of Odesa",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063642/",
+   "date": "2026-11-19T14:40:00.000Z"
+  },
+  {
+   "headline": "Russian aircraft strike hits Myrne in Donetsk region, injuring elderly couple",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4186432-russian-aircraft-strike-hits-myrne-in-donetsk-region-injuring-elderly-couple.html",
+   "date": "2026-11-19T14:38:00.000Z"
+  },
+  {
+   "headline": "Russian drone damages Dutch Embassy building in Kyiv during attack – photo",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063652/",
+   "date": "2026-11-19T14:37:00.000Z"
+  },
+  {
+   "headline": "Russians attack Kyiv Oblast again: man injured, houses damaged",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063651/",
+   "date": "2026-11-19T14:26:00.000Z"
+  },
+  {
+   "headline": "Woman killed, several injured in Russian drone attack on Kyiv region",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4186423-woman-killed-several-injured-in-russian-drone-attack-on-kyiv-region.html",
+   "date": "2026-11-19T14:20:00.000Z"
+  },
+  {
+   "headline": "Fuel restrictions reportedly cause gas station queues in occupied Sevastopol after Crimean Bridge strikes",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/fuel-restrictions-reportedly-cause-gas-station-queues-in-occupied-sevastopol-after-crimean-bridge-strikes/",
+   "date": "2026-11-19T14:18:05.000Z"
+  },
+  {
+   "headline": "Kremlin says Putin and Trump did not discuss \"humanitarian mission\" in Kostiantynivka",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063649/",
+   "date": "2026-11-19T14:18:00.000Z"
+  },
+  {
+   "headline": "Injury toll in Russian strike on Izium rises to 21, including four children",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4186412-injury-toll-in-russian-strike-on-izium-rises-to-21-including-four-children.html",
+   "date": "2026-11-19T14:00:00.000Z"
+  },
+  {
+   "headline": "\"Only a spoonful of salt and a handful of grain left\": story of a family who evacuated from Oleshky",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063637/",
+   "date": "2026-11-19T13:52:00.000Z"
+  },
+  {
+   "headline": "Drone debris falls near three-story building in Kyiv’s Podilskyi district",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4186402-drone-debris-falls-near-threestory-building-in-kyivs-podilskyi-district.html",
+   "date": "2026-11-19T13:39:00.000Z"
+  },
+  {
+   "headline": "Witkoff, Kushner arrive in Berlin for Coalition of the Willing summit",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4186394-witkoff-kushner-arrive-in-berlin-for-coalition-of-the-willing-summit.html",
+   "date": "2026-11-19T13:18:00.000Z"
+  },
+  {
+   "headline": "‘Groundbreaking’ Trump-Xi-Putin summit: Five key takeaways",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways?traffic_source=rss",
+   "date": "2026-11-19T13:13:53.000Z"
+  },
+  {
+   "headline": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+   "source": "BBC News Europe",
+   "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-19T13:07:35.000Z"
+  },
+  {
+   "headline": "'For Russia, nothing is sacred' — Massive Russian drone attack on Kyiv kills 1, damages St. Volodymyr's Cathedral, embassies",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/breaking-dutch-embassy-damaged-in-russian-drone-strike-on-kyiv/",
+   "date": "2026-11-19T13:05:54.000Z"
+  },
+  {
+   "headline": "Chinese, US, Russian leaders adopt 'peace declaration,' make no mention of Ukraine",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4186379-chinese-us-russian-leaders-adopt-peace-declaration-make-no-mention-of-ukraine.html",
+   "date": "2026-11-19T13:00:00.000Z"
+  },
+  {
+   "headline": "Russian strike destroys section of residential building in Izium, injures 16",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4186383-russian-strike-destroys-section-of-residential-building-in-izium-injures-16.html",
+   "date": "2026-11-19T12:45:00.000Z"
+  },
+  {
+   "headline": "UK to provide Ukraine with more than 1,000 long-range drones",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4186372-uk-to-provide-ukraine-with-more-than-1000-longrange-drones.html",
+   "date": "2026-11-19T12:37:00.000Z"
+  },
+  {
+   "headline": "Neptune missile strike damages railway track on Crimean Bridge -- General Staff",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4186350-neptune-missile-strike-damages-railway-track-on-crimean-bridge-general-staff.html",
+   "date": "2026-11-19T12:19:00.000Z"
+  },
+  {
+   "headline": "Zelensky arrives in Berlin for Coalition of the Willing meeting",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4186367-zelensky-arrives-in-berlin-for-coalition-of-the-willing-meeting.html",
+   "date": "2026-11-19T12:10:00.000Z"
+  },
+  {
+   "headline": "Trilateral meeting between Trump, Xi and Putin held in Shenzhen",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4186342-trilateral-meeting-between-trump-xi-and-putin-held-in-shenzhen.html",
+   "date": "2026-11-19T12:00:00.000Z"
+  },
+  {
+   "headline": "Zelensky arrives in Berlin for talks with European leaders, Trump's envoys",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/zelensky-arrives-in-berlin-for-talks-with-european-officials-trumps-envoys/",
+   "date": "2026-11-19T11:35:00.000Z"
   },
   {
    "headline": "Russian forces strike residential building in Izium, two injured",
@@ -59,52 +449,10 @@
    "date": "2026-11-19T11:35:00.000Z"
   },
   {
-   "headline": "Badenoch says using amputee athletes to justify cutting disability benefits was ‘message of hope’ – UK politics live",
-   "source": "The Guardian (Ukraine)",
-   "link": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-   "date": "2026-11-19T11:17:43.000Z"
-  },
-  {
-   "headline": "Russian forces attack industrial facility in Mykolaiv region, one injured",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4186323-russian-forces-attack-industrial-facility-in-mykolaiv-region-one-injured.html",
-   "date": "2026-11-19T11:11:00.000Z"
-  },
-  {
-   "headline": "Russian drone hits office building in Kyiv's Podilskyi district",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4186321-russian-drone-hits-office-building-in-kyivs-podilskyi-district.html",
-   "date": "2026-11-19T10:50:00.000Z"
-  },
-  {
-   "headline": "Witkoff, Kushner heading to Berlin for Coalition of the Willing meeting",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4186320-witkoff-kushner-heading-to-berlin-for-coalition-of-the-willing-meeting.html",
-   "date": "2026-11-19T10:31:00.000Z"
-  },
-  {
    "headline": "Russian attacks kill 4, injure 36, including 11-year-old boy, 12-year-old girl, across Ukraine over past day",
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/russian-attacks-kill-4-injure-36-including-11-year-old-boy-12-year-old-girl-across-ukraine-over-past-day/",
    "date": "2026-11-19T10:14:10.000Z"
-  },
-  {
-   "headline": "Russian strikes on energy infrastructure cause power outages in five regions",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-economy/4186303-russian-strikes-on-energy-infrastructure-cause-power-outages-in-five-regions.html",
-   "date": "2026-11-19T10:13:00.000Z"
-  },
-  {
-   "headline": "Russian attacks on Kyiv cause fire in two office buildings and medical centre – photos",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063593/",
-   "date": "2026-11-19T10:10:00.000Z"
-  },
-  {
-   "headline": "Russian forces attack Shostka, damaging four apartment buildings",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4186295-russian-forces-attack-shostka-damaging-four-apartment-buildings.html",
-   "date": "2026-11-19T10:08:00.000Z"
   },
   {
    "headline": "Crimea bridge has been attacked again, says Russian-installed governor",
@@ -113,118 +461,10 @@
    "date": "2026-11-19T10:03:42.000Z"
   },
   {
-   "headline": "Russia deploy electronic-warfare-immune fibre-optic Molniya drones across various frontlines – video",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063590/",
-   "date": "2026-11-19T09:52:00.000Z"
-  },
-  {
-   "headline": "Drone attack reported on Kaleykino oil pumping station in Russia's Tatarstan",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4186277-drone-attack-reported-on-kaleykino-oil-pumping-station-in-russias-tatarstan.html",
-   "date": "2026-11-19T09:45:00.000Z"
-  },
-  {
-   "headline": "Asked about Starlink, Musk urges empathy for Russian soldiers: \"Imagine if that was your son\"",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063582/",
-   "date": "2026-11-19T09:31:00.000Z"
-  },
-  {
-   "headline": "\"Just like before USSR collapsed\": journalists reveal number of \"frozen\" construction megaprojects in Russia",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063583/",
-   "date": "2026-11-19T09:26:00.000Z"
-  },
-  {
-   "headline": "Trump proposes Xi join talks with Putin on ending war in Ukraine",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4186274-trump-proposes-xi-join-talks-with-putin-on-ending-war-in-ukraine.html",
-   "date": "2026-11-19T09:23:00.000Z"
-  },
-  {
-   "headline": "U.S. dollar and euro exchange rates on November 19",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-economy/4186271-us-dollar-and-euro-exchange-rates-on-november-19.html",
-   "date": "2026-11-19T09:02:00.000Z"
-  },
-  {
-   "headline": "Artem Seledtsov, boy injured in Russian attack on Pavlohrad, dies after three weeks in critical condition",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063581/",
-   "date": "2026-11-19T09:00:00.000Z"
-  },
-  {
-   "headline": "Russian forces strike industrial and energy infrastructure in Odesa region overnight",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4186267-russian-forces-strike-industrial-and-energy-infrastructure-in-odesa-region-overnight.html",
-   "date": "2026-11-19T08:51:00.000Z"
-  },
-  {
    "headline": "Trump joins Putin, Xi in signing 'declaration of peace' as summit largely sidesteps Ukraine",
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/trump-sits-down-with-his-friend-putin-chinas-xi-for-unprecedented-trilateral-talks/",
    "date": "2026-11-19T08:46:09.000Z"
-  },
-  {
-   "headline": "Emergency power cuts introduced in Ukraine following Russian strikes",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063580/",
-   "date": "2026-11-19T08:37:00.000Z"
-  },
-  {
-   "headline": "Ukraine approves drinking water supply improvement program through 2035",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-economy/4186238-ukraine-approves-drinking-water-supply-improvement-program-through-2035.html",
-   "date": "2026-11-19T08:34:00.000Z"
-  },
-  {
-   "headline": "Trump meets Putin and Xi for trilateral US, Russia, China talks at APEC",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks?traffic_source=rss",
-   "date": "2026-11-19T08:32:10.000Z"
-  },
-  {
-   "headline": "Is Trump helping rehabilitate Putin on the world stage?",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/is-trump-helping-rehabilitate-putin-on-the-world-stage?traffic_source=rss",
-   "date": "2026-11-19T08:31:14.000Z"
-  },
-  {
-   "headline": "Trump holds ‘pull-aside’ talks with Putin in China",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4186253-trump-holds-pullaside-talks-with-putin-in-china.html",
-   "date": "2026-11-19T08:15:00.000Z"
-  },
-  {
-   "headline": "Italy demands explanations from Ukraine over inclusion of MEPs on \"enemy list\"",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063577/",
-   "date": "2026-11-19T08:07:00.000Z"
-  },
-  {
-   "headline": "Four people injured in Russian drone attacks on two districts of Kyiv region over past day",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4186244-four-people-injured-in-russian-drone-attacks-on-two-districts-of-kyiv-region-over-past-day.html",
-   "date": "2026-11-19T08:00:00.000Z"
-  },
-  {
-   "headline": "Oil facility providing transit to Druzhba pipeline reportedly attacked in Russia's Tatarstan",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063575/",
-   "date": "2026-11-19T07:57:00.000Z"
-  },
-  {
-   "headline": "Lithuania plans to fortify its border with Russia's Kaliningrad Oblast",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063574/",
-   "date": "2026-11-19T07:51:00.000Z"
-  },
-  {
-   "headline": "Zelensky discusses investment promotion and business innovation with Markarova",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-vidbudova/4186222-zelensky-discusses-investment-promotion-and-business-innovation-with-markarova.html",
-   "date": "2026-11-19T07:41:00.000Z"
   },
   {
    "headline": "‘End your war, end it now’: Anthony Albanese tells Vladimir Putin to put a stop to Ukraine war",
@@ -233,214 +473,16 @@
    "date": "2026-11-19T07:36:00.000Z"
   },
   {
-   "headline": "Crimean Bridge attacked again, Russia says",
-   "source": "BBC News Europe",
-   "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T07:32:06.000Z"
-  },
-  {
-   "headline": "General Staff: Russia has lost 1,630,980 troops in Ukraine since Feb. 24, 2022",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/general-staff-russia-has-lost-1-630-980-troops-in-ukraine-since-feb-24-2022/",
-   "date": "2026-11-19T07:27:50.000Z"
-  },
-  {
-   "headline": "War update: 211 attacks on front lines over past day, most on Pokrovsk and Kostiantynivka axes",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4186241-war-update-211-attacks-on-front-lines-over-past-day-most-on-pokrovsk-and-kostiantynivka-axes.html",
-   "date": "2026-11-19T07:25:00.000Z"
-  },
-  {
-   "headline": "Russian national charged in US with spying on company providing assistance to Ukraine",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063572/",
-   "date": "2026-11-19T07:25:00.000Z"
-  },
-  {
-   "headline": "Kremlin claims Ukraine was the main topic of Putin and Trump's meeting",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063570/",
-   "date": "2026-11-19T07:17:00.000Z"
-  },
-  {
-   "headline": "'We don't count on anyone' – How Ukraine's internally displaced people struggle for housing",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/we-dont-count-on-anyone-how-ukraines-internally-displaced-people-struggle-for-housing/",
-   "date": "2026-11-19T07:11:36.000Z"
-  },
-  {
-   "headline": "Train services on Crimean Bridge suspended after overnight drone attack – media",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4186231-train-services-on-crimean-bridge-suspended-after-overnight-drone-attack-media.html",
-   "date": "2026-11-19T07:03:00.000Z"
-  },
-  {
    "headline": "Trump says he and Putin have a 'great relationship' at meeting",
    "source": "BBC News Europe",
    "link": "https://www.bbc.co.uk/news/videos/cm4gn31yn0x9o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-19T06:52:54.000Z"
   },
   {
-   "headline": "Pentagon deputy leaves Ukraine Defence Contact Group meeting after criticising Ukraine over strikes on Russia",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063565/",
-   "date": "2026-11-19T06:51:00.000Z"
-  },
-  {
-   "headline": "Zelensky announces measures to help unblock agricultural exports",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-economy/4186220-zelensky-announces-measures-to-help-unblock-agricultural-exports.html",
-   "date": "2026-11-19T06:46:00.000Z"
-  },
-  {
-   "headline": "‘It’s my friend’: Moment Trump greets Putin at China summit",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/its-my-friend-moment-trump-greets-putin-at-china-summit?traffic_source=rss",
-   "date": "2026-11-19T06:44:59.000Z"
-  },
-  {
-   "headline": "Air defense downs 69 drones launched by Russia in overnight attack on Ukraine",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4186225-air-defense-downs-69-drones-launched-by-russia-in-overnight-attack-on-ukraine.html",
-   "date": "2026-11-19T06:40:00.000Z"
-  },
-  {
-   "headline": "Trump says during meeting with Xi that US and China want to help end war in Ukraine",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063562/",
-   "date": "2026-11-19T06:36:00.000Z"
-  },
-  {
-   "headline": "Kerch Bridge attacked for third time in a week: trains halted, Ukraine hints at strike",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063561/",
-   "date": "2026-11-19T06:34:00.000Z"
-  },
-  {
-   "headline": "Russian forces attack energy infrastructure in Mykolaiv region",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4186223-russian-forces-attack-energy-infrastructure-in-mykolaiv-region.html",
-   "date": "2026-11-19T06:22:00.000Z"
-  },
-  {
-   "headline": "Could Trump, Putin and Xi end the nuclear age?",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/opinions/2026/11/19/could-trump-putin-and-xi-end-the-nuclear-age?traffic_source=rss",
-   "date": "2026-11-19T06:15:55.000Z"
-  },
-  {
-   "headline": "Ukrainian air defence downs 69 Russian drones overnight",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063559/",
-   "date": "2026-11-19T06:15:00.000Z"
-  },
-  {
-   "headline": "The Xi-Putin-Trump summit will not be a ‘new Yalta’",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/opinions/2026/11/19/the-xi-putin-trump-summit-will-not-be-a-new-yalta?traffic_source=rss",
-   "date": "2026-11-19T06:07:05.000Z"
-  },
-  {
-   "headline": "Russia’s war casualty toll up by 1,970 over past day",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4186218-russias-war-casualty-toll-up-by-1970-over-past-day.html",
-   "date": "2026-11-19T06:05:00.000Z"
-  },
-  {
-   "headline": "Norway's foreign minister: Europe's security architecture worked well until Russia violated it",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4186212-norways-foreign-minister-europes-security-architecture-worked-well-until-russia-violated-it.html",
-   "date": "2026-11-19T05:44:00.000Z"
-  },
-  {
-   "headline": "Russia loses 1,970 soldiers and more than 360 pieces of military equipment over past day",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063555/",
-   "date": "2026-11-19T05:40:00.000Z"
-  },
-  {
-   "headline": "Lithuania's military aid to Ukraine will not decrease next year – defense minister",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4186209-lithuanias-military-aid-to-ukraine-will-not-decrease-next-year-defense-minister.html",
-   "date": "2026-11-19T05:23:00.000Z"
-  },
-  {
-   "headline": "Trump meets \"friend\" Putin in China",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063554/",
-   "date": "2026-11-19T05:22:00.000Z"
-  },
-  {
-   "headline": "Far from Trump-Putin meeting, Europe to count cost of Ukraine’s defence",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss",
-   "date": "2026-11-19T04:58:36.000Z"
-  },
-  {
-   "headline": "Russian assault troops in Kherson region's island zone readily surrender – press officer",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4186206-russian-assault-troops-in-kherson-regions-island-zone-readily-surrender-press-officer.html",
-   "date": "2026-11-19T04:55:00.000Z"
-  },
-  {
-   "headline": "Trump wants to talk nuclear with Putin and Xi",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-wants-to-talk-nuclear-with-putin-and-xi?traffic_source=rss",
-   "date": "2026-11-19T04:50:28.000Z"
-  },
-  {
-   "headline": "Ukrainian drones reportedly target oil hub in Russia's Tatarstan",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/ukrainian-drones-reportedly-target-oil-hub-in-russias-tatarstan/",
-   "date": "2026-11-19T04:46:16.000Z"
-  },
-  {
-   "headline": "Trump says US is making good money from selling weapons for Ukraine",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063544/",
-   "date": "2026-11-19T04:40:00.000Z"
-  },
-  {
-   "headline": "Zelensky believes Trump and Xi could pressure Putin into ending Ukraine war",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4186205-zelensky-believes-trump-and-xi-could-pressure-putin-into-ending-ukraine-war.html",
-   "date": "2026-11-19T04:28:00.000Z"
-  },
-  {
-   "headline": "Japanese PM meets with Putin for the first time since the invasion of Ukraine",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063543/",
-   "date": "2026-11-19T03:56:00.000Z"
-  },
-  {
-   "headline": "Putin is lying again: Carney responds to claim that “sanctions are a thing of the past”",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4186177-putin-is-lying-again-carney-responds-to-claim-that-sanctions-are-a-thing-of-the-past.html",
-   "date": "2026-11-19T03:25:00.000Z"
-  },
-  {
-   "headline": "What China hopes to gain from the Trump-Putin summit",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/what-china-hopes-to-gain-from-the-trump-putin-summit/",
-   "date": "2026-11-19T03:00:12.000Z"
-  },
-  {
    "headline": "Ukraine war briefing: Russia asks if Netherlands has joined conflict after Crimea bridge strike",
    "source": "The Guardian (Ukraine)",
    "link": "https://www.theguardian.com/world/2026/nov/19/ukraine-war-briefing-russia-embassy-netherlands-destinus-missiles-kerch-crimea-bridge-strike",
    "date": "2026-11-19T02:16:26.000Z"
-  },
-  {
-   "headline": "Zelenskyy says Trump and Xi Jinping can force Putin to end war",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/19/8063540/",
-   "date": "2026-11-19T01:49:00.000Z"
-  },
-  {
-   "headline": "Ukrainian strikes cut Russian oil refinery processing by 45%, Reuters reports",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/ukrainian-strikes-cut-russian-oil-refinery-processing-by-45-reuters-reports/",
-   "date": "2026-11-19T00:47:47.000Z"
   },
   {
    "headline": "'Please vacate Crimea' — Crimean Bridge hit by Neptune missiles, Ukraine confirms, railway traffic halted",
@@ -455,22 +497,10 @@
    "date": "2026-11-18T23:28:03.000Z"
   },
   {
-   "headline": "'Unacceptable attempt at intimidation' — Russian man charged with spying, targeting Silicon Valley",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/unacceptable-attempt-at-intimidation-russian-man-charged-with-spying-targeting-silicon-valley/",
-   "date": "2026-11-18T23:08:55.000Z"
-  },
-  {
    "headline": "EU proposes €45bn loan for Ukraine to avert cash crisis and boost defences",
    "source": "The Guardian (Ukraine)",
    "link": "https://www.theguardian.com/world/2026/nov/18/eu-loan-ukraine-cash-crisis-defences-von-der-leyen-kyiv",
    "date": "2026-11-18T22:34:03.000Z"
-  },
-  {
-   "headline": "Ukrainian influencer accused of fraud, money laundering arrested by Italian police",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/ukrainian-influencer-accused-of-fraud-money-laundering-arrested-by-italian-police/",
-   "date": "2026-11-18T21:54:45.000Z"
   },
   {
    "headline": "How Ukraine landed a blow to Putin’s prized bridge – The Latest",
@@ -479,46 +509,16 @@
    "date": "2026-11-18T21:18:57.000Z"
   },
   {
-   "headline": "'Russia will achieve none of its objectives' — Zelensky details upcoming allies meeting",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/russia-will-achieve-none-of-its-objectives-zelensky-details-upcoming-allies-meeting/",
-   "date": "2026-11-18T20:19:10.000Z"
-  },
-  {
    "headline": "How Ukraine landed a blow to Putin’s prized bridge - The Latest",
    "source": "The Guardian (Ukraine)",
    "link": "https://www.theguardian.com/news/video/2026/nov/18/how-ukraine-landed-a-blow-to-putins-prize-bridge-the-latest",
    "date": "2026-11-18T18:53:45.000Z"
   },
   {
-   "headline": "Ukraine war latest: Drones strike 2 Russian oil refineries in Krasnodar Krai, Kyiv says",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/ukraine-war-latest-drones-strike-2-russian-oil-refineries-in-krasnodar-krai-kyiv-says/",
-   "date": "2026-11-18T18:36:33.000Z"
-  },
-  {
    "headline": "The Guardian view on the Trump, Xi and Putin meeting: it may be a first, but it’s not progress | Editorial",
    "source": "The Guardian (Ukraine)",
    "link": "https://www.theguardian.com/commentisfree/2026/nov/18/the-guardian-view-on-the-trump-xi-and-putin-meeting-it-may-be-a-first-but-its-not-progress",
    "date": "2026-11-18T18:35:14.000Z"
-  },
-  {
-   "headline": "After just 4 months in the job, calls grow for resignation of Ukraine’s veterans minister",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/after-just-4-months-in-the-job-calls-grow-for-resignation-of-ukraines-veterans-minister/",
-   "date": "2026-11-18T18:26:14.000Z"
-  },
-  {
-   "headline": "Ukraine, Russia 'negotiating' another Oleshky-style humanitarian mission, Lubinets says",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/ukraine-russia-negotiating-another-oleshky-style-humanitarian-mission-lubinets-says/",
-   "date": "2026-11-18T18:24:58.000Z"
-  },
-  {
-   "headline": "Ukrainian court remands key anti-graft probe suspect in custody",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/ukrainian-court-remands-key-anti-graft-probe-suspect-in-custody-2/",
-   "date": "2026-11-18T17:57:53.000Z"
   },
   {
    "headline": "New video shows explosions moments before part of Crimea Bridge collapses",
@@ -639,18 +639,6 @@
    "source": "BBC News Europe",
    "link": "https://www.bbc.co.uk/news/articles/c60evw20qe47o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-17T07:44:17.000Z"
-  },
-  {
-   "headline": "Ukraine war briefing: Crimea bridge attacked again after Russia strikes major Kyiv bridges",
-   "source": "The Guardian (Ukraine)",
-   "link": "https://www.theguardian.com/world/2026/nov/17/ukraine-war-briefing-crimea-bridge-attacked-again-after-russia-strikes-major-kyiv-bridges",
-   "date": "2026-11-17T03:12:08.000Z"
-  },
-  {
-   "headline": "The Guardian view on Europe and Burnham: a future that can only be viewed through a glass darkly | Editorial",
-   "source": "The Guardian (Ukraine)",
-   "link": "https://www.theguardian.com/commentisfree/2026/nov/16/the-guardian-view-on-europe-and-burnham-a-future-that-can-only-be-viewed-through-a-glass-darkly",
-   "date": "2026-11-16T18:37:44.000Z"
   },
   {
    "headline": "First Person: Managing risk on Ukraine’s frontline",
