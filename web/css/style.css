@@ -48,6 +48,19 @@ h1{margin:0;font-size:19px;font-weight:800;letter-spacing:.3px;display:flex;alig
 .mapswitch[hidden]{display:none}
 .mapswitch button{flex:1;height:34px;border:0;border-radius:9px;background:none;color:var(--mut);font:700 12.5px var(--mono);letter-spacing:.8px;text-transform:uppercase;cursor:pointer;transition:background .2s,color .2s}
 .mapswitch button.on{background:#16202e;color:var(--cyan);box-shadow:inset 0 0 0 1px #24405f}
+.searchwrap{position:relative;margin-top:10px}
+.searchwrap[hidden]{display:none}
+#search{width:100%;height:40px;border-radius:20px;border:1px solid var(--line);background:#06070a;color:var(--fg);padding:0 16px;font:inherit;font-size:14.5px;outline:none}
+#search:focus{border-color:var(--cyan)}
+#search::placeholder{color:var(--mut)}
+.searchresults{position:absolute;left:0;right:0;top:46px;z-index:15;background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:0 14px 40px rgba(0,0,0,.7);max-height:52vh;overflow-y:auto}
+.searchresults[hidden]{display:none}
+.sr{display:flex;align-items:center;gap:9px;width:100%;text-align:left;background:none;border:0;border-bottom:1px solid var(--line);padding:10px 12px;cursor:pointer;color:var(--fg)}
+.sr:last-child{border-bottom:0}
+.sr .d{width:9px;height:9px;border-radius:50%;flex:none}
+.sr-t{flex:1;min-width:0;font-size:14px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.sr-m{font:10.5px var(--mono);color:var(--mut);flex:none;text-transform:uppercase;letter-spacing:.3px}
+.sr-none{padding:10px 12px;color:var(--mut);font-size:13px}
 .chips{display:flex;gap:8px;overflow-x:auto;padding:10px 0 2px;scrollbar-width:none}
 .chips::-webkit-scrollbar{display:none}
 .chips[hidden]{display:none}
@@ -114,6 +127,15 @@ nav#tabs button.active svg{transform:translateY(-1px) scale(1.08)}
 .mk.pop .core{animation:pop .55s cubic-bezier(.34,1.7,.5,1) both}
 @keyframes pop{0%{transform:scale(0);opacity:0}100%{transform:scale(1);opacity:1}}
 .mk.gone{display:none}
+.mk.clustered{display:none}
+.clu{cursor:pointer}
+.clu>*{transform-box:fill-box;transform-origin:center}
+.clu .hit{fill:transparent}
+.clu-bg{fill:#101623;stroke:#8b919b;stroke-width:1.6;vector-effect:non-scaling-stroke}
+.clu.isnew .clu-bg{stroke:var(--cyan)}
+.clu-ring{fill:none;stroke:var(--cyan);stroke-width:1.6;vector-effect:non-scaling-stroke;opacity:0}
+.clu.today .clu-ring{animation:ping 2.6s cubic-bezier(.2,.6,.35,1) infinite}
+.clu-n{fill:#eceef1;font:800 10px var(--mono);text-anchor:middle;pointer-events:none}
 
 .ctrls{position:absolute;right:12px;top:12px;display:flex;flex-direction:column;gap:9px;z-index:2}
 .ctrls button,#presets button{width:48px;height:48px;border-radius:13px;border:1px solid var(--line);background:rgba(6,7,10,.88);font-size:22px;font-weight:600;cursor:pointer;transition:transform .12s,background .2s}

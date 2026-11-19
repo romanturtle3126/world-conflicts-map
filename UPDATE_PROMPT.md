@@ -111,7 +111,8 @@ node scripts/merge-update.mjs data/incoming/ukraine.json
 ```
 
 - It merges by id, never deletes, checks every rule, checks that new links are not dead, bumps "Data updated", and appends to `UPDATE_LOG.md`.
-- If it prints `UPDATE REJECTED`, read the reasons, fix `data/incoming/ukraine.json` (fix or drop the bad item; do not weaken labels to get past a check, and never invent a replacement URL), and run it again. Try at most 3 times. If it still fails, stop. The log already records why, and the old data stays untouched.
+- The merge is partial: a bad item is quarantined (skipped and listed in `UPDATE_LOG.md` under "Quarantined") while the valid items still merge. If the log shows quarantined items, do not re-run to force them in — report them in your summary with their reasons (fixing one is only worth it for a major event, and never by weakening a label or inventing a replacement URL).
+- If it prints `UPDATE REJECTED` (nothing merged at all), read the reasons, fix `data/incoming/ukraine.json` (fix or drop the bad item; do not weaken labels to get past a check, and never invent a replacement URL), and run it again. Try at most 3 times. If it still fails, stop. The log already records why, and the old data stays untouched.
 - Then run `node scripts/validate.mjs` as a final check.
 
 ## 6. Commit and push

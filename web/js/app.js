@@ -57,7 +57,7 @@
   }
 
   function boot() {
-    initTabs(); initPanZoom(); initSheet(); initReplay(); initRefresh(); initLinks(); initBack(); initModal();
+    initTabs(); initPanZoom(); initSheet(); initReplay(); initRefresh(); initLinks(); initBack(); initModal(); initSearch();
     fetchJSON("maps.json").then(function (m) {
       S.maps = m.maps;
       var want = params.get("map") || store("map") || S.maps[0].id;
@@ -72,7 +72,8 @@
           b.onclick = function () {
             if (b.dataset.map === S.cfg.id || S.loading) return;
             setCfg(S.maps.filter(function (x) { return x.id === b.dataset.map; })[0]); store("map", S.cfg.id); mark();
-            S.doc = null; S.heads = null; S.failed = false; geo = null; vb = null; stop();
+            var si = $("#search"); if (si) si.value = ""; var sr = $("#searchresults"); if (sr) { sr.hidden = true; sr.innerHTML = ""; }
+            S.doc = null; S.heads = null; S.failed = false; geo = null; vb = null; selId = null; stop();
             if (route().ev) nav(route().tab, null, true);
             refresh(false);
           };
@@ -178,6 +179,7 @@
     $$("#tabs button").forEach(function (b) { b.classList.toggle("active", b.dataset.tab === r.tab); });
     $$(".tab").forEach(function (t) { t.classList.toggle("active", t.id === "tab-" + r.tab); });
     $("#chips").hidden = r.tab === "stats";
+    var sw2 = $("#searchwrap"); if (sw2) sw2.hidden = r.tab === "stats";
     if (r.tab !== curTab) { curTab = r.tab; if (r.tab === "stats") animateBars(); if (r.tab === "map" && gMk) requestAnimationFrame(function () { if (S.needFit) { vb = boxTarget(HOME); S.needFit = false; } setVB(); }); }
     if (r.ev && S.doc) showIncident(r.ev, flyNext); else hideSheet();
     flyNext = false;
@@ -231,7 +233,7 @@
   }
 
   /* ---------- Map ---------- */
-  var svg = $("#map"), gMk, gLbl, geo = null, geoFor = null, vb = null, FULL, HOME, PRJ, marks = [], gridLbls = [];
+  var svg = $("#map"), gMk, gClu, gLbl, geo = null, geoFor = null, vb = null, FULL, HOME, PRJ, marks = [], gridLbls = [], clusters = [], selId = null, lastS = 0, lastPx = 1;
   var NS = "http://www.w3.org/2000/svg";
   function P(lon, lat) { return [(lon - PRJ.lon0) * PRJ.kx, (PRJ.lat0 - lat) * PRJ.ky]; }
   function rect(b) { var a = P(b.minLon, b.maxLat), c = P(b.maxLon, b.minLat); return { x: a[0], y: a[1], w: c[0] - a[0], h: c[1] - a[1] }; }
@@ -283,7 +285,7 @@
     gridLbls.forEach(function (g) { g.t.textContent = g.s; });
 
     // Markers: one <g> per event, drawn at a constant on-screen size. Events at (almost) the same spot fan out in a ring.
-    gMk = el("g", {}, svg); marks = [];
+    gMk = el("g", {}, svg); gClu = el("g", {}, svg); marks = []; clusters = [];
     var groups = {};
     S.doc.events.slice().sort(function (a, b) { return a.date < b.date ? -1 : 1; }).forEach(function (i) { var k = Math.round(i.lat * 20) + "," + Math.round(i.lon * 20); (groups[k] = groups[k] || []).push(i); });
     Object.keys(groups).forEach(function (k) {
@@ -300,7 +302,7 @@
         var core = el("g", { class: "core" }, w);
         el("circle", { r: 6, class: "dot", fill: col }, core);
         el("title", {}, w).textContent = fmtDate(i.date) + " · " + i.title;
-        marks.push({ i: i, g: w, core: core, x: p[0], y: p[1], n: g.length, k: n, a: g.length > 1 ? (2 * Math.PI * n) / g.length - Math.PI / 2 : 0, shown: false });
+        marks.push({ i: i, g: w, core: core, x: p[0], y: p[1], key: k, n: g.length, k: n, a: g.length > 1 ? (2 * Math.PI * n) / g.length - Math.PI / 2 : 0, shown: false });
       });
     });
     if (S.needFit && wrapRect().width) { vb = boxTarget(HOME); S.needFit = false; }
@@ -339,6 +341,7 @@
     wrapR = null; cvb = Object.assign({}, vb); svg.style.transform = "";
     svg.setAttribute("viewBox", [vb.x, vb.y, vb.w, vb.h].join(" "));
     var v = view(), s = v.s, zoom = HOME.w / vb.w, px = Math.max(0.85, Math.min(1.5, Math.pow(zoom, 0.22)));
+    lastS = s; lastPx = px;
     svg.style.setProperty("--u", s + "px");
     marks.forEach(function (m) {
       var ring = m.n > 1 ? 6 * px * Math.max(1.35, m.n * 0.5) : 0;
@@ -350,7 +353,46 @@
       if (g.k === "lon") { g.t.setAttribute("x", g.v.toFixed(2)); g.t.setAttribute("y", (v.y + 12 * s).toFixed(2)); }
       else { g.t.setAttribute("x", (v.x + 5 * s).toFixed(2)); g.t.setAttribute("y", (g.v - 3 * s).toFixed(2)); }
     });
+    layoutClusters();
     updateOffscreen();
+  }
+
+  /* ---------- Marker clustering ----------
+     At wide zooms the fixed-size markers overlap into blobs that bury city labels. Shown markers whose
+     centres land within ~34 screen px of each other collapse into one count badge; tapping a badge zooms
+     in, and the badges dissolve on their own as the view tightens. Events fanned out from one exact spot
+     (same rounded position) already spread readably, so a group made only of those is left alone.
+     The selected event is never clustered, so its sheet always matches a visible dot. */
+  function layoutClusters() {
+    if (!gClu || !lastS) return;
+    gClu.innerHTML = ""; clusters = [];
+    marks.forEach(function (m) { m.g.classList.remove("clustered"); });
+    var T = 34 * lastS, used = {};
+    var cand = marks.filter(function (m) { return m.shown && m.i.id !== selId; });
+    cand.forEach(function (m) {
+      if (used[m.i.id]) return;
+      var grp = [m]; used[m.i.id] = 1;
+      cand.forEach(function (o) {
+        if (used[o.i.id] || o === m) return;
+        var cx = 0, cy = 0; grp.forEach(function (x) { cx += x.cx; cy += x.cy; }); cx /= grp.length; cy /= grp.length;
+        if (Math.hypot(o.cx - cx, o.cy - cy) < T) { grp.push(o); used[o.i.id] = 1; }
+      });
+      if (grp.length < 2) return;
+      var keys = {}; grp.forEach(function (x) { keys[x.key] = 1; });
+      if (Object.keys(keys).length < 2) return; // one exact spot: the fan-out already handles it
+      var cx = 0, cy = 0, today = false, fresh = false;
+      grp.forEach(function (x) { cx += x.cx; cy += x.cy; x.g.classList.add("clustered"); if (x.g.classList.contains("today")) today = true; if (S.newIds.has(x.i.id)) fresh = true; });
+      cx /= grp.length; cy /= grp.length;
+      var c = { members: grp, cx: cx, cy: cy };
+      var w = el("g", { class: "clu" + (today ? " today" : "") + (fresh ? " isnew" : ""), "data-clu": clusters.length }, gClu);
+      el("circle", { r: 15, class: "hit" }, w);
+      el("circle", { r: 12.5, class: "clu-ring" }, w);
+      el("circle", { r: 11, class: "clu-bg" }, w);
+      var t = el("text", { class: "clu-n", y: 3.5 }, w); t.textContent = grp.length;
+      el("title", {}, w).textContent = grp.length + " events — tap to zoom in";
+      w.setAttribute("transform", "translate(" + cx.toFixed(3) + " " + cy.toFixed(3) + ") scale(" + (lastS * lastPx).toFixed(4) + ")");
+      c.g = w; clusters.push(c);
+    });
   }
   function updateOffscreen() {
     var v = view(), out = marks.filter(function (m) { return m.shown && (m.cx < v.x || m.cx > v.x + v.w || m.cy < v.y || m.cy > v.y + v.h); }).length, b = $("#offscreen");
@@ -421,8 +463,8 @@
     wrapEl.addEventListener("pointerdown", function (e) {
       if (!onMap(e)) return;
       if (anim) { cancelAnimationFrame(anim); anim = null; endMove(); }
-      var g = e.target.closest && (e.target.closest("g.mk") || e.target.closest("g.lane"));
-      start = Object.keys(pts).length ? null : { x: e.clientX, y: e.clientY, id: g ? g.getAttribute("data-id") : null, moved: false };
+      var g = e.target.closest && (e.target.closest("g.mk") || e.target.closest("g.lane") || e.target.closest("g.clu"));
+      start = Object.keys(pts).length ? null : { x: e.clientX, y: e.clientY, id: g && g.getAttribute("data-id"), clu: g && g.getAttribute("data-clu"), moved: false };
       pts[e.pointerId] = [e.clientX, e.clientY]; svg.classList.add("drag");
       try { wrapEl.setPointerCapture(e.pointerId); } catch (x) { /* pointer already gone: still handle the gesture */ }
     });
@@ -441,7 +483,11 @@
       delete pts[e.pointerId]; pinch = null;
       if (!Object.keys(pts).length) {
         svg.classList.remove("drag"); endMove();
-        if (e.type === "pointerup" && start && !start.moved) { if (start.id) nav("map", start.id, !!route().ev, false); else if (route().ev) closeSheet(); }
+        if (e.type === "pointerup" && start && !start.moved) {
+          if (start.clu != null && clusters[+start.clu]) { var c = clusters[+start.clu]; animateTo(zoomTarget(2.4, c.cx, c.cy), 450); }
+          else if (start.id) nav("map", start.id, !!route().ev, false);
+          else if (route().ev) closeSheet();
+        }
         start = null;
       }
     }
@@ -496,6 +542,7 @@
       if (show) shown++; if (today) onDay++;
     });
     $("#daycount").textContent = dayOnly ? onDay + " event" + (onDay === 1 ? "" : "s") + " this day" : onDay + " on day · " + shown + " shown";
+    layoutClusters();
     updateOffscreen();
   }
 
@@ -516,6 +563,7 @@
   }
   function dateText(i) { return i.dateNote ? i.dateNote : fmtDate(i.date); }
   function showLane(l) {
+    selId = l.id;
     marks.forEach(function (x) { x.g.classList.remove("selected"); });
     (S.laneEls || []).forEach(function (w) { w.classList.toggle("selected", w.getAttribute("data-id") === l.id); });
     var h = '<div class="shead"><span class="d" style="background:' + esc(l.color) + '"></span>Shipping lane ' + badge(l.status) + '<button class="share" aria-label="Share a link to this lane">Share</button><button class="close" aria-label="Close">×</button></div>' +
@@ -537,6 +585,7 @@
   function showIncident(id, fly) {
     var i = S.doc.events.filter(function (x) { return x.id === id; })[0];
     if (!i) { var ln = laneById(id); return ln ? showLane(ln) : hideSheet(); }
+    selId = id; layoutClusters(); // the opened event is never hidden inside a cluster badge
     (S.laneEls || []).forEach(function (w) { w.classList.remove("selected"); });
     var g = groupOf(i);
     var m = marks.filter(function (x) { return x.i.id === id; })[0];
@@ -556,7 +605,7 @@
     var sh = $("#sheet"); sh.style.transform = ""; sh.classList.add("open"); sh.setAttribute("aria-hidden", "false"); sh.scrollTop = 0;
     if (m) requestAnimationFrame(function () { if (fly) flyToMark(m); else ensureVisibleAboveSheet(m); });
   }
-  function hideSheet() { var sh = $("#sheet"); sh.classList.remove("open"); sh.style.transform = ""; sh.setAttribute("aria-hidden", "true"); marks.forEach(function (m) { m.g.classList.remove("selected"); }); (S.laneEls || []).forEach(function (w) { w.classList.remove("selected"); }); }
+  function hideSheet() { var sh = $("#sheet"); sh.classList.remove("open"); sh.style.transform = ""; sh.setAttribute("aria-hidden", "true"); marks.forEach(function (m) { m.g.classList.remove("selected"); }); (S.laneEls || []).forEach(function (w) { w.classList.remove("selected"); }); if (selId) { selId = null; layoutClusters(); } }
   function closeSheet() { if (!route().ev) return hideSheet(); if ((history.state && history.state.depth) > 0) history.back(); else nav(route().tab, null, true); }
   function initSheet() {
     var g = $(".grip"), sh = $("#sheet"), y0 = null;
@@ -564,6 +613,42 @@
     g.addEventListener("pointermove", function (e) { if (y0 == null) return; sh.style.transform = "translateY(" + Math.max(0, e.clientY - y0) + "px)"; });
     g.addEventListener("pointerup", function (e) { if (y0 == null) return; var dy = e.clientY - y0; y0 = null; sh.style.transition = ""; if (dy > 70) closeSheet(); else sh.style.transform = ""; });
     document.addEventListener("keydown", function (e) { if (e.key === "Escape") { if (!$("#modal").hidden) closeModal(); else closeSheet(); } });
+  }
+
+  /* ---------- Search (current map's events and lanes, all in memory) ---------- */
+  function initSearch() {
+    var inp = $("#search"), box = $("#searchresults"), wrap = $("#searchwrap");
+    if (!inp || !box || !wrap) return;
+    function close() { box.hidden = true; box.innerHTML = ""; }
+    function go(id) { close(); inp.value = ""; inp.blur(); nav("map", id, false, true); }
+    function run() {
+      var q = inp.value.trim().toLowerCase();
+      if (!S.doc || q.length < 2) { close(); return; }
+      var hits = [];
+      S.doc.events.forEach(function (e) {
+        var head = (e.title + " " + (e.place || "") + " " + e.oblast + " " + e.front + " " + (TYPE_NAME[e.type] || e.type) + " " + e.status + " " + e.date).toLowerCase();
+        var score = head.indexOf(q) >= 0 ? 0 : e.caption.toLowerCase().indexOf(q) >= 0 ? 1 : -1;
+        if (score >= 0) hits.push({ e: e, score: score });
+      });
+      hits.sort(function (a, b) { return a.score - b.score || (a.e.date < b.e.date ? 1 : -1); });
+      var lanes = (S.doc.lanes || []).filter(function (l) { return l.name.toLowerCase().indexOf(q) >= 0; });
+      if (!hits.length && !lanes.length) { box.innerHTML = '<div class="sr-none">No matches on this map</div>'; box.hidden = false; return; }
+      box.innerHTML = lanes.map(function (l) {
+        return '<button class="sr" data-id="' + esc(l.id) + '"><span class="d" style="background:' + esc(l.color) + '"></span><span class="sr-t">' + esc(l.name) + '</span><span class="sr-m">SHIPPING LANE</span></button>';
+      }).join("") + hits.slice(0, 12).map(function (h) {
+        var e = h.e;
+        return '<button class="sr" data-id="' + esc(e.id) + '"><span class="d" style="background:' + esc(groupOf(e).color) + '"></span><span class="sr-t">' + esc(e.title) + '</span><span class="sr-m">' + esc(fmtDate(e.date)) + " · " + esc(e.oblast) + "</span>" + badge(e.status) + "</button>";
+      }).join("") + (hits.length > 12 ? '<div class="sr-none">' + (hits.length - 12) + " more matches — keep typing to narrow it down</div>" : "");
+      box.hidden = false;
+      $$("#searchresults .sr").forEach(function (b) { b.onclick = function () { go(b.dataset.id); }; });
+    }
+    inp.addEventListener("input", run);
+    inp.addEventListener("focus", run);
+    inp.addEventListener("keydown", function (e) {
+      if (e.key === "Escape") { inp.value = ""; close(); inp.blur(); }
+      if (e.key === "Enter") { var f = box.querySelector(".sr"); if (f) go(f.dataset.id); }
+    });
+    document.addEventListener("click", function (e) { if (!wrap.contains(e.target)) close(); });
   }
 
   /* ---------- Feed ---------- */
