@@ -2,6 +2,23 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-19 06:41 Toronto — Middle East — OK
+- Added 3 event(s):
+  - `nuseirat-1118` 2026-11-18 [CONFIRMED] Israeli forces cross the Yellow Line east of Nuseirat in first announced ground operation since the ceasefire
+  - `riyadh-1119` 2026-11-19 [DISPUTED] Coalition says it intercepted Houthi missiles aimed at Riyadh and the south; Houthis claim hits
+  - `bandar-abbas-1119` 2026-11-19 [ONE_PARTY] Iran's army says three tankers hit naval mines east of the Strait of Hormuz
+- Updated 1 event(s):
+  - `jericho-1117` changed caption, sources, claims
+- Stats: 1 updated, 0 added
+- 7 new source link(s)
+- Totals: 93 events, 18 stats, 141 sources; coverage 2026-10-06 to 2026-11-19
+- warning: link https://www.bbc.co.uk/news/articles/cw8r7510degno returned 403 (site may block bots)
+- warning: link https://www.bbc.co.uk/news/articles/cqrlg377638yo returned 403 (site may block bots)
+- warning: link https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza returned 403 (site may block bots)
+
+## 2026-11-19 06:41 Toronto — Middle East — FAILED (data not changed)
+- event "riyadh-1119": title missing or longer than 140 characters
+
 ## 2026-11-19 06:04 Toronto — Ukraine — OK
 - Added 7 event(s):
   - `odesa-1118` 2026-11-18 [CONFIRMED] Three Russian strikes on central Odesa kill four, injure 13

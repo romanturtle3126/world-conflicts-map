@@ -2,11 +2,11 @@
  "schemaVersion": 1,
  "map": "middle-east",
  "meta": {
-  "lastUpdated": "2026-11-18T06:41:34-05:00",
-  "coverage": "2026-10-06 to 2026-11-18",
+  "lastUpdated": "2026-11-19T06:41:41-05:00",
+  "coverage": "2026-10-06 to 2026-11-19",
   "notes": [
-   "Refreshed 2026-11-18 (UTC, around 11:30; early morning Toronto) from Al-Monitor/Reuters, Middle East Eye, the Houthi military spokesman's Telegram (army21ye, through Nov 17) and Tasnim's English Telegram.",
-   "Not read: UKMTO site (403), ISW/CTP (403), IDF and CENTCOM X posts (search only returned secondary coverage), Gaza MoH Telegram; OCHA's latest found report is Nov 13 (already used). Stats and lanes unchanged: no new Gaza, Lebanon or Brent figures found; Gaza, Lebanon and West Bank events not refreshed (BBC and Guardian pages blocked).",
+   "Refreshed 2026-11-19 (UTC, around 12:00; early morning Toronto) from BBC, Guardian, Al Jazeera, UN News, Houthi military spokesman Telegram (army21ye, through Nov 18) and Tasnim English Telegram.",
+   "Not read: UKMTO (403), ISW/CTP (403), OCHA latest report not newer than Nov 13, IDF and CENTCOM X posts (searches returned only secondary coverage), Gaza MoH Telegram, France 24 (403). Lanes and other stats unchanged: no new Brent, Lebanon or Hormuz traffic figures found; Lebanon and Syria not refreshed.",
    "Marker positions are approximate (see coordPrecision)."
   ]
  },
@@ -2776,7 +2776,7 @@
    "type": "other",
    "status": "DISPUTED",
    "title": "Palestinian woman, 72, shot dead overnight in Duyuk al-Tahta near Jericho; Israeli military describes a car-ramming clash",
-   "caption": "The Palestinian health ministry says Israeli settlers shot dead Fadha Wadha, 72, in Duyuk al-Tahta on the outskirts of Jericho; her son was wounded and a grandson arrested. Reuters, via Al-Monitor, found at least five rifle rounds at the scene. The Israeli military did not comment on her death and said Palestinians rammed an Israeli vehicle and attacked Israelis, who opened fire. The Binyamin settler council says eight homes there were bought from Palestinians; Jericho's governor disputes that the land could be legally bought. Marker is at Jericho.",
+   "caption": "The Palestinian health ministry says Israeli settlers shot dead Fadha Wadha, 72, in Duyuk al-Tahta on the outskirts of Jericho; her son was wounded and a grandson arrested. Reuters, via Al-Monitor, found at least five rifle rounds at the scene. The Israeli military did not comment on her death and said Palestinians rammed an Israeli vehicle and attacked Israelis, who opened fire. The Binyamin settler council says eight homes there were bought from Palestinians; Jericho's governor disputes that the land could be legally bought. Marker is at Jericho. BBC adds that an Israeli military source later said she was shot by an Israeli civilian, and that Israeli police opened an investigation; the Palestinian accounts say the shooting began after settler harassment. The incident happened on the night of Nov 16.",
    "lat": 31.8667,
    "lon": 35.45,
    "coordPrecision": "approx",
@@ -2786,6 +2786,11 @@
      "id": "am_1117_jericho",
      "title": "Al-Monitor (Reuters), Israeli settlers kill Palestinian woman, 72, in West Bank, Nov 17",
      "url": "https://www.al-monitor.com/originals/2026/11/israeli-settlers-kill-palestinian-woman-72-west-bank"
+    },
+    {
+     "id": "bbc_1118_duyuk",
+     "title": "BBC, Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says, Nov 18",
+     "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo"
     }
    ],
    "read": "full",
@@ -2797,6 +2802,11 @@
     {
      "who": "Israeli military",
      "says": "Palestinians rammed an Israeli vehicle and attacked Israelis, who opened fire; no comment on her death."
+    },
+    {
+     "who": "Israeli military source (per BBC)",
+     "says": "The woman was shot by an Israeli civilian; police have opened an investigation.",
+     "source": "bbc_1118_duyuk"
     }
    ]
   },
@@ -3079,6 +3089,121 @@
      "says": "Destroyed a US MQ-9 drone east of the Strait of Hormuz."
     }
    ]
+  },
+  {
+   "id": "nuseirat-1118",
+   "date": "2026-11-18",
+   "region": "gaza",
+   "oblast": "Gaza",
+   "front": "Gaza & West Bank",
+   "type": "ground",
+   "status": "CONFIRMED",
+   "title": "Israeli forces cross the Yellow Line east of Nuseirat in first announced ground operation since the ceasefire",
+   "caption": "Israeli tanks advanced beyond the Yellow Line into an area east of Nuseirat camp and onto the Salah al-Din road on Nov 18 under artillery cover, after Cogat ordered residents to leave. The IDF said the joint operation with the Shin Bet aimed to dismantle a tunnel that posed an immediate threat to troops; Cogat said on Nov 19 the activity had ended and the road reopened. Hamas called it a flagrant violation of the October 2025 ceasefire, and Gaza's government media office said about 6,000 people fled. Gaza Civil Defence says three people were killed in separate drone strikes that day; the IDF says it struck operatives. Marker is at Nuseirat, not the exact area.",
+   "lat": 31.4486,
+   "lon": 34.3925,
+   "coordPrecision": "approx",
+   "place": "Nuseirat",
+   "sources": [
+    {
+     "id": "bbc_1119_gaza",
+     "title": "BBC, Israeli military completes ground operation in Gaza beyond Yellow Line, Nov 19",
+     "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno"
+    },
+    {
+     "id": "gu_1118_gaza",
+     "title": "Guardian, Israeli tanks cross yellow line boundary into Hamas-controlled central Gaza, Nov 18",
+     "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "Israeli military",
+     "says": "Operation to dismantle a terror tunnel west of the Yellow Line that threatened troops; struck several operatives.",
+     "source": "bbc_1119_gaza"
+    },
+    {
+     "who": "Hamas and Gaza government media office",
+     "says": "Flagrant ceasefire violation; about 6,000 people forcibly displaced.",
+     "source": "bbc_1119_gaza"
+    }
+   ]
+  },
+  {
+   "id": "riyadh-1119",
+   "date": "2026-11-19",
+   "region": "gulf",
+   "oblast": "Saudi Arabia",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "missile",
+   "status": "DISPUTED",
+   "title": "Coalition says it intercepted Houthi missiles aimed at Riyadh and the south; Houthis claim hits",
+   "caption": "Coalition spokesman Turki al-Maliki said a Houthi missile threat toward Riyadh was dealt with after a loud boom in the capital, with debris causing material damage, and that four ballistic missiles aimed at the southern region were destroyed along with a launchpad. The Houthi military statements on Telegram claim cruise missiles hit King Khalid airport and the financial centre in Riyadh, plus a ballistic missile target in Jazan and a drone strike on Khamis Mushait air base. Neither side's account of the hits is independently verified. Marker is at Riyadh.",
+   "lat": 24.6877,
+   "lon": 46.7219,
+   "coordPrecision": "approx",
+   "place": "Riyadh",
+   "sources": [
+    {
+     "id": "aj_1119_saudi",
+     "title": "Al Jazeera, Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south, Nov 19",
+     "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south"
+    },
+    {
+     "id": "tg_army21ye_4111",
+     "title": "Houthi military spokesman Telegram (army21ye), post 4111, Nov 18",
+     "url": "https://t.me/army21ye/4111"
+    },
+    {
+     "id": "tg_army21ye_4112",
+     "title": "Houthi military spokesman Telegram (army21ye), post 4112, Nov 18",
+     "url": "https://t.me/army21ye/4112"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "Saudi-led coalition (al-Maliki)",
+     "says": "Missiles intercepted; debris caused material damage; launchpad destroyed.",
+     "source": "aj_1119_saudi"
+    },
+    {
+     "who": "Houthi armed forces",
+     "says": "Cruise missiles hit Riyadh airport and the financial centre; ballistic missile and drone strikes in Jazan and Khamis Mushait.",
+     "source": "tg_army21ye_4111"
+    }
+   ]
+  },
+  {
+   "id": "bandar-abbas-1119",
+   "date": "2026-11-19",
+   "region": "iran-war",
+   "oblast": "Iran (Hormuz)",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "naval",
+   "status": "ONE_PARTY",
+   "title": "Iran's army says three tankers hit naval mines east of the Strait of Hormuz",
+   "caption": "Iran's army, via Tasnim, says three oil tankers that ignored Navy warnings and had switched off navigation systems struck naval mines in a restricted area east of the Strait of Hormuz on Nov 19, catching fire and stopping. It says all navigation must follow rules set by Iran's armed forces. No independent confirmation was found, and the ships are not named. Marker is at Bandar Abbas, not the location.",
+   "lat": 27.1865,
+   "lon": 56.2808,
+   "coordPrecision": "oblast",
+   "place": "Bandar Abbas",
+   "sources": [
+    {
+     "id": "tg_tasnim_48156",
+     "title": "Tasnim News (English) Telegram, post 48156, Nov 19",
+     "url": "https://t.me/Tasnimnews_en/48156"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "Iran's army",
+     "says": "Three tankers that ignored warnings hit mines east of Hormuz.",
+     "source": "tg_tasnim_48156"
+    }
+   ]
   }
  ],
  "lanes": [
@@ -3271,10 +3396,15 @@
   {
    "label": "Gaza: killed since the Oct 10, 2025 ceasefire",
    "category": "casualties",
-   "asOf": "2026-11-13",
-   "asOfNote": "Nov 13, 2026 (Gaza health ministry via Middle East Eye; OCHA to Nov 9)",
+   "asOf": "2026-11-19",
+   "asOfNote": "Nov 19, 2026 (Gaza health ministry via BBC; OCHA to Nov 9)",
    "status": "DISPUTED",
    "rows": [
+    {
+     "who": "Gaza health ministry (via BBC, Nov 19)",
+     "value": "At least 1,658 killed since the ceasefire; Israeli military says six of its soldiers killed in that period",
+     "source": "bbc_1119_gaza"
+    },
     {
      "who": "Gaza health ministry (via Middle East Eye, Nov 13)",
      "value": "1,622 killed, 5,878 injured since the ceasefire"
@@ -3294,6 +3424,7 @@
    ],
    "note": "UN verification lags; the counts cover different periods. The Israeli military row dates from Nov 11 (Reuters).",
    "sources": [
+    "bbc_1119_gaza",
     "mee_1113_sixgaza",
     "ocha_1113",
     "am_1111_gaza",
@@ -4276,6 +4407,41 @@
    "id": "tg_tasnim_47985",
    "title": "Tasnim News (English) Telegram, post 47985, Nov 18",
    "url": "https://t.me/Tasnimnews_en/47985"
+  },
+  {
+   "id": "bbc_1119_gaza",
+   "title": "BBC, Israeli military completes ground operation in Gaza beyond Yellow Line, Nov 19",
+   "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno"
+  },
+  {
+   "id": "gu_1118_gaza",
+   "title": "Guardian, Israeli tanks cross yellow line boundary into Hamas-controlled central Gaza, Nov 18",
+   "url": "https://www.theguardian.com/world/2026/nov/18/israeli-tanks-cross-yellow-line-boundary-into-hamas-controlled-central-gaza"
+  },
+  {
+   "id": "aj_1119_saudi",
+   "title": "Al Jazeera, Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south, Nov 19",
+   "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south"
+  },
+  {
+   "id": "tg_army21ye_4111",
+   "title": "Houthi military spokesman Telegram (army21ye), post 4111, Nov 18",
+   "url": "https://t.me/army21ye/4111"
+  },
+  {
+   "id": "tg_army21ye_4112",
+   "title": "Houthi military spokesman Telegram (army21ye), post 4112, Nov 18",
+   "url": "https://t.me/army21ye/4112"
+  },
+  {
+   "id": "tg_tasnim_48156",
+   "title": "Tasnim News (English) Telegram, post 48156, Nov 19",
+   "url": "https://t.me/Tasnimnews_en/48156"
+  },
+  {
+   "id": "bbc_1118_duyuk",
+   "title": "BBC, Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says, Nov 18",
+   "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo"
   }
  ]
 }
