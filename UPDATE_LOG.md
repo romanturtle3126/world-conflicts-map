@@ -2,6 +2,19 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-19 06:04 Toronto — Ukraine — OK
+- Added 7 event(s):
+  - `odesa-1118` 2026-11-18 [CONFIRMED] Three Russian strikes on central Odesa kill four, injure 13
+  - `kyiv-1118` 2026-11-18 [CONFIRMED] Russian drone debris hits 28-storey Kyiv building; three injured in the capital
+  - `chuhuiv-1118` 2026-11-18 [ONE_PARTY] Russian drone strikes apartment building and post office in Chuhuiv, says Kharkiv governor
+  - `afipsky-1118` 2026-11-18 [ONE_PARTY] Ukraine's General Staff claims strikes on Ilsky and Afipsky refineries in Krasnodar Krai
+  - `stanytsia-1117` 2026-11-17 [ONE_PARTY] Ukraine's General Staff claims strike on road bridge near Stanytsia Luhanska
+  - `kerch-1119` 2026-11-19 [ONE_PARTY] Ukraine's General Staff claims Neptune missiles hit the Kerch Bridge rail line again
+  - `sumy-1119` 2026-11-19 [ONE_PARTY] Russia's MoD claims drone strike on Sumy North substation and Odesa-region energy and port sites
+- Stats: 1 updated, 2 added
+- 13 new source link(s)
+- Totals: 174 events, 52 stats, 293 sources; coverage 2026-10-10 to 2026-11-19
+
 ## 2026-11-18 06:41 Toronto — Middle East — OK
 - Added 7 event(s):
   - `qeshm-1117` 2026-11-17 [DISPUTED] US jets strike missile launch site on Qeshm Island; Iranian media say no infrastructure damage
