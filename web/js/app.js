@@ -73,7 +73,7 @@
             if (b.dataset.map === S.cfg.id || S.loading) return;
             setCfg(S.maps.filter(function (x) { return x.id === b.dataset.map; })[0]); store("map", S.cfg.id); mark();
             var si = $("#search"); if (si) si.value = ""; var sr = $("#searchresults"); if (sr) { sr.hidden = true; sr.innerHTML = ""; }
-            S.doc = null; S.heads = null; S.failed = false; geo = null; vb = null; selId = null; expanded = null; stop();
+            S.doc = null; S.heads = null; S.failed = false; geo = null; vb = null; selId = null; stop();
             if (route().ev) nav(route().tab, null, true);
             refresh(false);
           };
@@ -233,7 +233,7 @@
   }
 
   /* ---------- Map ---------- */
-  var svg = $("#map"), gMk, gClu, gLbl, geo = null, geoFor = null, vb = null, FULL, HOME, PRJ, marks = [], gridLbls = [], clusters = [], selId = null, lastS = 0, lastPx = 1, expanded = null;
+  var svg = $("#map"), gMk, gClu, gLbl, geo = null, geoFor = null, vb = null, FULL, HOME, PRJ, marks = [], gridLbls = [], clusters = [], selId = null, lastS = 0, lastPx = 1;
   var NS = "http://www.w3.org/2000/svg";
   function P(lon, lat) { return [(lon - PRJ.lon0) * PRJ.kx, (PRJ.lat0 - lat) * PRJ.ky]; }
   function rect(b) { var a = P(b.minLon, b.maxLat), c = P(b.maxLon, b.minLat); return { x: a[0], y: a[1], w: c[0] - a[0], h: c[1] - a[1] }; }
@@ -353,40 +353,25 @@
       if (g.k === "lon") { g.t.setAttribute("x", g.v.toFixed(2)); g.t.setAttribute("y", (v.y + 12 * s).toFixed(2)); }
       else { g.t.setAttribute("x", (v.x + 5 * s).toFixed(2)); g.t.setAttribute("y", (g.v - 3 * s).toFixed(2)); }
     });
-    // An expanded (fanned-out) cluster: its members are re-placed in a ring around the badge's anchor,
-    // at a constant on-screen radius, so they stay individually tappable at any zoom.
-    if (expanded) {
-      var R = expRadius(s), n = expanded.list.length;
-      expanded.list.forEach(function (m, i) {
-        if (!m.shown) return;
-        var a = -Math.PI / 2 + (2 * Math.PI * i) / n;
-        m.cx = expanded.x + R * Math.cos(a); m.cy = expanded.y + R * Math.sin(a);
-        m.g.setAttribute("transform", "translate(" + m.cx.toFixed(3) + " " + m.cy.toFixed(3) + ") scale(" + (s * px).toFixed(4) + ")");
-      });
-    }
     layoutClusters();
     updateOffscreen();
   }
-  function expRadius(s) { return (36 + Math.min(30, expanded.list.length * 2)) * s; }
-  function expandCluster(c) {
-    var ids = {}; c.members.forEach(function (m) { ids[m.i.id] = 1; });
-    expanded = { ids: ids, list: c.members.slice(), x: c.cx, y: c.cy };
-    setVB();
-  }
-  function collapseExpanded() { if (expanded) { expanded = null; setVB(); } }
 
   /* ---------- Marker clustering ----------
      At wide zooms the fixed-size markers overlap into blobs that bury city labels. Shown markers whose
      centres land within ~34 screen px of each other collapse into one count badge; tapping a badge zooms
      in, and the badges dissolve on their own as the view tightens. Events fanned out from one exact spot
      (same rounded position) already spread readably, so a group made only of those is left alone.
-     The selected event is never clustered, so its sheet always matches a visible dot. */
+     The selected event is never clustered, so its sheet always matches a visible dot.
+     Past 16x the grouping distance tapers (34 px down to ~12 px at the 128x zoom cap): badges exist to
+     declutter wide views, and at street level two events a kilometre apart should read as two dots at
+     their true positions, not one badge — so every badge eventually splits by zooming alone. */
   function layoutClusters() {
     if (!gClu || !lastS) return;
     gClu.innerHTML = ""; clusters = [];
     marks.forEach(function (m) { m.g.classList.remove("clustered"); });
-    var T = 34 * lastS, used = {};
-    var cand = marks.filter(function (m) { return m.shown && m.i.id !== selId && !(expanded && expanded.ids[m.i.id]); });
+    var T = 34 * Math.max(0.35, Math.min(1, Math.sqrt(vb.w / (HOME.w / 16)))) * lastS, used = {};
+    var cand = marks.filter(function (m) { return m.shown && m.i.id !== selId; });
     cand.forEach(function (m) {
       if (used[m.i.id]) return;
       var grp = [m]; used[m.i.id] = 1;
@@ -407,11 +392,10 @@
       el("circle", { r: 12.5, class: "clu-ring" }, w);
       el("circle", { r: 11, class: "clu-bg" }, w);
       var t = el("text", { class: "clu-n", y: 3.5 }, w); t.textContent = grp.length;
-      el("title", {}, w).textContent = grp.length + " events — tap to zoom in, or to fan them out at maximum zoom";
+      el("title", {}, w).textContent = grp.length + " events — tap to zoom in";
       w.setAttribute("transform", "translate(" + cx.toFixed(3) + " " + cy.toFixed(3) + ") scale(" + (lastS * lastPx).toFixed(4) + ")");
       c.g = w; clusters.push(c);
     });
-    if (expanded) el("circle", { cx: expanded.x, cy: expanded.y, r: expRadius(lastS), class: "exp-ring" }, gClu);
   }
   function updateOffscreen() {
     var v = view(), out = marks.filter(function (m) { return m.shown && (m.cx < v.x || m.cx > v.x + v.w || m.cy < v.y || m.cy > v.y + v.h); }).length, b = $("#offscreen");
@@ -432,7 +416,7 @@
     }
     anim = requestAnimationFrame(step);
   }
-  function clampW(w) { return Math.min(FULL.w * 1.4, Math.max(HOME.w / 16, w)); }
+  function clampW(w) { return Math.min(FULL.w * 1.4, Math.max(HOME.w / 128, w)); }
   function zoomTarget(f, cx, cy) {
     var nw = clampW(vb.w / f), nh = vb.h * nw / vb.w;
     if (cx == null) { cx = vb.x + vb.w / 2; cy = vb.y + vb.h / 2; }
@@ -503,16 +487,10 @@
       if (!Object.keys(pts).length) {
         svg.classList.remove("drag"); endMove();
         if (e.type === "pointerup" && start && !start.moved) {
-          if (start.clu != null && clusters[+start.clu]) {
-            var c = clusters[+start.clu], t = zoomTarget(2.4, c.cx, c.cy);
-            // At maximum zoom the target box stops shrinking, so zooming in does nothing at all.
-            // Fan the cluster out in a ring instead — every event becomes individually tappable.
-            if (t.w >= vb.w * 0.99) expandCluster(c);
-            else { expanded = null; animateTo(t, 450); }
-          }
+          if (start.clu != null && clusters[+start.clu]) { var c = clusters[+start.clu]; animateTo(zoomTarget(2.4, c.cx, c.cy), 450); }
           else if (start.id) nav("map", start.id, !!route().ev, false);
-          else { collapseExpanded(); if (route().ev) closeSheet(); }
-        } else if (e.type === "pointerup" && start && start.moved) collapseExpanded();
+          else if (route().ev) closeSheet();
+        }
         start = null;
       }
     }
@@ -557,7 +535,6 @@
   function stop() { clearInterval(timer); timer = null; var p = $("#play"); p.classList.remove("on"); p.innerHTML = '<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>'; p.setAttribute("aria-label", "Play replay"); }
   function applyDay(quiet) {
     if (!gMk || !days.length) return;
-    expanded = null;
     var s = $("#day"), d = days[+s.value], onDay = 0, shown = 0, last = +s.value === days.length - 1;
     s.style.setProperty("--p", (days.length > 1 ? (100 * s.value) / (days.length - 1) : 100) + "%");
     $("#daylabel").textContent = fmtDate(d).toUpperCase() + (last ? (d === localDay() ? " · TODAY" : " · LATEST") : "");
