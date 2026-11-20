@@ -27,7 +27,6 @@ const FEEDS = {
     feeds: [
       { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml", filter: true },
       { name: "BBC News Middle East", url: "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml", filter: false },
-      { name: "Times of Israel", url: "https://www.timesofisrael.com/feed/", filter: false },
       { name: "UN News Middle East", url: "https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml", filter: false },
       { name: "The Guardian (Middle East)", url: "https://www.theguardian.com/world/middleeast/rss", filter: false },
       { name: "France 24 Middle East", url: "https://www.france24.com/en/middle-east/rss", filter: false },
