@@ -166,6 +166,7 @@
   function route() { var m = (location.hash || "").replace(/^#\/?/, "").split("/"); return { tab: TABS.indexOf(m[0]) >= 0 ? m[0] : "map", ev: m[1] ? decodeURIComponent(m[1]) : null }; }
   var flyNext = false;
   function nav(tab, ev, replace, fly) {
+    hideClusterPick();
     var h = "#/" + tab + (ev ? "/" + encodeURIComponent(ev) : "");
     flyNext = !!fly;
     if (location.hash === h) return applyRoute();
@@ -397,6 +398,31 @@
       c.g = w; clusters.push(c);
     });
   }
+  /* At the zoom cap a badge can no longer split by zooming, so tapping it lists its events instead —
+     the tap always does something, and every event stays reachable at its true position. */
+  var pickShownAt = 0;
+  function hideClusterPick() { var p = $("#clupick"); if (p) { p.hidden = true; p.innerHTML = ""; } }
+  function showClusterPick(c) {
+    var p = $("#clupick"); if (!p) return;
+    pickShownAt = Date.now();
+    p.innerHTML = "";
+    var h = document.createElement("div"); h.className = "cp-h"; h.textContent = c.members.length + " events at this spot — tap one to open it"; p.appendChild(h);
+    c.members.slice().sort(function (a, b) { return a.i.date < b.i.date ? 1 : a.i.date > b.i.date ? -1 : 0; }).forEach(function (m) {
+      var i = m.i, b = document.createElement("button"); b.className = "sr"; b.type = "button";
+      var d = document.createElement("span"); d.className = "d"; d.style.background = groupOf(i).color; b.appendChild(d);
+      var t = document.createElement("span"); t.className = "sr-t"; t.textContent = i.title; b.appendChild(t);
+      var mt = document.createElement("span"); mt.className = "sr-m"; mt.textContent = fmtDate(i.date) + " · " + i.status; b.appendChild(mt);
+      b.onclick = function () {
+        // The tap that opened the picker ends with a click at the same screen point, and the picker
+        // now sits under that point — without this guard the opening tap would instantly "choose"
+        // whichever row it happens to land on.
+        if (Date.now() - pickShownAt < 400) return;
+        hideClusterPick(); nav("map", i.id, !!route().ev, false);
+      };
+      p.appendChild(b);
+    });
+    p.hidden = false;
+  }
   function updateOffscreen() {
     var v = view(), out = marks.filter(function (m) { return m.shown && (m.cx < v.x || m.cx > v.x + v.w || m.cy < v.y || m.cy > v.y + v.h); }).length, b = $("#offscreen");
     b.hidden = !out || HOME.w / vb.w > 1.4; b.textContent = "+" + out + " off-map";
@@ -464,6 +490,8 @@
     }, { passive: false });
     var pts = {}, pinch = null, start = null;
     wrapEl.addEventListener("pointerdown", function (e) {
+      if (e.target.closest && e.target.closest("#clupick")) return; // taps on the picker are not map taps
+      hideClusterPick();
       if (!onMap(e)) return;
       if (anim) { cancelAnimationFrame(anim); anim = null; endMove(); }
       var g = e.target.closest && (e.target.closest("g.mk") || e.target.closest("g.lane") || e.target.closest("g.clu"));
@@ -487,7 +515,10 @@
       if (!Object.keys(pts).length) {
         svg.classList.remove("drag"); endMove();
         if (e.type === "pointerup" && start && !start.moved) {
-          if (start.clu != null && clusters[+start.clu]) { var c = clusters[+start.clu]; animateTo(zoomTarget(2.4, c.cx, c.cy), 450); }
+          if (start.clu != null && clusters[+start.clu]) {
+            var c = clusters[+start.clu], t = zoomTarget(2.4, c.cx, c.cy);
+            if (t.w >= vb.w * 0.99) showClusterPick(c); else animateTo(t, 450);
+          }
           else if (start.id) nav("map", start.id, !!route().ev, false);
           else if (route().ev) closeSheet();
         }
@@ -495,6 +526,7 @@
       }
     }
     wrapEl.addEventListener("pointerup", up); wrapEl.addEventListener("pointercancel", up);
+    document.addEventListener("keydown", function (e) { if (e.key === "Escape") hideClusterPick(); });
   }
   function renderPresets() {
     var box = $("#presets"); box.innerHTML = "";
@@ -535,6 +567,7 @@
   function stop() { clearInterval(timer); timer = null; var p = $("#play"); p.classList.remove("on"); p.innerHTML = '<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>'; p.setAttribute("aria-label", "Play replay"); }
   function applyDay(quiet) {
     if (!gMk || !days.length) return;
+    hideClusterPick();
     var s = $("#day"), d = days[+s.value], onDay = 0, shown = 0, last = +s.value === days.length - 1;
     s.style.setProperty("--p", (days.length > 1 ? (100 * s.value) / (days.length - 1) : 100) + "%");
     $("#daylabel").textContent = fmtDate(d).toUpperCase() + (last ? (d === localDay() ? " · TODAY" : " · LATEST") : "");
