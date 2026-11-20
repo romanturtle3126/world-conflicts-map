@@ -2,12 +2,12 @@
  "schemaVersion": 1,
  "map": "ukraine",
  "meta": {
-  "lastUpdated": "2026-11-19T06:04:46-05:00",
-  "coverage": "2026-10-10 to 2026-11-19",
+  "lastUpdated": "2026-11-20T06:05:36-05:00",
+  "coverage": "2026-10-10 to 2026-11-20",
   "notes": [
-   "Refreshed Nov 19, 2026 (about 06:00 Toronto) from the Telegram channels of the Ukrainian General Staff (GeneralStaffZSU), Air Force (kpszsu, alert posts only) and Russian MoD (mod_russia), Kyiv Independent, Ukrinform and Al Jazeera/AFP articles of Nov 18, and the headline leads file (pulled Nov 18 ~19:00 UTC).",
-   "Not read this run: ISW/Critical Threats assessments (not found newer than earlier runs), direct X posts and X searches, BBC and Guardian (headlines only), Reuters/AP. The Air Force channel posted only alert messages, so launch counts come from the General Staff.",
-   "The Kerch Bridge Neptune-strike claim of Nov 19 rests on a General Staff post alone; Russian officials had not commented in anything read.",
+   "Refreshed Nov 20, 2026 (about 06:00 Toronto) from the Telegram channels of the Ukrainian General Staff (GeneralStaffZSU) and Russian MoD (mod_russia), the Air Force channel (kpszsu, alert posts only), Kyiv Independent, Kyiv Post and Ukrinform articles of Nov 19-20, and the headline leads file (pulled Nov 19 ~19:00 UTC).",
+   "Not read this run: ISW/Critical Threats assessments, direct X posts and X searches, BBC and Guardian (headlines only), Reuters/AP. The Nov 20 attack was still ongoing when read, so its casualty and interception figures are preliminary.",
+   "The Kaleikino pumping-station strike (Tatarstan) and the Izium injury toll rest on one side's statements alone; no Russian comment and no independent confirmation were read.",
    "Coordinates are city-level or approximate (see coordPrecision); markers flagged 'oblast' are not geolocated.",
    "Casualty figures are as reported by the cited outlet at time of writing and may have been revised."
   ]
@@ -4928,17 +4928,194 @@
     }
    ],
    "read": "full"
+  },
+  {
+   "id": "kyiv-1119",
+   "date": "2026-11-19",
+   "region": "rear",
+   "oblast": "Kyiv City",
+   "front": "Rear (Kyiv)",
+   "type": "drone",
+   "status": "CONFIRMED",
+   "title": "Drone attack on Kyiv kills one, damages St Volodymyr's Cathedral and two embassies",
+   "caption": "The Kyiv Independent reports that an hours-long Russian drone attack on Nov 19 killed a 26-year-old man in Podilskyi district and injured five others, according to city authorities. A three-storey residential building in Podilskyi was heavily damaged, windows and cornices at St Volodymyr's Cathedral were damaged (preliminary assessment: murals and structure intact), and drone crashes damaged the Dutch and Austrian embassies. Debris also fell on Ukraine's Foreign Ministry grounds. The Dutch and Austrian foreign ministers said their staff were unharmed. The article gives no launch count.",
+   "lat": 50.4547,
+   "lon": 30.5238,
+   "coordPrecision": "city",
+   "place": "Kyiv",
+   "sources": [
+    {
+     "id": "ki_kyiv_1119",
+     "title": "Kyiv Independent: 'For Russia, nothing is sacred' - Massive Russian drone attack on Kyiv kills 1, damages St. Volodymyr's Cathedral, embassies (Nov 19)",
+     "url": "https://kyivindependent.com/breaking-dutch-embassy-damaged-in-russian-drone-strike-on-kyiv/"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "izium-1119",
+   "date": "2026-11-19",
+   "region": "north",
+   "oblast": "Kharkiv",
+   "front": "Kupiansk / Izium",
+   "type": "other",
+   "status": "ONE_PARTY",
+   "title": "Russian strike on Izium apartment block injures 21, including four children",
+   "caption": "Ukrinform, citing a Kharkiv Regional Police Telegram post, reports that Russian forces struck an apartment building in Izium on the afternoon of Nov 19, destroying one entrance section, damaging cars and setting an apartment in a nearby building on fire. The injury toll rose from 16 to 21, including four children. The weapon was not named. Police opened a war-crimes case. No Russian statement and no independent confirmation were read.",
+   "lat": 49.207,
+   "lon": 37.2768,
+   "coordPrecision": "city",
+   "place": "Izium",
+   "sources": [
+    {
+     "id": "ukrinform_izium_1119",
+     "title": "Ukrinform: Injury toll in Russian strike on Izium rises to 21, including four children (Nov 19)",
+     "url": "https://www.ukrinform.net/rubric-ato/4186412-injury-toll-in-russian-strike-on-izium-rises-to-21-including-four-children.html"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "kaleikino-1119",
+   "date": "2026-11-19",
+   "region": "russia",
+   "oblast": "Tatarstan, Russia",
+   "front": "Russia deep strikes",
+   "type": "deep-strike",
+   "status": "ONE_PARTY",
+   "title": "Ukraine's General Staff claims strike on Kaleikino oil pumping station in Tatarstan",
+   "caption": "Ukraine's General Staff says Ukrainian forces hit the Kaleikino oil pumping station near Almetyevsk, Tatarstan, on Nov 19, describing it as a key node of the Druzhba pipeline. It says three RVSPA-50000 tanks at Kaleikino-1 were hit, one set on fire and two damaged, and that the Nov 18 strike on the Ilsky refinery destroyed one RVS-5000 tank and damaged eight more. No Russian statement and no independent confirmation or imagery were read. Marker is at Almetyevsk, approximate.",
+   "lat": 54.904,
+   "lon": 52.3179,
+   "coordPrecision": "approx",
+   "place": "Almetyevsk",
+   "sources": [
+    {
+     "id": "gs_kaleikino_1120",
+     "title": "General Staff of Ukraine (Telegram): Kaleikino pumping station hit; Ilsky damage update (Nov 20)",
+     "url": "https://t.me/GeneralStaffZSU/42955"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "kyiv-1120",
+   "date": "2026-11-20",
+   "region": "rear",
+   "oblast": "Kyiv City",
+   "front": "Rear (Kyiv)",
+   "type": "missile",
+   "status": "DISPUTED",
+   "title": "Ballistic missiles and drones hit Kyiv: six killed, three bridges damaged",
+   "caption": "Kyiv Post, citing Ukraine's Air Force, reports a massed overnight Russian attack on Nov 20 in which ballistic missiles were aimed mainly at Kyiv and its region. Ukrinform, quoting Kyiv City Military Administration spokesperson Kateryna Pop, says six people were killed (including Kyivvodokanal employees) and 15 injured, and that the Podilsko-Voskresenskyi, Darnytskyi and Southern bridges and utility facilities were damaged. Russia's MoD says it struck bridges in Kyiv and a gunpowder plant at Brovary, a drone assembly plant and the Fire Point firm's assembly site at Petrovske, calling them military targets. Figures were preliminary while the attack was still under way.",
+   "lat": 50.4547,
+   "lon": 30.5238,
+   "coordPrecision": "city",
+   "place": "Kyiv",
+   "sources": [
+    {
+     "id": "kp_attack_1120",
+     "title": "Kyiv Post: Russia Fires 84 Cruise Missiles, 404 Drones at Ukraine After Putin's Retaliation Vow (Nov 20)",
+     "url": "https://www.kyivpost.com/post/90693"
+    },
+    {
+     "id": "ukrinform_kyiv_1120",
+     "title": "Ukrinform: Death toll from Russian attack on Kyiv rises to six, 15 injured (Nov 20)",
+     "url": "https://www.ukrinform.net/rubric-ato/4186726-death-toll-from-russian-attack-on-kyiv-rises-to-six-15-injured.html"
+    },
+    {
+     "id": "ukrinform_bridges_1120",
+     "title": "Ukrinform: Kyiv's Podilskyi and Darnytskyi bridges damaged in Russian ballistic attack, mayor says (Nov 20)",
+     "url": "https://www.ukrinform.net/rubric-ato/4186643-kyivs-podilskyi-and-darnytskyi-bridges-damaged-in-russian-ballistic-attack-mayor.html"
+    },
+    {
+     "id": "mod_strikes_1120",
+     "title": "Russian MoD (Telegram): list of targets hit in the massed strike (Nov 20)",
+     "url": "https://t.me/mod_russia/69183"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Kyiv City Military Administration (via Ukrinform)",
+     "says": "Six killed, 15 injured; bridges and Kyivvodokanal facilities damaged.",
+     "source": "ukrinform_kyiv_1120"
+    },
+    {
+     "who": "Russia's MoD",
+     "says": "Struck road and rail-road bridges used to move military equipment, a gunpowder plant at Brovary, a drone assembly plant and a Fire Point assembly site at Petrovske, all described as military targets.",
+     "source": "mod_strikes_1120"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "lviv-1120",
+   "date": "2026-11-20",
+   "region": "rear",
+   "oblast": "Lviv",
+   "front": "Rear (west)",
+   "type": "missile",
+   "status": "ONE_PARTY",
+   "title": "Strike on Sknyliv railway station in Lviv kills two",
+   "caption": "Ukrinform, citing Lviv Mayor Andrii Sadovyi's Telegram post, reports that a strike hit the ticket terminal at Sknyliv railway station on the morning of Nov 20, killing two people. Governor Maksym Kozytskyi confirmed at least four civilians injured. Kyiv Post adds that emergency power cuts followed strikes on energy infrastructure in western Ukraine. Russia's MoD says it hit the LDARZ aircraft repair plant in Lviv and the Zapadnoukrainska 750 kV substation at Khodoriv; the Ukrainian reports read named only the railway station. The weapon type was not stated.",
+   "lat": 49.8383,
+   "lon": 24.0232,
+   "coordPrecision": "city",
+   "place": "Lviv",
+   "sources": [
+    {
+     "id": "ukrinform_lviv_1120",
+     "title": "Ukrinform: Two killed, four injured in Russian attack on railway station in Lviv (Nov 20)",
+     "url": "https://www.ukrinform.net/rubric-ato/4186678-two-killed-four-injured-in-russian-attack-on-railway-station-in-lviv.html"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Lviv Mayor Sadovyi (via Ukrinform)",
+     "says": "A strike hit the ticket terminal at Sknyliv station; two killed, at least four injured.",
+     "source": "ukrinform_lviv_1120"
+    },
+    {
+     "who": "Russia's MoD",
+     "says": "Hit the LDARZ aircraft repair plant in Lviv and the 750 kV Zapadnoukrainska substation at Khodoriv.",
+     "source": "mod_strikes_1120"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "kharkiv-1120",
+   "date": "2026-11-20",
+   "region": "north",
+   "oblast": "Kharkiv",
+   "front": "Kharkiv",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Russian drone hits hospital in Kharkiv, four injured",
+   "caption": "Ukrinform relays Kharkiv Mayor Ihor Terekhov's Telegram statement that a Russian drone struck a hospital overnight into Nov 20, injuring four people and shattering more than 50 windows. Kyiv Post reports an MRI facility was damaged. An assessment of the site was still under way. No Russian statement on this site was read.",
+   "lat": 49.9818,
+   "lon": 36.2548,
+   "coordPrecision": "city",
+   "place": "Kharkiv",
+   "sources": [
+    {
+     "id": "ukrinform_kharkiv_1120",
+     "title": "Ukrinform: Russian drone hits hospital in Kharkiv, four people injured (Nov 20)",
+     "url": "https://www.ukrinform.net/rubric-ato/4186633-russian-drone-hits-hospital-in-kharkiv-four-people-injured.html"
+    }
+   ],
+   "read": "full"
   }
  ],
  "stats": [
   {
    "label": "Russian military personnel losses (cumulative, since Feb 24, 2022)",
    "category": "casualties",
-   "asOf": "2026-11-19",
+   "asOf": "2026-11-20",
    "status": "ONE_PARTY",
    "ukraine": {
-    "value": "~1,630,980 killed and wounded, calculated from the Nov 16 figure of ~1,625,420 plus the General Staff's +1,620 (Nov 17), +1,970 (Nov 18) and +1,970 (Nov 19); the cumulative tally itself is posted as an image and was not read",
-    "source": "gs_ops_1119"
+    "value": "~1,633,130 killed and wounded, calculated from the Nov 19 figure of ~1,630,980 plus the General Staff's +2,150 (Nov 20); the cumulative tally itself is posted as an image and was not read",
+    "source": "gs_ops_1120"
    },
    "russia": {
     "value": "No official cumulative figure published",
@@ -5842,6 +6019,41 @@
    "russia": {
     "value": "MoD claims 53 fixed-wing drones intercepted overnight (20:00 Nov 18 to 08:00 Nov 19 Moscow time) over Belgorod, Voronezh, Kursk, Lipetsk, Oryol, Rostov, Ryazan, Smolensk and Tula regions and Tatarstan",
     "source": "mod_pvo_1119"
+   },
+   "independent": []
+  },
+  {
+   "label": "Russian drones and missiles launched at Ukraine (night of Nov 19-20)",
+   "category": "shootdowns",
+   "asOf": "2026-11-20",
+   "status": "DISPUTED",
+   "ukraine": {
+    "value": "84 cruise missiles (Kh-101, Kalibr, Iskander-K), Iskander-M/S-400 ballistic and Zircon missiles (number not given), 404 drones (123 jet-powered Shaheds), Gerbera and Parodiya decoys; 462 downed or suppressed as of 10:30 (3 ballistic/Zircon, 79 cruise missiles, 380 drones); hits at 23 locations, debris at 10; attack still ongoing (General Staff/Air Force)",
+    "source": "gs_air_1120"
+   },
+   "russia": {
+    "value": "No launch count published; MoD says it carried out a massed strike with high-precision weapons and drones on defence plants, energy, bridges and port sites in Kyiv, Kyiv, Dnipropetrovsk, Chernihiv, Ivano-Frankivsk, Lviv, Mykolaiv and Odesa regions",
+    "source": "mod_strikes_1120"
+   },
+   "independent": [
+    {
+     "value": "Kyiv Post: Ukraine's Air Force says 84 cruise missiles and 404 drones; nationwide 8 killed and 28 injured per Prime Minister Koretskyi; one missile may have crossed into Poland (Air Force spokesman Ihnat), Poland verifying",
+     "source": "kp_attack_1120"
+    }
+   ]
+  },
+  {
+   "label": "Ukrainian drones shot down over Russia (Nov 19-20)",
+   "category": "shootdowns",
+   "asOf": "2026-11-20",
+   "status": "ONE_PARTY",
+   "ukraine": {
+    "value": "No count published",
+    "source": null
+   },
+   "russia": {
+    "value": "MoD claims 310 fixed-wing drones intercepted overnight over Belgorod, Bryansk, Kursk, Kaluga, Smolensk, Tula, Oryol, Pskov, Rostov and Volgograd regions, Krasnodar Krai, Crimea, the Moscow region and the Azov and Black Seas",
+    "source": "mod_pvo_1120"
    },
    "independent": []
   }
@@ -7311,6 +7523,66 @@
    "id": "gs_air_1119",
    "title": "General Staff of Ukraine (Telegram): 69 targets downed/suppressed, night of Nov 18-19",
    "url": "https://t.me/GeneralStaffZSU/42943"
+  },
+  {
+   "id": "gs_air_1120",
+   "title": "General Staff of Ukraine (Telegram): 462 targets downed/suppressed, night of Nov 19-20",
+   "url": "https://t.me/GeneralStaffZSU/42954"
+  },
+  {
+   "id": "mod_pvo_1120",
+   "title": "Russian MoD (Telegram): 310 Ukrainian drones shot down overnight Nov 20",
+   "url": "https://t.me/mod_russia/69181"
+  },
+  {
+   "id": "gs_ops_1120",
+   "title": "General Staff of Ukraine (Telegram): operational information as of 08:00 Nov 20, losses over past day",
+   "url": "https://t.me/GeneralStaffZSU/42951"
+  },
+  {
+   "id": "mod_strikes_1120",
+   "title": "Russian MoD (Telegram): list of targets hit in the massed strike (Nov 20)",
+   "url": "https://t.me/mod_russia/69183"
+  },
+  {
+   "id": "kp_attack_1120",
+   "title": "Kyiv Post: Russia Fires 84 Cruise Missiles, 404 Drones at Ukraine After Putin's Retaliation Vow (Nov 20)",
+   "url": "https://www.kyivpost.com/post/90693"
+  },
+  {
+   "id": "ukrinform_kyiv_1120",
+   "title": "Ukrinform: Death toll from Russian attack on Kyiv rises to six, 15 injured (Nov 20)",
+   "url": "https://www.ukrinform.net/rubric-ato/4186726-death-toll-from-russian-attack-on-kyiv-rises-to-six-15-injured.html"
+  },
+  {
+   "id": "ukrinform_bridges_1120",
+   "title": "Ukrinform: Kyiv's Podilskyi and Darnytskyi bridges damaged in Russian ballistic attack, mayor says (Nov 20)",
+   "url": "https://www.ukrinform.net/rubric-ato/4186643-kyivs-podilskyi-and-darnytskyi-bridges-damaged-in-russian-ballistic-attack-mayor.html"
+  },
+  {
+   "id": "ukrinform_lviv_1120",
+   "title": "Ukrinform: Two killed, four injured in Russian attack on railway station in Lviv (Nov 20)",
+   "url": "https://www.ukrinform.net/rubric-ato/4186678-two-killed-four-injured-in-russian-attack-on-railway-station-in-lviv.html"
+  },
+  {
+   "id": "ukrinform_kharkiv_1120",
+   "title": "Ukrinform: Russian drone hits hospital in Kharkiv, four people injured (Nov 20)",
+   "url": "https://www.ukrinform.net/rubric-ato/4186633-russian-drone-hits-hospital-in-kharkiv-four-people-injured.html"
+  },
+  {
+   "id": "ki_kyiv_1119",
+   "title": "Kyiv Independent: 'For Russia, nothing is sacred' - Massive Russian drone attack on Kyiv kills 1, damages St. Volodymyr's Cathedral, embassies (Nov 19)",
+   "url": "https://kyivindependent.com/breaking-dutch-embassy-damaged-in-russian-drone-strike-on-kyiv/"
+  },
+  {
+   "id": "ukrinform_izium_1119",
+   "title": "Ukrinform: Injury toll in Russian strike on Izium rises to 21, including four children (Nov 19)",
+   "url": "https://www.ukrinform.net/rubric-ato/4186412-injury-toll-in-russian-strike-on-izium-rises-to-21-including-four-children.html"
+  },
+  {
+   "id": "gs_kaleikino_1120",
+   "title": "General Staff of Ukraine (Telegram): Kaleikino pumping station hit; Ilsky damage update (Nov 20)",
+   "url": "https://t.me/GeneralStaffZSU/42955"
   }
  ]
 }

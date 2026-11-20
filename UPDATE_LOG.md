@@ -2,6 +2,18 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-20 06:05 Toronto — Ukraine — OK
+- Added 6 event(s):
+  - `kyiv-1120` 2026-11-20 [DISPUTED] Ballistic missiles and drones hit Kyiv: six killed, three bridges damaged
+  - `lviv-1120` 2026-11-20 [ONE_PARTY] Strike on Sknyliv railway station in Lviv kills two
+  - `kharkiv-1120` 2026-11-20 [ONE_PARTY] Russian drone hits hospital in Kharkiv, four injured
+  - `kyiv-1119` 2026-11-19 [CONFIRMED] Drone attack on Kyiv kills one, damages St Volodymyr's Cathedral and two embassies
+  - `izium-1119` 2026-11-19 [ONE_PARTY] Russian strike on Izium apartment block injures 21, including four children
+  - `kaleikino-1119` 2026-11-19 [ONE_PARTY] Ukraine's General Staff claims strike on Kaleikino oil pumping station in Tatarstan
+- Stats: 1 updated, 2 added
+- 12 new source link(s)
+- Totals: 180 events, 54 stats, 305 sources; coverage 2026-10-10 to 2026-11-20
+
 ## 2026-11-19 06:41 Toronto — Middle East — OK
 - Added 3 event(s):
   - `nuseirat-1118` 2026-11-18 [CONFIRMED] Israeli forces cross the Yellow Line east of Nuseirat in first announced ground operation since the ceasefire
