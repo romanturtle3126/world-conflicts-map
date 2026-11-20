@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-20T11:06:08+00:00",
+  "lastUpdated": "2026-11-20T11:41:48+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -36,7 +36,7 @@
    {
     "source": "Al Jazeera",
     "ok": true,
-    "count": 3
+    "count": 4
    },
    {
     "source": "UK Ministry of Defence (GOV.UK)",
@@ -47,10 +47,64 @@
  },
  "items": [
   {
+   "headline": "Russian attack forces nuclear power plants to reduce output - Energy Ministry",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-economy/4186784-russian-attack-forces-nuclear-power-plants-to-reduce-output-energy-ministry.html",
+   "date": "2026-11-20T11:41:00.000Z"
+  },
+  {
+   "headline": "Ukrainian forces hit three Russian ballistic missile launchers – Zelensky",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4186803-ukrainian-forces-hit-three-russian-ballistic-missile-launchers-zelensky.html",
+   "date": "2026-11-20T11:37:00.000Z"
+  },
+  {
+   "headline": "Women account for 60% of new individual entrepreneur registrations in Ukraine this year – Opendatabot",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-economy/4186751-women-account-for-60-of-new-individual-entrepreneur-registrations-in-ukraine-this-year-opendatabot.html",
+   "date": "2026-11-20T11:29:00.000Z"
+  },
+  {
+   "headline": "Two Russian missiles, jet-powered drone crash in Poland – Defense Minister",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4186795-two-russian-missiles-jetpowered-drone-crash-in-poland-defense-minister.html",
+   "date": "2026-11-20T11:22:00.000Z"
+  },
+  {
+   "headline": "Three Kyiv bridges hit during major Russian missile attack",
+   "source": "BBC News Europe",
+   "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-20T11:12:57.000Z"
+  },
+  {
+   "headline": "Ukrainian forces strike Russian elite 'Rubicon' drone unit deployment site in Russian Kursk Oblast",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/ukrainian-forces-strike-russian-elite-rubicon-drone-unit-deployment-site-in-russian-kursk-oblast/",
+   "date": "2026-11-20T11:05:06.000Z"
+  },
+  {
+   "headline": "Russian forces attack Sumy region, injuring woman and sparking massive fire",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4186778-russian-forces-attack-sumy-region-injuring-woman-and-sparking-massive-fire.html",
+   "date": "2026-11-20T11:05:00.000Z"
+  },
+  {
+   "headline": "Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
+   "date": "2026-11-20T11:01:51.000Z"
+  },
+  {
    "headline": "Merz, Koretskyi open German-Ukrainian Business Forum in Berlin",
    "source": "Ukrinform",
    "link": "https://www.ukrinform.net/rubric-economy/4186779-merz-koretskyi-open-germanukrainian-business-forum-in-berlin.html",
    "date": "2026-11-20T11:01:00.000Z"
+  },
+  {
+   "headline": "Zelenskyy on Russian attacks: Putin is overcompensating after failed attempt to \"redraw the world\" in China",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/20/8063788/",
+   "date": "2026-11-20T11:00:00.000Z"
   },
   {
    "headline": "Ukraine cooperating with Poland in probe into airspace violation – FM Sybiha",
@@ -59,9 +113,15 @@
    "date": "2026-11-20T10:50:00.000Z"
   },
   {
+   "headline": "Russians kill two and injure seven water utility workers in Kyiv",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/20/8063787/",
+   "date": "2026-11-20T10:50:00.000Z"
+  },
+  {
    "headline": "Illegal fuel depot with UAH 10M worth of counterfeit petrol and diesel uncovered in Kyiv",
    "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-economy/4186721-illegal-fuel-depot-with-uah-10m-worth-of-counterfeit-petrol-and-diesel-uncovered-in-kyiv.html",
+   "link": "https://www.ukrinform.net/rubric-crime/4186721-illegal-fuel-depot-with-uah-10m-worth-of-counterfeit-petrol-and-diesel-uncovered-in-kyiv.html",
    "date": "2026-11-20T10:40:00.000Z"
   },
   {
@@ -69,12 +129,6 @@
    "source": "Ukrinform",
    "link": "https://www.ukrinform.net/rubric-economy/4186762-russian-strikes-damage-ukrenergo-substations-emergency-outages-imposed-in-two-regions.html",
    "date": "2026-11-20T10:31:00.000Z"
-  },
-  {
-   "headline": "Three Kyiv bridges hit during major Russian missile attack",
-   "source": "BBC News Europe",
-   "link": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-20T10:20:08.000Z"
   },
   {
    "headline": "Poland investigating crash of unidentified object near border during Russian attack on Ukraine",
@@ -93,6 +147,12 @@
    "source": "Ukrinform",
    "link": "https://www.ukrinform.net/rubric-ato/4186737-ukraines-air-defenses-down-82-missiles-380-russian-drones-overnight.html",
    "date": "2026-11-20T10:00:00.000Z"
+  },
+  {
+   "headline": "Russian attack damages the central building of Mykhailo Drahomanov University in Kyiv",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/20/8063782/",
+   "date": "2026-11-20T09:55:00.000Z"
   },
   {
    "headline": "Russia unleashes retaliatory barrage on Kyiv bridges",
@@ -143,7 +203,7 @@
    "date": "2026-11-20T09:15:00.000Z"
   },
   {
-   "headline": "Two Russian Kh-101 missiles, drone, fall on Poland during Russian attack on Ukraine",
+   "headline": "2 Russian Kh-101 missiles, drone, fall on Poland during Russian attack on Ukraine",
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/poland-reports-airspace-violation-during-russian-attack-on-ukraine-investigates-debris-crash/",
    "date": "2026-11-20T09:11:40.000Z"
@@ -305,58 +365,10 @@
    "date": "2026-11-20T06:22:00.000Z"
   },
   {
-   "headline": "Cars and student accommodation damaged in Lviv, piece of missile found on pavement",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/20/8063738/",
-   "date": "2026-11-20T06:12:00.000Z"
-  },
-  {
-   "headline": "Three killed, 15 injured in Russian attack on Kyiv",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4186645-three-killed-15-injured-in-russian-attack-on-kyiv.html",
-   "date": "2026-11-20T06:00:00.000Z"
-  },
-  {
-   "headline": "Kyiv’s Podilskyi and Darnytskyi bridges damaged in Russian ballistic attack – mayor",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4186643-kyivs-podilskyi-and-darnytskyi-bridges-damaged-in-russian-ballistic-attack-mayor.html",
-   "date": "2026-11-20T05:39:00.000Z"
-  },
-  {
-   "headline": "Russians kill three Kyiv residents and injure others in attack",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/20/8063732/",
-   "date": "2026-11-20T05:32:00.000Z"
-  },
-  {
-   "headline": "FPV drone attacks tram in Zaporizhzhia: woman injured",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/20/8063731/",
-   "date": "2026-11-20T05:22:00.000Z"
-  },
-  {
-   "headline": "Republicans in Congress criticize Trump’s meeting with Xi and Putin",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4186638-republicans-in-congress-criticize-trumps-meeting-with-xi-and-putin.html",
-   "date": "2026-11-20T05:19:00.000Z"
-  },
-  {
-   "headline": "Coalition of the Willing leaders urge Russia to agree to winter energy truce",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4186635-coalition-of-the-willing-leaders-urge-russia-to-agree-to-winter-energy-truce.html",
-   "date": "2026-11-20T04:51:00.000Z"
-  },
-  {
    "headline": "Kushner: Trump open to NATO-like security guarantees for Ukraine",
    "source": "Al Jazeera",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kushner-trump-open-to-nato-like-security-guarantees-for-ukraine?traffic_source=rss",
    "date": "2026-11-20T04:44:53.000Z"
-  },
-  {
-   "headline": "Russian drone hits hospital in Kharkiv, four people injured",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4186633-russian-drone-hits-hospital-in-kharkiv-four-people-injured.html",
-   "date": "2026-11-20T04:25:00.000Z"
   },
   {
    "headline": "Ukrainian drones reportedly strike Russian chemical plant",
@@ -459,12 +471,6 @@
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/interview-move-fast-to-secure-kyivs-future-brussels-economy-chief-tells-ukraine-eu-countries/",
    "date": "2026-11-19T17:52:32.000Z"
-  },
-  {
-   "headline": "'We will not negotiate' — Putin addresses Ukraine's strikes on Crimean Bridge",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/we-will-not-negotiate-putin-addresses-ukraines-strikes-on-crimean-bridge/",
-   "date": "2026-11-19T17:23:44.000Z"
   },
   {
    "headline": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-20T11:06:10+00:00",
+  "lastUpdated": "2026-11-20T11:41:49+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -30,8 +30,8 @@
    },
    {
     "source": "France 24 Middle East",
-    "ok": false,
-    "error": "HTTP 403"
+    "ok": true,
+    "count": 25
    },
    {
     "source": "Al-Monitor",
@@ -51,6 +51,30 @@
   ]
  },
  "items": [
+  {
+   "headline": "India's Rahul Gandhi backs continued arms trade with Israel despite Gaza genocide",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/news/india-rahul-gandhi-backs-continued-arms-trade-israel-despite-gaza-genocide",
+   "date": "2026-11-20T11:38:37.000Z"
+  },
+  {
+   "headline": "Israeli forces detain recently released prisoners in West Bank raids",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-detain-recently-released-prisoners-west-bank-raids",
+   "date": "2026-11-20T11:22:16.000Z"
+  },
+  {
+   "headline": "Kataib Hezbollah faces deadline to leave Iraqi stronghold",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/kataib-hezbollah-faces-deadline-to-leave-iraqi-stronghold?traffic_source=rss",
+   "date": "2026-11-20T11:10:06.000Z"
+  },
+  {
+   "headline": "'Collective deterrence': Detention of Palestinian student in Israel fuels fears of wider crackdown",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/news/palestinian-student-activist-israel-detained-amid-incitement-campaign",
+   "date": "2026-11-20T11:08:22.000Z"
+  },
   {
    "headline": "Iranian press review: Pre-emptive strikes on US warships proposed to prevent another war",
    "source": "Middle East Eye",
@@ -104,6 +128,12 @@
    "source": "Al-Monitor",
    "link": "https://www.al-monitor.com/originals/2026/11/malaysia-says-it-will-resettle-10000-rohingya-refugees-turkey",
    "date": "2026-11-20T08:46:28.000Z"
+  },
+  {
+   "headline": "Iraqi security forces deploy in Hezbollah stronghold under compromise deal",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261120-iraqi-security-forces-to-deploy-in-hezbollah-stronghold-under-compromise-deal",
+   "date": "2026-11-20T08:37:27.000Z"
   },
   {
    "headline": "Araghchi mocks Israel's ambassador to the US",
@@ -184,12 +214,6 @@
    "date": "2026-11-20T04:22:03.000Z"
   },
   {
-   "headline": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/20/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal-2?traffic_source=rss",
-   "date": "2026-11-20T04:05:17.000Z"
-  },
-  {
    "headline": "Pentagon official says US war on Iran cost $48.3bn",
    "source": "Middle East Eye",
    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pentagon-official-says-us-war-iran-cost-483b",
@@ -208,28 +232,10 @@
    "date": "2026-11-20T03:00:38.000Z"
   },
   {
-   "headline": "Houthis hit Saudi Arabia's sovereign wealth fund skyscraper",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-hit-saudi-arabias-sovereign-wealth-fund-skyscraper-0",
-   "date": "2026-11-20T02:32:50.000Z"
-  },
-  {
    "headline": "AFP journalist wounded by Israel honored at CPJ awards",
    "source": "Al-Monitor",
    "link": "https://www.al-monitor.com/originals/2026/11/afp-journalist-wounded-israel-honored-cpj-awards",
    "date": "2026-11-20T02:31:16.000Z"
-  },
-  {
-   "headline": "Saudi-led coalition says it intercepted two drones in south",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-two-drones-south",
-   "date": "2026-11-20T02:28:09.000Z"
-  },
-  {
-   "headline": "Will the US and Israel restart the war on Iran?",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/will-us-and-israel-restart-war-iran",
-   "date": "2026-11-20T01:07:45.000Z"
   },
   {
    "headline": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
@@ -316,6 +322,48 @@
    "date": "2026-11-19T10:00:24.000Z"
   },
   {
+   "headline": "Skyscraper in Riyadh damaged as Saudi Arabia reports surge in new Houthi attacks",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261119-skyscraper-in-riyadh-damaged-as-saudi-arabia-reports-surge-in-new-houthi-attacks",
+   "date": "2026-11-19T07:58:16.000Z"
+  },
+  {
+   "headline": "Gaza: Israel launched new offensive on Nuseirat",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/gaza-israel-launched-new-offensive-on-nuseirat",
+   "date": "2026-11-19T07:50:10.000Z"
+  },
+  {
+   "headline": "Middle East crisis poses 'largest threat' to energy security in history, warns IEA",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261119-middle-east-crisis-energy-security-iea",
+   "date": "2026-11-19T05:11:59.000Z"
+  },
+  {
+   "headline": "Israeli army launches ground operation in Hamas-controlled area of Gaza",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/israeli-army-launches-ground-operation-in-hamas-controlled-area-of-gaza",
+   "date": "2026-11-18T19:55:15.000Z"
+  },
+  {
+   "headline": "Writer Etgar Keret: 'The Israel my parents dreamed of' is still possible, but not under Netanyahu",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/tv-shows/spotlight/20261118-netanyahu-s-only-2-tickets-are-racism-or-starting-a-war-he-stopped-acting-as-a-democratic-player",
+   "date": "2026-11-18T19:45:16.000Z"
+  },
+  {
+   "headline": "Gazans flee shelters as Israeli army launches ground operation beyond Yellow Line",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261118-gazans-flee-shelters-as-israeli-army-launches-ground-operation-beyond-yellow-line",
+   "date": "2026-11-18T16:03:21.000Z"
+  },
+  {
+   "headline": "Yemen: Why the Houthis may besiege Aden rather than storm it",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261118-yemen-why-the-houthis-may-besiege-aden-rather-than-storm-it",
+   "date": "2026-11-18T15:55:41.000Z"
+  },
+  {
    "headline": "Israel delays building contracts for West Bank settlement after UK sanctions",
    "source": "The Guardian (Middle East)",
    "link": "https://www.theguardian.com/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions",
@@ -358,6 +406,12 @@
    "date": "2026-11-18T05:00:32.000Z"
   },
   {
+   "headline": "Loud blast rocks Riyadh as Saudi-led coalition says it intercepted Houthi missiles",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261118-middle-east-live-kuwait-bahrain-report-drone-and-missile-attacks",
+   "date": "2026-11-18T02:06:39.000Z"
+  },
+  {
    "headline": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
    "source": "The Guardian (Middle East)",
    "link": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
@@ -368,6 +422,18 @@
    "source": "The Guardian (Middle East)",
    "link": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
    "date": "2026-11-17T22:30:17.000Z"
+  },
+  {
+   "headline": "Israeli parliament elects Eisenkot ally Matan Kahana as speaker in blow for Netanyahu",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261117-%F0%9F%94%B4-israeli-parliament-elects-eisenkot-ally-matan-kahana-as-speaker",
+   "date": "2026-11-17T21:24:31.000Z"
+  },
+  {
+   "headline": "Major setbacks for Netanyahu ahead of vote to name new Knesset speaker",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/major-setbacks-for-netanyahu-ahead-of-vote-to-name-new-knesset-speaker",
+   "date": "2026-11-17T21:05:20.000Z"
   },
   {
    "headline": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
@@ -418,6 +484,12 @@
    "date": "2026-11-17T16:03:34.000Z"
   },
   {
+   "headline": "Did the US use ‘blackout bombs’ in Iran? Images reveal mysterious fibres at infrastructure sites",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261117-iran-us-graphite-blackout-bombs-infrastructure",
+   "date": "2026-11-17T14:39:16.000Z"
+  },
+  {
    "headline": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
    "source": "The Guardian (Middle East)",
    "link": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
@@ -460,10 +532,46 @@
    "date": "2026-11-16T11:09:38.000Z"
   },
   {
+   "headline": "Breaking taboos: Egypt's sexual revolution takes to social media",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/tv-shows/focus/20261116-breaking-taboos-egypt-s-sexual-revolution-takes-to-social-media",
+   "date": "2026-11-16T09:50:45.000Z"
+  },
+  {
    "headline": "UK and allies urge Israel to allow rapid humanitarian access to Gaza",
    "source": "BBC News Middle East",
    "link": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-16T08:56:04.000Z"
+  },
+  {
+   "headline": "Eisenkot says Netanyahu ‘cannot remain’ after alleged election interference by aide",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261116-eisenkot-netanyahu-cannot-stay-in-office",
+   "date": "2026-11-16T03:47:28.000Z"
+  },
+  {
+   "headline": "Yemen's Houthis advance on Aden as government forces retreat to defend their capital",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say",
+   "date": "2026-11-15T19:28:54.000Z"
+  },
+  {
+   "headline": "Israel kills senior member of Hamas's military wing in Gaza strike",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261115-israel-kills-senior-member-of-hamas-s-military-wing-in-gaza-strike",
+   "date": "2026-11-15T16:41:48.000Z"
+  },
+  {
+   "headline": "Iran claims drone attack on US military base in Bahrain",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/iran-claims-drone-attack-on-us-military-base-in-bahrain",
+   "date": "2026-11-15T15:29:22.000Z"
+  },
+  {
+   "headline": "Bahrain says air defences destroyed several Iranian drones attacking US base",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/bahrain-says-air-defences-destroyed-several-iranian-drones-attacking-us-base",
+   "date": "2026-11-15T13:55:32.000Z"
   },
   {
    "headline": "Iran targets US military base in Bahrain with drone attack",
@@ -484,10 +592,52 @@
    "date": "2026-11-15T11:06:32.000Z"
   },
   {
+   "headline": "Global diesel prices ease as winter approaches",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/global-diesel-prices-ease-as-winter-approaches",
+   "date": "2026-11-15T10:40:01.000Z"
+  },
+  {
+   "headline": "Iran claims drone attack on US military airbase in Bahrain",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261115-iran-claims-attack-on-us-military-airbase-in-bahrain",
+   "date": "2026-11-15T09:57:35.000Z"
+  },
+  {
+   "headline": "Three sentenced to death over Jordan church attack",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261115-three-sentenced-to-death-over-jordan-church-attack",
+   "date": "2026-11-15T08:53:39.000Z"
+  },
+  {
    "headline": "Israel kills Hamas commander in strike on Gaza camp, officials say",
    "source": "BBC News Middle East",
    "link": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-15T08:17:41.000Z"
+  },
+  {
+   "headline": "Netanyahu renews call for Israeli unity government as Eisenkot dismisses 'tricks'",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261114-netanyahu-renews-call-for-israeli-government-unity-as-eisenkot-dismisses-tricks",
+   "date": "2026-11-14T20:35:22.000Z"
+  },
+  {
+   "headline": "Turkey and Qatar pledge unified stance against attacks in mutual defence pact",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261113-turkey-and-qatar-pledge-unified-stance-against-attacks-in-mutual-defence-pact",
+   "date": "2026-11-13T20:06:40.000Z"
+  },
+  {
+   "headline": "West Bank: ‘Without international trade and financial support, large settlements would not exist’",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/video/20261113-west-bank-without-international-trade-and-financial-support-large-settlements-would-not-exist-1",
+   "date": "2026-11-13T16:15:44.000Z"
+  },
+  {
+   "headline": "UN refugee chief Barham Salih slams 'shameful' war in Sudan, urges 'political solution'",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261113-un-refugee-chief-barham-salih-slams-shameful-war-in-sudan-urges-political-solution",
+   "date": "2026-11-13T15:56:30.000Z"
   },
   {
    "headline": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
