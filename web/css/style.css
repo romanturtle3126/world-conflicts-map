@@ -136,6 +136,7 @@ nav#tabs button.active svg{transform:translateY(-1px) scale(1.08)}
 .clu-ring{fill:none;stroke:var(--cyan);stroke-width:1.6;vector-effect:non-scaling-stroke;opacity:0}
 .clu.today .clu-ring{animation:ping 2.6s cubic-bezier(.2,.6,.35,1) infinite}
 .clu-n{fill:#eceef1;font:800 10px var(--mono);text-anchor:middle;pointer-events:none}
+.exp-ring{fill:none;stroke:var(--mut);stroke-width:1.2;stroke-dasharray:4 4;opacity:.6;pointer-events:none;vector-effect:non-scaling-stroke}
 
 .ctrls{position:absolute;right:12px;top:12px;display:flex;flex-direction:column;gap:9px;z-index:2}
 .ctrls button,#presets button{width:48px;height:48px;border-radius:13px;border:1px solid var(--line);background:rgba(6,7,10,.88);font-size:22px;font-weight:600;cursor:pointer;transition:transform .12s,background .2s}
