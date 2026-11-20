@@ -122,7 +122,7 @@ What the daily research job writes; `scripts/merge-update.mjs` merges it:
 { "map": "ukraine", "notes": ["..."], "events": [ /* new or corrected events */ ], "stats": [ /* changed stats */ ], "lanes": [ /* changed lanes (Middle East) */ ], "sources": [ /* extra sources used by stats */ ] }
 ```
 
-Events merge by `id` (new id = added, existing id = replaced). Stats merge by `label`. Nothing is deleted. Limits: 40 new and 30 changed events per run; new events must be dated within the last 10 days. Any failure leaves `data/` untouched and writes the reason to `UPDATE_LOG.md`.
+Events merge by `id` (new id = added, existing id = replaced). Stats merge by `label`. Nothing is deleted. Limits: 40 new and 30 changed events per run; new events must be dated within the last 10 days. Merging is partial: each item is validated as it is applied, and an item that fails (bad field, unknown place, dead source link, over the per-run cap) is quarantined — skipped and listed in `UPDATE_LOG.md` — while the valid items still merge. Only a structural failure, or a run where every item is quarantined, leaves `data/` untouched and writes the reason to `UPDATE_LOG.md`.
 
 ## Adding another map later
 

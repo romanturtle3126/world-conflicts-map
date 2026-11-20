@@ -99,7 +99,7 @@ node scripts/merge-update.mjs data/incoming/middle-east.json
 node scripts/validate.mjs data/middle-east.json
 ```
 
-If it prints `UPDATE REJECTED`, fix or drop the bad item (never weaken a label to get past a check, never invent a URL) and retry, at most 3 times.
+The merge is partial: a bad item is quarantined (skipped and listed in `UPDATE_LOG.md` under "Quarantined") while the valid items still merge — report any quarantined items in your summary with their reasons, and do not re-run to force them in. If it prints `UPDATE REJECTED` (nothing merged at all), fix or drop the bad item (never weaken a label to get past a check, never invent a URL) and retry, at most 3 times.
 
 ## 6. Commit and push
 
