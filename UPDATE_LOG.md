@@ -2,6 +2,16 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-20 06:41 Toronto — Middle East — OK
+- Added 5 event(s):
+  - `riyadh-1119-2` 2026-11-19 [CONFIRMED] Houthi strike damages Public Investment Fund tower in Riyadh; Saudi authorities confirm
+  - `sanaa-1120` 2026-11-20 [ONE_PARTY] Houthi authorities say air strikes hit warehouses and a water factory in Sanaa
+  - `jeddah-1120` 2026-11-20 [ONE_PARTY] Houthis threaten Jeddah and Saudi Red Sea ports if Hodeidah port is bombed
+  - `nazareth-1119` 2026-11-19 [UNVERIFIED] Mosque set on fire in Ed-Dahi, northern Israel, with Hebrew revenge graffiti
+  - `iskandariyah-1120` 2026-11-20 [UNVERIFIED] Iraqi forces deploy in Kataib Hezbollah stronghold Jurf al-Sakhar without clashes
+- 8 new source link(s)
+- Totals: 98 events, 18 stats, 149 sources; coverage 2026-10-06 to 2026-11-20
+
 ## 2026-11-20 06:05 Toronto — Ukraine — OK
 - Added 6 event(s):
   - `kyiv-1120` 2026-11-20 [DISPUTED] Ballistic missiles and drones hit Kyiv: six killed, three bridges damaged
