@@ -2,11 +2,11 @@
  "schemaVersion": 1,
  "map": "middle-east",
  "meta": {
-  "lastUpdated": "2026-11-19T06:41:41-05:00",
-  "coverage": "2026-10-06 to 2026-11-19",
+  "lastUpdated": "2026-11-20T06:41:19-05:00",
+  "coverage": "2026-10-06 to 2026-11-20",
   "notes": [
-   "Refreshed 2026-11-19 (UTC, around 12:00; early morning Toronto) from BBC, Guardian, Al Jazeera, UN News, Houthi military spokesman Telegram (army21ye, through Nov 18) and Tasnim English Telegram.",
-   "Not read: UKMTO (403), ISW/CTP (403), OCHA latest report not newer than Nov 13, IDF and CENTCOM X posts (searches returned only secondary coverage), Gaza MoH Telegram, France 24 (403). Lanes and other stats unchanged: no new Brent, Lebanon or Hormuz traffic figures found; Lebanon and Syria not refreshed.",
+   "Refreshed 2026-11-20 (UTC, around 12:00) from Middle East Eye, BBC, Al-Monitor (Reuters copy), the Houthi military spokesman Telegram (army21ye) and Tasnim English Telegram.",
+   "Not read: UKMTO (403), ISW/CTP (403), OCHA oPt (no report newer than Nov 13), IDF and CENTCOM X posts (the embed service returned no usable post), Gaza MoH Telegram, Times of Israel and France 24 (403), Guardian Kafr Qasim article (needs JavaScript). Stats and lanes unchanged: no new Brent, Lebanon or Hormuz traffic figures found; Lebanon and Syria not refreshed.",
    "Marker positions are approximate (see coordPrecision)."
   ]
  },
@@ -3204,6 +3204,162 @@
      "source": "tg_tasnim_48156"
     }
    ]
+  },
+  {
+   "id": "riyadh-1119-2",
+   "date": "2026-11-19",
+   "region": "gulf",
+   "oblast": "Saudi Arabia",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "missile",
+   "status": "CONFIRMED",
+   "title": "Houthi strike damages Public Investment Fund tower in Riyadh; Saudi authorities confirm",
+   "caption": "Saudi authorities said one of the towers of the Financial Center in Riyadh was hit by a Houthi attack on Nov 19, causing material damage and no injuries. Middle East Eye, citing a Reuters journalist, reports windows destroyed across seven to eight floors of the PIF tower. The Houthi military spokesman says it was one of four operations in Saudi Arabia, in retaliation for a strike on a boat at Ras al-Ara.",
+   "lat": 24.6877,
+   "lon": 46.7219,
+   "coordPrecision": "city",
+   "place": "Riyadh",
+   "sources": [
+    {
+     "id": "mee_1120_pif",
+     "title": "Middle East Eye: Houthis hit Saudi Arabia's sovereign wealth fund skyscraper",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-hit-saudi-arabias-sovereign-wealth-fund-skyscraper-0"
+    },
+    {
+     "id": "tg_army21ye_4116",
+     "title": "Houthi military spokesman Telegram (army21ye), post 4116, Nov 19",
+     "url": "https://t.me/army21ye/4116"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "Saudi authorities",
+     "says": "A tower of the Financial Center was hit in a Houthi attack; material damage, no injuries.",
+     "source": "mee_1120_pif"
+    },
+    {
+     "who": "Houthi armed forces",
+     "says": "Four operations: the financial centre and King Khalid airport in Riyadh, Sadaf petrochemicals in Jubail, Khamis Mushait air base.",
+     "source": "tg_army21ye_4116"
+    }
+   ]
+  },
+  {
+   "id": "nazareth-1119",
+   "date": "2026-11-19",
+   "region": "israel",
+   "oblast": "Israel (north)",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "unrest",
+   "status": "UNVERIFIED",
+   "title": "Mosque set on fire in Ed-Dahi, northern Israel, with Hebrew revenge graffiti",
+   "caption": "Middle East Eye reports a mosque was set on fire and Hebrew graffiti calling for revenge was sprayed on its walls in the Palestinian village of Ed-Dahi on Thursday. Palestinian citizens called it terror and tied it to weeks of incitement after last month's elections. No police statement or suspect was found. Marker is at Nazareth, not the village.",
+   "lat": 32.7009,
+   "lon": 35.2972,
+   "coordPrecision": "approx",
+   "place": "Nazareth",
+   "sources": [
+    {
+     "id": "mee_1120_mosque",
+     "title": "Middle East Eye: Watch: Mosque torched in northern Israel, graffiti sprayed on walls",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-mosque-torched-northern-israel-graffiti-sprayed-walls"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "sanaa-1120",
+   "date": "2026-11-20",
+   "region": "yemen",
+   "oblast": "Yemen",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "airstrike",
+   "status": "ONE_PARTY",
+   "title": "Houthi authorities say air strikes hit warehouses and a water factory in Sanaa",
+   "caption": "Houthi authorities say heavy air strikes hit Sanaa, damaging a food warehouse, a warehouse and a factory of the Yemeni-Saudi Mineral Water Company, according to Middle East Eye citing Al Jazeera. The Houthi military spokesman links their strikes in Saudi Arabia to an air strike on a boat carrying displaced people at Ras al-Ara, saying 19 of 25 aboard were killed. Neither the Ras al-Ara strike nor the Sanaa damage was independently confirmed.",
+   "lat": 15.3545,
+   "lon": 44.2065,
+   "coordPrecision": "city",
+   "place": "Sanaa",
+   "sources": [
+    {
+     "id": "mee_1120_sanaa",
+     "title": "Middle East Eye: Air strikes hit warehouses and factory in Yemen's Sanaa, Houthi authorities say",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/air-strikes-hit-warehouses-and-factory-yemens-sanaa-houthi-authorities"
+    },
+    {
+     "id": "tg_army21ye_4115",
+     "title": "Houthi military spokesman Telegram (army21ye), post 4115, Nov 19",
+     "url": "https://t.me/army21ye/4115"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "Houthi authorities",
+     "says": "Strikes damaged a food warehouse, a warehouse and a mineral water factory in Sanaa.",
+     "source": "mee_1120_sanaa"
+    }
+   ]
+  },
+  {
+   "id": "jeddah-1120",
+   "date": "2026-11-20",
+   "region": "gulf",
+   "oblast": "Saudi Arabia",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "claim",
+   "status": "ONE_PARTY",
+   "title": "Houthis threaten Jeddah and Saudi Red Sea ports if Hodeidah port is bombed",
+   "caption": "The Houthi armed forces say Jeddah port and all Saudi Red Sea ports will be targeted if Saudi Arabia carries out threats to bomb Hodeidah port, and urge workers and shipping companies to evacuate. A second statement warns airlines that Saudi airspace is unsafe for coming hours, except Mecca and Medina. These are statements by one party; no attack on Jeddah was reported.",
+   "lat": 21.4901,
+   "lon": 39.1862,
+   "coordPrecision": "oblast",
+   "place": "Jeddah",
+   "sources": [
+    {
+     "id": "tg_army21ye_4121",
+     "title": "Houthi military spokesman Telegram (army21ye), post 4121, Nov 20",
+     "url": "https://t.me/army21ye/4121"
+    },
+    {
+     "id": "tg_army21ye_4122",
+     "title": "Houthi military spokesman Telegram (army21ye), post 4122, Nov 20",
+     "url": "https://t.me/army21ye/4122"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "Houthi armed forces",
+     "says": "Jeddah and other Saudi Red Sea ports will be targets if Hodeidah port is bombed; Saudi airspace unsafe.",
+     "source": "tg_army21ye_4121"
+    }
+   ]
+  },
+  {
+   "id": "iskandariyah-1120",
+   "date": "2026-11-20",
+   "region": "iraq",
+   "oblast": "Iraq",
+   "front": "Iraq & Iran internal",
+   "type": "other",
+   "status": "UNVERIFIED",
+   "title": "Iraqi forces deploy in Kataib Hezbollah stronghold Jurf al-Sakhar without clashes",
+   "caption": "Per Reuters copy on Al-Monitor, Iraqi security forces deployed in Jurf al-Sakhar, Babil province, about 50 km south of Baghdad, under a deal brokered by Shi'ite politicians for Kataib Hezbollah members to withdraw. Officials accuse the group of an oil smuggling network, which it denies. No casualties reported. Marker is at the nearest listed town, not Jurf al-Sakhar.",
+   "lat": 32.8873,
+   "lon": 44.3462,
+   "coordPrecision": "approx",
+   "place": "Nāḩiyat al Iskandarīyah",
+   "sources": [
+    {
+     "id": "almonitor_1120_iraq",
+     "title": "Al-Monitor (Reuters): Iraqi security forces deploy in Iran-backed militia stronghold",
+     "url": "https://www.al-monitor.com/originals/2026/11/iraqi-security-forces-deploy-iran-backed-militia-stronghold"
+    }
+   ],
+   "read": "full"
   }
  ],
  "lanes": [
@@ -4442,6 +4598,46 @@
    "id": "bbc_1118_duyuk",
    "title": "BBC, Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says, Nov 18",
    "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo"
+  },
+  {
+   "id": "mee_1120_pif",
+   "title": "Middle East Eye: Houthis hit Saudi Arabia's sovereign wealth fund skyscraper",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-hit-saudi-arabias-sovereign-wealth-fund-skyscraper-0"
+  },
+  {
+   "id": "tg_army21ye_4116",
+   "title": "Houthi military spokesman Telegram (army21ye), post 4116, Nov 19",
+   "url": "https://t.me/army21ye/4116"
+  },
+  {
+   "id": "mee_1120_sanaa",
+   "title": "Middle East Eye: Air strikes hit warehouses and factory in Yemen's Sanaa, Houthi authorities say",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/air-strikes-hit-warehouses-and-factory-yemens-sanaa-houthi-authorities"
+  },
+  {
+   "id": "tg_army21ye_4115",
+   "title": "Houthi military spokesman Telegram (army21ye), post 4115, Nov 19",
+   "url": "https://t.me/army21ye/4115"
+  },
+  {
+   "id": "tg_army21ye_4121",
+   "title": "Houthi military spokesman Telegram (army21ye), post 4121, Nov 20",
+   "url": "https://t.me/army21ye/4121"
+  },
+  {
+   "id": "tg_army21ye_4122",
+   "title": "Houthi military spokesman Telegram (army21ye), post 4122, Nov 20",
+   "url": "https://t.me/army21ye/4122"
+  },
+  {
+   "id": "mee_1120_mosque",
+   "title": "Middle East Eye: Watch: Mosque torched in northern Israel, graffiti sprayed on walls",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-mosque-torched-northern-israel-graffiti-sprayed-walls"
+  },
+  {
+   "id": "almonitor_1120_iraq",
+   "title": "Al-Monitor (Reuters): Iraqi security forces deploy in Iran-backed militia stronghold",
+   "url": "https://www.al-monitor.com/originals/2026/11/iraqi-security-forces-deploy-iran-backed-militia-stronghold"
   }
  ]
 }
