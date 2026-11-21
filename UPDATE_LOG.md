@@ -2,6 +2,22 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-21 06:41 Toronto — Middle East — OK
+- Added 9 event(s):
+  - `riyadh-1121` 2026-11-21 [ONE_PARTY] Saudi-led coalition says it intercepted three Houthi ballistic missiles fired at Riyadh
+  - `jizan-1120` 2026-11-20 [DISPUTED] Houthis claim strikes on Al-Shuqaiq power station and Jizan port; coalition says it intercepted missiles
+  - `sanaa-1120-2` 2026-11-20 [DISPUTED] Houthis say Saudi aircraft carried out 78 raids in 24 hours; coalition says it hit Hodeidah port and Sanaa military sites
+  - `qeshm-1121` 2026-11-21 [ONE_PARTY] IRGC says it shot down a US MQ-9 over Hormuz and an MQ-1 over Qeshm
+  - `qeshm-1120` 2026-11-20 [UNVERIFIED] Explosion on Qeshm Island: Tasnim first reported a missile strike, then cited disposal of unexploded munitions
+  - `basrah-1121` 2026-11-21 [CONFIRMED] Fire at Hartha power station near Basra kills at least 4 and injures 30 or more
+  - `gaza-1113-2` 2026-11-13 [ONE_PARTY] Residents say Israeli drones dropped explosive-laden boxes on homes in al-Zaytoon, east of Gaza City
+  - `bethlehem-1121` 2026-11-21 [ONE_PARTY] Settlers attack family at al-Maniya near Bethlehem and wound an olive picker at Nabi Saleh; forces arrest at least 17
+  - `tehran-1120` 2026-11-20 [DISPUTED] Araghchi says Iran wants an agreement but Hormuz stays shut until its conditions are met; Trump says terms unacceptable
+- Stats: 2 updated, 0 added
+- Lanes: 2 updated
+- 14 new source link(s)
+- Totals: 107 events, 18 stats, 163 sources; coverage 2026-10-06 to 2026-11-21
+
 ## 2026-11-21 06:03 Toronto — Ukraine — OK
 - Added 2 event(s):
   - `zaporizhzhia-1120` 2026-11-20 [ONE_PARTY] Russian attacks on Zaporizhzhia injure ten, including guided bomb near apartment block

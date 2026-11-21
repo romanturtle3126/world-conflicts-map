@@ -2,11 +2,11 @@
  "schemaVersion": 1,
  "map": "middle-east",
  "meta": {
-  "lastUpdated": "2026-11-20T06:41:19-05:00",
-  "coverage": "2026-10-06 to 2026-11-20",
+  "lastUpdated": "2026-11-21T06:41:42-05:00",
+  "coverage": "2026-10-06 to 2026-11-21",
   "notes": [
-   "Refreshed 2026-11-20 (UTC, around 12:00) from Middle East Eye, BBC, Al-Monitor (Reuters copy), the Houthi military spokesman Telegram (army21ye) and Tasnim English Telegram.",
-   "Not read: UKMTO (403), ISW/CTP (403), OCHA oPt (no report newer than Nov 13), IDF and CENTCOM X posts (the embed service returned no usable post), Gaza MoH Telegram, Times of Israel and France 24 (403), Guardian Kafr Qasim article (needs JavaScript). Stats and lanes unchanged: no new Brent, Lebanon or Hormuz traffic figures found; Lebanon and Syria not refreshed.",
+   "Refreshed 2026-11-21 (about 07:00 Toronto) from Al Jazeera, Al-Monitor (Reuters copy), France 24, Middle East Eye (incl. UKMTO weekly report), UN OCHA oPt situation report of Nov 18, the Houthi military spokesman Telegram (army21ye) and the Gaza health ministry Telegram (MOHMediaGaza).",
+   "Not read: UKMTO site (403), ISW/CTP, IDF and CENTCOM X posts (web search returned no usable posts, nothing via the embed service), Tasnim Telegram (empty preview), Times of Israel. Lebanon and Syria not refreshed: no new reporting found in the leads.",
    "Marker positions are approximate (see coordPrecision)."
   ]
  },
@@ -2261,6 +2261,29 @@
    ]
   },
   {
+   "id": "gaza-1113-2",
+   "date": "2026-11-13",
+   "region": "gaza",
+   "oblast": "Gaza",
+   "front": "Gaza & West Bank",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Residents say Israeli drones dropped explosive-laden boxes on homes in al-Zaytoon, east of Gaza City",
+   "caption": "Middle East Eye reports, from resident interviews, that Israeli quadcopters on Nov 13 opened holes in roofs and dropped dozens of explosive-laden boxes inside homes in al-Zaytoon; three multi-storey houses were destroyed, dozens damaged and about 33 families lost their homes. It says similar blasts hit homes outside the Yellow Line in al-Maghazi, Khan Younis and Nuseirat that week. The article has no Israeli military response. Marker is at Gaza city.",
+   "lat": 31.5016,
+   "lon": 34.4667,
+   "coordPrecision": "approx",
+   "place": "Gaza",
+   "sources": [
+    {
+     "id": "mee_1121_boxes",
+     "title": "Middle East Eye, Explosive-laden boxes dropped from the sky: Israel's latest weapon in Gaza, Nov 21",
+     "url": "https://www.middleeasteye.net/news/explosive-laden-boxes-dropped-sky-israels-latest-weapon-gaza"
+    }
+   ],
+   "read": "full"
+  },
+  {
    "id": "khasab-1114",
    "date": "2026-11-14",
    "region": "gulf",
@@ -3360,6 +3383,246 @@
     }
    ],
    "read": "full"
+  },
+  {
+   "id": "jizan-1120",
+   "date": "2026-11-20",
+   "region": "gulf",
+   "oblast": "Saudi Arabia",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "missile",
+   "status": "DISPUTED",
+   "title": "Houthis claim strikes on Al-Shuqaiq power station and Jizan port; coalition says it intercepted missiles",
+   "caption": "After a coalition \"special operation\" on Hodeidah port and Sanaa on Nov 19, the Houthi military spokesman says its forces hit Al-Shuqaiq power station and Jizan port with \"accurate and direct\" strikes causing heavy damage, in reply to coalition strikes on power stations in Saada and Mocha. The coalition says it destroyed three ballistic missiles headed for Riyadh and intercepted two over Jizan, with debris falling in Al-Shuqaiq. Al-Monitor reports a tower in Riyadh's financial district was damaged and cites no confirmed casualties. Marker is at Jizan, not the sites.",
+   "lat": 16.8892,
+   "lon": 42.5511,
+   "coordPrecision": "approx",
+   "place": "Jizan",
+   "sources": [
+    {
+     "id": "am_1120_houthi",
+     "title": "Al-Monitor, Yemen's Houthis launch strikes after Saudi coalition's special operation, Nov 20",
+     "url": "https://www.al-monitor.com/originals/2026/11/yemens-houthis-launch-strikes-after-saudi-coalitions-special-operation"
+    },
+    {
+     "id": "tg_army21ye_4126",
+     "title": "Houthi military spokesman Telegram (army21ye), post 4126, Nov 20",
+     "url": "https://t.me/army21ye/4126"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Houthi armed forces",
+     "says": "Hit Al-Shuqaiq power station and Jizan port with direct hits and heavy damage.",
+     "source": "tg_army21ye_4126"
+    },
+    {
+     "who": "Saudi-led coalition",
+     "says": "Intercepted three missiles headed for Riyadh and two over Jizan; debris fell in Al-Shuqaiq.",
+     "source": "am_1120_houthi"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "sanaa-1120-2",
+   "date": "2026-11-20",
+   "region": "yemen",
+   "oblast": "Yemen",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "airstrike",
+   "status": "DISPUTED",
+   "title": "Houthis say Saudi aircraft carried out 78 raids in 24 hours; coalition says it hit Hodeidah port and Sanaa military sites",
+   "caption": "The Houthi military spokesman says Saudi aircraft carried out 78 air raids and missile strikes in 24 hours on civilian sites in Sanaa, Hodeidah, Taiz, Lahij, Saada, Marib and al-Jawf, killing and wounding civilians, and that a Saudi F-15 formation over Hodeidah was driven off. The coalition says its Nov 19 \"special operation\" hit weapons-smuggling capabilities at Hodeidah port and missile and drone facilities in Sanaa. Houthis say coalition strikes killed 41 in 24 hours; this is unverified. Marker is at Sanaa.",
+   "lat": 15.3547,
+   "lon": 44.2067,
+   "coordPrecision": "oblast",
+   "place": "Sanaa",
+   "sources": [
+    {
+     "id": "am_1120_houthi",
+     "title": "Al-Monitor, Yemen's Houthis launch strikes after Saudi coalition's special operation, Nov 20",
+     "url": "https://www.al-monitor.com/originals/2026/11/yemens-houthis-launch-strikes-after-saudi-coalitions-special-operation"
+    },
+    {
+     "id": "tg_army21ye_4133",
+     "title": "Houthi military spokesman Telegram (army21ye), post 4133, Nov 20",
+     "url": "https://t.me/army21ye/4133"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Houthi armed forces",
+     "says": "78 Saudi raids in 24 hours hit civilian sites; an F-15 formation was driven off over Hodeidah.",
+     "source": "tg_army21ye_4133"
+    },
+    {
+     "who": "Saudi-led coalition",
+     "says": "Struck weapons-smuggling capabilities at Hodeidah port and missile and drone sites in Sanaa.",
+     "source": "am_1120_houthi"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "qeshm-1120",
+   "date": "2026-11-20",
+   "region": "iran-war",
+   "oblast": "Iran (Qeshm Island)",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "other",
+   "status": "UNVERIFIED",
+   "title": "Explosion on Qeshm Island: Tasnim first reported a missile strike, then cited disposal of unexploded munitions",
+   "caption": "Reuters, via Al-Monitor, reports an explosion and smoke on Qeshm Island on Nov 20. Tasnim, citing an unnamed official, said they were caused by disposal of unexploded munitions, after it had earlier reported a missile strike at the site. No casualties or damage were reported and neither account was independently confirmed. Marker is at Qeshm.",
+   "lat": 26.9492,
+   "lon": 56.2691,
+   "coordPrecision": "approx",
+   "place": "Qeshm",
+   "sources": [
+    {
+     "id": "am_1120_qeshm",
+     "title": "Al-Monitor (Reuters), Explosion on Iran's Qeshm Island linked to disposal of unexploded munitions, Tasnim reports, Nov 20",
+     "url": "https://www.al-monitor.com/originals/2026/11/explosion-irans-qeshm-island-linked-disposal-unexploded-munitions-tasnim-reports"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "tehran-1120",
+   "date": "2026-11-20",
+   "region": "iran-war",
+   "oblast": "Iran",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "diplomacy",
+   "status": "DISPUTED",
+   "title": "Araghchi says Iran wants an agreement but Hormuz stays shut until its conditions are met; Trump says terms unacceptable",
+   "caption": "Foreign Minister Abbas Araghchi said Iran's seven conditions, including ending the war and lifting sanctions and the naval blockade, must be met for Hormuz to reopen, that the timetable is flexible, and that moving its 60% enriched uranium abroad is ruled out. Trump said the US wants \"a real deal, not a fake deal\" and that Iran's terms are not acceptable. The two sides are exchanging messages through mediators.",
+   "lat": 35.6944,
+   "lon": 51.4215,
+   "coordPrecision": "oblast",
+   "place": "Tehran",
+   "sources": [
+    {
+     "id": "aj_1121_drone",
+     "title": "Al Jazeera, Iran's IRGC downs US drone over Hormuz as efforts to end war remain stalled, Nov 21",
+     "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled"
+    },
+    {
+     "id": "am_1120_araghchi",
+     "title": "Al-Monitor, Araqchi says Iran wants diplomacy to end war, Trump says terms unacceptable, Nov 20",
+     "url": "https://www.al-monitor.com/originals/2026/11/araqchi-says-iran-wants-diplomacy-end-war-trump-says-terms-unacceptable"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Iran (Araghchi)",
+     "says": "Seven conditions must be met; timetable flexible; no transfer of 60% uranium abroad.",
+     "source": "aj_1121_drone"
+    },
+    {
+     "who": "US (Trump)",
+     "says": "Wants a real deal, not a fake one; Iran's terms are not acceptable.",
+     "source": "am_1120_araghchi"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "riyadh-1121",
+   "date": "2026-11-21",
+   "region": "gulf",
+   "oblast": "Saudi Arabia",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "missile",
+   "status": "ONE_PARTY",
+   "title": "Saudi-led coalition says it intercepted three Houthi ballistic missiles fired at Riyadh",
+   "caption": "The Saudi-led coalition said it intercepted and destroyed three ballistic missiles the Houthis fired toward Riyadh early on Nov 21, after emergency alerts in the capital. It was the third straight day of alerts; Saudi civil defence issued eight in 24 hours. Hours later the coalition said it destroyed a Houthi drone aimed at the south. No casualties were reported and no Houthi statement on these launches was read.",
+   "lat": 24.6877,
+   "lon": 46.7219,
+   "coordPrecision": "approx",
+   "place": "Riyadh",
+   "sources": [
+    {
+     "id": "aj_1121_saudi",
+     "title": "Al Jazeera, Saudi-led coalition intercepts three Houthi missiles headed for Riyadh, Nov 21",
+     "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "qeshm-1121",
+   "date": "2026-11-21",
+   "region": "iran-war",
+   "oblast": "Iran (Hormuz)",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "IRGC says it shot down a US MQ-9 over Hormuz and an MQ-1 over Qeshm",
+   "caption": "Iran's IRGC says its aerospace forces shot down a US MQ-9 over the Strait of Hormuz with a new air-defence system, its 58th downing of the war, via state broadcaster IRIB, and later an MQ-1 over Qeshm Island, the 19th of that type. The US military had no immediate comment, and no wreckage or imagery was seen. Marker is at Qeshm, not the location.",
+   "lat": 26.9492,
+   "lon": 56.2691,
+   "coordPrecision": "oblast",
+   "place": "Qeshm",
+   "sources": [
+    {
+     "id": "aj_1121_drone",
+     "title": "Al Jazeera, Iran's IRGC downs US drone over Hormuz as efforts to end war remain stalled, Nov 21",
+     "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "basrah-1121",
+   "date": "2026-11-21",
+   "region": "iraq",
+   "oblast": "Iraq (Basra)",
+   "front": "Iraq & Iran internal",
+   "type": "other",
+   "status": "CONFIRMED",
+   "title": "Fire at Hartha power station near Basra kills at least 4 and injures 30 or more",
+   "caption": "A fire at the Hartha power station north of Basra killed at least four people and injured 30 (Reuters) to 35 (Al Jazeera); security officials said the toll could rise. The fire spread to neighbouring houses and operations halted. Iraq's state news agency INA said civil defence had brought it under control; no cause has been given, and no link to the war was reported. Marker is at Basra, not the plant.",
+   "lat": 30.5085,
+   "lon": 47.7804,
+   "coordPrecision": "approx",
+   "place": "Basra",
+   "sources": [
+    {
+     "id": "am_1121_basra",
+     "title": "Al-Monitor (Reuters), Iraq fire at Basra power station kills at least 4, injures 30, Nov 21",
+     "url": "https://www.al-monitor.com/originals/2026/11/iraq-fire-basra-power-station-kills-least-4-injures-30"
+    },
+    {
+     "id": "aj_1121_basra",
+     "title": "Al Jazeera, At least four killed, 35 injured in fire at power station in Iraq's Basra, Nov 21",
+     "url": "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "bethlehem-1121",
+   "date": "2026-11-21",
+   "region": "westbank",
+   "oblast": "West Bank",
+   "front": "Gaza & West Bank",
+   "type": "other",
+   "status": "ONE_PARTY",
+   "title": "Settlers attack family at al-Maniya near Bethlehem and wound an olive picker at Nabi Saleh; forces arrest at least 17",
+   "caption": "Middle East Eye, citing Wafa and Al Jazeera, reports settlers raided a home in al-Maniya southeast of Bethlehem and beat a family with batons and pepper spray, injuring two, and shot and wounded an olive picker at Nabi Saleh. Forces arrested at least 17 Palestinians and demolished a home in al-Mazraa al-Gharbiya. No Israeli military or police response is given; the report is not clear on the date of the al-Maniya raid. Marker is at Bethlehem.",
+   "lat": 31.7049,
+   "lon": 35.2038,
+   "coordPrecision": "oblast",
+   "place": "Bethlehem",
+   "sources": [
+    {
+     "id": "mee_1121_wb",
+     "title": "Middle East Eye live blog, Several Palestinians injured in attacks by Israeli settlers, forces in West Bank, Nov 21",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-palestinians-injured-attacks-israeli-settlers-forces-west-bank"
+    }
+   ],
+   "read": "full"
   }
  ],
  "lanes": [
@@ -3367,7 +3630,7 @@
    "id": "hormuz-lane",
    "name": "Strait of Hormuz",
    "status": "DISPUTED",
-   "text": "Restricted since Feb 28. Nov 16: UKMTO says an outbound vessel was hit by an unknown projectile and had an engine-room fire, crew safe; Iran's IRGC says two tankers hit mines and Iran's navy says a vessel is ablaze after hitting a mine, with no independent confirmation. Nov 14: Iran said three tankers hit mines. UKMTO counted at least seven tanker attacks in the week to Nov 11 and puts transits about 65% below pre-war. The UN says at least 25 seafarers have died since February. The US says routes are cleared and the strait is open; Iran says it stays shut until its conditions are met. Al Jazeera reports a third US carrier, USS Theodore Roosevelt, reached the region on Nov 16 (a US official; not formally confirmed).",
+   "text": "Restricted since Feb 28. Nov 21: UKMTO's weekly report (via Middle East Eye) counts six attacks on commercial vessels in the week (four in Hormuz, two in the Arabian Gulf); transits 115 outbound and 148 inbound in the week to Nov 18, about 65% below pre-war. Nov 21: Iran's IRGC says it downed a US MQ-9 over Hormuz (no US comment). Nov 19: Iran's army said three tankers hit mines east of the strait; no independent confirmation. Nov 20: Araghchi says the strait stays shut until Iran's seven conditions are met. The US says routes are cleared and the strait is open. The UN says at least 25 seafarers have died since February.",
    "sources": [
     {
      "id": "mee_1116_projectile",
@@ -3385,14 +3648,14 @@
      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-says-seven-hormuz-tanker-attacks-recorded-week"
     },
     {
-     "id": "aj_1114_seafarers",
-     "title": "Al Jazeera, UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran, Nov 14",
-     "url": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february"
+     "id": "mee_1121_ukmto",
+     "title": "Middle East Eye live blog, UKMTO weekly report says six vessels attacked in and around Hormuz, Nov 21",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-weekly-report-says-six-vessels-attacked-and-around-hormuz"
     },
     {
-     "id": "aj_1116_roosevelt",
-     "title": "Al Jazeera, USS Roosevelt arrives in Middle East: Is the US-Iran war about to resume? Nov 16",
-     "url": "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume"
+     "id": "aj_1121_drone",
+     "title": "Al Jazeera, Iran's IRGC downs US drone over Hormuz as efforts to end war remain stalled, Nov 21",
+     "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled"
     }
    ],
    "claims": [
@@ -3407,6 +3670,11 @@
     {
      "who": "US military (via Al Jazeera, Nov 14)",
      "says": "Main routes cleared of mines; strait open to commercial shipping."
+    },
+    {
+     "who": "Iran (Araghchi, Nov 20)",
+     "says": "Hormuz reopens only when seven conditions, including lifting the naval blockade, are met.",
+     "source": "aj_1121_drone"
     }
    ],
    "points": [
@@ -3443,23 +3711,37 @@
   },
   {
    "id": "red-sea-lane",
+   "name": "Red Sea / Bab el-Mandeb",
    "status": "ONE_PARTY",
-   "text": "Contested. Houthi-Saudi fighting continues on land and in the south of Saudi Arabia; the 2022 truce has collapsed. UKMTO reports no ship attacks in the Red Sea since Aug 24, and Bab al-Mandab transits about 24% below levels before the Houthis' Jul 22 blockade announcement (via Middle East Eye).",
+   "text": "Contested. Houthi-Saudi fighting continues: the coalition hit Hodeidah port on Nov 19 and the Houthis fired at Riyadh and southern Saudi Arabia Nov 20-21 and threatened Jeddah and other Saudi Red Sea ports. UKMTO reports no ship attacks in the Red Sea since Aug 24, and Bab al-Mandab transits about 22% below levels before the Jul 22 Houthi blockade announcement (via Middle East Eye).",
    "sources": [
     {
      "id": "mee_1113_ukmto",
      "title": "Middle East Eye live blog, UKMTO says seven Hormuz tanker attacks recorded in a week, Nov 13-14",
      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-says-seven-hormuz-tanker-attacks-recorded-week"
+    },
+    {
+     "id": "mee_1121_ukmto",
+     "title": "Middle East Eye live blog, UKMTO weekly report says six vessels attacked in and around Hormuz, Nov 21",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-weekly-report-says-six-vessels-attacked-and-around-hormuz"
+    },
+    {
+     "id": "am_1120_houthi",
+     "title": "Al-Monitor, Yemen's Houthis launch strikes after Saudi coalition's special operation, Nov 20",
+     "url": "https://www.al-monitor.com/originals/2026/11/yemens-houthis-launch-strikes-after-saudi-coalitions-special-operation"
     }
    ],
    "claims": [
     {
      "who": "UKMTO (via Middle East Eye)",
      "says": "No Red Sea attacks since Aug 24; Bab al-Mandab transits about 24% below pre-blockade levels."
+    },
+    {
+     "who": "Houthi armed forces (Nov 20)",
+     "says": "Jeddah and all Saudi Red Sea ports are targets if Hodeidah port is bombed.",
+     "source": "tg_army21ye_4126"
     }
    ],
-   "name": "Red Sea / Bab el-Mandeb",
-   "color": "#ffb020",
    "points": [
     [
      32.55,
@@ -3501,7 +3783,8 @@
      55,
      14
     ]
-   ]
+   ],
+   "color": "#ffb020"
   },
   {
    "id": "suez-canal-lane",
@@ -3552,22 +3835,24 @@
   {
    "label": "Gaza: killed since the Oct 10, 2025 ceasefire",
    "category": "casualties",
-   "asOf": "2026-11-19",
-   "asOfNote": "Nov 19, 2026 (Gaza health ministry via BBC; OCHA to Nov 9)",
+   "asOf": "2026-11-21",
+   "asOfNote": "Nov 21, 2026 (Gaza health ministry Telegram; OCHA to Nov 16)",
    "status": "DISPUTED",
    "rows": [
+    {
+     "who": "Gaza health ministry (Telegram, Nov 21)",
+     "value": "1,671 killed and 6,062 injured since the ceasefire; 9 killed and 55 injured in the 48 hours to Nov 21",
+     "source": "tg_mohgaza_7733"
+    },
+    {
+     "who": "Gaza health ministry (via UN OCHA, report of Nov 18)",
+     "value": "1,650 killed, 5,975 injured to Nov 16; 38 killed and 144 injured Nov 10-16, including 21 deaths added retroactively on Nov 14",
+     "source": "ocha_1118"
+    },
     {
      "who": "Gaza health ministry (via BBC, Nov 19)",
      "value": "At least 1,658 killed since the ceasefire; Israeli military says six of its soldiers killed in that period",
      "source": "bbc_1119_gaza"
-    },
-    {
-     "who": "Gaza health ministry (via Middle East Eye, Nov 13)",
-     "value": "1,622 killed, 5,878 injured since the ceasefire"
-    },
-    {
-     "who": "Gaza health ministry (via UN OCHA, report of Nov 13)",
-     "value": "1,613 killed, 5,833 injured; 22 killed and 90 injured Nov 3-9"
     },
     {
      "who": "Israeli military",
@@ -3578,12 +3863,11 @@
      "value": "1,076 deaths verified to end of July 2026"
     }
    ],
-   "note": "UN verification lags; the counts cover different periods. The Israeli military row dates from Nov 11 (Reuters).",
+   "note": "UN verification lags; counts cover different periods. The Israeli military row dates from Nov 11 (Reuters).",
    "sources": [
+    "tg_mohgaza_7733",
+    "ocha_1118",
     "bbc_1119_gaza",
-    "mee_1113_sixgaza",
-    "ocha_1113",
-    "am_1111_gaza",
     "ocha_1015"
    ]
   },
@@ -3852,17 +4136,24 @@
   {
    "label": "Hormuz traffic",
    "category": "economy",
-   "asOf": "2026-11-13",
-   "asOfNote": "UKMTO weekly overview to Nov 11; IMO to Nov 11",
+   "asOf": "2026-11-21",
+   "asOfNote": "UKMTO weekly overview to Nov 18 (via Middle East Eye, Nov 21)",
    "status": "DISPUTED",
    "rows": [
     {
-     "who": "UKMTO (via Middle East Eye, Nov 13)",
-     "value": "Transits about 65% below pre-war: 139 outbound, 169 inbound last week vs 170 and 155 the week before; threat level severe; 163 conflict-related incidents since Feb 28"
+     "who": "UKMTO (via Middle East Eye, Nov 21)",
+     "value": "Transits about 65% below pre-war: 115 outbound, 148 inbound in the week to Nov 18 vs 139 and 169 the week before; six attacks on commercial vessels in the week (four Hormuz, two Arabian Gulf)",
+     "source": "mee_1121_ukmto"
+    },
+    {
+     "who": "UKMTO (via Middle East Eye, Nov 21), Red Sea",
+     "value": "No attacks in the past week; last confirmed attack Aug 24; Bab al-Mandab transits about 22% below pre-Jul 22 levels",
+     "source": "mee_1121_ukmto"
     },
     {
      "who": "UN / IMO (via Al Jazeera, Nov 14)",
-     "value": "At least 25 seafarers killed in and around Hormuz since February; 136 security incidents Mar 1-Nov 11 (35 in October, 10 so far in November)"
+     "value": "At least 25 seafarers killed in and around Hormuz since February; 136 security incidents Mar 1-Nov 11",
+     "source": "aj_1114_seafarers"
     },
     {
      "who": "US military (via Al Jazeera)",
@@ -3873,9 +4164,9 @@
      "value": "Requires approval to transit; says the strait stays shut until its conditions are met"
     }
    ],
-   "note": "Counts from different monitors are not comparable. UKMTO page itself was blocked; figures are as relayed by Middle East Eye. Red Sea: UKMTO reports no attacks since Aug 24; Bab al-Mandab transits about 24% below pre-blockade levels.",
+   "note": "Counts from different monitors are not comparable. UKMTO page itself was blocked; figures are as relayed by Middle East Eye.",
    "sources": [
-    "mee_1113_ukmto",
+    "mee_1121_ukmto",
     "aj_1114_seafarers"
    ]
   },
@@ -4638,6 +4929,76 @@
    "id": "almonitor_1120_iraq",
    "title": "Al-Monitor (Reuters): Iraqi security forces deploy in Iran-backed militia stronghold",
    "url": "https://www.al-monitor.com/originals/2026/11/iraqi-security-forces-deploy-iran-backed-militia-stronghold"
+  },
+  {
+   "id": "aj_1121_drone",
+   "title": "Al Jazeera, Iran's IRGC downs US drone over Hormuz as efforts to end war remain stalled, Nov 21",
+   "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled"
+  },
+  {
+   "id": "aj_1121_saudi",
+   "title": "Al Jazeera, Saudi-led coalition intercepts three Houthi missiles headed for Riyadh, Nov 21",
+   "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh"
+  },
+  {
+   "id": "am_1120_houthi",
+   "title": "Al-Monitor, Yemen's Houthis launch strikes after Saudi coalition's special operation, Nov 20",
+   "url": "https://www.al-monitor.com/originals/2026/11/yemens-houthis-launch-strikes-after-saudi-coalitions-special-operation"
+  },
+  {
+   "id": "tg_army21ye_4126",
+   "title": "Houthi military spokesman Telegram (army21ye), post 4126, Nov 20",
+   "url": "https://t.me/army21ye/4126"
+  },
+  {
+   "id": "tg_army21ye_4133",
+   "title": "Houthi military spokesman Telegram (army21ye), post 4133, Nov 20",
+   "url": "https://t.me/army21ye/4133"
+  },
+  {
+   "id": "am_1120_qeshm",
+   "title": "Al-Monitor (Reuters), Explosion on Iran's Qeshm Island linked to disposal of unexploded munitions, Tasnim reports, Nov 20",
+   "url": "https://www.al-monitor.com/originals/2026/11/explosion-irans-qeshm-island-linked-disposal-unexploded-munitions-tasnim-reports"
+  },
+  {
+   "id": "am_1121_basra",
+   "title": "Al-Monitor (Reuters), Iraq fire at Basra power station kills at least 4, injures 30, Nov 21",
+   "url": "https://www.al-monitor.com/originals/2026/11/iraq-fire-basra-power-station-kills-least-4-injures-30"
+  },
+  {
+   "id": "aj_1121_basra",
+   "title": "Al Jazeera, At least four killed, 35 injured in fire at power station in Iraq's Basra, Nov 21",
+   "url": "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq"
+  },
+  {
+   "id": "mee_1121_boxes",
+   "title": "Middle East Eye, Explosive-laden boxes dropped from the sky: Israel's latest weapon in Gaza, Nov 21",
+   "url": "https://www.middleeasteye.net/news/explosive-laden-boxes-dropped-sky-israels-latest-weapon-gaza"
+  },
+  {
+   "id": "mee_1121_wb",
+   "title": "Middle East Eye live blog, Several Palestinians injured in attacks by Israeli settlers, forces in West Bank, Nov 21",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/several-palestinians-injured-attacks-israeli-settlers-forces-west-bank"
+  },
+  {
+   "id": "am_1120_araghchi",
+   "title": "Al-Monitor, Araqchi says Iran wants diplomacy to end war, Trump says terms unacceptable, Nov 20",
+   "url": "https://www.al-monitor.com/originals/2026/11/araqchi-says-iran-wants-diplomacy-end-war-trump-says-terms-unacceptable"
+  },
+  {
+   "id": "mee_1121_ukmto",
+   "title": "Middle East Eye live blog, UKMTO weekly report says six vessels attacked in and around Hormuz, Nov 21",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-weekly-report-says-six-vessels-attacked-and-around-hormuz"
+  },
+  {
+   "id": "tg_mohgaza_7733",
+   "title": "Gaza Ministry of Health Telegram (MOHMediaGaza), post 7733, Nov 21",
+   "url": "https://t.me/MOHMediaGaza/7733"
+  },
+  {
+   "id": "ocha_1118",
+   "title": "UN OCHA oPt, Humanitarian situation report, Nov 18 (period Nov 10-16)",
+   "url": "https://www.ochaopt.org/content/humanitarian-situation-report-18-november-2026"
   }
  ]
 }
