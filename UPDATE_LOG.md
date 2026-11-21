@@ -2,6 +2,16 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-21 06:03 Toronto — Ukraine — OK
+- Added 2 event(s):
+  - `zaporizhzhia-1120` 2026-11-20 [ONE_PARTY] Russian attacks on Zaporizhzhia injure ten, including guided bomb near apartment block
+  - `luhansk-1121` 2026-11-21 [ONE_PARTY] Ukraine's General Staff claims strike on road bridge over Siverskyi Donets near Luhansk
+- Updated 1 event(s):
+  - `kyiv-1120` changed title, caption, sources, claims
+- Stats: 1 updated, 2 added
+- 7 new source link(s)
+- Totals: 182 events, 56 stats, 312 sources; coverage 2026-10-10 to 2026-11-21
+
 ## 2026-11-20 06:41 Toronto — Middle East — OK
 - Added 5 event(s):
   - `riyadh-1119-2` 2026-11-19 [CONFIRMED] Houthi strike damages Public Investment Fund tower in Riyadh; Saudi authorities confirm
