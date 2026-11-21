@@ -2,12 +2,11 @@
  "schemaVersion": 1,
  "map": "ukraine",
  "meta": {
-  "lastUpdated": "2026-11-20T06:05:36-05:00",
-  "coverage": "2026-10-10 to 2026-11-20",
+  "lastUpdated": "2026-11-21T06:03:47-05:00",
+  "coverage": "2026-10-10 to 2026-11-21",
   "notes": [
-   "Refreshed Nov 20, 2026 (about 06:00 Toronto) from the Telegram channels of the Ukrainian General Staff (GeneralStaffZSU) and Russian MoD (mod_russia), the Air Force channel (kpszsu, alert posts only), Kyiv Independent, Kyiv Post and Ukrinform articles of Nov 19-20, and the headline leads file (pulled Nov 19 ~19:00 UTC).",
-   "Not read this run: ISW/Critical Threats assessments, direct X posts and X searches, BBC and Guardian (headlines only), Reuters/AP. The Nov 20 attack was still ongoing when read, so its casualty and interception figures are preliminary.",
-   "The Kaleikino pumping-station strike (Tatarstan) and the Izium injury toll rest on one side's statements alone; no Russian comment and no independent confirmation were read.",
+   "Refreshed Nov 21, 2026 (about 06:00 Toronto) from the Telegram channels of the Ukrainian General Staff (GeneralStaffZSU) and Russian MoD (mod_russia), Air Force channel kpszsu (alert posts only), Ukrinform and Kyiv Independent articles of Nov 20, and the headline leads file (pulled Nov 20 ~18:40 UTC).",
+   "Not read this run: ISW/Critical Threats assessments, direct X posts and X searches, Reuters/AP, Ukrainska Pravda (403), BBC/Guardian (headlines only). Nov 21 events in the leads file were not yet available. Not mapped: Russian Kh-101 missiles and a drone that fell in eastern Poland on Nov 20 (outside the map).",
    "Coordinates are city-level or approximate (see coordPrecision); markers flagged 'oblast' are not geolocated.",
    "Casualty figures are as reported by the cited outlet at time of writing and may have been revised."
   ]
@@ -5006,8 +5005,8 @@
    "front": "Rear (Kyiv)",
    "type": "missile",
    "status": "DISPUTED",
-   "title": "Ballistic missiles and drones hit Kyiv: six killed, three bridges damaged",
-   "caption": "Kyiv Post, citing Ukraine's Air Force, reports a massed overnight Russian attack on Nov 20 in which ballistic missiles were aimed mainly at Kyiv and its region. Ukrinform, quoting Kyiv City Military Administration spokesperson Kateryna Pop, says six people were killed (including Kyivvodokanal employees) and 15 injured, and that the Podilsko-Voskresenskyi, Darnytskyi and Southern bridges and utility facilities were damaged. Russia's MoD says it struck bridges in Kyiv and a gunpowder plant at Brovary, a drone assembly plant and the Fire Point firm's assembly site at Petrovske, calling them military targets. Figures were preliminary while the attack was still under way.",
+   "title": "Ballistic missiles and drones hit Kyiv: seven killed, three bridges damaged",
+   "caption": "Kyiv Post, citing Ukraine's Air Force, reports a massed overnight Russian attack on Nov 20 in which ballistic missiles were aimed mainly at Kyiv and its region. Ukrinform, quoting Kyiv City Military Administration spokesperson Kateryna Pop, says six people were killed (including Kyivvodokanal employees) and 15 injured; Ukrinform later quoted Mayor Vitali Klitschko putting the toll at seven killed and 17 injured, 16 of them hospitalised, and that the Podilsko-Voskresenskyi, Darnytskyi and Southern bridges and utility facilities were damaged. Russia's MoD says it struck bridges in Kyiv and a gunpowder plant at Brovary, a drone assembly plant and the Fire Point firm's assembly site at Petrovske, calling them military targets. Figures were preliminary and may have risen further.",
    "lat": 50.4547,
    "lon": 30.5238,
    "coordPrecision": "city",
@@ -5032,13 +5031,18 @@
      "id": "mod_strikes_1120",
      "title": "Russian MoD (Telegram): list of targets hit in the massed strike (Nov 20)",
      "url": "https://t.me/mod_russia/69183"
+    },
+    {
+     "id": "ukrinform_kyiv7_1120",
+     "title": "Ukrinform: Death toll from Russian attack on Kyiv rises to seven, 17 injured (Nov 20)",
+     "url": "https://www.ukrinform.net/rubric-ato/4186847-death-toll-from-russian-attack-on-kyiv-rises-to-seven-17-injured.html"
     }
    ],
    "claims": [
     {
-     "who": "Kyiv City Military Administration (via Ukrinform)",
-     "says": "Six killed, 15 injured; bridges and Kyivvodokanal facilities damaged.",
-     "source": "ukrinform_kyiv_1120"
+     "who": "Kyiv city authorities (via Ukrinform)",
+     "says": "Seven killed, 17 injured (Klitschko, later update); bridges and Kyivvodokanal facilities damaged.",
+     "source": "ukrinform_kyiv7_1120"
     },
     {
      "who": "Russia's MoD",
@@ -5105,17 +5109,63 @@
     }
    ],
    "read": "full"
+  },
+  {
+   "id": "zaporizhzhia-1120",
+   "date": "2026-11-20",
+   "region": "south",
+   "oblast": "Zaporizhzhia",
+   "front": "Zaporizhzhia",
+   "type": "other",
+   "status": "ONE_PARTY",
+   "title": "Russian attacks on Zaporizhzhia injure ten, including guided bomb near apartment block",
+   "caption": "Ukrinform, citing acting regional military administration head Mykhailo Semikin's Telegram post, reports the injury toll from Russian attacks on Zaporizhzhia on Nov 20 rose to ten. Apartment buildings, cars and a grocery store in Kosmychnyi district were damaged; an earlier Ukrinform report said a guided aerial bomb landed near a residential building. No Russian statement and no independent confirmation were read.",
+   "lat": 47.8517,
+   "lon": 35.1171,
+   "coordPrecision": "city",
+   "place": "Zaporizhzhya",
+   "sources": [
+    {
+     "id": "ukrinform_zap_1120",
+     "title": "Ukrinform: Injury toll from Russian attack on Zaporizhzhia rises to ten (Nov 20)",
+     "url": "https://www.ukrinform.net/rubric-ato/4186904-injury-toll-from-russian-attack-on-zaporizhzhia-rises-to-ten.html"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "luhansk-1121",
+   "date": "2026-11-21",
+   "region": "donbas",
+   "oblast": "Luhansk (occupied)",
+   "front": "Luhansk (occupied)",
+   "type": "other",
+   "status": "ONE_PARTY",
+   "title": "Ukraine's General Staff claims strike on road bridge over Siverskyi Donets near Luhansk",
+   "caption": "Ukraine's General Staff says Defence Forces hit a road bridge over the Siverskyi Donets river in the Luhansk area on Nov 20-21, which it describes as a Russian fuel, ammunition and equipment route; it says the extent of damage is still being assessed. The same post claims hits on an ammunition depot near Pervomaiske in Crimea and command posts near Pryshyb and Ukrainske. No Russian statement, imagery or independent confirmation were read. Marker is at Luhansk, approximate.",
+   "lat": 48.5681,
+   "lon": 39.3055,
+   "coordPrecision": "approx",
+   "place": "Luhansk",
+   "sources": [
+    {
+     "id": "gs_bridge_1121",
+     "title": "General Staff of Ukraine (Telegram): strikes on depot, command posts and Siverskyi Donets bridge (Nov 21)",
+     "url": "https://t.me/GeneralStaffZSU/42963"
+    }
+   ],
+   "read": "full"
   }
  ],
  "stats": [
   {
    "label": "Russian military personnel losses (cumulative, since Feb 24, 2022)",
    "category": "casualties",
-   "asOf": "2026-11-20",
+   "asOf": "2026-11-21",
    "status": "ONE_PARTY",
    "ukraine": {
-    "value": "~1,633,130 killed and wounded, calculated from the Nov 19 figure of ~1,630,980 plus the General Staff's +2,150 (Nov 20); the cumulative tally itself is posted as an image and was not read",
-    "source": "gs_ops_1120"
+    "value": "~1,634,860 killed and wounded, calculated from the Nov 20 figure of ~1,633,130 plus the General Staff's +1,730 (Nov 21); the cumulative tally itself is posted as an image and was not read",
+    "source": "gs_ops_1121"
    },
    "russia": {
     "value": "No official cumulative figure published",
@@ -6054,6 +6104,36 @@
    "russia": {
     "value": "MoD claims 310 fixed-wing drones intercepted overnight over Belgorod, Bryansk, Kursk, Kaluga, Smolensk, Tula, Oryol, Pskov, Rostov and Volgograd regions, Krasnodar Krai, Crimea, the Moscow region and the Azov and Black Seas",
     "source": "mod_pvo_1120"
+   },
+   "independent": []
+  },
+  {
+   "label": "Russian drones and missiles launched at Ukraine (night of Nov 20-21)",
+   "category": "shootdowns",
+   "asOf": "2026-11-21",
+   "status": "DISPUTED",
+   "ukraine": {
+    "value": "3 ballistic missiles (Iskander-M/KN-23/S-400) and 148 Shahed-type strike drones (87 jet-powered), Gerbera and Parodiya decoys; 117 drones downed or suppressed as of 08:00 (67 jet-powered); hits at 19 locations, debris at 9; about 10 drones still airborne (General Staff)",
+    "source": "gs_air_1121"
+   },
+   "russia": {
+    "value": "No launch count published; MoD says drones hit the Kryvyi Rih thermal power plant, a 110 kV substation at Sarny (Rivne region) and a dry-cargo ship near Odesa",
+    "source": "mod_strikes_1121"
+   },
+   "independent": []
+  },
+  {
+   "label": "Ukrainian drones shot down over Russia (Nov 20-21)",
+   "category": "shootdowns",
+   "asOf": "2026-11-21",
+   "status": "ONE_PARTY",
+   "ukraine": {
+    "value": "No count published",
+    "source": null
+   },
+   "russia": {
+    "value": "MoD claims 275 fixed-wing drones intercepted overnight (20:00 Nov 20 to 08:00 Nov 21 Moscow time) over Belgorod, Bryansk, Voronezh, Kaluga, Kursk, Leningrad, Novgorod, Oryol, Pskov, Rostov and Smolensk regions, Crimea and the Black Sea",
+    "source": "mod_pvo_1121"
    },
    "independent": []
   }
@@ -7583,6 +7663,41 @@
    "id": "gs_kaleikino_1120",
    "title": "General Staff of Ukraine (Telegram): Kaleikino pumping station hit; Ilsky damage update (Nov 20)",
    "url": "https://t.me/GeneralStaffZSU/42955"
+  },
+  {
+   "id": "gs_air_1121",
+   "title": "General Staff of Ukraine (Telegram): air attack summary, night of Nov 21",
+   "url": "https://t.me/GeneralStaffZSU/42962"
+  },
+  {
+   "id": "mod_strikes_1121",
+   "title": "Russian MoD (Telegram): overnight strikes on energy sites and shipping (Nov 21)",
+   "url": "https://t.me/mod_russia/69201"
+  },
+  {
+   "id": "mod_pvo_1121",
+   "title": "Russian MoD (Telegram): drones intercepted overnight (Nov 21)",
+   "url": "https://t.me/mod_russia/69202"
+  },
+  {
+   "id": "gs_ops_1121",
+   "title": "General Staff of Ukraine (Telegram): operational information as of 08:00 Nov 21",
+   "url": "https://t.me/GeneralStaffZSU/42961"
+  },
+  {
+   "id": "ukrinform_kyiv7_1120",
+   "title": "Ukrinform: Death toll from Russian attack on Kyiv rises to seven, 17 injured (Nov 20)",
+   "url": "https://www.ukrinform.net/rubric-ato/4186847-death-toll-from-russian-attack-on-kyiv-rises-to-seven-17-injured.html"
+  },
+  {
+   "id": "ukrinform_zap_1120",
+   "title": "Ukrinform: Injury toll from Russian attack on Zaporizhzhia rises to ten (Nov 20)",
+   "url": "https://www.ukrinform.net/rubric-ato/4186904-injury-toll-from-russian-attack-on-zaporizhzhia-rises-to-ten.html"
+  },
+  {
+   "id": "gs_bridge_1121",
+   "title": "General Staff of Ukraine (Telegram): strikes on depot, command posts and Siverskyi Donets bridge (Nov 21)",
+   "url": "https://t.me/GeneralStaffZSU/42963"
   }
  ]
 }
