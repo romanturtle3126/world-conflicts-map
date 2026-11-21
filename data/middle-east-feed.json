@@ -1,12 +1,12 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-21T11:04:15+00:00",
+  "lastUpdated": "2026-11-21T11:42:12+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
     "source": "Al Jazeera",
     "ok": true,
-    "count": 8
+    "count": 7
    },
    {
     "source": "BBC News Middle East",
@@ -47,6 +47,30 @@
  },
  "items": [
   {
+   "headline": "Iran says new air defence system intercepted US Reaper drone over Hormuz",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/news/iran-says-newly-developed-air-defence-system-intercepted-us-drone-over-hormuz",
+   "date": "2026-11-21T11:39:15.000Z"
+  },
+  {
+   "headline": "Fresh Israeli attack on Gaza kills three",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/fresh-israeli-attack-gaza-kills-three",
+   "date": "2026-11-21T11:31:51.000Z"
+  },
+  {
+   "headline": "Iran says it downed US drone over Qeshm Island",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-downed-us-drone-over-qeshm-island",
+   "date": "2026-11-21T11:12:41.000Z"
+  },
+  {
+   "headline": "Deadly fire engulfs power station in southern Iraq",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/deadly-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
+   "date": "2026-11-21T11:02:29.000Z"
+  },
+  {
    "headline": "Demolition notices for buildings in Hebron provoke fear among Palestinians",
    "source": "Al Jazeera",
    "link": "https://www.aljazeera.com/news/2026/11/21/demolition-notices-for-buildings-in-area-a-of-hebron-spark-fear-among-palestinians?traffic_source=rss",
@@ -83,7 +107,7 @@
    "date": "2026-11-21T09:49:44.000Z"
   },
   {
-   "headline": "Iran’s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
+   "headline": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
    "source": "Al Jazeera",
    "link": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
    "date": "2026-11-21T09:30:24.000Z"
@@ -167,12 +191,6 @@
    "date": "2026-11-21T06:19:02.000Z"
   },
   {
-   "headline": "Can Israel’s opposition bloc stay united against Netanyahu?",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/news/2026/11/21/can-israels-opposition-bloc-stay-united-against-netanyahu?traffic_source=rss",
-   "date": "2026-11-21T05:46:29.000Z"
-  },
-  {
    "headline": "Gaza Board of Peace says it will hand keys to UN if Israel fails to honour commitments",
    "source": "Middle East Eye",
    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-board-peace-says-it-will-hand-keys-un-if-israel-fails-honour",
@@ -183,12 +201,6 @@
    "source": "The Guardian (Middle East)",
    "link": "https://www.theguardian.com/world/2026/nov/21/displaced-families-gaza-winter-misery",
    "date": "2026-11-21T05:00:49.000Z"
-  },
-  {
-   "headline": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss",
-   "date": "2026-11-21T04:32:07.000Z"
   },
   {
    "headline": "Air strikes target two districts in Yemen's Taiz, Houthi media says",
@@ -213,24 +225,6 @@
    "source": "Middle East Eye",
    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/undp-official-gazas-suffering-must-compel-us-ask-difficult-questions",
    "date": "2026-11-21T02:35:11.000Z"
-  },
-  {
-   "headline": "Saudi-led coalition says Houthi drone intercepted over southern region",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-houthi-drone-intercepted-over-southern-region",
-   "date": "2026-11-21T02:09:48.000Z"
-  },
-  {
-   "headline": "Several Palestinians injured in attacks by Israeli settlers, forces in West Bank",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/several-palestinians-injured-attacks-israeli-settlers-forces-west-bank",
-   "date": "2026-11-21T01:54:19.000Z"
-  },
-  {
-   "headline": "UKMTO weekly report says six vessels attacked in and around Hormuz",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-weekly-report-says-six-vessels-attacked-and-around-hormuz",
-   "date": "2026-11-21T01:35:05.000Z"
   },
   {
    "headline": "Araqchi says Iran wants diplomacy to end war, Trump says terms unacceptable",

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-21T11:04:15+00:00",
+  "lastUpdated": "2026-11-21T11:42:11+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -36,7 +36,7 @@
    {
     "source": "Al Jazeera",
     "ok": true,
-    "count": 1
+    "count": 2
    },
    {
     "source": "UK Ministry of Defence (GOV.UK)",
@@ -46,6 +46,36 @@
   ]
  },
  "items": [
+  {
+   "headline": "EU budget proposal keeps Ukraine funding unchanged as cost of Russia's war rises",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/eu-budget-proposal-keeps-ukraine-funding-unchanged-as-cost-of-russias-war-rises/",
+   "date": "2026-11-21T11:29:32.000Z"
+  },
+  {
+   "headline": "DM Khmara says Russia will need several months to raise damaged section of Kerch Bridge",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4187121-dm-khmara-says-russia-will-need-several-months-to-raise-damaged-section-of-kerch-bridge.html",
+   "date": "2026-11-21T11:29:00.000Z"
+  },
+  {
+   "headline": "Von der Leyen condemns assassination attempt against U.S.-Ukrainian citizen in Denmark, pledges new EU security strategy",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4187100-von-der-leyen-condemns-assassination-attempt-against-usukrainian-citizen-in-denmark-pledges-new-eu-security-strategy.html",
+   "date": "2026-11-21T11:05:00.000Z"
+  },
+  {
+   "headline": "Russian missiles hit Poland: What happened, and could NATO respond?",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
+   "date": "2026-11-21T11:02:49.000Z"
+  },
+  {
+   "headline": "Drones attack cargo ship heading to Russia's Kaliningrad in Gulf of Finland",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063939/",
+   "date": "2026-11-21T10:47:00.000Z"
+  },
   {
    "headline": "Ukrainian forces strike bridge, ammunition depot and Russian command posts",
    "source": "Ukrinform",
@@ -317,12 +347,6 @@
    "date": "2026-11-21T00:59:45.000Z"
   },
   {
-   "headline": "54% of damaged healthcare infrastructure facilities restored in Chernihiv region",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-vidbudova/4186741-54-of-damaged-healthcare-infrastructure-facilities-restored-in-chernihiv-region.html",
-   "date": "2026-11-21T00:31:00.000Z"
-  },
-  {
    "headline": "Incoming Democratic chairman warns US lawmakers could halt SpaceX funding following Starshield slowdown in Ukraine, CNN reports",
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/incoming-democratic-chairman-warns-us-lawmakers-could-halt-spacex-funding-following-starshield-slowdown-in-ukraine-cnn-reports/",
@@ -333,12 +357,6 @@
    "source": "Ukrainska Pravda",
    "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063886/",
    "date": "2026-11-20T23:30:00.000Z"
-  },
-  {
-   "headline": "Ukraine blocks Russian climate report containing data from occupied territories at COP31",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4186734-ukraine-blocks-russian-climate-report-containing-data-from-occupied-territories-at-cop31.html",
-   "date": "2026-11-20T23:28:00.000Z"
   },
   {
    "headline": "Ukraine's anti-graft agencies say they face smear campaign as probes reach 'core of corruption system'",
@@ -369,12 +387,6 @@
    "source": "Ukrainska Pravda",
    "link": "https://www.pravda.com.ua/eng/news/2026/11/20/8063889/",
    "date": "2026-11-20T20:02:00.000Z"
-  },
-  {
-   "headline": "Trump says Putin is \"having a hard time because he's in a war that should have lasted one day\"",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/20/8063883/",
-   "date": "2026-11-20T19:03:00.000Z"
   },
   {
    "headline": "Ukraine war latest: Russia strikes 3 Kyiv bridges in massive aerial assault on Ukraine, at least 9 dead",
@@ -423,12 +435,6 @@
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/germany-backs-new-drone-factory-plan-by-skyfall-and-auterion/",
    "date": "2026-11-20T17:12:48.000Z"
-  },
-  {
-   "headline": "At least 1,144 children killed or injured in Ukraine during Russia's war this year, UNICEF says",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/at-least-1-144-children-killed-or-injured-in-ukraine-during-russias-war-this-year-unicef-says/",
-   "date": "2026-11-20T16:36:10.000Z"
   },
   {
    "headline": "Russian missiles and drone hit Poland during attacks on Ukraine",
