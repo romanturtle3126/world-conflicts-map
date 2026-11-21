@@ -14,6 +14,7 @@ on:
       - ".github/workflows/site.yml"
   schedule:
     - cron: "30 10 * * *" # 10:30 UTC = 5:30 AM Toronto (6:30 in summer), 30 min before the research routine, which uses these headlines as leads
+    - cron: "30 16,22,4 * * *" # extra pulls every 6 hours, so official Telegram channels (which only show their latest ~20 posts) aren't missed
   workflow_dispatch:
 
 permissions:

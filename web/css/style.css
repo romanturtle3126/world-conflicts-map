@@ -40,6 +40,8 @@ h1{margin:0;font-size:19px;font-weight:800;letter-spacing:.3px;display:flex;alig
 .heads{display:grid;gap:8px}
 .hl{display:block;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:9px 12px;color:#d9dce1;text-decoration:none;font-size:14px}
 .hl .hs{display:block;font:11px var(--mono);color:var(--mut);text-transform:uppercase;letter-spacing:.4px;margin-bottom:2px}
+.hl.off{border-left:3px solid #d29922}
+.hl .party{color:#e3b341;font-weight:700}
 .tline{padding:4px 14px}
 .tl{display:grid;grid-template-columns:72px 1fr;gap:10px;padding:10px 0;border-bottom:1px solid var(--line);color:#d9dce1;text-decoration:none;font-size:14px}
 .tl:last-child{border-bottom:0}
