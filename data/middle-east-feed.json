@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-22T11:05:21+00:00",
+  "lastUpdated": "2026-11-22T11:42:02+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -46,6 +46,12 @@
   ]
  },
  "items": [
+  {
+   "headline": "Araghchi talks down Qatari visit",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-talks-down-qatari-visit",
+   "date": "2026-11-22T11:09:15.000Z"
+  },
   {
    "headline": "COP31 climate deal in the balance after fractious talks",
    "source": "Al-Monitor",
@@ -219,12 +225,6 @@
    "source": "Al-Monitor",
    "link": "https://www.al-monitor.com/originals/2026/11/cop31-climate-deal-hangs-balance-time-runs-out",
    "date": "2026-11-21T23:46:26.000Z"
-  },
-  {
-   "headline": "Houthis deny threat to Saudi Arabia’s holy city of Mecca",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-deny-threat-saudi-arabias-holy-city-mecca",
-   "date": "2026-11-21T23:39:48.000Z"
   },
   {
    "headline": "Eisenkot invites Netanyahu’s party for ‘marathon’ Israeli coalition talks",

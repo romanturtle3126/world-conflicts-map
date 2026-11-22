@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-22T11:05:20+00:00",
+  "lastUpdated": "2026-11-22T11:42:01+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -36,7 +36,7 @@
    {
     "source": "Al Jazeera",
     "ok": true,
-    "count": 2
+    "count": 3
    },
    {
     "source": "UK Ministry of Defence (GOV.UK)",
@@ -47,10 +47,40 @@
  },
  "items": [
   {
+   "headline": "Russia-bound ship still on fire after attack in Gulf of Finland",
+   "source": "BBC News Europe",
+   "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-22T11:25:14.000Z"
+  },
+  {
+   "headline": "Body of person killed in Russian drone attack recovered from rubble of apartment building in Dymer",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4187354-body-of-person-killed-in-russian-drone-attack-recovered-from-rubble-of-apartment-building-in-dymer.html",
+   "date": "2026-11-22T11:16:00.000Z"
+  },
+  {
+   "headline": "Russian ship attacked by drone in Baltic Sea off Finland",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
+   "date": "2026-11-22T11:15:27.000Z"
+  },
+  {
+   "headline": "Fire on Russian cargo ship off Finland remains unextinguished after attack",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-emergencies/4187353-fire-on-russian-cargo-ship-off-finland-remains-unextinguished-after-attack.html",
+   "date": "2026-11-22T10:51:00.000Z"
+  },
+  {
    "headline": "Zelensky says US delays on Patriot missiles are 'difficult to understand' as Russia fires 165 missiles in a week",
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/zelensky-says-us-delays-on-patriot-missiles-are-difficult-to-understand-as-russia-fires-165-missiles-in-a-week/",
    "date": "2026-11-22T10:45:04.000Z"
+  },
+  {
+   "headline": "Estonia comments on Ukrainian attack on Russian vessel in Baltic Sea",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/22/8064042/",
+   "date": "2026-11-22T10:44:00.000Z"
   },
   {
    "headline": "Russian cargo ship still on fire off Finland after drone attack",
@@ -329,22 +359,10 @@
    "date": "2026-11-21T23:35:21.000Z"
   },
   {
-   "headline": "Finland seeking over €25 bln in compensation from Russia and Gazprom",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-economy/4187110-finland-seeking-over-25-bln-in-compensation-from-russia-and-gazprom.html",
-   "date": "2026-11-21T23:33:00.000Z"
-  },
-  {
    "headline": "Trump posts photo of himself with Putin captioned \"my friend\"",
    "source": "Ukrainska Pravda",
    "link": "https://www.pravda.com.ua/eng/news/2026/11/22/8064000/",
    "date": "2026-11-21T23:26:00.000Z"
-  },
-  {
-   "headline": "State Special Transport Service deminers clear over 230,000 hectares of liberated territory",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4187082-state-special-transport-service-deminers-clear-over-230000-hectares-of-liberated-territory.html",
-   "date": "2026-11-21T22:40:00.000Z"
   },
   {
    "headline": "Swedish Gripen pilot unable to shoot down suspected Russian missile over Poland due to poor weather, commander says",
@@ -357,12 +375,6 @@
    "source": "Ukrainska Pravda",
    "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063993/",
    "date": "2026-11-21T19:27:00.000Z"
-  },
-  {
-   "headline": "Russia-bound ship attacked in Gulf of Finland",
-   "source": "BBC News Europe",
-   "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-21T19:20:22.000Z"
   },
   {
    "headline": "Explosions reported near Russian Baltic Fleet base in Kaliningrad Oblast amid drone alerts",
@@ -417,12 +429,6 @@
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/is-europe-finally-ready-to-play-hardball-with-putin/",
    "date": "2026-11-21T15:52:21.000Z"
-  },
-  {
-   "headline": "One person injured in Russian attack on railway station in Zhytomyr Oblast",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/21/8063982/",
-   "date": "2026-11-21T15:52:00.000Z"
   },
   {
    "headline": "Defence Secretary meets President Zelensky and Minister Khmara in Kyiv as UK deepens industrial support for Ukraine",
