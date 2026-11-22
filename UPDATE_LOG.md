@@ -2,6 +2,22 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-22 06:04 Toronto — Ukraine — OK
+- Added 9 event(s):
+  - `kryvyi-rih-1121` 2026-11-21 [CONFIRMED] Ballistic missile and drone strikes on Kryvyi Rih kill two, injure 73
+  - `dymer-1122` 2026-11-22 [CONFIRMED] Russian drone destroys part of five-storey apartment block in Dymer, 14 unaccounted for
+  - `gulf-finland-1121` 2026-11-21 [CONFIRMED] Drone strike sets Russian military-linked cargo ship Sparta II on fire in Gulf of Finland
+  - `baltiysk-1121` 2026-11-21 [UNVERIFIED] Explosions and drone activity reported near Baltiysk naval base in Kaliningrad
+  - `zaporizhzhia-1121` 2026-11-21 [ONE_PARTY] Guided bombs hit Zaporizhzhia, three injured including two children
+  - `zaporizhzhia-1122` 2026-11-22 [ONE_PARTY] Russia's MoD claims drone hit on Pravoberezhna 330 kV power plant in Zaporizhzhia
+  - `kiliya-1122` 2026-11-22 [ONE_PARTY] Russia's MoD claims drone strikes on Kiliya port and a cargo ship NE of Odesa
+  - `ovruch-1121` 2026-11-21 [ONE_PARTY] Russian strike on Ovruch railway station injures one
+  - `sosnovyi-1122` 2026-11-22 [ONE_PARTY] Russia's MoD claims control of Sosnovyi in Kharkiv Oblast
+- Stats: 1 updated, 2 added
+- 14 new source link(s)
+- Totals: 191 events, 58 stats, 326 sources; coverage 2026-10-10 to 2026-11-22
+- warning: link https://www.bbc.co.uk/news/articles/cj752ddve27ko returned 403 (site may block bots)
+
 ## 2026-11-21 06:41 Toronto — Middle East — OK
 - Added 9 event(s):
   - `riyadh-1121` 2026-11-21 [ONE_PARTY] Saudi-led coalition says it intercepted three Houthi ballistic missiles fired at Riyadh
