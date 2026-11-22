@@ -16,6 +16,12 @@ Open every page you cite; only cite URLs you opened.
 
 **Leads:** `data/middle-east-feed.json` holds headlines pulled about 30 minutes before this run (Al Jazeera, BBC, Times of Israel, UN News, Guardian, France 24, Al-Monitor, Middle East Eye). Treat each as a lead and open the article. A headline alone is never a source.
 
+**Official statements are already pulled for you.** Items in that file with an `official` field come straight from a party's own channel, kept for the last 72 hours: IDF and the State of Israel/PMO (Telegram), US CENTCOM press releases, the Gaza Ministry of Health (Telegram, mostly Arabic), the Houthi military spokesman (Telegram, Arabic), Tasnim and IRNA English (Telegram). Go through **every** one of them, not just the newest:
+- Each strike, launch, interception, casualty report or denial in them is a candidate event. Open the post (`curl -sL -A "Mozilla/5.0" https://t.me/s/<channel>` if needed) and cite the post URL itself.
+- Label it `ONE_PARTY` and attribute it in the title ("IDF says it struck…", "Gaza MoH says…"). If another party gives a different account of the same incident, make it `DISPUTED` with one `claims` entry per party. Look for the other side's statement before deciding.
+- Upgrade to `CONFIRMED` only when an independent outlet or monitor also reports it.
+- Check `meta.feeds` in the file: any official source with `ok: false` was not read, so check that party by hand (web search / embed service below) and say so in `notes`.
+
 **Preferred sources, roughly in order:**
 - Independent monitors and UN bodies: UN OCHA (ochaopt.org), OHCHR, IOM DTM, UNHCR, **UKMTO** (ukmto.org) for shipping incidents, IAEA.
 - Wires and major outlets: Reuters, AP, AFP, BBC, Al Jazeera, Times of Israel, Haaretz, Guardian, Al-Monitor, Arab News, CNBC (oil).
@@ -43,7 +49,8 @@ How to read them (X usually blocks direct reading), exactly as for the Ukraine m
 - [ ] UKMTO advisories (shipping attacks in Hormuz / Red Sea / Gulf of Aden)
 - [ ] UN OCHA oPt latest situation report or flash update
 - [ ] ISW/CTP Iran Update (latest)
-- [ ] IDF and CENTCOM statements (X)
+- [ ] Every `official` item in the headline leads file (IDF, Israel/PMO, CENTCOM, Gaza MoH, Houthi spokesman, Tasnim, IRNA)
+- [ ] IDF and CENTCOM statements (X), for anything the leads file missed
 - [ ] At least one Telegram channel from the other side (Houthi spokesman, IRGC/Tasnim or Gaza MoH)
 - [ ] At least two X searches (`site:x.com ...`) for the night's main events, with any useful post read through the embed service
 - [ ] The headline leads file

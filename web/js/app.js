@@ -697,9 +697,16 @@
       n.slice(0, 8).map(function (e) { return item(e, "NEW"); }).join("") + u.slice(0, 8).map(function (e) { return item(e, "UPDATED"); }).join("") +
       (n.length + u.length > 16 ? '<div class="chg-more">…and more below</div>' : "") + "</div>";
   }
+  function officials() {
+    var d = S.heads; if (!d || !d.items.length) return "";
+    var o = d.items.filter(function (x) { return x.official; }).slice(0, 30); if (!o.length) return "";
+    return '<div class="sect">OFFICIAL STATEMENTS · EACH PARTY\'S OWN CLAIM</div><div class="heads">' + o.map(function (x) {
+      return '<a class="hl off" href="' + esc(safeUrl(x.link)) + '"><span class="hs"><b class="party">' + esc(x.official) + "</b>" + (x.date ? " · " + esc(fmtStamp(x.date)) : "") + "</span>" + esc(x.headline) + "</a>";
+    }).join("") + '</div><div class="note">Straight from each government\'s, military\'s or armed group\'s own channels. These are their claims, not verified facts. Compare them with the other side\'s statements.</div>';
+  }
   function headlines() {
     var d = S.heads; if (!d || !d.items.length) return "";
-    return '<div class="sect">HEADLINES · AUTO-PULLED, NOT CHECKED</div><div class="heads">' + d.items.slice(0, 40).map(function (x) {
+    return officials() + '<div class="sect">HEADLINES · AUTO-PULLED, NOT CHECKED</div><div class="heads">' + d.items.filter(function (x) { return !x.official; }).slice(0, 40).map(function (x) {
       return '<a class="hl" href="' + esc(safeUrl(x.link)) + '"><span class="hs">' + esc(x.source) + (x.date ? " · " + esc(fmtStamp(x.date)) : "") + "</span>" + esc(x.headline) + "</a>";
     }).join("") + '</div><div class="note">These come straight from news feeds. They are leads for the daily update, not map events, and are not labelled or verified.</div>';
   }
