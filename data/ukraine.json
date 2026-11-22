@@ -2,11 +2,11 @@
  "schemaVersion": 1,
  "map": "ukraine",
  "meta": {
-  "lastUpdated": "2026-11-21T06:03:47-05:00",
-  "coverage": "2026-10-10 to 2026-11-21",
+  "lastUpdated": "2026-11-22T06:04:51-05:00",
+  "coverage": "2026-10-10 to 2026-11-22",
   "notes": [
-   "Refreshed Nov 21, 2026 (about 06:00 Toronto) from the Telegram channels of the Ukrainian General Staff (GeneralStaffZSU) and Russian MoD (mod_russia), Air Force channel kpszsu (alert posts only), Ukrinform and Kyiv Independent articles of Nov 20, and the headline leads file (pulled Nov 20 ~18:40 UTC).",
-   "Not read this run: ISW/Critical Threats assessments, direct X posts and X searches, Reuters/AP, Ukrainska Pravda (403), BBC/Guardian (headlines only). Nov 21 events in the leads file were not yet available. Not mapped: Russian Kh-101 missiles and a drone that fell in eastern Poland on Nov 20 (outside the map).",
+   "Refreshed Nov 22, 2026 (UTC morning) from Telegram channels kpszsu (alert posts only), GeneralStaffZSU and mod_russia, Kyiv Independent, Ukrinform and BBC articles, and the headline leads file (pulled Nov 22 ~01:40 UTC).",
+   "Not read this run: ISW assessment (understandingwar.org 403; criticalthreats.org Cloudflare block), X posts (web searches returned nothing usable for Nov 21-22), Reuters/AP, Ukrainska Pravda. Not mapped: Russian missiles and drone on Polish territory on Nov 20, Moldovan and Finnish airspace violations on Nov 21.",
    "Coordinates are city-level or approximate (see coordPrecision); markers flagged 'oblast' are not geolocated.",
    "Casualty figures are as reported by the cited outlet at time of writing and may have been revised."
   ]
@@ -5155,17 +5155,272 @@
     }
    ],
    "read": "full"
+  },
+  {
+   "id": "kryvyi-rih-1121",
+   "date": "2026-11-21",
+   "region": "south",
+   "oblast": "Dnipropetrovsk",
+   "front": "Dnipropetrovsk",
+   "type": "missile",
+   "status": "CONFIRMED",
+   "title": "Ballistic missile and drone strikes on Kryvyi Rih kill two, injure 73",
+   "caption": "Russia hit Kryvyi Rih with two ballistic missiles on the evening of Nov 20 and then a follow-up wave of jet-powered drones overnight. Kryvyi Rih Defense Council head Oleksandr Vilkul said on Telegram that two people were killed, a 20-year-old emergency medical technician and a seven-year-old boy, and that the injured rose to 73, including nine children, three emergency medical workers and rescuers; nine were in serious condition. About 26 apartment buildings, a hospital, schools and other sites were damaged. The Kyiv Independent cites Governor Oleksandr Hanzha for damage to apartment buildings, a hospital and a restaurant. No Russian statement on this attack was read.",
+   "lat": 47.9057,
+   "lon": 33.394,
+   "coordPrecision": "city",
+   "place": "Kryvyi Rih",
+   "sources": [
+    {
+     "id": "ki_krrih_1121",
+     "title": "Kyiv Independent: Russian attacks kill at least 2, injure 83 across Ukraine, as strikes devastate Kryvyi Rih (Nov 21)",
+     "url": "https://kyivindependent.com/russian-attacks-kill-at-least-2-injure-83-across-ukraine-as-strikes-devastate-kryvyi-rih/"
+    },
+    {
+     "id": "ukrinform_krrih_1121",
+     "title": "Ukrinform: Injury toll in Russian attack on Kryvyi Rih rises to 73, including nine children",
+     "url": "https://www.ukrinform.net/rubric-ato/4187248-injury-toll-in-russian-attack-on-kryvyi-rih-rises-to-73-including-nine-children.html"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "gulf-finland-1121",
+   "date": "2026-11-21",
+   "region": "russia",
+   "oblast": "Gulf of Finland",
+   "front": "Russia (rear)",
+   "type": "naval",
+   "status": "CONFIRMED",
+   "title": "Drone strike sets Russian military-linked cargo ship Sparta II on fire in Gulf of Finland",
+   "caption": "The Russian cargo ship Sparta II, bound for Kaliningrad and sanctioned by the US and Ukraine, caught fire after a drone strike on the morning of Nov 21 about 50 km west of Suursaari island, then drifted into Finnish waters near Loviisa. Finland's defence ministry confirmed a drone attack on the vessel, and its armed forces spokesman said Ukraine was likely responsible; Ukraine had not commented or claimed it when BBC and the Kyiv Independent reported. Kaliningrad's governor said two drones were used. The crew was evacuated without injuries and firefighting continued, with Finnish officials warning the ship could sink. Marker is approximate, at Loviisa.",
+   "lat": 60.4566,
+   "lon": 26.2251,
+   "coordPrecision": "approx",
+   "place": "Lovisa",
+   "sources": [
+    {
+     "id": "bbc_sparta_1121",
+     "title": "BBC: Russia-bound ship attacked in Gulf of Finland (Nov 21)",
+     "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko"
+    },
+    {
+     "id": "ki_sparta_1121",
+     "title": "Kyiv Independent: Russian military-linked cargo ship could sink after drone strike in Gulf of Finland, Finnish official warns (Nov 21)",
+     "url": "https://kyivindependent.com/russian-military-linked-cargo-ship-catches-fire-after-reported-drone-strike-in-gulf-of-finland/"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Finland's armed forces",
+     "says": "Ukraine was likely behind the drone attack; the vessel was damaged.",
+     "source": "ki_sparta_1121"
+    },
+    {
+     "who": "Kaliningrad governor",
+     "says": "Two drones were used, preliminary information; no threat to the region's supplies.",
+     "source": "bbc_sparta_1121"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "baltiysk-1121",
+   "date": "2026-11-21",
+   "region": "russia",
+   "oblast": "Kaliningrad Oblast, Russia",
+   "front": "Russia (rear)",
+   "type": "drone",
+   "status": "UNVERIFIED",
+   "title": "Explosions and drone activity reported near Baltiysk naval base in Kaliningrad",
+   "caption": "Ukrainian monitoring Telegram channels Exilenova+ and Lachentyt reported several explosions, drone sounds and air-defence activity around Baltiysk on the evening of Nov 21, and sirens sounded in parts of Kaliningrad Oblast. The Kyiv Independent could not verify the explosions or whether the Baltic Fleet base was hit; no Russian statement was read. Marker is at Baltiysk.",
+   "lat": 54.6546,
+   "lon": 19.9093,
+   "coordPrecision": "city",
+   "place": "Baltiysk",
+   "sources": [
+    {
+     "id": "ki_baltiysk_1121",
+     "title": "Kyiv Independent: Explosions reported near Russian Baltic Fleet base in Kaliningrad Oblast amid drone alerts (Nov 21)",
+     "url": "https://kyivindependent.com/explosions-reported-near-russian-baltic-fleet-base-in-kaliningrad-oblast-amid-drone-alerts/"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "zaporizhzhia-1121",
+   "date": "2026-11-21",
+   "region": "south",
+   "oblast": "Zaporizhzhia",
+   "front": "Zaporizhzhia",
+   "type": "airstrike",
+   "status": "ONE_PARTY",
+   "title": "Guided bombs hit Zaporizhzhia, three injured including two children",
+   "caption": "Ukrinform, citing acting regional administration head Mykhailo Semikin's Telegram post, reports that Russian guided aerial bombs hit Zaporizhzhia on Nov 21, injuring three people including two children; the blast wave damaged apartment buildings. No Russian statement and no independent confirmation were read.",
+   "lat": 47.8517,
+   "lon": 35.1171,
+   "coordPrecision": "city",
+   "place": "Zaporizhzhya",
+   "sources": [
+    {
+     "id": "ukrinform_zap_1121",
+     "title": "Ukrinform: Three people injured in Russian attack on Zaporizhzhia, including two children (Nov 21)",
+     "url": "https://www.ukrinform.net/rubric-ato/4187254-three-people-injured-in-russian-attack-on-zaporizhzhia-including-two-children.html"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "ovruch-1121",
+   "date": "2026-11-21",
+   "region": "rear",
+   "oblast": "Zhytomyr",
+   "front": "Rear (Zhytomyr)",
+   "type": "other",
+   "status": "ONE_PARTY",
+   "title": "Russian strike on Ovruch railway station injures one",
+   "caption": "Ukrinform, citing Zhytomyr Regional Military Administration head Vitalii Bunechko's Telegram post, reports a Russian attack on the railway station in the Ovruch community on Nov 21 that injured one person and started a fire, which was extinguished. No Russian statement and no independent confirmation were read.",
+   "lat": 51.3274,
+   "lon": 28.8017,
+   "coordPrecision": "city",
+   "place": "Ovruch",
+   "sources": [
+    {
+     "id": "ukrinform_ovruch_1121",
+     "title": "Ukrinform: Russian forces strike railway station in Zhytomyr region, one injured (Nov 21)",
+     "url": "https://www.ukrinform.net/rubric-ato/4187216-russian-forces-strike-railway-station-in-zhytomyr-region-one-injured.html"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "dymer-1122",
+   "date": "2026-11-22",
+   "region": "rear",
+   "oblast": "Kyiv Oblast",
+   "front": "Rear (Kyiv)",
+   "type": "drone",
+   "status": "CONFIRMED",
+   "title": "Russian drone destroys part of five-storey apartment block in Dymer, 14 unaccounted for",
+   "caption": "A Russian drone attack overnight on Nov 22 damaged a five-storey apartment building in Dymer, Vyshhorod district, Kyiv Oblast; Kyiv Oblast head Tymur Tkachenko said apartments on all five floors of one section were destroyed. Two people were injured (a teenager and a 22-year-old woman). President Zelensky said nine people had been evacuated and 14 remained unaccounted for, possibly under rubble; the State Emergency Service was searching the site. A nearby shop and kindergarten were also damaged. The toll may change as the search continues.",
+   "lat": 50.7858,
+   "lon": 30.3036,
+   "coordPrecision": "city",
+   "place": "Dymer",
+   "sources": [
+    {
+     "id": "ki_dymer_1122",
+     "title": "Kyiv Independent: 14 feared trapped after Russian drone hits apartment building near Kyiv, injuring 2 (Nov 22)",
+     "url": "https://kyivindependent.com/apartment-building-destroyed-in-kyiv-oblast-following-russian-drone-attack/"
+    },
+    {
+     "id": "ukrinform_dymer_1122",
+     "title": "Ukrinform: Residential building damaged in Russian drone attack in Vyshhorod district, residents evacuated (Nov 22)",
+     "url": "https://www.ukrinform.net/rubric-ato/4187278-residential-building-damaged-in-russian-drone-attack-in-vyshhorod-district-residents-evacuated.html"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "zaporizhzhia-1122",
+   "date": "2026-11-22",
+   "region": "south",
+   "oblast": "Zaporizhzhia",
+   "front": "Zaporizhzhia",
+   "type": "energy",
+   "status": "ONE_PARTY",
+   "title": "Russia's MoD claims drone hit on Pravoberezhna 330 kV power plant in Zaporizhzhia",
+   "caption": "Russia's Ministry of Defence says its drones struck the Pravoberezhna 330 kV electric power facility in Zaporizhzhia overnight into Nov 22, which it says supplies Ukrainian military industry. No Ukrainian statement on this specific site and no independent confirmation were read.",
+   "lat": 47.8517,
+   "lon": 35.1171,
+   "coordPrecision": "city",
+   "place": "Zaporizhzhya",
+   "sources": [
+    {
+     "id": "mod_strikes_1122",
+     "title": "Russian MoD (Telegram): strikes on Zaporizhzhia substation, Kiliya port and a cargo ship (Nov 22)",
+     "url": "https://t.me/mod_russia/69236"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Russia's MoD",
+     "says": "Drones hit the Pravoberezhna 330 kV power plant in Zaporizhzhia, which it says supplies Ukrainian military industry.",
+     "source": "mod_strikes_1122"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "kiliya-1122",
+   "date": "2026-11-22",
+   "region": "south",
+   "oblast": "Odesa",
+   "front": "Odesa",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Russia's MoD claims drone strikes on Kiliya port and a cargo ship NE of Odesa",
+   "caption": "Russia's Ministry of Defence says drones hit port infrastructure in Kiliya, Odesa Oblast, and a dry-cargo ship at sea north-east of Odesa that it says was delivering dual-use cargo for Ukraine's armed forces, overnight into Nov 22. No Ukrainian statement and no independent confirmation were read.",
+   "lat": 45.4445,
+   "lon": 29.264,
+   "coordPrecision": "city",
+   "place": "Kiliya",
+   "sources": [
+    {
+     "id": "mod_strikes_1122",
+     "title": "Russian MoD (Telegram): strikes on Zaporizhzhia substation, Kiliya port and a cargo ship (Nov 22)",
+     "url": "https://t.me/mod_russia/69236"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Russia's MoD",
+     "says": "Drones hit port infrastructure in Kiliya and a dry-cargo ship north-east of Odesa.",
+     "source": "mod_strikes_1122"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "sosnovyi-1122",
+   "date": "2026-11-22",
+   "region": "north",
+   "oblast": "Kharkiv",
+   "front": "Kupiansk / Oskil",
+   "type": "claim",
+   "status": "ONE_PARTY",
+   "title": "Russia's MoD claims control of Sosnovyi in Kharkiv Oblast",
+   "caption": "Russia's Ministry of Defence says its Sever (North) group of forces established control of the settlement of Sosnovyi in Kharkiv Oblast on Nov 22. No Ukrainian statement, ISW assessment or imagery was read, so the claim is unverified. Marker is at the settlement as listed in the place database.",
+   "lat": 49.4534,
+   "lon": 38.1204,
+   "coordPrecision": "city",
+   "place": "Sosnovyi",
+   "sources": [
+    {
+     "id": "mod_sosnovyi_1122",
+     "title": "Russian MoD (Telegram): Sever group takes control of Sosnovyi, Kharkiv Oblast (Nov 22)",
+     "url": "https://t.me/mod_russia/69239"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Russia's MoD",
+     "says": "The Sever group established control of the settlement of Sosnovyi in Kharkiv Oblast.",
+     "source": "mod_sosnovyi_1122"
+    }
+   ],
+   "read": "full"
   }
  ],
  "stats": [
   {
    "label": "Russian military personnel losses (cumulative, since Feb 24, 2022)",
    "category": "casualties",
-   "asOf": "2026-11-21",
+   "asOf": "2026-11-22",
    "status": "ONE_PARTY",
    "ukraine": {
-    "value": "~1,634,860 killed and wounded, calculated from the Nov 20 figure of ~1,633,130 plus the General Staff's +1,730 (Nov 21); the cumulative tally itself is posted as an image and was not read",
-    "source": "gs_ops_1121"
+    "value": "1,637,170 killed and wounded, including +2,310 over the past day (General Staff figures as relayed by Ukrinform, Nov 22)",
+    "source": "ukrinform_losses_1122"
    },
    "russia": {
     "value": "No official cumulative figure published",
@@ -6134,6 +6389,36 @@
    "russia": {
     "value": "MoD claims 275 fixed-wing drones intercepted overnight (20:00 Nov 20 to 08:00 Nov 21 Moscow time) over Belgorod, Bryansk, Voronezh, Kaluga, Kursk, Leningrad, Novgorod, Oryol, Pskov, Rostov and Smolensk regions, Crimea and the Black Sea",
     "source": "mod_pvo_1121"
+   },
+   "independent": []
+  },
+  {
+   "label": "Russian drones and missiles launched at Ukraine (night of Nov 21-22)",
+   "category": "shootdowns",
+   "asOf": "2026-11-22",
+   "status": "DISPUTED",
+   "ukraine": {
+    "value": "186 strike drones (72 jet-powered Shahed), Gerbera and Parodiya decoys, no missiles listed; 161 downed or suppressed as of 08:00 (56 jet-powered); hits at 18 locations, debris at 6 (Air Force / General Staff)",
+    "source": "gs_air_1122"
+   },
+   "russia": {
+    "value": "No launch count published; MoD says drones hit the Pravoberezhna 330 kV power plant in Zaporizhzhia, port infrastructure in Kiliya and a dry-cargo ship north-east of Odesa",
+    "source": "mod_strikes_1122"
+   },
+   "independent": []
+  },
+  {
+   "label": "Ukrainian drones shot down over Russia (Nov 21-22)",
+   "category": "shootdowns",
+   "asOf": "2026-11-22",
+   "status": "ONE_PARTY",
+   "ukraine": {
+    "value": "No count published",
+    "source": null
+   },
+   "russia": {
+    "value": "MoD claims 170 fixed-wing drones intercepted overnight over Bryansk, Belgorod, Kursk, Voronezh, Tula, Rostov regions, Krasnodar Krai, Crimea and the Azov and Black seas",
+    "source": "mod_pvo_1122"
    },
    "independent": []
   }
@@ -7698,6 +7983,76 @@
    "id": "gs_bridge_1121",
    "title": "General Staff of Ukraine (Telegram): strikes on depot, command posts and Siverskyi Donets bridge (Nov 21)",
    "url": "https://t.me/GeneralStaffZSU/42963"
+  },
+  {
+   "id": "ukrinform_losses_1122",
+   "title": "Ukrinform: Russia's war casualty toll in Ukraine up by 2,310 over past day (Nov 22)",
+   "url": "https://www.ukrinform.net/rubric-ato/4187286-russias-war-casualty-toll-in-ukraine-up-by-2310-over-past-day.html"
+  },
+  {
+   "id": "gs_air_1122",
+   "title": "General Staff of Ukraine (Telegram): 161 of 186 drones downed overnight Nov 22",
+   "url": "https://t.me/GeneralStaffZSU/42967"
+  },
+  {
+   "id": "mod_strikes_1122",
+   "title": "Russian MoD (Telegram): strikes on Zaporizhzhia substation, Kiliya port and a cargo ship (Nov 22)",
+   "url": "https://t.me/mod_russia/69236"
+  },
+  {
+   "id": "mod_pvo_1122",
+   "title": "Russian MoD (Telegram): 170 Ukrainian drones intercepted overnight (Nov 22)",
+   "url": "https://t.me/mod_russia/69235"
+  },
+  {
+   "id": "ki_krrih_1121",
+   "title": "Kyiv Independent: Russian attacks kill at least 2, injure 83 across Ukraine, as strikes devastate Kryvyi Rih (Nov 21)",
+   "url": "https://kyivindependent.com/russian-attacks-kill-at-least-2-injure-83-across-ukraine-as-strikes-devastate-kryvyi-rih/"
+  },
+  {
+   "id": "ukrinform_krrih_1121",
+   "title": "Ukrinform: Injury toll in Russian attack on Kryvyi Rih rises to 73, including nine children",
+   "url": "https://www.ukrinform.net/rubric-ato/4187248-injury-toll-in-russian-attack-on-kryvyi-rih-rises-to-73-including-nine-children.html"
+  },
+  {
+   "id": "ki_dymer_1122",
+   "title": "Kyiv Independent: 14 feared trapped after Russian drone hits apartment building near Kyiv, injuring 2 (Nov 22)",
+   "url": "https://kyivindependent.com/apartment-building-destroyed-in-kyiv-oblast-following-russian-drone-attack/"
+  },
+  {
+   "id": "ukrinform_dymer_1122",
+   "title": "Ukrinform: Residential building damaged in Russian drone attack in Vyshhorod district, residents evacuated (Nov 22)",
+   "url": "https://www.ukrinform.net/rubric-ato/4187278-residential-building-damaged-in-russian-drone-attack-in-vyshhorod-district-residents-evacuated.html"
+  },
+  {
+   "id": "bbc_sparta_1121",
+   "title": "BBC: Russia-bound ship attacked in Gulf of Finland (Nov 21)",
+   "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko"
+  },
+  {
+   "id": "ki_sparta_1121",
+   "title": "Kyiv Independent: Russian military-linked cargo ship could sink after drone strike in Gulf of Finland, Finnish official warns (Nov 21)",
+   "url": "https://kyivindependent.com/russian-military-linked-cargo-ship-catches-fire-after-reported-drone-strike-in-gulf-of-finland/"
+  },
+  {
+   "id": "ki_baltiysk_1121",
+   "title": "Kyiv Independent: Explosions reported near Russian Baltic Fleet base in Kaliningrad Oblast amid drone alerts (Nov 21)",
+   "url": "https://kyivindependent.com/explosions-reported-near-russian-baltic-fleet-base-in-kaliningrad-oblast-amid-drone-alerts/"
+  },
+  {
+   "id": "ukrinform_zap_1121",
+   "title": "Ukrinform: Three people injured in Russian attack on Zaporizhzhia, including two children (Nov 21)",
+   "url": "https://www.ukrinform.net/rubric-ato/4187254-three-people-injured-in-russian-attack-on-zaporizhzhia-including-two-children.html"
+  },
+  {
+   "id": "ukrinform_ovruch_1121",
+   "title": "Ukrinform: Russian forces strike railway station in Zhytomyr region, one injured (Nov 21)",
+   "url": "https://www.ukrinform.net/rubric-ato/4187216-russian-forces-strike-railway-station-in-zhytomyr-region-one-injured.html"
+  },
+  {
+   "id": "mod_sosnovyi_1122",
+   "title": "Russian MoD (Telegram): Sever group takes control of Sosnovyi, Kharkiv Oblast (Nov 22)",
+   "url": "https://t.me/mod_russia/69239"
   }
  ]
 }
