@@ -1,12 +1,12 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-22T01:41:13+00:00",
+  "lastUpdated": "2026-11-22T11:05:21+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
     "source": "Al Jazeera",
     "ok": true,
-    "count": 9
+    "count": 4
    },
    {
     "source": "BBC News Middle East",
@@ -47,7 +47,139 @@
  },
  "items": [
   {
-   "headline": "Israeli settlers attack Palestinian homes in Hebron, Ramallah",
+   "headline": "COP31 climate deal in the balance after fractious talks",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/cop31-climate-deal-balance-after-fractious-talks",
+   "date": "2026-11-22T10:46:28.000Z"
+  },
+  {
+   "headline": "UAE condemns Iranian attack on Bahrain",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-condemns-iranian-attack-bahrain",
+   "date": "2026-11-22T09:53:34.000Z"
+  },
+  {
+   "headline": "Iraqi bodybuilding champion Sajad Jawad dies days after winning the Asian crown",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/sports/2026/11/22/iraqi-bodybuilding-champion-sajad-jawad-dies-days-after-winning-the-asian-crown?traffic_source=rss",
+   "date": "2026-11-22T09:45:48.000Z"
+  },
+  {
+   "headline": "How Europe’s green hydrogen ambitions could keep Tunisia’s worst polluter alive",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/news/how-europes-green-hydrogen-ambitions-could-keep-tunisias-worst-polluter-alive",
+   "date": "2026-11-22T09:35:44.000Z"
+  },
+  {
+   "headline": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
+   "date": "2026-11-22T09:06:27.000Z"
+  },
+  {
+   "headline": "Morning update",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-677",
+   "date": "2026-11-22T07:59:32.000Z"
+  },
+  {
+   "headline": "Israeli settlers torch vehicles in West Bank, paint 'racist' graffiti on homes",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-torch-vehicles-west-bank-paint-racist-graffiti-homes",
+   "date": "2026-11-22T07:47:53.000Z"
+  },
+  {
+   "headline": "Explosion inside Libyan naval base ammunition depot triggers fire",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/explosion-inside-libyan-naval-base-ammunition-depot-triggers-fire",
+   "date": "2026-11-22T07:36:00.000Z"
+  },
+  {
+   "headline": "IRGC chief says Iran's air space 'red line' for armed forces",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-chief-says-irans-air-space-red-line-armed-forces",
+   "date": "2026-11-22T07:07:49.000Z"
+  },
+  {
+   "headline": "Israeli puts 'Gaza mosque crescent finial' up for sale, rights group says",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-puts-gaza-mosque-crescent-finial-sale-rights-group-says",
+   "date": "2026-11-22T06:12:38.000Z"
+  },
+  {
+   "headline": "World Central Kitchen founder says three killed in Gaza strike 'not part of our team'",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/world-central-kitchen-founder-says-three-killed-gaza-strike-not-part-our",
+   "date": "2026-11-22T05:48:18.000Z"
+  },
+  {
+   "headline": "Two Palestinians succumb to wounds sustained in Israeli strike on Gaza",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/two-palestinians-succumb-wounds-sustained-israeli-strike-gaza",
+   "date": "2026-11-22T05:23:19.000Z"
+  },
+  {
+   "headline": "Pro-Israel Hakeem Jeffries says he will push legislation targeting settler violence",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pro-israel-jeffries-says-he-will-push-legislation-targeting-settler",
+   "date": "2026-11-22T04:51:33.000Z"
+  },
+  {
+   "headline": "Former UN envoy says Iran war was 'perfectly avoidable'",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/former-un-envoy-says-iran-war-was-perfectly-avoidable",
+   "date": "2026-11-22T04:22:04.000Z"
+  },
+  {
+   "headline": "Turkey says Israel could use Druze support to launch Syria operation",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-says-israel-could-use-druze-support-launch-syria-operation",
+   "date": "2026-11-22T03:56:04.000Z"
+  },
+  {
+   "headline": "Bahrain says Iran struck industrial site as tankers hit in Hormuz",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/bahrain-says-iran-struck-industrial-site-tankers-hit-hormuz",
+   "date": "2026-11-22T03:30:22.000Z"
+  },
+  {
+   "headline": "Bahrain accuses Iran of striking industrial site as tankers hit in Hormuz",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261122-bahrain-accuses-iran-of-striking-industrial-site-as-tankers-hit-in-hormuz",
+   "date": "2026-11-22T03:24:14.000Z"
+  },
+  {
+   "headline": "Turkish foreign minister says Iran war fallout threatening global markets",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/turkish-foreign-minister-says-iran-war-fallout-threatening-global",
+   "date": "2026-11-22T03:18:23.000Z"
+  },
+  {
+   "headline": "Israeli occupation, Iranian interference threat to Lebanese sovereignty, Aoun says",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-occupation-iranian-interference-threat-lebanese-sovereignty-aoun",
+   "date": "2026-11-22T02:38:38.000Z"
+  },
+  {
+   "headline": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
+   "date": "2026-11-22T02:14:18.000Z"
+  },
+  {
+   "headline": "Pezeshkian says Iran engaged in 'silent economic war' as blockade completes 130 days",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/pezeshkian-says-iran-engaged-silent-economic-war-blockade-completes-130",
+   "date": "2026-11-22T02:09:24.000Z"
+  },
+  {
+   "headline": "Bessent confirms he’s living on US military base over Iran fears",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
+   "date": "2026-11-22T02:05:50.000Z"
+  },
+  {
+   "headline": "Israeli settlers attack Palestinian homes in Hebron, Ramallah, set fire to vehicles",
    "source": "Middle East Eye",
    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-attack-palestinian-homes-hebron-ramallah",
    "date": "2026-11-22T01:35:25.000Z"
@@ -83,22 +215,10 @@
    "date": "2026-11-22T00:04:17.000Z"
   },
   {
-   "headline": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
-   "date": "2026-11-21T23:59:03.000Z"
-  },
-  {
-   "headline": "COP31 climate talks close to final deal, says summit president",
+   "headline": "COP31 climate deal hangs in the balance as time runs out",
    "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/cop31-climate-talks-close-final-deal-says-summit-president",
+   "link": "https://www.al-monitor.com/originals/2026/11/cop31-climate-deal-hangs-balance-time-runs-out",
    "date": "2026-11-21T23:46:26.000Z"
-  },
-  {
-   "headline": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
-   "date": "2026-11-21T23:44:00.000Z"
   },
   {
    "headline": "Houthis deny threat to Saudi Arabia’s holy city of Mecca",
@@ -107,70 +227,10 @@
    "date": "2026-11-21T23:39:48.000Z"
   },
   {
-   "headline": "Iran faces a ‘silent economic war’, says Iranian president",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
-   "date": "2026-11-21T23:18:14.000Z"
-  },
-  {
-   "headline": "Saudi-led coalition says it intercepted Houthi ballistic missile targeting western region",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepted-houthi-ballistic-missile-0",
-   "date": "2026-11-21T22:50:48.000Z"
-  },
-  {
-   "headline": "Eisenkot invites Netanyahu's party for Israeli coalition talks",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/eisenkot-invites-netanyahus-party-israeli-coalition-talks",
-   "date": "2026-11-21T22:02:47.000Z"
-  },
-  {
-   "headline": "Bahrain says Iranian attack hits industrial facility",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
-   "date": "2026-11-21T22:02:03.000Z"
-  },
-  {
-   "headline": "Bahrain says Iranian attack causes fire at industrial facility",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
-   "date": "2026-11-21T21:31:03.000Z"
-  },
-  {
-   "headline": "Impunity fuels surge in settler violence across occupied West Bank",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
-   "date": "2026-11-21T21:11:54.000Z"
-  },
-  {
-   "headline": "Iran says held talks with Qatari mediators, urges US to accept conditions",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
-   "date": "2026-11-21T20:56:35.000Z"
-  },
-  {
    "headline": "Eisenkot invites Netanyahu’s party for ‘marathon’ Israeli coalition talks",
    "source": "France 24 Middle East",
    "link": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
    "date": "2026-11-21T20:49:04.000Z"
-  },
-  {
-   "headline": "Iranian media reports IRGC attacked two US bases in Bahrain",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-reports-irgc-attacked-two-us-bases-bahrain",
-   "date": "2026-11-21T20:40:30.000Z"
-  },
-  {
-   "headline": "Bahrain says Iran struck civilian industrial facility, sparking fire",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrain-says-iran-struck-civilian-industrial-facility-sparking-fire",
-   "date": "2026-11-21T20:13:46.000Z"
-  },
-  {
-   "headline": "Houthi attacks kill one civilian and injure seven in Taiz, Yemen government says",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-attacks-kill-one-civilian-killed-injure-seven-injured-taiz-yemen",
-   "date": "2026-11-21T20:03:36.000Z"
   },
   {
    "headline": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout",
@@ -179,52 +239,10 @@
    "date": "2026-11-21T19:43:52.000Z"
   },
   {
-   "headline": "Bahrain's interior ministry issues warning of potential threat",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/bahrains-interior-ministry-issues-warning-potential-threat",
-   "date": "2026-11-21T19:12:47.000Z"
-  },
-  {
-   "headline": "Houthi attacks killed 215 children since August, Yemen government says",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-attacks-killed-215-children-august-yemen-government-says",
-   "date": "2026-11-21T18:20:55.000Z"
-  },
-  {
-   "headline": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
-   "date": "2026-11-21T18:05:51.000Z"
-  },
-  {
-   "headline": "Israeli strike hits food aid vehicle in Gaza, killing three",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
-   "date": "2026-11-21T17:54:19.000Z"
-  },
-  {
-   "headline": "Qatari delegation visits Tehran for talks, Iran says",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/qatari-delegation-visits-tehran-talks-iran-says",
-   "date": "2026-11-21T17:31:59.000Z"
-  },
-  {
-   "headline": "Saudi-led coalition carried out 71 strikes in 24 hours, Houthis say",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-carried-out-71-strikes-24-hours-houthis-say",
-   "date": "2026-11-21T17:00:49.000Z"
-  },
-  {
    "headline": "US denies Iranian account that missile damaged F-16 over Gulf",
    "source": "Al-Monitor",
    "link": "https://www.al-monitor.com/originals/2026/11/us-denies-iranian-account-missile-damaged-f-16-over-gulf",
    "date": "2026-11-21T16:46:27.000Z"
-  },
-  {
-   "headline": "Iran says it will take ‘any measure’ to break US blockade",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-it-will-take-any-measure-break-us-blockade",
-   "date": "2026-11-21T16:34:04.000Z"
   },
   {
    "headline": "UK man swims in Strait of Hormuz to highlight environmental damage",
@@ -233,40 +251,10 @@
    "date": "2026-11-21T16:30:21.000Z"
   },
   {
-   "headline": "After outages hit US banks and aviation, FBI database reported hacked",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/news/after-outages-hit-us-banks-and-aviation-fbi-database-reported-hacked",
-   "date": "2026-11-21T16:23:26.000Z"
-  },
-  {
-   "headline": "'Will throw keys back to UN': Trump-appointed Board of Peace adviser says Israel blocking efforts",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/will-throw-keys-back-un-trump-appointed-board-peace-adviser-says-israel",
-   "date": "2026-11-21T16:03:35.000Z"
-  },
-  {
    "headline": "Endurance athlete swims in Hormuz Strait",
    "source": "France 24 Middle East",
    "link": "https://www.france24.com/en/endurance-athlete-swims-in-hormuz-strait",
    "date": "2026-11-21T16:02:59.000Z"
-  },
-  {
-   "headline": "Trump claims he 'never cared' about regime change in Iran",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-claims-he-never-cared-about-regime-change-iran",
-   "date": "2026-11-21T15:50:11.000Z"
-  },
-  {
-   "headline": "US denies Iran hit F-16 fighter jet",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-denies-iran-hit-f-16-fighter-jet",
-   "date": "2026-11-21T15:29:28.000Z"
-  },
-  {
-   "headline": "'Will throw keys back to UN': Trump-appointed Board of Peace adviser says Israel blocking efforts",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/news/board-peace-adviser-warns-israel-it-could-hand-keys-gaza-un-over-stalled-talks",
-   "date": "2026-11-21T15:03:47.000Z"
   },
   {
    "headline": "Israeli strike on vehicle in Gaza kills three, Gaza Health Ministry says",
@@ -345,12 +333,6 @@
    "source": "Al-Monitor",
    "link": "https://www.al-monitor.com/originals/2026/11/us-would-welcome-un-leader-latin-america-says-waltz-amid-gridlock",
    "date": "2026-11-20T19:18:52.000Z"
-  },
-  {
-   "headline": "How war shifted Iran's missile ambitions beyond the Middle East",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/how-war-shifted-irans-missile-ambitions-beyond-middle-east",
-   "date": "2026-11-20T19:07:19.000Z"
   },
   {
    "headline": "Yemen's Houthis target Riyadh after Saudi coalition's 'special operation'",
@@ -687,12 +669,6 @@
    "source": "France 24 Middle East",
    "link": "https://www.france24.com/en/middle-east/20261115-iran-claims-attack-on-us-military-airbase-in-bahrain",
    "date": "2026-11-15T09:57:35.000Z"
-  },
-  {
-   "headline": "Three sentenced to death over Jordan church attack",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/middle-east/20261115-three-sentenced-to-death-over-jordan-church-attack",
-   "date": "2026-11-15T08:53:39.000Z"
   },
   {
    "headline": "Israel kills Hamas commander in strike on Gaza camp, officials say",
