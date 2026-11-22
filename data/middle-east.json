@@ -2,11 +2,11 @@
  "schemaVersion": 1,
  "map": "middle-east",
  "meta": {
-  "lastUpdated": "2026-11-21T06:41:42-05:00",
-  "coverage": "2026-10-06 to 2026-11-21",
+  "lastUpdated": "2026-11-22T06:41:31-05:00",
+  "coverage": "2026-10-06 to 2026-11-22",
   "notes": [
-   "Refreshed 2026-11-21 (about 07:00 Toronto) from Al Jazeera, Al-Monitor (Reuters copy), France 24, Middle East Eye (incl. UKMTO weekly report), UN OCHA oPt situation report of Nov 18, the Houthi military spokesman Telegram (army21ye) and the Gaza health ministry Telegram (MOHMediaGaza).",
-   "Not read: UKMTO site (403), ISW/CTP, IDF and CENTCOM X posts (web search returned no usable posts, nothing via the embed service), Tasnim Telegram (empty preview), Times of Israel. Lebanon and Syria not refreshed: no new reporting found in the leads.",
+   "Refreshed 2026-11-22 (about 07:30 Toronto) from France 24, Al-Monitor (Reuters copy), Al Jazeera, Middle East Eye, Critical Threats/ISW Iran Update of Nov 21, the OCHA oPt page (latest report still Nov 18), the Gaza health ministry Telegram (MOHMediaGaza) and the Houthi military spokesman Telegram (army21ye).",
+   "Not read: UKMTO site (403), understandingwar.org (403), IDF and CENTCOM X posts (not found via search/embed; CENTCOM denial read via Al-Monitor), Tasnim Telegram. Lebanon and Syria not refreshed: no new reporting found in the leads. Houthi post 4136 (denies threat to Mecca) read but not added as an event.",
    "Marker positions are approximate (see coordPrecision)."
   ]
  },
@@ -3623,6 +3623,154 @@
     }
    ],
    "read": "full"
+  },
+  {
+   "id": "khasab-1121",
+   "date": "2026-11-21",
+   "region": "gulf",
+   "oblast": "Strait of Hormuz",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "naval",
+   "status": "UNVERIFIED",
+   "title": "UKMTO reports two tankers hit by projectiles near Khasab, one in the engine room",
+   "caption": "Critical Threats/ISW says UKMTO reported two projectile attacks on tankers: one hit an engine room 17 nm east of Khasab, Oman, the other a vessel's stern 11 nm north of Khasab. France 24 reports no casualties at the time of the UKMTO report. The Iranian army separately said a ship that entered a restricted zone caught fire after hitting a mine, which may or may not be one of these. No attacker was named and the exact dates were not stated. Marker is at Khasab.",
+   "lat": 26.1799,
+   "lon": 56.2477,
+   "coordPrecision": "approx",
+   "place": "Khasab",
+   "sources": [
+    {
+     "id": "ctp_1121",
+     "title": "Critical Threats / ISW, Iran Update, Nov 21, 2026",
+     "url": "https://www.criticalthreats.org/analysis/iran-update-november-21-2026"
+    },
+    {
+     "id": "fr24_1122_bahrain",
+     "title": "France 24, Bahrain accuses Iran of striking industrial site as tankers hit in Hormuz, Nov 22",
+     "url": "https://www.france24.com/en/middle-east/20261122-bahrain-accuses-iran-of-striking-industrial-site-as-tankers-hit-in-hormuz"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "bandar-abbas-1121",
+   "date": "2026-11-21",
+   "region": "iran-war",
+   "oblast": "Iran (Gulf)",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "other",
+   "status": "DISPUTED",
+   "title": "Iran says a missile damaged a US F-16 over the Gulf; CENTCOM says no attack happened",
+   "caption": "Iranian state media said air defences hit a US F-16 on Friday evening, which it said aborted its mission and landed at a nearby airport. CENTCOM denied it on Saturday: \"Iran did not attack a US F-16 fighter aircraft yesterday - at all\", adding that all US fighters were accounted for. The location was not given; marker is a regional placeholder.",
+   "lat": 27.1865,
+   "lon": 56.2808,
+   "coordPrecision": "oblast",
+   "place": "Bandar Abbas",
+   "sources": [
+    {
+     "id": "am_1121_f16",
+     "title": "Al-Monitor, US denies Iranian account that missile damaged F-16 over Gulf, Nov 21",
+     "url": "https://www.al-monitor.com/originals/2026/11/us-denies-iranian-account-missile-damaged-f-16-over-gulf"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Iran (state media)",
+     "says": "Air defences hit a US F-16, which landed damaged.",
+     "source": "am_1121_f16"
+    },
+    {
+     "who": "US (CENTCOM)",
+     "says": "No attack on an F-16 took place; all fighters accounted for.",
+     "source": "am_1121_f16"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "gaza-1121",
+   "date": "2026-11-21",
+   "region": "gaza",
+   "oblast": "Gaza Strip",
+   "front": "Gaza & West Bank",
+   "type": "airstrike",
+   "status": "DISPUTED",
+   "title": "Israeli strike on a van in Gaza City kills three; Israel says it targeted Islamic Jihad, WCK says the vehicle was not its",
+   "caption": "Reuters (via Al-Monitor) reports an Israeli strike on a vehicle in Gaza City killed three, per the Gaza Health Ministry. Israel's military said it targeted Islamic Jihad militants and that the vehicle was carrying food to the group; Reuters could not verify this. World Central Kitchen said the truck was not its, though one occupant had worked for it; witnesses and Reuters video showed WCK-logo papers on meals inside. Al Jazeera dates a similar strike Nov 22.",
+   "lat": 31.5016,
+   "lon": 34.4667,
+   "coordPrecision": "city",
+   "place": "Gaza",
+   "sources": [
+    {
+     "id": "am_1121_wck",
+     "title": "Al-Monitor (Reuters), Israeli strike on vehicle in Gaza kills three, Gaza Health Ministry says, Nov 21",
+     "url": "https://www.al-monitor.com/originals/2026/11/israeli-strike-vehicle-gaza-kills-three-gaza-health-ministry-says"
+    },
+    {
+     "id": "aj_1122_gaza",
+     "title": "Al Jazeera, Displaced Palestinians protest as Israeli air strikes continue in Gaza, Nov 22",
+     "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Israeli military",
+     "says": "Targeted Islamic Jihad militants; vehicle carried food to them.",
+     "source": "am_1121_wck"
+    },
+    {
+     "who": "Gaza Health Ministry",
+     "says": "Three killed.",
+     "source": "am_1121_wck"
+    },
+    {
+     "who": "World Central Kitchen",
+     "says": "Truck not affiliated with it; one occupant a former worker.",
+     "source": "am_1121_wck"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "sitra-1122",
+   "date": "2026-11-22",
+   "region": "gulf",
+   "oblast": "Bahrain",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "missile",
+   "status": "DISPUTED",
+   "title": "Bahrain says Iran struck a civilian industrial site; the IRGC says it hit radars at two US bases",
+   "caption": "Bahrain's interior ministry said Iran struck a civilian industrial facility, causing a fire and damage but no casualties; residents reported smoke over Sitra Island, which hosts a Bapco refinery. The IRGC said it hit US positions at the Al-Riffa and Awali bases with missiles and drones and struck two Patriot radars. The UAE condemned the attack. No independent confirmation of the target was read. Marker is at Sitra, not the site.",
+   "lat": 26.1547,
+   "lon": 50.6206,
+   "coordPrecision": "approx",
+   "place": "Sitra",
+   "sources": [
+    {
+     "id": "fr24_1122_bahrain",
+     "title": "France 24, Bahrain accuses Iran of striking industrial site as tankers hit in Hormuz, Nov 22",
+     "url": "https://www.france24.com/en/middle-east/20261122-bahrain-accuses-iran-of-striking-industrial-site-as-tankers-hit-in-hormuz"
+    },
+    {
+     "id": "mee_1122_uae",
+     "title": "Middle East Eye live blog, UAE condemns Iranian attack on Bahrain, Nov 22",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-condemns-iranian-attack-bahrain"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Bahrain (interior ministry)",
+     "says": "Iran struck a civilian industrial facility; fire, no casualties.",
+     "source": "fr24_1122_bahrain"
+    },
+    {
+     "who": "Iran (IRGC)",
+     "says": "Targeted US positions at Al-Riffa and Awali; two Patriot radars hit.",
+     "source": "fr24_1122_bahrain"
+    }
+   ],
+   "read": "full"
   }
  ],
  "lanes": [
@@ -3630,8 +3778,18 @@
    "id": "hormuz-lane",
    "name": "Strait of Hormuz",
    "status": "DISPUTED",
-   "text": "Restricted since Feb 28. Nov 21: UKMTO's weekly report (via Middle East Eye) counts six attacks on commercial vessels in the week (four in Hormuz, two in the Arabian Gulf); transits 115 outbound and 148 inbound in the week to Nov 18, about 65% below pre-war. Nov 21: Iran's IRGC says it downed a US MQ-9 over Hormuz (no US comment). Nov 19: Iran's army said three tankers hit mines east of the strait; no independent confirmation. Nov 20: Araghchi says the strait stays shut until Iran's seven conditions are met. The US says routes are cleared and the strait is open. The UN says at least 25 seafarers have died since February.",
+   "text": "Restricted since Feb 28. Nov 22: UKMTO reported two tankers hit by projectiles near Khasab, one in the engine room (via Critical Threats and France 24); Iran's army said a ship hit a mine after entering a restricted zone. Nov 22: Bahrain says Iran struck an industrial site; the IRGC says it hit US bases. Nov 21: UKMTO's weekly report (via Middle East Eye) counts six attacks on commercial vessels in the week (four in Hormuz, two in the Arabian Gulf); transits 115 outbound and 148 inbound in the week to Nov 18, about 65% below pre-war. Nov 21: Iran's IRGC says it downed a US MQ-9 over Hormuz (no US comment). Nov 19: Iran's army said three tankers hit mines east of the strait; no independent confirmation. Nov 20: Araghchi says the strait stays shut until Iran's seven conditions are met. The US says routes are cleared and the strait is open. The UN says at least 25 seafarers have died since February.",
    "sources": [
+    {
+     "id": "ctp_1121",
+     "title": "Critical Threats / ISW, Iran Update, Nov 21, 2026",
+     "url": "https://www.criticalthreats.org/analysis/iran-update-november-21-2026"
+    },
+    {
+     "id": "fr24_1122_bahrain",
+     "title": "France 24, Bahrain accuses Iran of striking industrial site as tankers hit in Hormuz, Nov 22",
+     "url": "https://www.france24.com/en/middle-east/20261122-bahrain-accuses-iran-of-striking-industrial-site-as-tankers-hit-in-hormuz"
+    },
     {
      "id": "mee_1116_projectile",
      "title": "Middle East Eye live blog, Vessel struck by 'unknown projectile' in Hormuz Strait, Nov 16",
@@ -3813,36 +3971,36 @@
   {
    "label": "Gaza: killed since Oct 2023",
    "category": "casualties",
-   "asOf": "2026-10-29",
-   "asOfNote": "Oct 29, 2026",
+   "asOf": "2026-11-22",
+   "asOfNote": "Nov 22, 2026",
    "status": "DISPUTED",
    "rows": [
     {
-     "who": "Gaza health authorities (via Wafa)",
-     "value": "74,570 killed, 175,808 injured (does not separate fighters)"
+     "who": "Gaza health ministry (Telegram)",
+     "value": "74,742 killed, 176,227 injured (does not separate fighters)",
+     "source": "tg_mohgaza_7744"
     },
     {
      "who": "Israeli military",
      "value": "No comparable total; says many killed were fighters"
     }
    ],
-   "note": "MoH figure was 74,561 on Oct 27 and 74,382 on Oct 12. MoH: 6 killed, 38 injured in the 24 hours to Oct 29.",
+   "note": "MoH figure was 74,570 on Oct 29. Cumulative total as posted on Nov 22.",
    "sources": [
-    "wafa_1029",
-    "aj_1029"
+    "tg_mohgaza_7744"
    ]
   },
   {
    "label": "Gaza: killed since the Oct 10, 2025 ceasefire",
    "category": "casualties",
-   "asOf": "2026-11-21",
-   "asOfNote": "Nov 21, 2026 (Gaza health ministry Telegram; OCHA to Nov 16)",
+   "asOf": "2026-11-22",
+   "asOfNote": "Nov 22, 2026 (Gaza health ministry Telegram; OCHA to Nov 16)",
    "status": "DISPUTED",
    "rows": [
     {
-     "who": "Gaza health ministry (Telegram, Nov 21)",
-     "value": "1,671 killed and 6,062 injured since the ceasefire; 9 killed and 55 injured in the 48 hours to Nov 21",
-     "source": "tg_mohgaza_7733"
+     "who": "Gaza health ministry (Telegram, Nov 22)",
+     "value": "1,675 killed, 6,095 injured since the ceasefire; 851 bodies recovered; 6 killed (4 new, 2 recovered) and 33 injured in the 24 hours to Nov 22",
+     "source": "tg_mohgaza_7744"
     },
     {
      "who": "Gaza health ministry (via UN OCHA, report of Nov 18)",
@@ -3865,10 +4023,11 @@
    ],
    "note": "UN verification lags; counts cover different periods. The Israeli military row dates from Nov 11 (Reuters).",
    "sources": [
-    "tg_mohgaza_7733",
+    "tg_mohgaza_7744",
     "ocha_1118",
     "bbc_1119_gaza",
-    "ocha_1015"
+    "ocha_1015",
+    "tg_mohgaza_7733"
    ]
   },
   {
@@ -4999,6 +5158,46 @@
    "id": "ocha_1118",
    "title": "UN OCHA oPt, Humanitarian situation report, Nov 18 (period Nov 10-16)",
    "url": "https://www.ochaopt.org/content/humanitarian-situation-report-18-november-2026"
+  },
+  {
+   "id": "fr24_1122_bahrain",
+   "title": "France 24, Bahrain accuses Iran of striking industrial site as tankers hit in Hormuz, Nov 22",
+   "url": "https://www.france24.com/en/middle-east/20261122-bahrain-accuses-iran-of-striking-industrial-site-as-tankers-hit-in-hormuz"
+  },
+  {
+   "id": "mee_1122_uae",
+   "title": "Middle East Eye live blog, UAE condemns Iranian attack on Bahrain, Nov 22",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-condemns-iranian-attack-bahrain"
+  },
+  {
+   "id": "ctp_1121",
+   "title": "Critical Threats / ISW, Iran Update, Nov 21, 2026",
+   "url": "https://www.criticalthreats.org/analysis/iran-update-november-21-2026"
+  },
+  {
+   "id": "am_1121_wck",
+   "title": "Al-Monitor (Reuters), Israeli strike on vehicle in Gaza kills three, Gaza Health Ministry says, Nov 21",
+   "url": "https://www.al-monitor.com/originals/2026/11/israeli-strike-vehicle-gaza-kills-three-gaza-health-ministry-says"
+  },
+  {
+   "id": "am_1121_f16",
+   "title": "Al-Monitor, US denies Iranian account that missile damaged F-16 over Gulf, Nov 21",
+   "url": "https://www.al-monitor.com/originals/2026/11/us-denies-iranian-account-missile-damaged-f-16-over-gulf"
+  },
+  {
+   "id": "aj_1122_gaza",
+   "title": "Al Jazeera, Displaced Palestinians protest as Israeli air strikes continue in Gaza, Nov 22",
+   "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza"
+  },
+  {
+   "id": "tg_mohgaza_7744",
+   "title": "Gaza Ministry of Health Telegram (MOHMediaGaza), post 7744, Nov 22",
+   "url": "https://t.me/MOHMediaGaza/7744"
+  },
+  {
+   "id": "tg_army21ye_4136",
+   "title": "Houthi military spokesman Telegram (army21ye), post 4136, Nov 21",
+   "url": "https://t.me/army21ye/4136"
   }
  ]
 }
