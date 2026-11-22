@@ -2,6 +2,18 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-22 06:41 Toronto — Middle East — OK
+- Added 4 event(s):
+  - `sitra-1122` 2026-11-22 [DISPUTED] Bahrain says Iran struck a civilian industrial site; the IRGC says it hit radars at two US bases
+  - `khasab-1121` 2026-11-21 [UNVERIFIED] UKMTO reports two tankers hit by projectiles near Khasab, one in the engine room
+  - `bandar-abbas-1121` 2026-11-21 [DISPUTED] Iran says a missile damaged a US F-16 over the Gulf; CENTCOM says no attack happened
+  - `gaza-1121` 2026-11-21 [DISPUTED] Israeli strike on a van in Gaza City kills three; Israel says it targeted Islamic Jihad, WCK says the vehicle was not its
+- Stats: 2 updated, 0 added
+- Lanes: 1 updated
+- 8 new source link(s)
+- Totals: 111 events, 18 stats, 171 sources; coverage 2026-10-06 to 2026-11-22
+- warning: source "tg_army21ye_4136" is not used by any event or stat
+
 ## 2026-11-22 06:04 Toronto — Ukraine — OK
 - Added 9 event(s):
   - `kryvyi-rih-1121` 2026-11-21 [CONFIRMED] Ballistic missile and drone strikes on Kryvyi Rih kill two, injure 73
