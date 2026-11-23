@@ -2,6 +2,16 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-23 06:04 Toronto — Ukraine — OK
+- Added 4 event(s):
+  - `vyshneve-1122` 2026-11-22 [CONFIRMED] Drone strike on Novus supermarket in Vyshneve kills three, injures 15
+  - `novoshakhtinsk-1123` 2026-11-23 [UNVERIFIED] Novoshakhtinsk oil products plant reportedly burning after Ukrainian drone attack
+  - `dnipro-1123` 2026-11-23 [ONE_PARTY] Russia's MoD claims drone hit on 330 kV substation in Dnipro
+  - `izmail-1123` 2026-11-23 [ONE_PARTY] Russia's MoD claims drone strikes on Izmail port and a cargo ship SW of Odesa
+- Stats: 0 updated, 2 added
+- 5 new source link(s)
+- Totals: 195 events, 60 stats, 331 sources; coverage 2026-10-10 to 2026-11-23
+
 ## 2026-11-22 06:41 Toronto — Middle East — OK
 - Added 4 event(s):
   - `sitra-1122` 2026-11-22 [DISPUTED] Bahrain says Iran struck a civilian industrial site; the IRGC says it hit radars at two US bases
