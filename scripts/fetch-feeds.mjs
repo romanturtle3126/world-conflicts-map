@@ -41,7 +41,7 @@ const FEEDS = {
       // Official channels: each party's own claims. Handles checked 2026-11-20; if one dies, its status shows ok:false.
       { name: "IDF (Telegram)", party: "Israel (IDF)", type: "telegram", channel: "idfofficial", filter: false },
       { name: "State of Israel / PMO (Telegram)", party: "Israel (government)", type: "telegram", channel: "StateofIsraelOfficial", filter: false },
-      { name: "US CENTCOM press releases", party: "United States (CENTCOM)", type: "html", url: "https://www.centcom.mil/MEDIA/PRESS-RELEASES/", linkPattern: "/MEDIA/PRESS-RELEASES/Press-Release-View/Article/\\d+/[^\"'#?]+", filter: false },
+      { name: "US CENTCOM press releases", party: "United States (CENTCOM)", url: "https://www.dvidshub.net/rss/unit/72?type=news", filter: false },
       { name: "Gaza Ministry of Health (Telegram)", party: "Gaza (Ministry of Health)", type: "telegram", channel: "MOHMediaGaza", filter: false },
       { name: "Houthi military spokesman (Telegram)", party: "Houthis (Yemeni Armed Forces)", type: "telegram", channel: "army21ye", filter: false },
       { name: "Tasnim English (Telegram)", party: "Iran (IRGC-affiliated Tasnim)", type: "telegram", channel: "Tasnimnews_en", filter: true },
