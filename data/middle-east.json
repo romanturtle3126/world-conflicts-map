@@ -2,11 +2,11 @@
  "schemaVersion": 1,
  "map": "middle-east",
  "meta": {
-  "lastUpdated": "2026-11-22T06:41:31-05:00",
-  "coverage": "2026-10-06 to 2026-11-22",
+  "lastUpdated": "2026-11-23T06:41:47-05:00",
+  "coverage": "2026-10-06 to 2026-11-23",
   "notes": [
-   "Refreshed 2026-11-22 (about 07:30 Toronto) from France 24, Al-Monitor (Reuters copy), Al Jazeera, Middle East Eye, Critical Threats/ISW Iran Update of Nov 21, the OCHA oPt page (latest report still Nov 18), the Gaza health ministry Telegram (MOHMediaGaza) and the Houthi military spokesman Telegram (army21ye).",
-   "Not read: UKMTO site (403), understandingwar.org (403), IDF and CENTCOM X posts (not found via search/embed; CENTCOM denial read via Al-Monitor), Tasnim Telegram. Lebanon and Syria not refreshed: no new reporting found in the leads. Houthi post 4136 (denies threat to Mecca) read but not added as an event.",
+   "Refreshed 2026-11-23 (about 07:00 UTC) from Middle East Eye, Al-Monitor (Reuters/AFP copy), France 24, Critical Threats/ISW Iran Update of Nov 22, the Houthi military spokesman Telegram (army21ye), Gaza Ministry of Health Telegram (MOHMediaGaza) and State of Israel/IDF Telegram.",
+   "Not read: UKMTO site (403), CENTCOM press releases (403 in the feed) and CENTCOM/IDF X posts (not searched successfully), Tasnim and IRNA items not matched to a new event, OCHA oPt (latest report still Nov 18). Brent price not refreshed. Syria and Iraq not refreshed: no new reporting found in the leads.",
    "Marker positions are approximate (see coordPrecision)."
   ]
  },
@@ -3696,7 +3696,7 @@
    "type": "airstrike",
    "status": "DISPUTED",
    "title": "Israeli strike on a van in Gaza City kills three; Israel says it targeted Islamic Jihad, WCK says the vehicle was not its",
-   "caption": "Reuters (via Al-Monitor) reports an Israeli strike on a vehicle in Gaza City killed three, per the Gaza Health Ministry. Israel's military said it targeted Islamic Jihad militants and that the vehicle was carrying food to the group; Reuters could not verify this. World Central Kitchen said the truck was not its, though one occupant had worked for it; witnesses and Reuters video showed WCK-logo papers on meals inside. Al Jazeera dates a similar strike Nov 22.",
+   "caption": "Reuters (via Al-Monitor) reports an Israeli strike on a vehicle in Gaza City killed three, per the Gaza Health Ministry. Israel's military said it targeted Islamic Jihad militants and that the vehicle was carrying food to the group; Reuters could not verify this. World Central Kitchen said the truck was not its, though one occupant had worked for it; witnesses and Reuters video showed WCK-logo papers on meals inside. Al Jazeera dates a similar strike Nov 22. On Nov 22 the Israeli military named three men it says were Islamic Jihad members, including an engineering-unit company commander, on a reconnaissance tour, and said one was a former aid-group worker dismissed after the IDF gave the group information on him; Israel's foreign ministry said the group confirmed the vehicle was not its. Not independently verified.",
    "lat": 31.5016,
    "lon": 34.4667,
    "coordPrecision": "city",
@@ -3711,6 +3711,16 @@
      "id": "aj_1122_gaza",
      "title": "Al Jazeera, Displaced Palestinians protest as Israeli air strikes continue in Gaza, Nov 22",
      "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza"
+    },
+    {
+     "id": "tg_isr_6348",
+     "title": "State of Israel / IDF (Telegram), IDF names the three men struck in northern Gaza, Nov 22",
+     "url": "https://t.me/StateofIsraelOfficial/6348"
+    },
+    {
+     "id": "tg_isr_6347",
+     "title": "Israel MFA (Telegram), says IDF targeted three Islamic Jihad members, Nov 22",
+     "url": "https://t.me/StateofIsraelOfficial/6347"
     }
    ],
    "claims": [
@@ -3728,6 +3738,11 @@
      "who": "World Central Kitchen",
      "says": "Truck not affiliated with it; one occupant a former worker.",
      "source": "am_1121_wck"
+    },
+    {
+     "who": "Israeli military / foreign ministry",
+     "says": "Named three Islamic Jihad members; none were WCK employees.",
+     "source": "tg_isr_6348"
     }
    ],
    "read": "full"
@@ -3741,7 +3756,7 @@
    "type": "missile",
    "status": "DISPUTED",
    "title": "Bahrain says Iran struck a civilian industrial site; the IRGC says it hit radars at two US bases",
-   "caption": "Bahrain's interior ministry said Iran struck a civilian industrial facility, causing a fire and damage but no casualties; residents reported smoke over Sitra Island, which hosts a Bapco refinery. The IRGC said it hit US positions at the Al-Riffa and Awali bases with missiles and drones and struck two Patriot radars. The UAE condemned the attack. No independent confirmation of the target was read. Marker is at Sitra, not the site.",
+   "caption": "Bahrain's interior ministry said an Iranian strike hit a civilian industrial facility, wounding two people: a Bahraini man in stable condition and a Pakistani resident in critical condition. Residents reported smoke over Sitra Island, which hosts a Bapco refinery. The IRGC said it fired missiles and drones at US Patriot systems at the Al-Riffa and Awali bases, citing airspace violations. Saudi Arabia and the UAE condemned the attack. No independent confirmation of the target was read. Marker is at Sitra, not the site.",
    "lat": 26.1547,
    "lon": 50.6206,
    "coordPrecision": "approx",
@@ -3756,6 +3771,11 @@
      "id": "mee_1122_uae",
      "title": "Middle East Eye live blog, UAE condemns Iranian attack on Bahrain, Nov 22",
      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/uae-condemns-iranian-attack-bahrain"
+    },
+    {
+     "id": "am_1122_bahrain",
+     "title": "Al-Monitor, Iran strike wounds two in Bahrain, Saudi condemns 'criminal' attacks, Nov 22",
+     "url": "https://www.al-monitor.com/originals/2026/11/iran-strike-wounds-two-bahrain-saudi-condemns-criminal-attacks"
     }
    ],
    "claims": [
@@ -3768,6 +3788,230 @@
      "who": "Iran (IRGC)",
      "says": "Targeted US positions at Al-Riffa and Awali; two Patriot radars hit.",
      "source": "fr24_1122_bahrain"
+    },
+    {
+     "who": "Bahrain (interior ministry)",
+     "says": "Two wounded, one critically.",
+     "source": "am_1122_bahrain"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "hodeidah-1122",
+   "date": "2026-11-22",
+   "region": "yemen",
+   "oblast": "Yemen (Hodeidah)",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "airstrike",
+   "status": "ONE_PARTY",
+   "title": "Houthi-affiliated media say a Saudi strike on Hodeidah killed four and wounded 18",
+   "caption": "Middle East Eye reports, citing Houthi-affiliated media, that a Saudi attack on the port city of Hodeidah killed at least four people and injured 18, hitting a building of Yemen's Public Telecommunications Corporation. No Saudi or coalition response and no independent confirmation was given. Separately the Houthi military spokesman said Saudi aircraft carried out 81 raids and missile strikes in 24 hours, including on Hodeidah. Marker is at Hodeidah city, not the building.",
+   "lat": 14.7978,
+   "lon": 42.9545,
+   "coordPrecision": "city",
+   "place": "Al Hudaydah",
+   "sources": [
+    {
+     "id": "mee_1123_hod",
+     "title": "Middle East Eye live blog, Saudi attack on Yemen's Hodeidah kills four, wounds 18, Nov 23",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-attack-yemens-hodeida-kills-four-wounds-18-others"
+    },
+    {
+     "id": "tg_army21ye_4140",
+     "title": "Houthi military spokesman (Telegram), Saudi raids in past 24 hours, Nov 22",
+     "url": "https://t.me/army21ye/4140"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Houthi-affiliated media / Houthi military spokesman",
+     "says": "Saudi strike on Hodeidah killed four, wounded 18; 81 Saudi raids in 24 hours.",
+     "source": "mee_1123_hod"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "rabigh-1122",
+   "date": "2026-11-22",
+   "region": "gulf",
+   "oblast": "Saudi Arabia (Mecca Province)",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "missile",
+   "status": "ONE_PARTY",
+   "title": "Houthis claim hits on the Rabigh oil refinery and a radar in Riyadh province",
+   "caption": "The Houthi military spokesman said forces struck the Rabigh oil refinery directly and a radar in the Dawasir area in two phases. Critical Threats/ISW reports the claims, and that Saudi air defences intercepted two Houthi drones over Riyadh and the south on Nov 22 and a ballistic missile over western Saudi Arabia on Nov 21. No Saudi statement on damage at Rabigh was read, so the refinery hit is unconfirmed. Marker is at Rabigh.",
+   "lat": 22.7986,
+   "lon": 39.0349,
+   "coordPrecision": "approx",
+   "place": "Rabigh",
+   "sources": [
+    {
+     "id": "tg_army21ye_4139",
+     "title": "Houthi military spokesman (Telegram), claim on Rabigh refinery and Dawasir radar, Nov 22",
+     "url": "https://t.me/army21ye/4139"
+    },
+    {
+     "id": "ctp_1122",
+     "title": "Critical Threats / ISW, Iran Update, Nov 22, 2026",
+     "url": "https://www.criticalthreats.org/analysis/iran-update-november-22-2026"
+    },
+    {
+     "id": "am_1122_bahrain",
+     "title": "Al-Monitor, Iran strike wounds two in Bahrain, Saudi condemns 'criminal' attacks, Nov 22",
+     "url": "https://www.al-monitor.com/originals/2026/11/iran-strike-wounds-two-bahrain-saudi-condemns-criminal-attacks"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Houthi military spokesman",
+     "says": "Direct hit on the Rabigh refinery; radar in Dawasir hit.",
+     "source": "tg_army21ye_4139"
+    },
+    {
+     "who": "Saudi Arabia / coalition (via Al-Monitor)",
+     "says": "Intercepted a ballistic missile in the west (Nov 21) and two drones aimed at Riyadh and the south (Nov 22).",
+     "source": "am_1122_bahrain"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "khasab-1122",
+   "date": "2026-11-22",
+   "region": "gulf",
+   "oblast": "Strait of Hormuz",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "naval",
+   "status": "ONE_PARTY",
+   "title": "Iran's navy says two supertankers hit mines east of Hormuz; UKMTO reports a tanker incident in the Gulf of Oman",
+   "caption": "Iran's navy, via Fars, said two supertankers that entered a restricted area east of the strait hit mines north of Ghanam Island, caught fire and stopped, and that they had switched off navigation systems. Middle East Eye reports no casualties. UKMTO said it received a report of an incident involving a tanker and military forces in the Gulf of Oman and gave no details. Whether these are the same incident is unclear; the IRGC and army each also described tankers hitting mines. Marker is at Khasab, not the site.",
+   "lat": 26.1799,
+   "lon": 56.2477,
+   "coordPrecision": "oblast",
+   "place": "Khasab",
+   "sources": [
+    {
+     "id": "mee_1122_mines",
+     "title": "Middle East Eye live blog, Two supertankers hit mines near Hormuz, Iranian navy says, Nov 22",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-supertankers-hit-mines-near-hormuz-iranian-navy-says"
+    },
+    {
+     "id": "am_1122_bahrain",
+     "title": "Al-Monitor, Iran strike wounds two in Bahrain, Saudi condemns 'criminal' attacks, Nov 22",
+     "url": "https://www.al-monitor.com/originals/2026/11/iran-strike-wounds-two-bahrain-saudi-condemns-criminal-attacks"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Iran (navy, via Fars)",
+     "says": "Two tankers hit mines in a restricted area; both on fire.",
+     "source": "mee_1122_mines"
+    },
+    {
+     "who": "UKMTO",
+     "says": "Incident involving a tanker and military forces in the Gulf of Oman; investigating.",
+     "source": "mee_1122_mines"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "ramallah-1122",
+   "date": "2026-11-22",
+   "region": "westbank",
+   "oblast": "West Bank (Ramallah area)",
+   "front": "Gaza & West Bank",
+   "type": "unrest",
+   "status": "CONFIRMED",
+   "title": "Settlers set fire to vehicles and daub slogans in villages near Ramallah; Israeli military and police condemn it",
+   "caption": "France 24 (Reuters) reports Israeli settlers attacked Palestinian villages early on Nov 22, burning cars and painting slogans including \"Revenge\" and \"Death to Arabs\". The Israeli military named Deir as-Sudan, Deir Abu Masha'al, Kafr Malik and At-Tuwani. No injuries were reported and no group claimed responsibility. Police opened an investigation; the military condemned the violence and sent troops. Opposition leader Gadi Eisenkot called it \"Jewish terrorism\". Marker is at Kafr Malik.",
+   "lat": 31.9884,
+   "lon": 35.3093,
+   "coordPrecision": "approx",
+   "place": "Kafr Malik",
+   "sources": [
+    {
+     "id": "fr24_1122_settlers",
+     "title": "France 24, Israel's Eisenkot slams 'Jewish terrorism' after attacks by settlers in West Bank, Nov 22",
+     "url": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "jabalia-1122",
+   "date": "2026-11-22",
+   "region": "gaza",
+   "oblast": "Gaza Strip",
+   "front": "Gaza & West Bank",
+   "type": "other",
+   "status": "ONE_PARTY",
+   "title": "Wafa: two Palestinians killed by Israeli fire in Jabalia and east of Deir al-Balah",
+   "caption": "Middle East Eye, citing Wafa, reports one Palestinian shot dead by Israeli gunfire in Jabalia and another killed by a quadcopter drone strike east of Deir al-Balah on the evening of Nov 22. No Israeli military response was given and the victims were not named. Marker is at Jabalia.",
+   "lat": 31.5272,
+   "lon": 34.4835,
+   "coordPrecision": "approx",
+   "place": "Jabalia",
+   "sources": [
+    {
+     "id": "mee_1122_gaza",
+     "title": "Middle East Eye live blog, Two Palestinians killed by Israeli fire in northern and central Gaza, Nov 22",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-palestinians-killed-israeli-fire-northern-and-central-gaza"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "nabatieh-1122",
+   "date": "2026-11-22",
+   "region": "lebanon",
+   "oblast": "Lebanon (south)",
+   "front": "Lebanon & Syria",
+   "type": "ground",
+   "status": "ONE_PARTY",
+   "title": "Lebanon's NNA reports Israeli demolitions at Zawtar al-Sharqiyah, Kfar Tibnit and Qantara",
+   "caption": "Middle East Eye, citing Lebanon's National News Agency, reports Israeli forces blew up structures on the outskirts of Qantara, in Zawtar al-Sharqiyah and in Kfar Tibnit, with blasts heard across much of the south. No casualties were reported and no Israeli statement was read. Residents of Nabatieh al-Fawqa and Zawtar protested the Lebanese government's silence over the Israeli occupation of areas up to the Litani. Marker is at Nabatieh.",
+   "lat": 33.3789,
+   "lon": 35.4839,
+   "coordPrecision": "approx",
+   "place": "Nabatieh",
+   "sources": [
+    {
+     "id": "mee_1122_leb",
+     "title": "Middle East Eye live blog, Israel carries out more demolitions in southern Lebanon, Nov 22",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-carries-out-more-demolitions-southern-lebanon"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "tehran-1123",
+   "date": "2026-11-23",
+   "region": "iran-war",
+   "oblast": "Iran",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "diplomacy",
+   "status": "ONE_PARTY",
+   "title": "Iran says it will use \"all our tools\" against the US naval blockade; Hormuz reopens only if its conditions are met",
+   "caption": "Iranian Foreign Ministry spokesman Esmaeil Baghaei told a weekly briefing the US blockade is \"military aggression\" and Iran may use any tool to defend itself. He said Iran controls passage through Hormuz and could reopen it quickly if the US halts hostilities, lifts the blockade and waives sanctions. Reuters says the blockade began Apr 13, was lifted in June and restored Jul 14; visible Iranian crude exports are near zero. Marker is at Tehran.",
+   "lat": 35.6944,
+   "lon": 51.4215,
+   "coordPrecision": "city",
+   "place": "Tehran",
+   "sources": [
+    {
+     "id": "am_1123_blockade",
+     "title": "Al-Monitor (Reuters), Iran says it will use all its tools to confront US naval blockade, Nov 23",
+     "url": "https://www.al-monitor.com/originals/2026/11/iran-says-it-will-use-all-its-tools-confront-us-naval-blockade"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Iran (Foreign Ministry)",
+     "says": "Blockade is aggression; Hormuz reopens when US meets Iran's conditions.",
+     "source": "am_1123_blockade"
     }
    ],
    "read": "full"
@@ -3778,8 +4022,18 @@
    "id": "hormuz-lane",
    "name": "Strait of Hormuz",
    "status": "DISPUTED",
-   "text": "Restricted since Feb 28. Nov 22: UKMTO reported two tankers hit by projectiles near Khasab, one in the engine room (via Critical Threats and France 24); Iran's army said a ship hit a mine after entering a restricted zone. Nov 22: Bahrain says Iran struck an industrial site; the IRGC says it hit US bases. Nov 21: UKMTO's weekly report (via Middle East Eye) counts six attacks on commercial vessels in the week (four in Hormuz, two in the Arabian Gulf); transits 115 outbound and 148 inbound in the week to Nov 18, about 65% below pre-war. Nov 21: Iran's IRGC says it downed a US MQ-9 over Hormuz (no US comment). Nov 19: Iran's army said three tankers hit mines east of the strait; no independent confirmation. Nov 20: Araghchi says the strait stays shut until Iran's seven conditions are met. The US says routes are cleared and the strait is open. The UN says at least 25 seafarers have died since February.",
+   "text": "Nov 22: Iran's navy says two supertankers hit mines east of the strait and UKMTO reports a tanker incident with military forces in the Gulf of Oman (details unclear). Restricted since Feb 28. Nov 22: UKMTO reported two tankers hit by projectiles near Khasab, one in the engine room (via Critical Threats and France 24); Iran's army said a ship hit a mine after entering a restricted zone. Nov 22: Bahrain says Iran struck an industrial site; the IRGC says it hit US bases. Nov 21: UKMTO's weekly report (via Middle East Eye) counts six attacks on commercial vessels in the week (four in Hormuz, two in the Arabian Gulf); transits 115 outbound and 148 inbound in the week to Nov 18, about 65% below pre-war. Nov 21: Iran's IRGC says it downed a US MQ-9 over Hormuz (no US comment). Nov 19: Iran's army said three tankers hit mines east of the strait; no independent confirmation. Nov 20: Araghchi says the strait stays shut until Iran's seven conditions are met. The US says routes are cleared and the strait is open. The UN says at least 25 seafarers have died since February.",
    "sources": [
+    {
+     "id": "mee_1122_mines",
+     "title": "Middle East Eye live blog, Two supertankers hit mines near Hormuz, Iranian navy says, Nov 22",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-supertankers-hit-mines-near-hormuz-iranian-navy-says"
+    },
+    {
+     "id": "am_1123_blockade",
+     "title": "Al-Monitor (Reuters), Iran says it will use all its tools to confront US naval blockade, Nov 23",
+     "url": "https://www.al-monitor.com/originals/2026/11/iran-says-it-will-use-all-its-tools-confront-us-naval-blockade"
+    },
     {
      "id": "ctp_1121",
      "title": "Critical Threats / ISW, Iran Update, Nov 21, 2026",
@@ -3817,6 +4071,11 @@
     }
    ],
    "claims": [
+    {
+     "who": "Iran (Foreign Ministry, Nov 23)",
+     "says": "Hormuz reopens quickly if the US halts hostilities, lifts the blockade and waives sanctions.",
+     "source": "am_1123_blockade"
+    },
     {
      "who": "Iran (IRGC, army navy)",
      "says": "Tankers hit mines on unauthorised routes; Hormuz stays shut until the US meets Iran's conditions."
@@ -3871,8 +4130,18 @@
    "id": "red-sea-lane",
    "name": "Red Sea / Bab el-Mandeb",
    "status": "ONE_PARTY",
-   "text": "Contested. Houthi-Saudi fighting continues: the coalition hit Hodeidah port on Nov 19 and the Houthis fired at Riyadh and southern Saudi Arabia Nov 20-21 and threatened Jeddah and other Saudi Red Sea ports. UKMTO reports no ship attacks in the Red Sea since Aug 24, and Bab al-Mandab transits about 22% below levels before the Jul 22 Houthi blockade announcement (via Middle East Eye).",
+   "text": "Contested. Nov 22: the Houthis claimed strikes on the Rabigh refinery and a radar in Riyadh province, and Houthi-affiliated media say a Saudi strike on Hodeidah killed four. Contested. Houthi-Saudi fighting continues: the coalition hit Hodeidah port on Nov 19 and the Houthis fired at Riyadh and southern Saudi Arabia Nov 20-21 and threatened Jeddah and other Saudi Red Sea ports. UKMTO reports no ship attacks in the Red Sea since Aug 24, and Bab al-Mandab transits about 22% below levels before the Jul 22 Houthi blockade announcement (via Middle East Eye).",
    "sources": [
+    {
+     "id": "tg_army21ye_4139",
+     "title": "Houthi military spokesman (Telegram), claim on Rabigh refinery and Dawasir radar, Nov 22",
+     "url": "https://t.me/army21ye/4139"
+    },
+    {
+     "id": "mee_1123_hod",
+     "title": "Middle East Eye live blog, Saudi attack on Yemen's Hodeidah kills four, wounds 18, Nov 23",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-attack-yemens-hodeida-kills-four-wounds-18-others"
+    },
     {
      "id": "mee_1113_ukmto",
      "title": "Middle East Eye live blog, UKMTO says seven Hormuz tanker attacks recorded in a week, Nov 13-14",
@@ -3971,36 +4240,36 @@
   {
    "label": "Gaza: killed since Oct 2023",
    "category": "casualties",
-   "asOf": "2026-11-22",
-   "asOfNote": "Nov 22, 2026",
+   "asOf": "2026-11-23",
+   "asOfNote": "Nov 23, 2026",
    "status": "DISPUTED",
    "rows": [
     {
      "who": "Gaza health ministry (Telegram)",
-     "value": "74,742 killed, 176,227 injured (does not separate fighters)",
-     "source": "tg_mohgaza_7744"
+     "value": "74,746 killed, 176,234 injured (does not separate fighters)",
+     "source": "tg_mohgaza_7748"
     },
     {
      "who": "Israeli military",
      "value": "No comparable total; says many killed were fighters"
     }
    ],
-   "note": "MoH figure was 74,570 on Oct 29. Cumulative total as posted on Nov 22.",
+   "note": "MoH figure was 74,742 on Nov 22 and 74,570 on Oct 29. Cumulative total as posted on Nov 23.",
    "sources": [
-    "tg_mohgaza_7744"
+    "tg_mohgaza_7748"
    ]
   },
   {
    "label": "Gaza: killed since the Oct 10, 2025 ceasefire",
    "category": "casualties",
-   "asOf": "2026-11-22",
-   "asOfNote": "Nov 22, 2026 (Gaza health ministry Telegram; OCHA to Nov 16)",
+   "asOf": "2026-11-23",
+   "asOfNote": "Nov 23, 2026 (Gaza health ministry Telegram; OCHA to Nov 16)",
    "status": "DISPUTED",
    "rows": [
     {
-     "who": "Gaza health ministry (Telegram, Nov 22)",
-     "value": "1,675 killed, 6,095 injured since the ceasefire; 851 bodies recovered; 6 killed (4 new, 2 recovered) and 33 injured in the 24 hours to Nov 22",
-     "source": "tg_mohgaza_7744"
+     "who": "Gaza health ministry (Telegram, Nov 23)",
+     "value": "1,679 killed, 6,100 injured since the ceasefire; 851 bodies recovered; 4 killed (3 new, 1 died of wounds) and 7 injured in the 24 hours to Nov 23",
+     "source": "tg_mohgaza_7748"
     },
     {
      "who": "Gaza health ministry (via UN OCHA, report of Nov 18)",
@@ -4023,7 +4292,7 @@
    ],
    "note": "UN verification lags; counts cover different periods. The Israeli military row dates from Nov 11 (Reuters).",
    "sources": [
-    "tg_mohgaza_7744",
+    "tg_mohgaza_7748",
     "ocha_1118",
     "bbc_1119_gaza",
     "ocha_1015",
@@ -4117,8 +4386,8 @@
   {
    "label": "Yemen: since hostilities resumed this year",
    "category": "casualties",
-   "asOf": "2026-11-08",
-   "asOfNote": "WHO, as of Nov 8 (via Al Jazeera)",
+   "asOf": "2026-11-22",
+   "asOfNote": "WHO to Nov 8; UN figure per Al-Monitor Nov 22",
    "status": "CONFIRMED",
    "rows": [
     {
@@ -4126,13 +4395,19 @@
      "value": "2,098 killed, 9,657 wounded; 320,000+ displaced since Aug 1"
     },
     {
+     "who": "UN (via Al-Monitor, Nov 22)",
+     "value": "More than 1,600 killed and over 300,000 displaced in Yemen since July",
+     "source": "am_1122_bahrain"
+    },
+    {
      "who": "Houthi health ministry",
      "value": "12 killed in Saudi strikes Oct 29; 14 killed Oct 28"
     }
    ],
-   "note": "WHO says 2,000+ casualties in nine days to Nov 8. Does not separate fighters from civilians.",
+   "note": "Counts from WHO and the UN cover different periods and are not comparable. Does not separate fighters from civilians.",
    "sources": [
-    "aj_1112_yemen"
+    "aj_1112_yemen",
+    "am_1122_bahrain"
    ]
   },
   {
@@ -5198,6 +5473,71 @@
    "id": "tg_army21ye_4136",
    "title": "Houthi military spokesman Telegram (army21ye), post 4136, Nov 21",
    "url": "https://t.me/army21ye/4136"
+  },
+  {
+   "id": "mee_1123_hod",
+   "title": "Middle East Eye live blog, Saudi attack on Yemen's Hodeidah kills four, wounds 18, Nov 23",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-attack-yemens-hodeida-kills-four-wounds-18-others"
+  },
+  {
+   "id": "am_1122_bahrain",
+   "title": "Al-Monitor, Iran strike wounds two in Bahrain, Saudi condemns 'criminal' attacks, Nov 22",
+   "url": "https://www.al-monitor.com/originals/2026/11/iran-strike-wounds-two-bahrain-saudi-condemns-criminal-attacks"
+  },
+  {
+   "id": "tg_army21ye_4139",
+   "title": "Houthi military spokesman (Telegram), claim on Rabigh refinery and Dawasir radar, Nov 22",
+   "url": "https://t.me/army21ye/4139"
+  },
+  {
+   "id": "tg_army21ye_4140",
+   "title": "Houthi military spokesman (Telegram), Saudi raids in past 24 hours, Nov 22",
+   "url": "https://t.me/army21ye/4140"
+  },
+  {
+   "id": "ctp_1122",
+   "title": "Critical Threats / ISW, Iran Update, Nov 22, 2026",
+   "url": "https://www.criticalthreats.org/analysis/iran-update-november-22-2026"
+  },
+  {
+   "id": "mee_1122_mines",
+   "title": "Middle East Eye live blog, Two supertankers hit mines near Hormuz, Iranian navy says, Nov 22",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-supertankers-hit-mines-near-hormuz-iranian-navy-says"
+  },
+  {
+   "id": "fr24_1122_settlers",
+   "title": "France 24, Israel's Eisenkot slams 'Jewish terrorism' after attacks by settlers in West Bank, Nov 22",
+   "url": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank"
+  },
+  {
+   "id": "mee_1122_gaza",
+   "title": "Middle East Eye live blog, Two Palestinians killed by Israeli fire in northern and central Gaza, Nov 22",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-palestinians-killed-israeli-fire-northern-and-central-gaza"
+  },
+  {
+   "id": "tg_isr_6348",
+   "title": "State of Israel / IDF (Telegram), IDF names the three men struck in northern Gaza, Nov 22",
+   "url": "https://t.me/StateofIsraelOfficial/6348"
+  },
+  {
+   "id": "tg_isr_6347",
+   "title": "Israel MFA (Telegram), says IDF targeted three Islamic Jihad members, Nov 22",
+   "url": "https://t.me/StateofIsraelOfficial/6347"
+  },
+  {
+   "id": "mee_1122_leb",
+   "title": "Middle East Eye live blog, Israel carries out more demolitions in southern Lebanon, Nov 22",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-carries-out-more-demolitions-southern-lebanon"
+  },
+  {
+   "id": "am_1123_blockade",
+   "title": "Al-Monitor (Reuters), Iran says it will use all its tools to confront US naval blockade, Nov 23",
+   "url": "https://www.al-monitor.com/originals/2026/11/iran-says-it-will-use-all-its-tools-confront-us-naval-blockade"
+  },
+  {
+   "id": "tg_mohgaza_7748",
+   "title": "Gaza Ministry of Health (Telegram), daily statistical report, Nov 23",
+   "url": "https://t.me/MOHMediaGaza/7748"
   }
  ]
 }
