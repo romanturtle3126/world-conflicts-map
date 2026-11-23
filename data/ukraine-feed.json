@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-23T02:57:48+00:00",
+  "lastUpdated": "2026-11-23T04:05:44+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -56,6 +56,25 @@
   ]
  },
  "items": [
+  {
+   "headline": "Cyprus expels two Russian diplomats over suspected espionage – Politico",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4187487-cyprus-expels-two-russian-diplomats-over-suspected-espionage-politico.html",
+   "date": "2026-11-23T03:37:00.000Z"
+  },
+  {
+   "headline": "«Восточный» экспресс влетает в гнезда к врагу 🔥 Расчёты 152-мм гаубиц «Мста-Б» группировки «Восток» закопали пункты управления тяжёлыми гексакоптерами ВСУ вместе с размещённым в них оборудованием. 📍 Запорожская область 🔹 Курс на MAКС!",
+   "source": "Russian Defence Ministry (Telegram)",
+   "official": "Russia",
+   "link": "https://t.me/mod_russia/69263",
+   "date": "2026-11-23T03:28:22.000Z"
+  },
+  {
+   "headline": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+   "source": "BBC News Europe",
+   "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-23T02:59:35.000Z"
+  },
   {
    "headline": "Electricity restored in Rivne region following Russian attack",
    "source": "Ukrinform",
@@ -164,12 +183,6 @@
    "source": "Ukrinform",
    "link": "https://www.ukrinform.net/rubric-ato/4187481-russian-attacks-on-kharkiv-continue-strike-reported-in-one-district.html",
    "date": "2026-11-22T20:31:00.000Z"
-  },
-  {
-   "headline": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-   "source": "BBC News Europe",
-   "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-22T20:28:09.000Z"
   },
   {
    "headline": "Оперативна інформація станом на 22:00 22.11.2026 щодо російського вторгнення Загалом від початку цієї доби відбулося 143 бойові зіткнення. Противник завдав 49 авіаційних ударів, скинув 173 керовані авіабомби. Крім того, залучив для ураження 4398 дронів-камікадзе та здійснив…",
@@ -434,12 +447,6 @@
    "date": "2026-11-22T14:35:00.000Z"
   },
   {
-   "headline": "Odesa has 291 Invincibility Centers in operation",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-society/4187397-odesa-has-291-invincibility-centers-in-operation.html",
-   "date": "2026-11-22T14:12:00.000Z"
-  },
-  {
    "headline": "Russian attacks cause 'serious damage' to Odesa power grid as outages disrupt city",
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/russian-attacks-cause-serious-damage-to-odesa-power-grid-as-outages-disrupt-city/",
@@ -545,7 +552,7 @@
    "date": "2026-11-22T05:00:17.000Z"
   },
   {
-   "headline": "'We live in fear' — Russian attack near Kyiv kills 9, leaves families waiting as rescuers search rubble",
+   "headline": "'We live in fear' — Russian attack near Kyiv kills 10, leaves families waiting as rescuers search rubble",
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/apartment-building-destroyed-in-kyiv-oblast-following-russian-drone-attack/",
    "date": "2026-11-22T04:49:11.000Z"

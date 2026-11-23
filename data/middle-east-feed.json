@@ -1,12 +1,12 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-23T02:57:50+00:00",
+  "lastUpdated": "2026-11-23T04:05:47+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
     "source": "Al Jazeera",
     "ok": true,
-    "count": 3
+    "count": 2
    },
    {
     "source": "BBC News Middle East",
@@ -71,7 +71,7 @@
    {
     "source": "Tasnim English (Telegram)",
     "ok": true,
-    "count": 12
+    "count": 7
    },
    {
     "source": "IRNA English (Telegram)",
@@ -81,6 +81,31 @@
   ]
  },
  "items": [
+  {
+   "headline": "Israel’s destruction of Gaza has created a ‘toxic wasteland’, experts find",
+   "source": "The Guardian (Middle East)",
+   "link": "https://www.theguardian.com/world/2026/nov/23/israel-gaza-destruction-created-toxic-wasteland-oxfam-report",
+   "date": "2026-11-23T04:00:45.000Z"
+  },
+  {
+   "headline": "Saudi Arabia's influence loomed large over failed COP31 deal",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/saudi-arabias-influence-loomed-large-over-failed-cop31-deal",
+   "date": "2026-11-23T03:46:30.000Z"
+  },
+  {
+   "headline": "Saudi attack on Yemen's Hodeida kills four, wounds 18 others",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-attack-yemens-hodeida-kills-four-wounds-18-others",
+   "date": "2026-11-23T03:42:49.000Z"
+  },
+  {
+   "headline": "📷 Dawn at the Dar al-Zikr Hall; the luminous mausoleum of “Mr. Martyr of Iran” @TasnimNews",
+   "source": "Tasnim English (Telegram)",
+   "official": "Iran (IRGC-affiliated Tasnim)",
+   "link": "https://t.me/Tasnimnews_en/48886",
+   "date": "2026-11-23T03:03:32.000Z"
+  },
   {
    "headline": "South Korea says deployment to Middle East not indirect military participation in war on Iran",
    "source": "Middle East Eye",
@@ -250,12 +275,6 @@
    "source": "Middle East Eye",
    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-eisenkot-parties-end-talks-without-deal-forming-government",
    "date": "2026-11-22T19:51:44.000Z"
-  },
-  {
-   "headline": "Aber Kawas becomes first Palestinian in New York state Senate history",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
-   "date": "2026-11-22T19:18:29.000Z"
   },
   {
    "headline": "Two Palestinians killed by Israeli fire in northern and central Gaza",
@@ -520,12 +539,6 @@
    "source": "Middle East Eye",
    "link": "https://www.middleeasteye.net/news/cop31-ends-failure-countries-reject-climate-deal-over-fossil-fuels",
    "date": "2026-11-22T12:46:01.000Z"
-  },
-  {
-   "headline": "'Jewish terrorism in every sense': Eisenkot blames Smotrich and Ben Gvir for settler attacks",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/jewish-terrorism-every-sense-eisenkot-blames-smotrich-and-ben-gvir",
-   "date": "2026-11-22T12:45:01.000Z"
   },
   {
    "headline": "ترقبوا الساعة الرابعة عصرا مشاهد توثق جانبا من العتاد الحربي المغتنم من معسكرات التحشيدات التابعة للعدو السعودي في الساحل الغربي في معركة البأس والتنكيل",
@@ -812,12 +825,6 @@
    "date": "2026-11-21T09:49:44.000Z"
   },
   {
-   "headline": "Fire at power station in Iraq's Basra kills at least 4, injures 35",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/fire-power-station-iraqs-basra-kills-least-4-injures-35",
-   "date": "2026-11-21T08:46:29.000Z"
-  },
-  {
    "headline": "‘We ​are tired from all this suffering’: displaced families in Gaza brace for another winter of misery",
    "source": "The Guardian (Middle East)",
    "link": "https://www.theguardian.com/world/2026/nov/21/displaced-families-gaza-winter-misery",
@@ -1080,12 +1087,6 @@
    "source": "France 24 Middle East",
    "link": "https://www.france24.com/en/middle-east/20261118-middle-east-live-kuwait-bahrain-report-drone-and-missile-attacks",
    "date": "2026-11-18T02:06:39.000Z"
-  },
-  {
-   "headline": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
-   "source": "The Guardian (Middle East)",
-   "link": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
-   "date": "2026-11-18T00:21:33.000Z"
   },
   {
    "headline": "Israeli parliament elects Eisenkot ally Matan Kahana as speaker in blow for Netanyahu",
