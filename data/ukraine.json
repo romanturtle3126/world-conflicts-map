@@ -2,11 +2,11 @@
  "schemaVersion": 1,
  "map": "ukraine",
  "meta": {
-  "lastUpdated": "2026-11-22T06:04:51-05:00",
-  "coverage": "2026-10-10 to 2026-11-22",
+  "lastUpdated": "2026-11-23T06:04:24-05:00",
+  "coverage": "2026-10-10 to 2026-11-23",
   "notes": [
-   "Refreshed Nov 22, 2026 (UTC morning) from Telegram channels kpszsu (alert posts only), GeneralStaffZSU and mod_russia, Kyiv Independent, Ukrinform and BBC articles, and the headline leads file (pulled Nov 22 ~01:40 UTC).",
-   "Not read this run: ISW assessment (understandingwar.org 403; criticalthreats.org Cloudflare block), X posts (web searches returned nothing usable for Nov 21-22), Reuters/AP, Ukrainska Pravda. Not mapped: Russian missiles and drone on Polish territory on Nov 20, Moldovan and Finnish airspace violations on Nov 21.",
+   "Refreshed Nov 23, 2026 (UTC morning) from Telegram channels kpszsu (alert posts only), GeneralStaffZSU and mod_russia, Kyiv Independent articles, and the headline leads file (pulled Nov 23 ~04:05 UTC).",
+   "Not read this run: ISW assessment, X posts, Reuters/AP, Guardian (fetch blocked). Not mapped: Russian corvette hit by suspected sea drones at Benghazi, Libya (outside map bounds); Dymer death toll updates (outlets' figures conflict, existing event left unchanged); Sloviansk and Kharkiv kindergarten strikes (only headlines seen).",
    "Coordinates are city-level or approximate (see coordPrecision); markers flagged 'oblast' are not geolocated.",
    "Casualty figures are as reported by the cited outlet at time of writing and may have been revised."
   ]
@@ -5410,6 +5410,112 @@
     }
    ],
    "read": "full"
+  },
+  {
+   "id": "vyshneve-1122",
+   "date": "2026-11-22",
+   "region": "rear",
+   "oblast": "Kyiv Oblast",
+   "front": "Rear (Kyiv)",
+   "type": "drone",
+   "status": "CONFIRMED",
+   "title": "Drone strike on Novus supermarket in Vyshneve kills three, injures 15",
+   "caption": "Kyiv Independent reports that a Russian Shahed-type drone hit a Novus grocery store in Vyshneve, Kyiv Oblast, on the evening of Nov 22 while people were shopping, starting a fire. Mayor Illya Dikov said at least three people were killed and 15 injured, including three children. Kyiv Oblast governor Tymur Tkachenko declared Nov 23 a day of mourning. Casualty figures may change.",
+   "lat": 50.3883,
+   "lon": 30.3681,
+   "coordPrecision": "city",
+   "place": "Vyshneve",
+   "sources": [
+    {
+     "id": "ki_vyshneve_1122",
+     "title": "Kyiv Independent: Russia attacks Kyiv Oblast supermarket during working hours, killing 3, injuring 15 (Nov 22)",
+     "url": "https://kyivindependent.com/routine-shopping-trip-turned-tragedy-russia-attacks-kyiv-oblast-supermarket-during-working-hours-killing-2-injuring-at-least-8/"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "novoshakhtinsk-1123",
+   "date": "2026-11-23",
+   "region": "russia",
+   "oblast": "Rostov Oblast, Russia",
+   "front": "Russia deep strikes",
+   "type": "deep-strike",
+   "status": "UNVERIFIED",
+   "title": "Novoshakhtinsk oil products plant reportedly burning after Ukrainian drone attack",
+   "caption": "Kyiv Independent reports, citing Ukrainian OSINT channels Exilenova+ and Supernova+ and the Russian outlet Astra, that Ukrainian drones struck the Novoshakhtinsk oil products plant in Rostov Oblast overnight into Nov 23 and left it burning. Rostov governor Yurii Slyusar confirmed only that the region came under a massive drone attack. The Kyiv Independent could not verify the damage or targets.",
+   "lat": 47.7604,
+   "lon": 39.9334,
+   "coordPrecision": "city",
+   "place": "Novoshakhtinsk",
+   "sources": [
+    {
+     "id": "ki_novoshakhtinsk_1123",
+     "title": "Kyiv Independent: Novoshakhtinsk oil refinery reportedly burning after Ukrainian drone attack (Nov 23)",
+     "url": "https://kyivindependent.com/novoshakhtinsk-oil-refinery-reportedly-burning-after-ukrainian-drone-attack/"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "dnipro-1123",
+   "date": "2026-11-23",
+   "region": "south",
+   "oblast": "Dnipropetrovsk",
+   "front": "Dnipropetrovsk",
+   "type": "energy",
+   "status": "ONE_PARTY",
+   "title": "Russia's MoD claims drone hit on 330 kV substation in Dnipro",
+   "caption": "Russia's Ministry of Defence says its drones hit a 330 kV substation in Dnipro overnight into Nov 23, which it says supplies Ukrainian military industry. It also claims hits on two locomotives near Dniprodzerzhynsk railway station. No Ukrainian statement on these sites and no independent confirmation were read.",
+   "lat": 48.4666,
+   "lon": 35.0407,
+   "coordPrecision": "city",
+   "place": "Dnipro",
+   "sources": [
+    {
+     "id": "mod_strikes_1123",
+     "title": "Russian MoD (Telegram): strikes on Dnipro substation, Izmail port and a cargo ship (Nov 23)",
+     "url": "https://t.me/mod_russia/69265"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Russia's MoD",
+     "says": "Drones hit a 330 kV substation in Dnipro supplying military industry, and two locomotives near Dniprodzerzhynsk station.",
+     "source": "mod_strikes_1123"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "izmail-1123",
+   "date": "2026-11-23",
+   "region": "south",
+   "oblast": "Odesa",
+   "front": "Odesa",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Russia's MoD claims drone strikes on Izmail port and a cargo ship SW of Odesa",
+   "caption": "Russia's Ministry of Defence says drones hit port infrastructure in Izmail, Odesa Oblast, and a dry-cargo ship at sea south-west of Odesa that it says was carrying military cargo, overnight into Nov 23. No Ukrainian statement and no independent confirmation were read.",
+   "lat": 45.3506,
+   "lon": 28.8375,
+   "coordPrecision": "city",
+   "place": "Izmail",
+   "sources": [
+    {
+     "id": "mod_strikes_1123",
+     "title": "Russian MoD (Telegram): strikes on Dnipro substation, Izmail port and a cargo ship (Nov 23)",
+     "url": "https://t.me/mod_russia/69265"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Russia's MoD",
+     "says": "Drones hit port infrastructure in Izmail and a dry-cargo ship south-west of Odesa.",
+     "source": "mod_strikes_1123"
+    }
+   ],
+   "read": "full"
   }
  ],
  "stats": [
@@ -6419,6 +6525,36 @@
    "russia": {
     "value": "MoD claims 170 fixed-wing drones intercepted overnight over Bryansk, Belgorod, Kursk, Voronezh, Tula, Rostov regions, Krasnodar Krai, Crimea and the Azov and Black seas",
     "source": "mod_pvo_1122"
+   },
+   "independent": []
+  },
+  {
+   "label": "Russian drones and missiles launched at Ukraine (night of Nov 22-23)",
+   "category": "shootdowns",
+   "asOf": "2026-11-23",
+   "status": "DISPUTED",
+   "ukraine": {
+    "value": "153 strike drones (60 jet-powered Shahed), Gerbera and Parodiya decoys, no missiles listed; 134 downed or suppressed as of 08:00 (42 jet-powered); hits at 11 locations, debris at 7 (General Staff)",
+    "source": "gs_air_1123"
+   },
+   "russia": {
+    "value": "No launch count published; MoD says drones hit a 330 kV substation in Dnipro, Izmail port infrastructure and a dry-cargo ship south-west of Odesa",
+    "source": "mod_strikes_1123"
+   },
+   "independent": []
+  },
+  {
+   "label": "Ukrainian drones shot down over Russia (Nov 22-23)",
+   "category": "shootdowns",
+   "asOf": "2026-11-23",
+   "status": "ONE_PARTY",
+   "ukraine": {
+    "value": "No count published",
+    "source": null
+   },
+   "russia": {
+    "value": "MoD claims 192 drones intercepted 20:00 Nov 22 to 08:00 Nov 23 over Bryansk, Belgorod, Voronezh, Volgograd, Kirov, Oryol, Penza, Rostov, Saratov, Samara, Tambov and Ulyanovsk regions, Krasnodar and Perm krais, Tatarstan, Bashkortostan and Crimea",
+    "source": "mod_pvo_1123"
    },
    "independent": []
   }
@@ -8053,6 +8189,31 @@
    "id": "mod_sosnovyi_1122",
    "title": "Russian MoD (Telegram): Sever group takes control of Sosnovyi, Kharkiv Oblast (Nov 22)",
    "url": "https://t.me/mod_russia/69239"
+  },
+  {
+   "id": "gs_air_1123",
+   "title": "General Staff of Ukraine (Telegram): air attack summary, night of Nov 23",
+   "url": "https://t.me/GeneralStaffZSU/42976"
+  },
+  {
+   "id": "mod_pvo_1123",
+   "title": "Russian MoD (Telegram): air defence claims, night of Nov 23",
+   "url": "https://t.me/mod_russia/69266"
+  },
+  {
+   "id": "mod_strikes_1123",
+   "title": "Russian MoD (Telegram): strikes on Dnipro substation, Izmail port and a cargo ship (Nov 23)",
+   "url": "https://t.me/mod_russia/69265"
+  },
+  {
+   "id": "ki_vyshneve_1122",
+   "title": "Kyiv Independent: Russia attacks Kyiv Oblast supermarket during working hours, killing 3, injuring 15 (Nov 22)",
+   "url": "https://kyivindependent.com/routine-shopping-trip-turned-tragedy-russia-attacks-kyiv-oblast-supermarket-during-working-hours-killing-2-injuring-at-least-8/"
+  },
+  {
+   "id": "ki_novoshakhtinsk_1123",
+   "title": "Kyiv Independent: Novoshakhtinsk oil refinery reportedly burning after Ukrainian drone attack (Nov 23)",
+   "url": "https://kyivindependent.com/novoshakhtinsk-oil-refinery-reportedly-burning-after-ukrainian-drone-attack/"
   }
  ]
 }
