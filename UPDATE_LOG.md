@@ -2,6 +2,23 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-23 06:41 Toronto — Middle East — OK
+- Added 7 event(s):
+  - `hodeidah-1122` 2026-11-22 [ONE_PARTY] Houthi-affiliated media say a Saudi strike on Hodeidah killed four and wounded 18
+  - `rabigh-1122` 2026-11-22 [ONE_PARTY] Houthis claim hits on the Rabigh oil refinery and a radar in Riyadh province
+  - `khasab-1122` 2026-11-22 [ONE_PARTY] Iran's navy says two supertankers hit mines east of Hormuz; UKMTO reports a tanker incident in the Gulf of Oman
+  - `ramallah-1122` 2026-11-22 [CONFIRMED] Settlers set fire to vehicles and daub slogans in villages near Ramallah; Israeli military and police condemn it
+  - `jabalia-1122` 2026-11-22 [ONE_PARTY] Wafa: two Palestinians killed by Israeli fire in Jabalia and east of Deir al-Balah
+  - `nabatieh-1122` 2026-11-22 [ONE_PARTY] Lebanon's NNA reports Israeli demolitions at Zawtar al-Sharqiyah, Kfar Tibnit and Qantara
+  - `tehran-1123` 2026-11-23 [ONE_PARTY] Iran says it will use "all our tools" against the US naval blockade; Hormuz reopens only if its conditions are met
+- Updated 2 event(s):
+  - `sitra-1122` changed caption, sources, claims
+  - `gaza-1121` changed caption, sources, claims
+- Stats: 3 updated, 0 added
+- Lanes: 2 updated
+- 13 new source link(s)
+- Totals: 118 events, 18 stats, 184 sources; coverage 2026-10-06 to 2026-11-23
+
 ## 2026-11-23 06:04 Toronto — Ukraine — OK
 - Added 4 event(s):
   - `vyshneve-1122` 2026-11-22 [CONFIRMED] Drone strike on Novus supermarket in Vyshneve kills three, injures 15
