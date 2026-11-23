@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-23T11:04:59+00:00",
+  "lastUpdated": "2026-11-23T11:42:23+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -71,7 +71,7 @@
    {
     "source": "Tasnim English (Telegram)",
     "ok": true,
-    "count": 2
+    "count": 7
    },
    {
     "source": "IRNA English (Telegram)",
@@ -81,6 +81,53 @@
   ]
  },
  "items": [
+  {
+   "headline": "Ghoribabadi: U.S. sanctions have made it difficult for chemical weapons victims to access medicines and treatment Deputy Legal Counsel of the Ministry of Foreign Affairs: 🔹U.S. unilateral sanctions and financial and trade restrictions have hindered the procurement of vital…",
+   "source": "Tasnim English (Telegram)",
+   "official": "Iran (IRGC-affiliated Tasnim)",
+   "link": "https://t.me/Tasnimnews_en/49010",
+   "date": "2026-11-23T11:39:51.000Z"
+  },
+  {
+   "headline": "Ghoribabadi: Reforming the Security Council and abolishing immunity for major powers is necessary Deputy Legal Counsel of the Ministry of Foreign Affairs: 🔹America’s defeat in the 40-day war was the result of the Iranian people’s courage. 🔹The United Nations…",
+   "source": "Tasnim English (Telegram)",
+   "official": "Iran (IRGC-affiliated Tasnim)",
+   "link": "https://t.me/Tasnimnews_en/49009",
+   "date": "2026-11-23T11:37:20.000Z"
+  },
+  {
+   "headline": "A 20,000 Toman discrepancy in the guaranteed wheat purchase price President of the Iran Chamber of Agriculture: 🔹The gap between proposals from the Ministry of Agriculture, the private sector, the Planning Organization, and the Ministry of Economy exceeds 20,000 tomans; this…",
+   "source": "Tasnim English (Telegram)",
+   "official": "Iran (IRGC-affiliated Tasnim)",
+   "link": "https://t.me/Tasnimnews_en/49008",
+   "date": "2026-11-23T11:35:55.000Z"
+  },
+  {
+   "headline": "From Gaza's ruins, Palestinian women are rising to tell their stories on film",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/opinion/gazas-ruins-palestinian-women-are-rising-tell-their-stories-film",
+   "date": "2026-11-23T11:30:52.000Z"
+  },
+  {
+   "headline": "Chief of Staff of Armed Forces visits Khatam al-Anbia Construction Headquarters 🔹Chief of Staff of Armed Forces: Relying on domestic experts, Khatam al-Anbia Construction Headquarters has ushered in a new era in the implementation of major national projects, demonstrating…",
+   "source": "Tasnim English (Telegram)",
+   "official": "Iran (IRGC-affiliated Tasnim)",
+   "link": "https://t.me/Tasnimnews_en/49004",
+   "date": "2026-11-23T11:26:50.000Z"
+  },
+  {
+   "headline": "Ghoribabadi: Chemical weapons are inhumane under any circumstances Deputy Foreign Minister at the OPCW conference in the Netherlands: 🔹Chemical weapons are inhumane and unjustifiable under any circumstances. 🔹Iran upholds this principled stance despite being targeted by…",
+   "source": "Tasnim English (Telegram)",
+   "official": "Iran (IRGC-affiliated Tasnim)",
+   "link": "https://t.me/Tasnimnews_en/49003",
+   "date": "2026-11-23T11:26:17.000Z"
+  },
+  {
+   "headline": "Tehran dismisses 'dirty bomb' plot claims from US",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tehran-dismisses-dirty-bomb-plot-claims-us",
+   "date": "2026-11-23T11:22:44.000Z"
+  },
   {
    "headline": "The ruling against Myanmar makes proving genocide more feasible | Kenneth Roth",
    "source": "The Guardian (Middle East)",
@@ -537,12 +584,6 @@
    "date": "2026-11-22T18:23:43.000Z"
   },
   {
-   "headline": "Iran unveils new launcher that can fire two missiles at once",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-unveils-new-launcher-can-fire-two-missiles-once",
-   "date": "2026-11-22T18:20:30.000Z"
-  },
-  {
    "headline": "شن الطيران الحربي السعودي خلال الـ24 ساعة الماضية 81 غارةً جويةً وصاروخاً استهدف بها الأعيان المدنية في العاصمة صنعاء ومحافظات الجوف وتعز وصعدة ومأرب ولحج والبيضاء والحديدة وذلك من خلال طائرات \"F-15\" و \"تايفون\" أقلعت من قاعدتي خميس مشيط والطائف والعدوان الصاروخي من نجران،…",
    "source": "Houthi military spokesman (Telegram)",
    "official": "Houthis (Yemeni Armed Forces)",
@@ -574,12 +615,6 @@
    "source": "Al-Monitor",
    "link": "https://www.al-monitor.com/originals/2026/11/drone-strikes-hit-homes-un-building-sudans-capital",
    "date": "2026-11-22T17:30:24.000Z"
-  },
-  {
-   "headline": "Two supertankers hit mines near Hormuz, Iranian navy says",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/two-supertankers-hit-mines-near-hormuz-iranian-navy-says",
-   "date": "2026-11-22T17:13:51.000Z"
   },
   {
    "headline": "The Chief of the General Staff later held a discussion with brigade commanders and regular and reserve battalion commanders, during which he addressed the operational challenges in the arena, assessed the troops' readiness for their missions, and expressed his appreciation…",
@@ -1096,20 +1131,6 @@
    "official": "Houthis (Yemeni Armed Forces)",
    "link": "https://t.me/army21ye/4123",
    "date": "2026-11-20T11:49:16.000Z"
-  },
-  {
-   "headline": "تحذر القوات المسلحة اليمنية كل الشركات الملاحية الجوية بأن أجواء السعودية غير آمنة لأنها ستكون مسرحا لعملياتنا خلال الساعات القادمة، عدا الأجواء المقدسة في مكة المكرمة والمدينة المنورة. http://t.me/army21ye",
-   "source": "Houthi military spokesman (Telegram)",
-   "official": "Houthis (Yemeni Armed Forces)",
-   "link": "https://t.me/army21ye/4122",
-   "date": "2026-11-20T11:28:48.000Z"
-  },
-  {
-   "headline": "تعلن القوات المسلحة أن ميناء جدة وجميع موانئ العدو السعودي في ساحل البحر الأحمر ستكون هدفا لقواتنا في حال نفذ العدو تهديداته بقصف ميناء الحديدة. ونحذر الموظفين والعاملين فيها والمتواجدين بالقرب منها بإخلائها فورا والابتعاد عنها وندعو جميع الشركات الملاحية لإخلاء سفنها من تلك…",
-   "source": "Houthi military spokesman (Telegram)",
-   "official": "Houthis (Yemeni Armed Forces)",
-   "link": "https://t.me/army21ye/4121",
-   "date": "2026-11-20T11:14:13.000Z"
   },
   {
    "headline": "Iraqi security forces deploy in Hezbollah stronghold under compromise deal",
