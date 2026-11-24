@@ -2,6 +2,16 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-24 06:04 Toronto — Ukraine — OK
+- Added 4 event(s):
+  - `perm-1123` 2026-11-23 [ONE_PARTY] Ukraine's General Staff claims strike on Lukoil refinery in Perm, over 1,500 km from the border
+  - `kyiv-1123` 2026-11-23 [ONE_PARTY] Drone attacks and falling debris injure six in Kyiv, mostly in Pecherskyi district
+  - `korosten-1124` 2026-11-24 [ONE_PARTY] Russian drone debris at Korosten railway station kills one, injures two
+  - `vinnytsia-1124` 2026-11-24 [ONE_PARTY] Second Russian attack on Vinnytsia damages business and energy facility, four injured
+- Stats: 0 updated, 2 added
+- 10 new source link(s)
+- Totals: 199 events, 62 stats, 341 sources; coverage 2026-10-10 to 2026-11-24
+
 ## 2026-11-23 06:41 Toronto — Middle East — OK
 - Added 7 event(s):
   - `hodeidah-1122` 2026-11-22 [ONE_PARTY] Houthi-affiliated media say a Saudi strike on Hodeidah killed four and wounded 18

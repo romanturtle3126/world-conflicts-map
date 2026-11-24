@@ -2,11 +2,11 @@
  "schemaVersion": 1,
  "map": "ukraine",
  "meta": {
-  "lastUpdated": "2026-11-23T06:04:24-05:00",
-  "coverage": "2026-10-10 to 2026-11-23",
+  "lastUpdated": "2026-11-24T06:04:53-05:00",
+  "coverage": "2026-10-10 to 2026-11-24",
   "notes": [
-   "Refreshed Nov 23, 2026 (UTC morning) from Telegram channels kpszsu (alert posts only), GeneralStaffZSU and mod_russia, Kyiv Independent articles, and the headline leads file (pulled Nov 23 ~04:05 UTC).",
-   "Not read this run: ISW assessment, X posts, Reuters/AP, Guardian (fetch blocked). Not mapped: Russian corvette hit by suspected sea drones at Benghazi, Libya (outside map bounds); Dymer death toll updates (outlets' figures conflict, existing event left unchanged); Sloviansk and Kharkiv kindergarten strikes (only headlines seen).",
+   "Refreshed Nov 24, 2026 (UTC midday) from Telegram channels kpszsu (alert posts only), GeneralStaffZSU and mod_russia, Ukrinform and Kyiv Independent articles, and the headline leads file (pulled Nov 24 ~03:00 UTC).",
+   "Not read this run: ISW assessment, X posts, Reuters/AP, Guardian (feed fetch blocked). Not mapped: Russian corvette Merkury sunk off Benghazi, Libya (outside map bounds); Russian MoD claim of Barvinivka (Zaporizhzhia Oblast) not added because the village could not be matched to a single location; cumulative Russian loss total for Nov 24 not read (General Staff daily figure: 1,848 over the past day).",
    "Coordinates are city-level or approximate (see coordPrecision); markers flagged 'oblast' are not geolocated.",
    "Casualty figures are as reported by the cited outlet at time of writing and may have been revised."
   ]
@@ -5516,6 +5516,146 @@
     }
    ],
    "read": "full"
+  },
+  {
+   "id": "perm-1123",
+   "date": "2026-11-23",
+   "region": "russia",
+   "oblast": "Perm Krai",
+   "front": "Russia (deep strikes)",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Ukraine's General Staff claims strike on Lukoil refinery in Perm, over 1,500 km from the border",
+   "caption": "Ukraine's General Staff says Defense Forces, with the Russian group 'Black Spark', hit three units (AVT-2, AVT-5 and isomerization) of the Lukoil-Permnefteorgsintez refinery in Perm on Nov 23, plus the Kaleykino pumping station in Tatarstan. Russia's MoD said it shot down 87 Ukrainian drones during the day over several regions including Perm Krai; it did not comment on damage. No independent confirmation was read.",
+   "lat": 58.0105,
+   "lon": 56.2502,
+   "coordPrecision": "city",
+   "place": "Perm",
+   "sources": [
+    {
+     "id": "gs_perm_1123",
+     "title": "General Staff of Ukraine (Telegram): Defense Forces hit Lukoil refinery in Perm (Nov 23)",
+     "url": "https://t.me/GeneralStaffZSU/42981"
+    },
+    {
+     "id": "ukrinform_perm_1123",
+     "title": "Ukrinform: General Staff confirms strike on Lukoil oil refinery in Perm (Nov 23)",
+     "url": "https://www.ukrinform.net/rubric-ato/4187846-general-staff-confirms-strike-on-lukoil-oil-refinery-in-perm.html"
+    },
+    {
+     "id": "mod_pvo_1123_day",
+     "title": "Russian MoD (Telegram): 87 Ukrainian drones intercepted 08:00-20:00 Moscow time, incl. Perm Krai (Nov 23)",
+     "url": "https://t.me/mod_russia/69276"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Ukraine's General Staff",
+     "says": "Three key units of the Perm refinery (AVT-2, AVT-5, isomerization) were hit, with the Russian resistance group Black Spark.",
+     "source": "gs_perm_1123"
+    },
+    {
+     "who": "Russia's MoD",
+     "says": "Air defences intercepted 87 Ukrainian drones during the day over Belgorod, Bryansk, Kursk, Oryol, Perm Krai, Crimea, Tatarstan and the Black Sea; no damage reported.",
+     "source": "mod_pvo_1123_day"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "kyiv-1123",
+   "date": "2026-11-23",
+   "region": "rear",
+   "oblast": "Kyiv",
+   "front": "Rear (Kyiv)",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Drone attacks and falling debris injure six in Kyiv, mostly in Pecherskyi district",
+   "caption": "Kyiv City Prosecutor's Office says six people were injured as of 17:45 on Nov 23 in several drone attacks, mostly in the city centre (Pecherskyi, Podilskyi), with impacts also in Sviatoshynskyi and Holosiivskyi districts. The injured include a 32-year-old foreign national. A war-crime investigation was opened.",
+   "lat": 50.4547,
+   "lon": 30.5238,
+   "coordPrecision": "city",
+   "place": "Kyiv",
+   "sources": [
+    {
+     "id": "ukrinform_kyiv_1123",
+     "title": "Ukrinform: Six people injured in Russian drone attacks on Kyiv, most in Pecherskyi district (Nov 23)",
+     "url": "https://www.ukrinform.net/rubric-ato/4187795-six-people-injured-in-russian-drone-attacks-on-kyiv-most-in-pecherskyi-district.html"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Kyiv City Prosecutor's Office",
+     "says": "Six people injured as of 17:45 in several UAV attacks on Kyiv.",
+     "source": "ukrinform_kyiv_1123"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "korosten-1124",
+   "date": "2026-11-24",
+   "region": "rear",
+   "oblast": "Zhytomyr",
+   "front": "Rear (Zhytomyr)",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Russian drone debris at Korosten railway station kills one, injures two",
+   "caption": "Ukrzaliznytsia says a Russian drone attack on Korosten station, Zhytomyr Oblast, killed one person and injured two; an electric commuter train was nearby and passengers and staff took shelter after a warning. Zhytomyr's governor separately reported a fire after strikes on a Nova Poshta branch and warehouses in Korosten, damage in Zhytomyr city and a hit on an energy facility, with no casualties reported there.",
+   "lat": 50.9512,
+   "lon": 28.6386,
+   "coordPrecision": "city",
+   "place": "Korosten",
+   "sources": [
+    {
+     "id": "ukrinform_korosten_1124",
+     "title": "Ukrinform: Russian drone hits railway station in Korosten, killing one and injuring two (Nov 24)",
+     "url": "https://www.ukrinform.net/rubric-ato/4187988-russian-drone-hits-railway-station-in-korosten-killing-one-and-injuring-two.html"
+    },
+    {
+     "id": "ukrinform_zhytomyr_1124",
+     "title": "Ukrinform: Russian strikes damage civilian and energy infrastructure in Zhytomyr Region (Nov 24)",
+     "url": "https://www.ukrinform.net/rubric-ato/4187931-russian-strikes-damage-civilian-and-energy-infrastructure-in-zhytomyr-region.html"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Ukrzaliznytsia",
+     "says": "Falling debris from an enemy UAV at Korosten station killed one person and injured two.",
+     "source": "ukrinform_korosten_1124"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "vinnytsia-1124",
+   "date": "2026-11-24",
+   "region": "rear",
+   "oblast": "Vinnytsia",
+   "front": "Rear (Vinnytsia)",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Second Russian attack on Vinnytsia damages business and energy facility, four injured",
+   "caption": "Vinnytsia regional military administration head Nataliia Zabolotna says an overnight Russian attack on Nov 24 damaged a civilian business and an energy facility; four men were slightly injured, one taken to hospital. A trolleybus, four cars, two transport stops and nearby buildings were damaged, per Ukrinform.",
+   "lat": 49.2322,
+   "lon": 28.4687,
+   "coordPrecision": "city",
+   "place": "Vinnytsia",
+   "sources": [
+    {
+     "id": "ukrinform_vinnytsia_1124",
+     "title": "Ukrinform: Russian attack damages business, energy facility in Vinnytsia, injuring four (Nov 24)",
+     "url": "https://www.ukrinform.net/rubric-ato/4187935-russian-attack-damages-business-energy-facility-in-vinnytsia-injuring-four.html"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Vinnytsia regional authorities",
+     "says": "Civilian business and energy facility damaged; four men slightly injured.",
+     "source": "ukrinform_vinnytsia_1124"
+    }
+   ],
+   "read": "full"
   }
  ],
  "stats": [
@@ -6555,6 +6695,36 @@
    "russia": {
     "value": "MoD claims 192 drones intercepted 20:00 Nov 22 to 08:00 Nov 23 over Bryansk, Belgorod, Voronezh, Volgograd, Kirov, Oryol, Penza, Rostov, Saratov, Samara, Tambov and Ulyanovsk regions, Krasnodar and Perm krais, Tatarstan, Bashkortostan and Crimea",
     "source": "mod_pvo_1123"
+   },
+   "independent": []
+  },
+  {
+   "label": "Russian drones and missiles launched at Ukraine (night of Nov 23-24)",
+   "category": "shootdowns",
+   "asOf": "2026-11-24",
+   "status": "DISPUTED",
+   "ukraine": {
+    "value": "96 strike drones (64 jet-powered Shahed), Gerbera and Parodiya decoys, no missiles listed; 73 downed or suppressed as of 08:00; impacts at 13 locations, debris at 2 (Air Force, via Ukrinform)",
+    "source": "ukrinform_air_1124"
+   },
+   "russia": {
+    "value": "No launch count published; MoD says drones hit a 110 kV substation in Pryluky (Chernihiv Oblast) and a dry-cargo ship south-west of Odesa",
+    "source": "mod_strikes_1124"
+   },
+   "independent": []
+  },
+  {
+   "label": "Ukrainian drones shot down over Russia (night of Nov 23-24)",
+   "category": "shootdowns",
+   "asOf": "2026-11-24",
+   "status": "ONE_PARTY",
+   "ukraine": {
+    "value": "No count published",
+    "source": null
+   },
+   "russia": {
+    "value": "MoD claims 699 fixed-wing drones intercepted overnight over Bryansk, Belgorod, Kaluga, Oryol and Smolensk regions, the Moscow region, Crimea and the Black Sea",
+    "source": "mod_pvo_1124"
    },
    "independent": []
   }
@@ -8214,6 +8384,56 @@
    "id": "ki_novoshakhtinsk_1123",
    "title": "Kyiv Independent: Novoshakhtinsk oil refinery reportedly burning after Ukrainian drone attack (Nov 23)",
    "url": "https://kyivindependent.com/novoshakhtinsk-oil-refinery-reportedly-burning-after-ukrainian-drone-attack/"
+  },
+  {
+   "id": "ukrinform_air_1124",
+   "title": "Ukrinform: Air defenses neutralize 73 of 96 drones Russia launched against Ukraine overnight (Nov 24)",
+   "url": "https://www.ukrinform.net/rubric-ato/4187924-air-defenses-neutralize-73-of-96-drones-russia-launched-against-ukraine-overnight.html"
+  },
+  {
+   "id": "mod_strikes_1124",
+   "title": "Russian MoD (Telegram): strikes on Pryluky substation and a cargo ship SW of Odesa (Nov 24)",
+   "url": "https://t.me/mod_russia/69280"
+  },
+  {
+   "id": "mod_pvo_1124",
+   "title": "Russian MoD (Telegram): 699 Ukrainian drones intercepted overnight (Nov 24)",
+   "url": "https://t.me/mod_russia/69282"
+  },
+  {
+   "id": "gs_perm_1123",
+   "title": "General Staff of Ukraine (Telegram): Defense Forces hit Lukoil refinery in Perm (Nov 23)",
+   "url": "https://t.me/GeneralStaffZSU/42981"
+  },
+  {
+   "id": "ukrinform_perm_1123",
+   "title": "Ukrinform: General Staff confirms strike on Lukoil oil refinery in Perm (Nov 23)",
+   "url": "https://www.ukrinform.net/rubric-ato/4187846-general-staff-confirms-strike-on-lukoil-oil-refinery-in-perm.html"
+  },
+  {
+   "id": "mod_pvo_1123_day",
+   "title": "Russian MoD (Telegram): 87 Ukrainian drones intercepted 08:00-20:00 Moscow time, incl. Perm Krai (Nov 23)",
+   "url": "https://t.me/mod_russia/69276"
+  },
+  {
+   "id": "ukrinform_kyiv_1123",
+   "title": "Ukrinform: Six people injured in Russian drone attacks on Kyiv, most in Pecherskyi district (Nov 23)",
+   "url": "https://www.ukrinform.net/rubric-ato/4187795-six-people-injured-in-russian-drone-attacks-on-kyiv-most-in-pecherskyi-district.html"
+  },
+  {
+   "id": "ukrinform_korosten_1124",
+   "title": "Ukrinform: Russian drone hits railway station in Korosten, killing one and injuring two (Nov 24)",
+   "url": "https://www.ukrinform.net/rubric-ato/4187988-russian-drone-hits-railway-station-in-korosten-killing-one-and-injuring-two.html"
+  },
+  {
+   "id": "ukrinform_zhytomyr_1124",
+   "title": "Ukrinform: Russian strikes damage civilian and energy infrastructure in Zhytomyr Region (Nov 24)",
+   "url": "https://www.ukrinform.net/rubric-ato/4187931-russian-strikes-damage-civilian-and-energy-infrastructure-in-zhytomyr-region.html"
+  },
+  {
+   "id": "ukrinform_vinnytsia_1124",
+   "title": "Ukrinform: Russian attack damages business, energy facility in Vinnytsia, injuring four (Nov 24)",
+   "url": "https://www.ukrinform.net/rubric-ato/4187935-russian-attack-damages-business-energy-facility-in-vinnytsia-injuring-four.html"
   }
  ]
 }
