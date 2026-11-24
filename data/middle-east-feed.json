@@ -1,12 +1,12 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-24T11:05:32+00:00",
+  "lastUpdated": "2026-11-24T11:42:31+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
     "source": "Al Jazeera",
     "ok": true,
-    "count": 3
+    "count": 4
    },
    {
     "source": "BBC News Middle East",
@@ -71,7 +71,7 @@
    {
     "source": "Tasnim English (Telegram)",
     "ok": true,
-    "count": 7
+    "count": 5
    },
    {
     "source": "IRNA English (Telegram)",
@@ -81,6 +81,43 @@
   ]
  },
  "items": [
+  {
+   "headline": "Gaza confirms death of Hamas internal security chief after Israeli strike",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-confirms-death-hamas-internal-security-chief-after-israeli-strike",
+   "date": "2026-11-24T11:40:34.000Z"
+  },
+  {
+   "headline": "The ‘eighth front’: Why Israel’s influence war in the US is failing",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/24/the-eighth-front-why-israels-influence-war-in-the-us-is-failing?traffic_source=rss",
+   "date": "2026-11-24T11:30:07.000Z"
+  },
+  {
+   "headline": "Saudi air strikes kill more than 30 horses in Sanaa, Saba reports",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-air-strikes-kill-more-30-horses-sanaa-saba-reports",
+   "date": "2026-11-24T11:28:33.000Z"
+  },
+  {
+   "headline": "Iraq orders takeover of oilfields in areas under Kurdish control",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control?traffic_source=rss",
+   "date": "2026-11-24T11:19:04.000Z"
+  },
+  {
+   "headline": "How EU failure to regulate tech made Palestine a ‘laboratory’ for AI weaponry and surveillance",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/news/how-eu-failure-regulate-tech-made-palestine-laboratory-ai-weaponry-surveillance",
+   "date": "2026-11-24T11:16:22.000Z"
+  },
+  {
+   "headline": "Explosion of the fourth violating oil tanker in the eastern Strait of Hormuz Public Relations of the Navy of the Islamic Revolutionary Guards Corps: 🔹 Early this morning, a violating oil tanker on an illegal and unauthorized route through the Strait of Hormuz…",
+   "source": "Tasnim English (Telegram)",
+   "official": "Iran (IRGC-affiliated Tasnim)",
+   "link": "https://t.me/Tasnimnews_en/49193",
+   "date": "2026-11-24T11:09:57.000Z"
+  },
   {
    "headline": "Israel kills UN worker and two others across Gaza as attacks on Palestinians continue",
    "source": "Middle East Eye",
@@ -371,12 +408,6 @@
    "date": "2026-11-24T01:41:40.000Z"
   },
   {
-   "headline": "Qatar PM looks to revive US-Iran talks after meeting Rubio",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
-   "date": "2026-11-24T01:32:12.000Z"
-  },
-  {
    "headline": "Iran vows to use 'all avaliable tools' to confront US naval blockade",
    "source": "Middle East Eye",
    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-vows-use-all-avaliable-tools-confront-us-naval-blockade",
@@ -442,12 +473,6 @@
    "date": "2026-11-23T22:24:51.000Z"
   },
   {
-   "headline": "Israeli army suicides reach highest level since 2010: Press review",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-suicides-reach-highest-level-2010-press-review",
-   "date": "2026-11-23T22:16:37.000Z"
-  },
-  {
    "headline": "🔵🔴 Alireza Beiranvand to Mithaqi: “You can cut my hair right now with a machine; I have no problem with that because I’m a soldier.” @TasnimSport",
    "source": "Tasnim English (Telegram)",
    "official": "Iran (IRGC-affiliated Tasnim)",
@@ -469,12 +494,6 @@
    "date": "2026-11-23T22:04:24.000Z"
   },
   {
-   "headline": "Three tankers explode in Strait of Hormuz",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/three-tankers-explode-strait-hormuz",
-   "date": "2026-11-23T21:48:40.000Z"
-  },
-  {
    "headline": "▪️ Hamas: We call for the entry of international specialist teams and experts into Gaza to assess the dimensions of the environmental disaster caused by the occupiers. @TasnimNews",
    "source": "Tasnim English (Telegram)",
    "official": "Iran (IRGC-affiliated Tasnim)",
@@ -487,12 +506,6 @@
    "official": "Iran (IRGC-affiliated Tasnim)",
    "link": "https://t.me/Tasnimnews_en/49091",
    "date": "2026-11-23T21:22:50.000Z"
-  },
-  {
-   "headline": "Qatar needs US and Iran to resume talks to end war, PM says",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/news/qatar-needs-us-iran-resume-talks-end-war-pm-says",
-   "date": "2026-11-23T21:22:03.000Z"
   },
   {
    "headline": "Iranian singer flogged 74 times for performing without hijab: What to know",
@@ -1153,13 +1166,6 @@
    "official": "Iran (state agency IRNA)",
    "link": "https://t.me/Irna_en/42521",
    "date": "2026-11-22T15:34:26.000Z"
-  },
-  {
-   "headline": "📡 Iranian women’s para taekwondo team wins first-ever world title 📌 Tehran, IRNA – Iran’s women’s para taekwondo team has clinched its maiden world title at the 2026 World Para Taekwondo Championships in Muju, South Korea. Iran made history at the World Para Taekwondo…",
-   "source": "IRNA English (Telegram)",
-   "official": "Iran (state agency IRNA)",
-   "link": "https://t.me/Irna_en/42520",
-   "date": "2026-11-22T15:21:25.000Z"
   },
   {
    "headline": "Israel investigates West Bank fires",

@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-24T11:05:29+00:00",
+  "lastUpdated": "2026-11-24T11:42:28+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -36,7 +36,7 @@
    {
     "source": "Al Jazeera",
     "ok": true,
-    "count": 2
+    "count": 3
    },
    {
     "source": "UK Ministry of Defence (GOV.UK)",
@@ -56,6 +56,30 @@
   ]
  },
  "items": [
+  {
+   "headline": "Russian attacks kill 9, injure 77 across Ukraine over past day, Zaporizhzhia residential building massively hit",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/russian-attacks-kill-9-injure-77-across-ukraine-over-past-day-zaporizhzhia-residential-building-massively-hit/",
+   "date": "2026-11-24T11:37:15.000Z"
+  },
+  {
+   "headline": "Hospital damaged in Russian attack on Odesa",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4188038-hospital-damaged-in-russian-attack-on-odesa.html",
+   "date": "2026-11-24T11:36:00.000Z"
+  },
+  {
+   "headline": "Why are Russian warships off Libya, and will Ukraine’s attack change that?",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/24/why-are-russian-warships-off-libya-and-will-ukraines-attack-change-that?traffic_source=rss",
+   "date": "2026-11-24T11:27:35.000Z"
+  },
+  {
+   "headline": "Ukrainian forces hit Russian military truck concentration area in Bryansk region",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4188026-ukrainian-forces-hit-russian-military-truck-concentration-area-in-bryansk-region.html",
+   "date": "2026-11-24T11:19:00.000Z"
+  },
   {
    "headline": "Стратеги на заданном курсе ✈️ Экипажи самолетов Ту-160 выполнили плановый полет над нейтральными водами Японского моря. ⏱️ Самолеты дальней авиации ВКС России находились в воздухе около 10 часов. Истребительное сопровождение обеспечивали экипажи Су-35с и Су-30см. ➡️ На…",
    "source": "Russian Defence Ministry (Telegram)",
@@ -470,18 +494,6 @@
    "date": "2026-11-24T04:19:44.000Z"
   },
   {
-   "headline": "Russia develops new reconnaissance version of Molniya drone with gasoline engine – presidential advisor",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4187755-russia-develops-new-reconnaissance-version-of-molniya-drone-with-gasoline-engine-presidential-advisor.html",
-   "date": "2026-11-24T03:27:00.000Z"
-  },
-  {
-   "headline": "Hungarian PM says he will visit Zakarpattia region soon",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4187709-hungarian-pm-says-he-will-visit-zakarpattia-region-soon.html",
-   "date": "2026-11-24T02:45:00.000Z"
-  },
-  {
    "headline": "Explosion, fire reported after drone crashes in Transnistria",
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/explosion-fire-reported-after-drone-crashes-in-transnistria/",
@@ -505,12 +517,6 @@
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/zelensky-calls-for-nato-to-admit-ukraine-at-alliance-assembly/",
    "date": "2026-11-23T23:50:31.000Z"
-  },
-  {
-   "headline": "Russia repeatedly altered details on killing of imprisoned Ukrainian journalist Viktoriia Roshchyna",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/russia-repeatedly-altered-details-on-killing-of-imprisoned-ukrainian-journalist-viktoriia-roshchyna/",
-   "date": "2026-11-23T21:06:10.000Z"
   },
   {
    "headline": "What strike on Russian ship in Libya says about spread of Ukraine war",
