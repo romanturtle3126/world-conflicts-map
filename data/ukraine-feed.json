@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-23T22:09:21+00:00",
+  "lastUpdated": "2026-11-24T02:59:10+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -36,7 +36,7 @@
    {
     "source": "Al Jazeera",
     "ok": true,
-    "count": 3
+    "count": 1
    },
    {
     "source": "UK Ministry of Defence (GOV.UK)",
@@ -56,6 +56,67 @@
   ]
  },
  "items": [
+  {
+   "headline": "Explosion, fire reported after drone crashes in Transnistria",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/explosion-fire-reported-after-drone-crashes-in-transnistria/",
+   "date": "2026-11-24T02:31:51.000Z"
+  },
+  {
+   "headline": "Превратили опорник в пыль 🔥 Артиллеристы и расчёты БПС группировки «Север» наносят огневое поражение по подразделениям ВСУ. 📍 Сумская область ▫️ Канал Минобороны России в MAКС – источник мощных новостей",
+   "source": "Russian Defence Ministry (Telegram)",
+   "official": "Russia",
+   "link": "https://t.me/mod_russia/69279",
+   "date": "2026-11-24T02:07:01.000Z"
+  },
+  {
+   "headline": "Olga Kharlan calls on Melania Trump to help secure release of civilians from Kinburn Spit",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-society/4187666-olga-kharlan-calls-on-melania-trump-to-help-secure-release-of-civilians-from-kinburn-spit.html",
+   "date": "2026-11-24T01:26:00.000Z"
+  },
+  {
+   "headline": "Russian unmanned aerial vehicle violates Polish airspace days after missile incursion",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/russian-unmanned-aerial-vehicle-violates-polish-airspace-days-after-missile-incursion/",
+   "date": "2026-11-24T00:48:51.000Z"
+  },
+  {
+   "headline": "Estonia must get used to Ukrainian drone attacks in the Baltic Sea, Prime Minister says",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4187653-estonia-must-get-used-to-ukrainian-drone-attacks-in-the-baltic-sea-prime-minister-says.html",
+   "date": "2026-11-24T00:37:00.000Z"
+  },
+  {
+   "headline": "Zelensky calls for NATO to admit Ukraine at alliance assembly",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/zelensky-calls-for-nato-to-admit-ukraine-at-alliance-assembly/",
+   "date": "2026-11-23T23:50:31.000Z"
+  },
+  {
+   "headline": "Ukraine's Defense Forces destroy 1,004 Russian tanks since start of 2026",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4187595-ukraines-defense-forces-destroy-1004-russian-tanks-since-start-of-2026.html",
+   "date": "2026-11-23T23:33:00.000Z"
+  },
+  {
+   "headline": "EU plans sports ban in sweeping new Russia sanctions proposal",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
+   "date": "2026-11-23T23:26:16.000Z"
+  },
+  {
+   "headline": "Russia lacks capability to recover Kerch Bridge spans from seabed – Ukrainian Navy spokesperson",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4187567-russia-lacks-capability-to-recover-kerch-bridge-spans-from-seabed-ukrainian-navy-spokesperson.html",
+   "date": "2026-11-23T22:27:00.000Z"
+  },
+  {
+   "headline": "Ukrainian forces debunk Russian claims that they remotely mined city of Rylsk",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4187544-ukrainian-forces-debunk-russian-claims-that-they-remotely-mined-city-of-rylsk.html",
+   "date": "2026-11-23T21:34:00.000Z"
+  },
   {
    "headline": "Russia repeatedly altered details on killing of imprisoned Ukrainian journalist Viktoriia Roshchyna",
    "source": "Kyiv Independent",
@@ -104,12 +165,6 @@
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/vodafone-ukraine-to-use-us-financing-for-early-repayment-of-international-bonds/",
    "date": "2026-11-23T19:22:46.000Z"
-  },
-  {
-   "headline": "Russia threatens ‘hostile’ Estonia with ‘open war’",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss",
-   "date": "2026-11-23T19:20:30.000Z"
   },
   {
    "headline": "Over 350,000 homes without power as energy crisis deepens in Dnipropetrovsk Oblast",
@@ -183,12 +238,6 @@
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/interview-uk-defense-secretary-on-nauseating-putin/",
    "date": "2026-11-23T18:27:46.000Z"
-  },
-  {
-   "headline": "What Russian warship did Ukraine just sink?",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/what-russian-warship-did-ukraine-just-sink?traffic_source=rss",
-   "date": "2026-11-23T18:25:55.000Z"
   },
   {
    "headline": "Russian forces launch 40 strikes on Dnipropetrovsk region in one day, killing two and injuring three",
@@ -308,12 +357,6 @@
    "date": "2026-11-23T16:25:00.000Z"
   },
   {
-   "headline": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
-   "date": "2026-11-23T16:23:33.000Z"
-  },
-  {
    "headline": "Поставили вражескую логистику на стоп ⛔️ 🔥 Расчеты ударных беспилотников «Запада» сожгли автомобильную технику и наземные робототехнические комплексы ВСУ. 📍 Райгородок, Краматорский район ДНР #ВойскаБПС ▫️ Канал Минобороны России в MAКС – источник мощных новостей",
    "source": "Russian Defence Ministry (Telegram)",
    "official": "Russia",
@@ -382,18 +425,6 @@
    "date": "2026-11-23T15:22:00.000Z"
   },
   {
-   "headline": "Russia preparing to put nuclear weapons in space, German media investigation claims",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/russia-preparing-to-put-nuclear-weapons-in-space-german-media-investigation-claims/",
-   "date": "2026-11-23T15:21:47.000Z"
-  },
-  {
-   "headline": "EU proposes package of Russian sports sanctions, visa bans, and a Krygyzstan crypto blockade",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/eu-proposes-package-of-russian-sports-sanctions-visa-bans-and-a-krygyzstan-crypto-blockade/",
-   "date": "2026-11-23T15:12:37.000Z"
-  },
-  {
    "headline": "SPYS interceptor drone sets new speed record of 520 km/h – photos",
    "source": "Ukrainska Pravda",
    "link": "https://www.pravda.com.ua/eng/news/2026/11/23/8064245/",
@@ -451,12 +482,6 @@
    "date": "2026-11-23T14:22:39.000Z"
   },
   {
-   "headline": "Falling drone debris sparks fire in central Kyiv, 2 rescued, 5 injured, including foreign national",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/falling-drone-debris-sparks-fire-in-central-kyiv-2-rescued-3-injured-including-foreign-national/",
-   "date": "2026-11-23T14:20:30.000Z"
-  },
-  {
    "headline": "Ukraine's defence forces strike Russian Tor air defence system and Rubicon drone unit",
    "source": "Ukrainska Pravda",
    "link": "https://www.pravda.com.ua/eng/news/2026/11/23/8064229/",
@@ -469,41 +494,11 @@
    "date": "2026-11-23T14:07:00.000Z"
   },
   {
-   "headline": "Ukraine asks partners to provide 40 more fighter jets – Khmara",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4187723-ukraine-asks-partners-to-provide-40-more-fighter-jets-khmara.html",
-   "date": "2026-11-23T14:06:00.000Z"
-  },
-  {
-   "headline": "Russian attacks target railways and energy infrastructure since yesterday, six killed across Ukraine",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4187713-russian-attacks-target-railways-and-energy-infrastructure-since-yesterday-six-killed-across-ukraine.html",
-   "date": "2026-11-23T13:52:00.000Z"
-  },
-  {
    "headline": "Мисливці стали здобиччю: Сили оборони уразили «Рубікон» у Бердянську та ЗРГК «Тор» на Луганщині 22-го та в ніч на 23 листопада Сили оборони України продовжили вибивати в армії рф ППО, дронові підрозділи та логістику. У Бердянську Запорізької області уражено місце зосередження…",
    "source": "General Staff of Ukraine (Telegram)",
    "official": "Ukraine",
    "link": "https://t.me/GeneralStaffZSU/42980",
    "date": "2026-11-23T13:32:49.000Z"
-  },
-  {
-   "headline": "Ukraine has liberated more territory than Russia has captured over past two months – Khmara",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4187692-ukraine-has-liberated-more-territory-than-russia-has-captured-over-past-two-months-khmara.html",
-   "date": "2026-11-23T13:23:00.000Z"
-  },
-  {
-   "headline": "Lukoil oil refinery in Russia on fire following drone attack – media reports",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-economy/4187671-lukoil-oil-refinery-in-russia-on-fire-following-drone-attack-media-reports.html",
-   "date": "2026-11-23T13:00:00.000Z"
-  },
-  {
-   "headline": "Ukrainian forces strike Novoshakhtinsk oil refinery, General Staff reports damage",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4187663-ukrainian-forces-strike-novoshakhtinsk-oil-refinery-general-staff-reports-damage.html",
-   "date": "2026-11-23T12:41:00.000Z"
   },
   {
    "headline": "Застали врага врасплох ▫️ Штурмовики группировки «Восток» зачистили опорный пункт ВСУ в Запорожской области. ▫️ Парни действовали четко и быстро, не оставив противнику ни единого шанса. 🔹 Канал Минобороны России в MAКС – только для своих!",
