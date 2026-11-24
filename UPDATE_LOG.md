@@ -2,6 +2,22 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-24 06:41 Toronto — Middle East — OK
+- Added 10 event(s):
+  - `khan-younis-1124` 2026-11-24 [ONE_PARTY] Gaza officials say Israeli strikes killed at least six, including police at a Khan Younis post; Israel says it hit militants
+  - `jabalia-1124` 2026-11-24 [UNVERIFIED] UNRWA says a staff member, Adel al-Helo, was killed at a water well in Jabalia camp; three colleagues wounded
+  - `gaza-1124` 2026-11-24 [ONE_PARTY] IDF says it and the Shin Bet struck a senior Hamas figure; details not yet released
+  - `khasab-1123` 2026-11-23 [ONE_PARTY] IRGC Navy says three 'unauthorized' tankers hit mines in and east of Hormuz despite US air cover
+  - `khasab-1124` 2026-11-24 [ONE_PARTY] IRGC Navy says two more tankers caught fire east of Hormuz and a fourth hit a mine; it says Hormuz stays closed
+  - `lahij-1123` 2026-11-23 [ONE_PARTY] Houthis say a Saudi F-15 hit buses and trucks at Maabaq in Lahij; local officials tell AFP 26 died
+  - `lahij-1124` 2026-11-24 [ONE_PARTY] Houthis claim they shot down a Saudi Wing Loong II drone over the Lahij coast, the 11th since the escalation
+  - `daraa-1124` 2026-11-24 [UNVERIFIED] Israeli forces reportedly storm Abidin in Daraa and set a checkpoint at Ain al-Bayda in Quneitra
+  - `jurf-al-sakhr-1123` 2026-11-23 [UNVERIFIED] ISW/CTP: Iraqi government has not retaken control of Jurf al Sakhr; Kataib Hezbollah still present
+  - `doha-1123` 2026-11-23 [CONFIRMED] Qatar's PM meets Rubio in Washington and says the region 'cannot afford' a new US-Iran escalation
+- Lanes: 1 updated
+- 15 new source link(s)
+- Totals: 128 events, 18 stats, 199 sources; coverage 2026-10-06 to 2026-11-24
+
 ## 2026-11-24 06:04 Toronto — Ukraine — OK
 - Added 4 event(s):
   - `perm-1123` 2026-11-23 [ONE_PARTY] Ukraine's General Staff claims strike on Lukoil refinery in Perm, over 1,500 km from the border
