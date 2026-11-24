@@ -2,11 +2,11 @@
  "schemaVersion": 1,
  "map": "middle-east",
  "meta": {
-  "lastUpdated": "2026-11-23T06:41:47-05:00",
-  "coverage": "2026-10-06 to 2026-11-23",
+  "lastUpdated": "2026-11-24T06:41:59-05:00",
+  "coverage": "2026-10-06 to 2026-11-24",
   "notes": [
-   "Refreshed 2026-11-23 (about 07:00 UTC) from Middle East Eye, Al-Monitor (Reuters/AFP copy), France 24, Critical Threats/ISW Iran Update of Nov 22, the Houthi military spokesman Telegram (army21ye), Gaza Ministry of Health Telegram (MOHMediaGaza) and State of Israel/IDF Telegram.",
-   "Not read: UKMTO site (403), CENTCOM press releases (403 in the feed) and CENTCOM/IDF X posts (not searched successfully), Tasnim and IRNA items not matched to a new event, OCHA oPt (latest report still Nov 18). Brent price not refreshed. Syria and Iraq not refreshed: no new reporting found in the leads.",
+   "Refreshed 2026-11-24 (about 12:00 UTC) from Middle East Eye, Al Jazeera, Al-Monitor (Reuters), Critical Threats/ISW Iran Update of Nov 23, IDF Telegram, Tasnim English Telegram and the Houthi military spokesman Telegram (army21ye).",
+   "Not read: UKMTO (Cloudflare block), CENTCOM press page (403; only older items in the leads), OCHA oPt (latest report still Nov 18), X posts (not searched). IRNA and Gaza MoH posts checked via the leads only, nothing new used. Stats and Brent not refreshed; Lebanon had no new reporting.",
    "Marker positions are approximate (see coordPrecision)."
   ]
  },
@@ -4015,6 +4015,324 @@
     }
    ],
    "read": "full"
+  },
+  {
+   "id": "khasab-1123",
+   "date": "2026-11-23",
+   "region": "gulf",
+   "oblast": "Strait of Hormuz",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "naval",
+   "status": "ONE_PARTY",
+   "title": "IRGC Navy says three 'unauthorized' tankers hit mines in and east of Hormuz despite US air cover",
+   "caption": "The IRGC Navy said, via Tasnim, that three tankers exploded and caught fire after hitting naval mines, one off the southern coast and two east of the strait, and that US air escort failed to prevent it. Middle East Eye relays the claim from Iranian media. I found no UKMTO, US or shipping-industry confirmation; UKMTO's site is blocked. Marker is at Khasab, not the sites.",
+   "lat": 26.1799,
+   "lon": 56.2477,
+   "coordPrecision": "oblast",
+   "place": "Khasab",
+   "sources": [
+    {
+     "id": "tg_tasnim_49088",
+     "title": "Tasnim English Telegram, IRGC Navy: explosions of three unauthorized oil tankers in the Strait of Hormuz, Nov 23",
+     "url": "https://t.me/Tasnimnews_en/49088"
+    },
+    {
+     "id": "mee_1123_tankers",
+     "title": "Middle East Eye live blog, Three tankers explode in Strait of Hormuz, Nov 23",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-tankers-explode-strait-hormuz"
+    }
+   ],
+   "claims": [
+    {
+     "who": "IRGC Navy (via Tasnim)",
+     "says": "Three unauthorized tankers hit mines and burned; US air cover failed.",
+     "source": "tg_tasnim_49088"
+    },
+    {
+     "who": "US military (earlier statement, Nov 14, via Al Jazeera)",
+     "says": "Main routes cleared of mines; strait open."
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "lahij-1123",
+   "date": "2026-11-23",
+   "region": "yemen",
+   "oblast": "Yemen (Lahij)",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "airstrike",
+   "status": "ONE_PARTY",
+   "title": "Houthis say a Saudi F-15 hit buses and trucks at Maabaq in Lahij; local officials tell AFP 26 died",
+   "caption": "The Houthi military spokesman said a Saudi F-15 carried out eight strikes on buses and goods vehicles at Maabaq in al-Muqatirah district, killing dozens. Middle East Eye, citing Saba (Houthi-run), reports 25 dead or missing and six wounded, and quotes AFP that local officials put the toll at 26 and that the Houthis and government forces traded blame. I did not read AFP's own text or the government's account, so who struck is not established. Marker is at Lahij town, about 25 km from the area.",
+   "lat": 13.0567,
+   "lon": 44.8819,
+   "coordPrecision": "approx",
+   "place": "Lahij",
+   "sources": [
+    {
+     "id": "tg_army21ye_4141",
+     "title": "Houthi military spokesman Telegram, claim on Saudi F-15 strike at Maabaq, Nov 23",
+     "url": "https://t.me/army21ye/4141"
+    },
+    {
+     "id": "mee_1124_lahj",
+     "title": "Middle East Eye live blog, Saudi strikes on Yemen buses and trucks leave 25 dead or missing, Nov 24",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-strikes-yemen-buses-and-trucks-leave-25-dead-or-missing-report"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Houthi military spokesman",
+     "says": "Saudi F-15 struck buses and goods transport at Maabaq with eight US-made bombs, killing dozens.",
+     "source": "tg_army21ye_4141"
+    },
+    {
+     "who": "AFP (via Middle East Eye)",
+     "says": "Local officials say 26 died; Houthis and government forces traded blame.",
+     "source": "mee_1124_lahj"
+    }
+   ],
+   "read": "snippet"
+  },
+  {
+   "id": "jurf-al-sakhr-1123",
+   "date": "2026-11-23",
+   "region": "iraq",
+   "oblast": "Iraq (Babil)",
+   "front": "Iraq & Iran internal",
+   "type": "other",
+   "status": "UNVERIFIED",
+   "title": "ISW/CTP: Iraqi government has not retaken control of Jurf al Sakhr; Kataib Hezbollah still present",
+   "caption": "The Critical Threats/ISW Iran Update of Nov 23 assesses that Iraqi forces entered parts of Jurf al Sakhr on Nov 20 under an IRGC-brokered deal, but Kataib Hezbollah still holds forces there; Iraqi media say a third of its brigades have withdrawn. These are analyst assessments citing Iraqi media. Marker is at Al Hillah, the nearest listed town, not the site.",
+   "lat": 32.4637,
+   "lon": 44.4196,
+   "coordPrecision": "oblast",
+   "place": "Hillah",
+   "sources": [
+    {
+     "id": "ctp_1123",
+     "title": "Critical Threats / ISW, Iran Update, Nov 23, 2026",
+     "url": "https://www.criticalthreats.org/analysis/iran-update-november-23-2026"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "doha-1123",
+   "date": "2026-11-23",
+   "region": "gulf",
+   "oblast": "Qatar",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "diplomacy",
+   "status": "CONFIRMED",
+   "title": "Qatar's PM meets Rubio in Washington and says the region 'cannot afford' a new US-Iran escalation",
+   "caption": "Qatari Prime Minister Mohammed bin Abdulrahman Al Thani met US Secretary of State Marco Rubio on Nov 23 for the annual strategic dialogue and said he is pushing to revive stalled US-Iran talks, per Middle East Eye and Al-Monitor. Al-Monitor adds that a Qatari delegation visited Tehran on Nov 20 and US envoys met Qatari officials in Berlin. Al-Monitor's piece is paywalled after the opening; the meeting is not disputed. Marker is at Doha, not the venue.",
+   "lat": 25.2855,
+   "lon": 51.531,
+   "coordPrecision": "oblast",
+   "place": "Doha",
+   "sources": [
+    {
+     "id": "mee_1123_qatar",
+     "title": "Middle East Eye, Qatar needs US and Iran to resume talks to end war, PM says, Nov 23",
+     "url": "https://www.middleeasteye.net/news/qatar-needs-us-iran-resume-talks-end-war-pm-says"
+    },
+    {
+     "id": "am_1123_rubio",
+     "title": "Al-Monitor, Rubio meets Qatari PM as Iran standoff deepens, Nov 23",
+     "url": "https://www.al-monitor.com/originals/2026/11/rubio-meets-qatari-pm-iran-standoff-deepens"
+    }
+   ],
+   "read": "snippet"
+  },
+  {
+   "id": "khan-younis-1124",
+   "date": "2026-11-24",
+   "region": "gaza",
+   "oblast": "Gaza Strip",
+   "front": "Gaza & West Bank",
+   "type": "airstrike",
+   "status": "ONE_PARTY",
+   "title": "Gaza officials say Israeli strikes killed at least six, including police at a Khan Younis post; Israel says it hit militants",
+   "caption": "Reuters, citing medics, reports an Israeli airstrike on a police post in Khan Younis killed three people, two of them police officers according to the Hamas-run interior ministry, and a second strike near the Netzarim corridor killed three more. The Israeli military told Reuters it struck militants in both areas and gave no details. Al Jazeera, citing Wafa and medical sources, counts seven dead across the Strip including a child, with three killed in Wadi Gaza. Marker is at Khan Younis; the Netzarim and Wadi Gaza strikes are not placed.",
+   "lat": 31.3402,
+   "lon": 34.3063,
+   "coordPrecision": "approx",
+   "place": "Khan Younis",
+   "sources": [
+    {
+     "id": "am_1124_gaza",
+     "title": "Al-Monitor (Reuters), Israeli airstrikes kill at least six Palestinians in Gaza, medics say, Nov 24",
+     "url": "https://www.al-monitor.com/originals/2026/11/israeli-airstrikes-kill-least-six-palestinians-gaza-medics-say"
+    },
+    {
+     "id": "aj_1124_gaza",
+     "title": "Al Jazeera, Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak, Nov 24",
+     "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Gaza medics and Hamas-run interior ministry (via Reuters)",
+     "says": "Three killed at a police post in Khan Younis, two of them police; three more killed near Netzarim.",
+     "source": "am_1124_gaza"
+    },
+    {
+     "who": "Israeli military (via Reuters)",
+     "says": "It struck militants in both areas; no further details.",
+     "source": "am_1124_gaza"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "jabalia-1124",
+   "date": "2026-11-24",
+   "region": "gaza",
+   "oblast": "Gaza Strip",
+   "front": "Gaza & West Bank",
+   "type": "airstrike",
+   "status": "UNVERIFIED",
+   "title": "UNRWA says a staff member, Adel al-Helo, was killed at a water well in Jabalia camp; three colleagues wounded",
+   "caption": "Middle East Eye, citing an UNRWA statement, reports an UNRWA worker was killed and three others wounded while working at a well in Jabalia refugee camp, and that UNRWA called for an independent investigation. I found no Israeli comment on this incident and did not read UNRWA's own post. Date taken from the Nov 24 report.",
+   "lat": 31.5272,
+   "lon": 34.4835,
+   "coordPrecision": "city",
+   "place": "Jabalia",
+   "sources": [
+    {
+     "id": "mee_1124_gaza",
+     "title": "Middle East Eye, Israel kills UN worker and two others across Gaza as attacks on Palestinians continue, Nov 24",
+     "url": "https://www.middleeasteye.net/news/israeli-strikes-kill-three-across-gaza-attacks-palestinians-continue"
+    }
+   ],
+   "claims": [
+    {
+     "who": "UNRWA (via Middle East Eye)",
+     "says": "Staff member Adel al-Helo killed near a well in Jabalia, three wounded; calls for protection of aid workers.",
+     "source": "mee_1124_gaza"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "gaza-1124",
+   "date": "2026-11-24",
+   "region": "gaza",
+   "oblast": "Gaza Strip",
+   "front": "Gaza & West Bank",
+   "type": "airstrike",
+   "status": "ONE_PARTY",
+   "title": "IDF says it and the Shin Bet struck a senior Hamas figure; details not yet released",
+   "caption": "The IDF's Telegram channel posted at about 10:33 UTC that the IDF and the Shin Bet (ISA) struck a senior Hamas figure and that details would follow. The post gives no location, name or outcome, and I found no independent report or Hamas statement yet. Marker is at Gaza city only as the Strip's reference point.",
+   "lat": 31.5016,
+   "lon": 34.4667,
+   "coordPrecision": "oblast",
+   "place": "Gaza",
+   "sources": [
+    {
+     "id": "tg_idf_19518",
+     "title": "IDF Telegram, joint IDF and ISA announcement on strike on a senior Hamas figure, Nov 24",
+     "url": "https://t.me/idfofficial/19518"
+    }
+   ],
+   "claims": [
+    {
+     "who": "IDF / Shin Bet",
+     "says": "Struck a senior terrorist in Hamas; details to follow.",
+     "source": "tg_idf_19518"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "khasab-1124",
+   "date": "2026-11-24",
+   "region": "gulf",
+   "oblast": "Strait of Hormuz",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "naval",
+   "status": "ONE_PARTY",
+   "title": "IRGC Navy says two more tankers caught fire east of Hormuz and a fourth hit a mine; it says Hormuz stays closed",
+   "caption": "In two Tasnim posts the IRGC Navy said two tankers that had switched off their identification systems caught fire after hitting a mine east of the strait, and later that a fourth 'violating' tanker exploded on a mine while two others turned back after radio warnings. It added that the strait will not open until Iran's demands are met. No independent confirmation found; UKMTO not readable. Marker is at Khasab, not the sites.",
+   "lat": 26.1799,
+   "lon": 56.2477,
+   "coordPrecision": "oblast",
+   "place": "Khasab",
+   "sources": [
+    {
+     "id": "tg_tasnim_49181",
+     "title": "Tasnim English Telegram, IRGC Navy: fire on two rogue oil tankers east of Hormuz, Nov 24",
+     "url": "https://t.me/Tasnimnews_en/49181"
+    },
+    {
+     "id": "tg_tasnim_49191",
+     "title": "Tasnim English Telegram, IRGC Navy: explosion of the fourth violating tanker, Nov 24",
+     "url": "https://t.me/Tasnimnews_en/49191"
+    }
+   ],
+   "claims": [
+    {
+     "who": "IRGC Navy (via Tasnim)",
+     "says": "Two tankers burned after mine strikes; a fourth exploded; two turned back; strait stays shut until Iran's goals are met.",
+     "source": "tg_tasnim_49191"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "lahij-1124",
+   "date": "2026-11-24",
+   "region": "yemen",
+   "oblast": "Yemen (Lahij)",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Houthis claim they shot down a Saudi Wing Loong II drone over the Lahij coast, the 11th since the escalation",
+   "caption": "The Houthi military spokesman said forces downed a Saudi armed reconnaissance Wing Loong II over Lahij's coast with an unspecified weapon, the eleventh of that type. Saudi Arabia has not commented in anything I read. Marker is at Lahij town.",
+   "lat": 13.0567,
+   "lon": 44.8819,
+   "coordPrecision": "oblast",
+   "place": "Lahij",
+   "sources": [
+    {
+     "id": "tg_army21ye_4143",
+     "title": "Houthi military spokesman Telegram, claim of Wing Loong II shot down over Lahij coast, Nov 24",
+     "url": "https://t.me/army21ye/4143"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Houthi military spokesman",
+     "says": "Shot down a Saudi Wing Loong II; 11th such drone since the escalation.",
+     "source": "tg_army21ye_4143"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "daraa-1124",
+   "date": "2026-11-24",
+   "region": "syria",
+   "oblast": "Syria (Daraa)",
+   "front": "Lebanon & Syria",
+   "type": "ground",
+   "status": "UNVERIFIED",
+   "title": "Israeli forces reportedly storm Abidin in Daraa and set a checkpoint at Ain al-Bayda in Quneitra",
+   "caption": "A Middle East Eye live-blog entry reports Israeli military vehicles stormed and searched homes in Abidin, Daraa governorate, and that troops set up a checkpoint at Ain al-Bayda in northern Quneitra where people were searched. The entry names no source and I found no Israeli or Syrian statement. Marker is at Daraa city.",
+   "lat": 32.6189,
+   "lon": 36.1021,
+   "coordPrecision": "oblast",
+   "place": "Daraa",
+   "sources": [
+    {
+     "id": "mee_1124_syria",
+     "title": "Middle East Eye live blog, Israeli army storms Syrian village, Nov 24",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-storms-syrian-village"
+    }
+   ],
+   "read": "full"
   }
  ],
  "lanes": [
@@ -4022,7 +4340,7 @@
    "id": "hormuz-lane",
    "name": "Strait of Hormuz",
    "status": "DISPUTED",
-   "text": "Nov 22: Iran's navy says two supertankers hit mines east of the strait and UKMTO reports a tanker incident with military forces in the Gulf of Oman (details unclear). Restricted since Feb 28. Nov 22: UKMTO reported two tankers hit by projectiles near Khasab, one in the engine room (via Critical Threats and France 24); Iran's army said a ship hit a mine after entering a restricted zone. Nov 22: Bahrain says Iran struck an industrial site; the IRGC says it hit US bases. Nov 21: UKMTO's weekly report (via Middle East Eye) counts six attacks on commercial vessels in the week (four in Hormuz, two in the Arabian Gulf); transits 115 outbound and 148 inbound in the week to Nov 18, about 65% below pre-war. Nov 21: Iran's IRGC says it downed a US MQ-9 over Hormuz (no US comment). Nov 19: Iran's army said three tankers hit mines east of the strait; no independent confirmation. Nov 20: Araghchi says the strait stays shut until Iran's seven conditions are met. The US says routes are cleared and the strait is open. The UN says at least 25 seafarers have died since February.",
+   "text": "Nov 23-24: the IRGC Navy says seven tankers in all hit mines in and east of the strait (three on Nov 23, two and a fourth on Nov 24) and that the strait stays shut until its conditions are met; none is independently confirmed. Nov 22: Iran's navy says two supertankers hit mines east of the strait and UKMTO reports a tanker incident with military forces in the Gulf of Oman (details unclear). Restricted since Feb 28. Nov 22: UKMTO reported two tankers hit by projectiles near Khasab, one in the engine room (via Critical Threats and France 24); Iran's army said a ship hit a mine after entering a restricted zone. Nov 22: Bahrain says Iran struck an industrial site; the IRGC says it hit US bases. Nov 21: UKMTO's weekly report (via Middle East Eye) counts six attacks on commercial vessels in the week (four in Hormuz, two in the Arabian Gulf); transits 115 outbound and 148 inbound in the week to Nov 18, about 65% below pre-war. Nov 21: Iran's IRGC says it downed a US MQ-9 over Hormuz (no US comment). Nov 19: Iran's army said three tankers hit mines east of the strait; no independent confirmation. Nov 20: Araghchi says the strait stays shut until Iran's seven conditions are met. The US says routes are cleared and the strait is open. The UN says at least 25 seafarers have died since February.",
    "sources": [
     {
      "id": "mee_1122_mines",
@@ -4068,9 +4386,29 @@
      "id": "aj_1121_drone",
      "title": "Al Jazeera, Iran's IRGC downs US drone over Hormuz as efforts to end war remain stalled, Nov 21",
      "url": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled"
+    },
+    {
+     "id": "tg_tasnim_49088",
+     "title": "Tasnim English Telegram, IRGC Navy: explosions of three unauthorized oil tankers in the Strait of Hormuz, Nov 23",
+     "url": "https://t.me/Tasnimnews_en/49088"
+    },
+    {
+     "id": "tg_tasnim_49191",
+     "title": "Tasnim English Telegram, IRGC Navy: explosion of the fourth violating tanker, Nov 24",
+     "url": "https://t.me/Tasnimnews_en/49191"
+    },
+    {
+     "id": "mee_1123_tankers",
+     "title": "Middle East Eye live blog, Three tankers explode in Strait of Hormuz, Nov 23",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-tankers-explode-strait-hormuz"
     }
    ],
    "claims": [
+    {
+     "who": "IRGC Navy (via Tasnim, Nov 23-24)",
+     "says": "Unauthorized tankers hit mines; Hormuz stays shut until Iran's conditions are met.",
+     "source": "tg_tasnim_49191"
+    },
     {
      "who": "Iran (Foreign Ministry, Nov 23)",
      "says": "Hormuz reopens quickly if the US halts hostilities, lifts the blockade and waives sanctions.",
@@ -5538,6 +5876,81 @@
    "id": "tg_mohgaza_7748",
    "title": "Gaza Ministry of Health (Telegram), daily statistical report, Nov 23",
    "url": "https://t.me/MOHMediaGaza/7748"
+  },
+  {
+   "id": "am_1124_gaza",
+   "title": "Al-Monitor (Reuters), Israeli airstrikes kill at least six Palestinians in Gaza, medics say, Nov 24",
+   "url": "https://www.al-monitor.com/originals/2026/11/israeli-airstrikes-kill-least-six-palestinians-gaza-medics-say"
+  },
+  {
+   "id": "aj_1124_gaza",
+   "title": "Al Jazeera, Israeli air strikes in Gaza kill 7 as doctors warn of meningitis outbreak, Nov 24",
+   "url": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strikes-in-gaza-kill-7-as-doctors-warn-of-meningitis-outbreak"
+  },
+  {
+   "id": "mee_1124_gaza",
+   "title": "Middle East Eye, Israel kills UN worker and two others across Gaza as attacks on Palestinians continue, Nov 24",
+   "url": "https://www.middleeasteye.net/news/israeli-strikes-kill-three-across-gaza-attacks-palestinians-continue"
+  },
+  {
+   "id": "tg_idf_19518",
+   "title": "IDF Telegram, joint IDF and ISA announcement on strike on a senior Hamas figure, Nov 24",
+   "url": "https://t.me/idfofficial/19518"
+  },
+  {
+   "id": "tg_tasnim_49088",
+   "title": "Tasnim English Telegram, IRGC Navy: explosions of three unauthorized oil tankers in the Strait of Hormuz, Nov 23",
+   "url": "https://t.me/Tasnimnews_en/49088"
+  },
+  {
+   "id": "mee_1123_tankers",
+   "title": "Middle East Eye live blog, Three tankers explode in Strait of Hormuz, Nov 23",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-tankers-explode-strait-hormuz"
+  },
+  {
+   "id": "tg_tasnim_49181",
+   "title": "Tasnim English Telegram, IRGC Navy: fire on two rogue oil tankers east of Hormuz, Nov 24",
+   "url": "https://t.me/Tasnimnews_en/49181"
+  },
+  {
+   "id": "tg_tasnim_49191",
+   "title": "Tasnim English Telegram, IRGC Navy: explosion of the fourth violating tanker, Nov 24",
+   "url": "https://t.me/Tasnimnews_en/49191"
+  },
+  {
+   "id": "tg_army21ye_4141",
+   "title": "Houthi military spokesman Telegram, claim on Saudi F-15 strike at Maabaq, Nov 23",
+   "url": "https://t.me/army21ye/4141"
+  },
+  {
+   "id": "mee_1124_lahj",
+   "title": "Middle East Eye live blog, Saudi strikes on Yemen buses and trucks leave 25 dead or missing, Nov 24",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-strikes-yemen-buses-and-trucks-leave-25-dead-or-missing-report"
+  },
+  {
+   "id": "tg_army21ye_4143",
+   "title": "Houthi military spokesman Telegram, claim of Wing Loong II shot down over Lahij coast, Nov 24",
+   "url": "https://t.me/army21ye/4143"
+  },
+  {
+   "id": "mee_1124_syria",
+   "title": "Middle East Eye live blog, Israeli army storms Syrian village, Nov 24",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-storms-syrian-village"
+  },
+  {
+   "id": "ctp_1123",
+   "title": "Critical Threats / ISW, Iran Update, Nov 23, 2026",
+   "url": "https://www.criticalthreats.org/analysis/iran-update-november-23-2026"
+  },
+  {
+   "id": "mee_1123_qatar",
+   "title": "Middle East Eye, Qatar needs US and Iran to resume talks to end war, PM says, Nov 23",
+   "url": "https://www.middleeasteye.net/news/qatar-needs-us-iran-resume-talks-end-war-pm-says"
+  },
+  {
+   "id": "am_1123_rubio",
+   "title": "Al-Monitor, Rubio meets Qatari PM as Iran standoff deepens, Nov 23",
+   "url": "https://www.al-monitor.com/originals/2026/11/rubio-meets-qatari-pm-iran-standoff-deepens"
   }
  ]
 }
