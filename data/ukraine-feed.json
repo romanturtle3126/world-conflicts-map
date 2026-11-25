@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-25T20:02:08+00:00",
+  "lastUpdated": "2026-11-25T20:56:17+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -56,6 +56,18 @@
   ]
  },
  "items": [
+  {
+   "headline": "Former European leaders urge EU to make long-term commitments to Ukraine",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4188675-former-european-leaders-urge-eu-to-make-longterm-commitments-to-ukraine.html",
+   "date": "2026-11-25T20:43:47.000Z"
+  },
+  {
+   "headline": "“A true family heirloom”: Magyar shows gift from Zelensky",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4188671-a-true-family-heirloom-magyar-shows-gift-from-zelensky.html",
+   "date": "2026-11-25T20:15:13.000Z"
+  },
   {
    "headline": "Оперативна інформація станом на 22:00 25.11.2026 щодо відбиття російського вторгнення Загалом від початку цієї доби відбулося 151 бойове зіткнення. Противник завдав 47 авіаційних ударів, скинув 156 керованих авіабомб. Крім того, залучив для ураження 3870 дронів-камікадзе та…",
    "source": "General Staff of Ukraine (Telegram)",
@@ -515,18 +527,6 @@
    "source": "Ukrinform",
    "link": "https://www.ukrinform.net/rubric-ato/4188516-khmara-stoltenberg-discuss-strengthening-ukraines-air-defenses-and-supporting-defense-industry.html",
    "date": "2026-11-25T13:21:00.000Z"
-  },
-  {
-   "headline": "Russia drops 500-kg FAB-500 bomb on Sloviansk",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4188505-russia-drops-500kg-fab500-bomb-on-sloviansk.html",
-   "date": "2026-11-25T12:50:00.000Z"
-  },
-  {
-   "headline": "Ukraine ready for next POW exchange, Coordination Headquarters secretary says",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4188502-ukraine-ready-for-next-pow-exchange-coordination-headquarters-secretary-says.html",
-   "date": "2026-11-25T12:42:00.000Z"
   },
   {
    "headline": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
@@ -1131,13 +1131,6 @@
    "source": "BBC News Europe",
    "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-22T22:37:43.000Z"
-  },
-  {
-   "headline": "Оперативна інформація станом на 22:00 22.11.2026 щодо російського вторгнення Загалом від початку цієї доби відбулося 143 бойові зіткнення. Противник завдав 49 авіаційних ударів, скинув 173 керовані авіабомби. Крім того, залучив для ураження 4398 дронів-камікадзе та здійснив…",
-   "source": "General Staff of Ukraine (Telegram)",
-   "official": "Ukraine",
-   "link": "https://t.me/GeneralStaffZSU/42973",
-   "date": "2026-11-22T20:03:01.000Z"
   },
   {
    "headline": "Wes Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",

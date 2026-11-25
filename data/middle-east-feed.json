@@ -1,12 +1,12 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-25T20:02:10+00:00",
+  "lastUpdated": "2026-11-25T20:56:20+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
     "source": "Al Jazeera",
     "ok": true,
-    "count": 7
+    "count": 6
    },
    {
     "source": "BBC News Middle East",
@@ -20,8 +20,8 @@
    },
    {
     "source": "Euronews",
-    "ok": false,
-    "error": "HTTP 406"
+    "ok": true,
+    "count": 1
    },
    {
     "source": "France 24 Middle East",
@@ -71,7 +71,7 @@
    {
     "source": "Tasnim English (Telegram)",
     "ok": true,
-    "count": 15
+    "count": 9
    },
    {
     "source": "IRNA English (Telegram)",
@@ -81,6 +81,49 @@
   ]
  },
  "items": [
+  {
+   "headline": "Israeli judges recommend prosecutors drop one bribery case against Netanyahu",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/israeli-judges-recommend-prosecutors-drop-one-bribery-case-against-netanyahu",
+   "date": "2026-11-25T20:46:31.000Z"
+  },
+  {
+   "headline": "At least 30 killed in blaze after vehicle overturns in Egypt, health ministry says",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/least-30-killed-blaze-after-vehicle-overturns-egypt-health-ministry-says",
+   "date": "2026-11-25T20:46:31.000Z"
+  },
+  {
+   "headline": "US ambassador to Israel undercuts Trump's announcement that aid to Israel will end this year",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/news/us-ambassador-israel-undercuts-trumps-announcement-aid-israel-will-end-year",
+   "date": "2026-11-25T20:38:14.000Z"
+  },
+  {
+   "headline": "At least 30 killed in Egypt in fuel tanker accident",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/least-30-killed-egypt-fuel-tanker-accident",
+   "date": "2026-11-25T20:31:02.000Z"
+  },
+  {
+   "headline": "Egypt says 30 dead in Cairo fire after fuel truck overturns",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/egypt-says-30-dead-cairo-fire-after-fuel-truck-overturns",
+   "date": "2026-11-25T20:30:59.000Z"
+  },
+  {
+   "headline": "Saudi-led coalition says it intercepts Houthi drone near Jeddah Islamic Port",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-intercepts-houthi-drone-near-jeddah-islamic",
+   "date": "2026-11-25T20:07:13.000Z"
+  },
+  {
+   "headline": "Fire at Weatherford Aerospace plant following explosions 🔹Earlier today, a fire broke out at Weatherford Aerospace’s Texas plant, starting from acid storage tanks and spreading to the rest of the facility. After several explosions were heard, thick black smoke covered the…",
+   "source": "Tasnim English (Telegram)",
+   "official": "Iran (IRGC-affiliated Tasnim)",
+   "link": "https://t.me/Tasnimnews_en/49524",
+   "date": "2026-11-25T20:04:28.000Z"
+  },
   {
    "headline": "What is the current demographic situation in Iran? ▪️The fertility rate in 1404 was 1.34. 🔹Secretary of the National Population Council: According to estimates, in the year 1419, the number of deaths will equal the number of births; thereafter, deaths will…",
    "source": "Tasnim English (Telegram)",
@@ -283,6 +326,12 @@
    "date": "2026-11-25T17:44:18.000Z"
   },
   {
+   "headline": "Community care: Former Jewish school becomes Iraq's first Jewish museum",
+   "source": "Euronews",
+   "link": "https://www.euronews.com/2026/11/25/community-care-former-jewish-school-becomes-iraqs-first-jewish-museum",
+   "date": "2026-11-25T17:43:22.000Z"
+  },
+  {
    "headline": "Taeb: Iran is a stage where a nation’s resistance against global powers is on display Head of the Basij: 🔹We strive to foster scientific development, and we will earnestly pursue the work of the Basij Construction Corps. We will also revitalize the “Journey to Progress”…",
    "source": "Tasnim English (Telegram)",
    "official": "Iran (IRGC-affiliated Tasnim)",
@@ -377,18 +426,6 @@
    "date": "2026-11-25T16:30:29.000Z"
   },
   {
-   "headline": "Saudi PIF looking to sell minority stake in Newcastle: report",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/saudi-pif-looking-sell-minority-stake-newcastle-report",
-   "date": "2026-11-25T16:30:27.000Z"
-  },
-  {
-   "headline": "Netanyahu says corruption trial must end after court casts doubt on charges",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/netanyahu-says-corruption-trial-must-end-after-court-casts-doubt-charges",
-   "date": "2026-11-25T16:30:27.000Z"
-  },
-  {
    "headline": "💬 China supports diplomacy on Iran nuclear issue, urges return to talks: Envoy 📌 Tehran, IRNA – China’s ambassador to Tehran has reaffirmed Beijing’s support for a diplomatic solution to Iran’s nuclear issue, urging all sides to keep the door to negotiations open,…",
    "source": "IRNA English (Telegram)",
    "official": "Iran (state agency IRNA)",
@@ -422,22 +459,10 @@
    "date": "2026-11-25T15:51:49.000Z"
   },
   {
-   "headline": "Israeli lawmakers advance October 7 inquiry opposed by Netanyahu",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/israeli-lawmakers-advance-october-7-inquiry-opposed-netanyahu",
-   "date": "2026-11-25T15:30:25.000Z"
-  },
-  {
-   "headline": "Eastern Libya leader Haftar visits Erdogan in Turkey as ties thaw",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/eastern-libya-leader-haftar-visits-erdogan-turkey-ties-thaw",
-   "date": "2026-11-25T15:30:25.000Z"
-  },
-  {
-   "headline": "Activist confronts ex-Mossad chief over 2024 Lebanon pager attacks",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/activist-confronts-ex-mossad-chief-over-2024-lebanon-pager-attacks?traffic_source=rss",
-   "date": "2026-11-25T15:15:53.000Z"
+   "headline": "Libya’s Haftar visits old foe Turkey for first time in ‘new phase’ of ties",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261125-libya-s-haftar-visits-old-foe-turkey-in-a-first-hails-new-phase-of-ties",
+   "date": "2026-11-25T15:19:19.000Z"
   },
   {
    "headline": "Jeremy Corbyn and Rashida Tlaib join politicians and legal groups condemning Ulm 5 prosecution",
@@ -457,12 +482,6 @@
    "source": "Middle East Eye",
    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/erdogan-meets-khalifa-haftar-turkey",
    "date": "2026-11-25T14:52:05.000Z"
-  },
-  {
-   "headline": "Israeli opposition advances October 7 attack probe opposed by Netanyahu",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/israeli-opposition-advances-october-7-attack-probe-opposed-netanyahu",
-   "date": "2026-11-25T14:46:30.000Z"
   },
   {
    "headline": "16 U.S. warplanes flew over Iraq 🔹According to the Islamic Resistance in Iraq, the U.S. military violated Iraq’s airspace yesterday with 16 military aircraft. @TasnimNews",
@@ -529,12 +548,6 @@
    "source": "Middle East Eye",
    "link": "https://www.middleeasteye.net/news/more-third-muslim-students-experience-islamophobia-uk-universities-report-finds",
    "date": "2026-11-25T13:46:30.000Z"
-  },
-  {
-   "headline": "At Turkey’s COP31, artists put fossil fuels in the frame",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/turkeys-cop31-artists-put-fossil-fuels-frame",
-   "date": "2026-11-25T13:41:54.000Z"
   },
   {
    "headline": "Saudi warplanes attack Yemeni historical sites 🔹Al-Masirah reported that Saudi aggressor warplanes, continuing their attacks on Taiz province, bombed the historic mausoleum complex of “Sayyid Ahmad Abad Sufyan”. 🔹This historic site was bombed for the second time. @TasnimNews",
@@ -657,12 +670,6 @@
    "date": "2026-11-25T12:00:00.000Z"
   },
   {
-   "headline": "Amnesty says Palestinian women and girls bear crushing toll of Israel’s genocide",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/amnesty-says-palestinian-women-and-girls-bear-crushing-toll-israels",
-   "date": "2026-11-25T11:59:55.000Z"
-  },
-  {
    "headline": "تجدد القوات المسلحة تأكيدها أن ميناء جدة وجميع موانئ العدو السعودي في ساحل البحر الأحمر ستكون هدفا لقواتنا في حال نفذ العدو تهديداته بقصف ميناء الحديدة. ونحذر الموظفين والعاملين فيها والمتواجدين بالقرب منها بإخلائها فورا والابتعاد عنها وندعو جميع الشركات الملاحية لإخلاء سفنها…",
    "source": "Houthi military spokesman (Telegram)",
    "official": "Houthis (Yemeni Armed Forces)",
@@ -696,12 +703,6 @@
    "official": "Gaza (Ministry of Health)",
    "link": "https://t.me/MOHMediaGaza/7760",
    "date": "2026-11-25T11:13:07.000Z"
-  },
-  {
-   "headline": "Israeli minister calls Palestinians and Muslims 'camel riders' and 'barbarians'",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/news/israeli-minister-calls-palestinians-and-muslims-camel-riders-and-barbarians",
-   "date": "2026-11-25T11:06:27.000Z"
   },
   {
    "headline": "Who does the President’s statement regarding the Esfand 1404 students apply to? 🔹The President’s statement applies only to those students who have expressed remorse and realized they fell into the trap set by enemy media. 🔹Agitators who deliberately caused unrest will not…",
@@ -1215,13 +1216,6 @@
    "date": "2026-11-24T09:58:07.000Z"
   },
   {
-   "headline": "🔊 Strait of Hormuz will remain closed until Iran’s conditions are met: Army chief 📌 Tehran, IRNA — Chief Commander of the Islamic Republic of Iran, Army Major General Amir Hatami, has reiterated Iran’s resolve to safeguard national interests, saying the acceptance of seven…",
-   "source": "IRNA English (Telegram)",
-   "official": "Iran (state agency IRNA)",
-   "link": "https://t.me/Irna_en/42598",
-   "date": "2026-11-24T09:54:01.000Z"
-  },
-  {
    "headline": "Iranian authorities flog singer who performed without hijab, lawyers say",
    "source": "BBC News Middle East",
    "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
@@ -1394,12 +1388,6 @@
    "source": "France 24 Middle East",
    "link": "https://www.france24.com/en/middle-east/20261117-%F0%9F%94%B4-israeli-parliament-elects-eisenkot-ally-matan-kahana-as-speaker",
    "date": "2026-11-17T21:24:31.000Z"
-  },
-  {
-   "headline": "Major setbacks for Netanyahu ahead of vote to name new Knesset speaker",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/major-setbacks-for-netanyahu-ahead-of-vote-to-name-new-knesset-speaker",
-   "date": "2026-11-17T21:05:20.000Z"
   },
   {
    "headline": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
