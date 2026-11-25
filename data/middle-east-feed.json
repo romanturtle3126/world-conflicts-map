@@ -1,12 +1,12 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-25T11:05:09+00:00",
+  "lastUpdated": "2026-11-25T11:42:19+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
     "source": "Al Jazeera",
     "ok": true,
-    "count": 9
+    "count": 8
    },
    {
     "source": "BBC News Middle East",
@@ -61,12 +61,12 @@
    {
     "source": "Gaza Ministry of Health (Telegram)",
     "ok": true,
-    "count": 13
+    "count": 14
    },
    {
     "source": "Houthi military spokesman (Telegram)",
     "ok": true,
-    "count": 16
+    "count": 13
    },
    {
     "source": "Tasnim English (Telegram)",
@@ -81,6 +81,53 @@
   ]
  },
  "items": [
+  {
+   "headline": "تجدد القوات المسلحة تأكيدها أن ميناء جدة وجميع موانئ العدو السعودي في ساحل البحر الأحمر ستكون هدفا لقواتنا في حال نفذ العدو تهديداته بقصف ميناء الحديدة. ونحذر الموظفين والعاملين فيها والمتواجدين بالقرب منها بإخلائها فورا والابتعاد عنها وندعو جميع الشركات الملاحية لإخلاء سفنها…",
+   "source": "Houthi military spokesman (Telegram)",
+   "official": "Houthis (Yemeni Armed Forces)",
+   "link": "https://t.me/army21ye/4156",
+   "date": "2026-11-25T11:42:00.000Z"
+  },
+  {
+   "headline": "Saudi airstrike on “Al-Muqatrah Fortress” in Yemen’s Lahij 🔹Yemeni media reported that Saudi warplanes carried out an airstrike on “Al-Muqatrah Fortress” in Al-Muqatrah District, Lahij Governorate. @TasnimNews",
+   "source": "Tasnim English (Telegram)",
+   "official": "Iran (IRGC-affiliated Tasnim)",
+   "link": "https://t.me/Tasnimnews_en/49420",
+   "date": "2026-11-25T11:32:29.000Z"
+  },
+  {
+   "headline": "$1 billion in foreign currency is lost annually due to inefficient animal feed usage President of the Animal Feed, Poultry and Aquaculture Association: 🔹In Iran, production growth has been pursued mainly by increasing the number of livestock rather than boosting…",
+   "source": "Tasnim English (Telegram)",
+   "official": "Iran (IRGC-affiliated Tasnim)",
+   "link": "https://t.me/Tasnimnews_en/49419",
+   "date": "2026-11-25T11:30:54.000Z"
+  },
+  {
+   "headline": "Continued Israeli attacks on southern Lebanon 🔹 Today, Israeli forces continued their attacks on southern Lebanese towns, using artillery, suicide drones, and heavy machine guns to target various areas. These actions constitute further violations of the ceasefire agreement…",
+   "source": "Tasnim English (Telegram)",
+   "official": "Iran (IRGC-affiliated Tasnim)",
+   "link": "https://t.me/Tasnimnews_en/49417",
+   "date": "2026-11-25T11:24:56.000Z"
+  },
+  {
+   "headline": "Israeli strike kills Hamas official, his wife and children",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/25/israeli-strike-kills-hamas-official-his-wife-and-children?traffic_source=rss",
+   "date": "2026-11-25T11:24:37.000Z"
+  },
+  {
+   "headline": "*🇵🇸وزارة الصحةالفلسطينية-غزة 🇵🇸* 🚫\"أزمة نقص الزيوت وقطع الغيار \" تتفاقم بوتيرة خطيرة مع توقف عمل المولد الرئيس في مستشفى الرنتيسي والعيون *👈🏻التفاصيل:* https://www.facebook.com/share/v/1K9h4autWN/ *وزارة الصحة* *25 نوفمبر 2026*",
+   "source": "Gaza Ministry of Health (Telegram)",
+   "official": "Gaza (Ministry of Health)",
+   "link": "https://t.me/MOHMediaGaza/7760",
+   "date": "2026-11-25T11:13:07.000Z"
+  },
+  {
+   "headline": "Israeli minister calls Palestinians and Muslims 'camel riders' and 'barbarians'",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/news/israeli-minister-calls-palestinians-and-muslims-camel-riders-and-barbarians",
+   "date": "2026-11-25T11:06:27.000Z"
+  },
   {
    "headline": "Who does the President’s statement regarding the Esfand 1404 students apply to? 🔹The President’s statement applies only to those students who have expressed remorse and realized they fell into the trap set by enemy media. 🔹Agitators who deliberately caused unrest will not…",
    "source": "Tasnim English (Telegram)",
@@ -383,18 +430,6 @@
    "date": "2026-11-25T04:46:28.000Z"
   },
   {
-   "headline": "Israeli strike kills four people in Gaza",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
-   "date": "2026-11-25T04:13:58.000Z"
-  },
-  {
-   "headline": "Galatasaray says Israel complained to UEFA over Palestine banners",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/galatasaray-says-israel-complained-to-uefa-over-palestine-banners?traffic_source=rss",
-   "date": "2026-11-25T04:12:11.000Z"
-  },
-  {
    "headline": "Amnesty calls for ICC genocide probe over Israel's impact on births in Gaza",
    "source": "France 24 Middle East",
    "link": "https://www.france24.com/en/middle-east/20261125-amnesty-calls-for-icc-genocide-probe-over-israel-s-impact-on-births-in-gaza",
@@ -532,12 +567,6 @@
    "official": "Houthis (Yemeni Armed Forces)",
    "link": "https://t.me/army21ye/4145",
    "date": "2026-11-24T22:14:04.000Z"
-  },
-  {
-   "headline": "Houthi media report air strikes near Sanaa airport",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-media-reports-air-strikes-near-sanaa-airport",
-   "date": "2026-11-24T22:05:58.000Z"
   },
   {
    "headline": "▪️ Al-Miyadhin: Israeli regime’s artillery targeted the Wadi Al-Saluqi area in southern Lebanon @TasnimNews",
@@ -1203,41 +1232,6 @@
    "official": "Iran (IRGC-affiliated Tasnim)",
    "link": "https://t.me/Tasnimnews_en/49043",
    "date": "2026-11-23T14:43:48.000Z"
-  },
-  {
-   "headline": "Iran’s Esteghlal lineup against UAE’s Al Ain ⚽️ Habib Farrobbasi, Saleh Hordani, Rouzbeh Cheshmi, Rustam Ashurmatov, Saman Fallah, Yaser Asani, Amir Mohammad Rezaeiniya, Hossein Goudarzi, Arif Aghasi, Mohammadhossein Eslami, and Ismail Qoli Zadeh. ⚽️ The match will take place…",
-   "source": "Tasnim English (Telegram)",
-   "official": "Iran (IRGC-affiliated Tasnim)",
-   "link": "https://t.me/Tasnimnews_en/49041",
-   "date": "2026-11-23T14:32:33.000Z"
-  },
-  {
-   "headline": "Taeb: The US and Israel seek to hide the reality of the war Head of the Basij Organization at the Media and Hope Gala: 🔹The US and Israel targeted children, women, the elderly, scientists, and ordinary people; they bombed schools, wedding halls, ambulances, and homes. They…",
-   "source": "Tasnim English (Telegram)",
-   "official": "Iran (IRGC-affiliated Tasnim)",
-   "link": "https://t.me/Tasnimnews_en/49040",
-   "date": "2026-11-23T14:31:45.000Z"
-  },
-  {
-   "headline": "🌍 Khatam al-Anbiya Headquarters proves Iran’s engineering capability: Military chief 📌 Tehran, IRNA – The Chief of Staff of the Iranian Armed Forces has lauded domestic experts in various fields, including engineering, for forging a new path for implementing the country’s…",
-   "source": "IRNA English (Telegram)",
-   "official": "Iran (state agency IRNA)",
-   "link": "https://t.me/Irna_en/42572",
-   "date": "2026-11-23T14:24:48.000Z"
-  },
-  {
-   "headline": "في تمام الساعة 11:36صباحاً توجه تشكيل حربي سعودي من نوع \"F-15\" إلى محافظة تعز ولحج بعد إقلاعه من قاعدة خميس مشيط، وعند الساعة 12:40م نفذ عملية استهداف لعدد من الباصات ووسائل نقل بضائع عامة في منطقة معبق بمديرية المقاطرة وذلك بثماني غارات جوية بقنابل أمريكية نوع \"GBU-49\" و…",
-   "source": "Houthi military spokesman (Telegram)",
-   "official": "Houthis (Yemeni Armed Forces)",
-   "link": "https://t.me/army21ye/4141",
-   "date": "2026-11-23T14:04:46.000Z"
-  },
-  {
-   "headline": "Israeli arrested on suspicion of collaborating with Iran 🔹Israeli police and Shin Bet (Israel’s internal security agency) said a 69-year-old Holon resident was arrested on suspicion of collaborating with an Iranian operative and distributing threatening leaflets in northern…",
-   "source": "Tasnim English (Telegram)",
-   "official": "Iran (IRGC-affiliated Tasnim)",
-   "link": "https://t.me/Tasnimnews_en/49038",
-   "date": "2026-11-23T14:03:05.000Z"
   },
   {
    "headline": "Gaza war has undone 77 years of human development, UN warns",
