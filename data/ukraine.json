@@ -2,11 +2,11 @@
  "schemaVersion": 1,
  "map": "ukraine",
  "meta": {
-  "lastUpdated": "2026-11-24T06:04:53-05:00",
-  "coverage": "2026-10-10 to 2026-11-24",
+  "lastUpdated": "2026-11-25T06:04:34-05:00",
+  "coverage": "2026-10-10 to 2026-11-25",
   "notes": [
-   "Refreshed Nov 24, 2026 (UTC midday) from Telegram channels kpszsu (alert posts only), GeneralStaffZSU and mod_russia, Ukrinform and Kyiv Independent articles, and the headline leads file (pulled Nov 24 ~03:00 UTC).",
-   "Not read this run: ISW assessment, X posts, Reuters/AP, Guardian (feed fetch blocked). Not mapped: Russian corvette Merkury sunk off Benghazi, Libya (outside map bounds); Russian MoD claim of Barvinivka (Zaporizhzhia Oblast) not added because the village could not be matched to a single location; cumulative Russian loss total for Nov 24 not read (General Staff daily figure: 1,848 over the past day).",
+   "Refreshed Nov 25, 2026 (UTC) from Telegram channels kpszsu (alert posts only), GeneralStaffZSU and mod_russia, Ukrinform and Kyiv Independent articles, and the headline leads file (pulled Nov 25 ~01:00 UTC).",
+   "Not read this run: ISW assessment, X posts, Reuters/AP, Guardian (feed 403), Air Force overnight launch tally for Nov 24-25, Putin retaliation statement, Kramatorsk and Kinburn Spit reports. Russian MoD claim of Barvinivka (Zaporizhzhia Oblast) not mapped.",
    "Coordinates are city-level or approximate (see coordPrecision); markers flagged 'oblast' are not geolocated.",
    "Casualty figures are as reported by the cited outlet at time of writing and may have been revised."
   ]
@@ -5656,17 +5656,126 @@
     }
    ],
    "read": "full"
+  },
+  {
+   "id": "odesa-1124",
+   "date": "2026-11-24",
+   "region": "south",
+   "oblast": "Odesa",
+   "front": "Odesa",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Russian attacks on Odesa Oblast kill two, including a teenager",
+   "caption": "Ukraine's State Emergency Service (DSNS) says Russian attacks late on Nov 24 killed two people in Odesa Oblast and injured another: one died in the Odesa district and a child in Odesa's Podilskyi district (born 1985 and 2009). Five cars, a parking garage and a factory were damaged. Kyiv Independent relayed the DSNS report; the exact weapon was not specified.",
+   "lat": 46.4857,
+   "lon": 30.7438,
+   "coordPrecision": "approx",
+   "place": "Odesa",
+   "sources": [
+    {
+     "id": "ki_odesa_1124",
+     "title": "Kyiv Independent: Russian attacks kill 2 in Odesa Oblast, including child, injure more in Kyiv (Nov 24)",
+     "url": "https://kyivindependent.com/russian-attacks-kill-2-in-odesa-oblast-including-child-injure-more-in-kyiv/"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "dnipro-1124",
+   "date": "2026-11-24",
+   "region": "south",
+   "oblast": "Dnipropetrovsk",
+   "front": "Dnipropetrovsk",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Russian strike on Dnipro damages apartment buildings, six injured",
+   "caption": "Dnipropetrovsk regional military administration head Oleksandr Hanzha says a Russian strike on Dnipro on Nov 24 damaged three apartment buildings, including a 12-storey block, plus vehicles and transport infrastructure; the injury toll rose from four to six. Nearly 30 attacks were reported across the region that day.",
+   "lat": 48.4666,
+   "lon": 35.0407,
+   "coordPrecision": "city",
+   "place": "Dnipro",
+   "sources": [
+    {
+     "id": "ukrinform_dnipro_1124",
+     "title": "Ukrinform: Injury toll in Russian strike on Dnipro apartment building rises to six (Nov 24)",
+     "url": "https://www.ukrinform.net/rubric-ato/4188203-injury-toll-in-russian-strike-on-dnipro-apartment-building-rises-to-six.html"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "lozova-1124",
+   "date": "2026-11-24",
+   "region": "north",
+   "oblast": "Kharkiv",
+   "front": "Kharkiv",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Russian drones hit Lozova and Merefa in Kharkiv region, six injured",
+   "caption": "Kharkiv Regional Prosecutor's Office says that on the evening of Nov 24 a drone, preliminarily a Shahed, struck near a post office in Lozova (about 17:50), injuring two women and two men, and another hit Merefa, damaging at least five houses and injuring two people. A war-crimes investigation was opened.",
+   "lat": 48.8907,
+   "lon": 36.3141,
+   "coordPrecision": "approx",
+   "place": "Lozova",
+   "sources": [
+    {
+     "id": "ukrinform_lozova_1124",
+     "title": "Ukrinform: Russian drones strike Merefa, Lozova in Kharkiv region, six injured (Nov 24)",
+     "url": "https://www.ukrinform.net/rubric-ato/4188257-russian-drones-strike-merefa-lozova-in-kharkiv-region-six-injured.html"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "samara-1125",
+   "date": "2026-11-25",
+   "region": "russia",
+   "oblast": "Samara Oblast, Russia",
+   "front": "Russia (deep strikes)",
+   "type": "deep-strike",
+   "status": "ONE_PARTY",
+   "title": "Ukraine's General Staff claims strikes on Kuibyshev and Syzran refineries in Samara region",
+   "caption": "Ukraine's General Staff says Defense Forces, with the Russian group 'Black Spark', hit the Rosneft Kuibyshev refinery in Samara overnight into Nov 25 (units AVT-4, AVT-5, a reformer and two tanks) and the Syzran refinery (AVT-6, sulphur, reforming, hydrotreating, isomerization units, two tanks), with fire reported at both. Russia's MoD says it shot down 305 Ukrainian drones overnight over 14 regions including Samara; it did not comment on damage. No independent confirmation was read.",
+   "lat": 53.2077,
+   "lon": 50.1355,
+   "coordPrecision": "approx",
+   "place": "Samara",
+   "sources": [
+    {
+     "id": "gs_samara_1125",
+     "title": "General Staff of Ukraine (Telegram): Kuibyshev and Syzran refineries hit (Nov 25)",
+     "url": "https://t.me/GeneralStaffZSU/42994"
+    },
+    {
+     "id": "mod_pvo_1125",
+     "title": "Russian MoD (Telegram): 305 Ukrainian drones destroyed overnight, incl. Samara region (Nov 25)",
+     "url": "https://t.me/mod_russia/69316"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Ukraine's General Staff",
+     "says": "Kuibyshev and Syzran refineries were hit and are burning.",
+     "source": "gs_samara_1125"
+    },
+    {
+     "who": "Russia's MoD",
+     "says": "305 Ukrainian drones destroyed overnight over 14 regions incl. Samara; no damage mentioned.",
+     "source": "mod_pvo_1125"
+    }
+   ],
+   "read": "full"
   }
  ],
  "stats": [
   {
    "label": "Russian military personnel losses (cumulative, since Feb 24, 2022)",
    "category": "casualties",
-   "asOf": "2026-11-22",
+   "asOf": "2026-11-25",
    "status": "ONE_PARTY",
    "ukraine": {
-    "value": "1,637,170 killed and wounded, including +2,310 over the past day (General Staff figures as relayed by Ukrinform, Nov 22)",
-    "source": "ukrinform_losses_1122"
+    "value": "1,643,580 killed and wounded, including +2,091 over the past day (General Staff figures as relayed by Kyiv Independent, Nov 25). Year-to-date 2026: 432,519, above all of 2024 (430,790)",
+    "source": "ki_losses_1125"
    },
    "russia": {
     "value": "No official cumulative figure published",
@@ -6725,6 +6834,36 @@
    "russia": {
     "value": "MoD claims 699 fixed-wing drones intercepted overnight over Bryansk, Belgorod, Kaluga, Oryol and Smolensk regions, the Moscow region, Crimea and the Black Sea",
     "source": "mod_pvo_1124"
+   },
+   "independent": []
+  },
+  {
+   "label": "Ukrainian drones shot down over Russia (night of Nov 24-25)",
+   "category": "shootdowns",
+   "asOf": "2026-11-25",
+   "status": "ONE_PARTY",
+   "ukraine": {
+    "value": "No count published",
+    "source": null
+   },
+   "russia": {
+    "value": "MoD claims 305 fixed-wing drones destroyed overnight over Belgorod, Bryansk, Volgograd, Voronezh, Kursk, Nizhny Novgorod, Penza, Rostov, Samara, Saratov, Smolensk, Tambov, Ulyanovsk regions and Krasnodar Krai",
+    "source": "mod_pvo_1125"
+   },
+   "independent": []
+  },
+  {
+   "label": "Russian drones and missiles launched at Ukraine (night of Nov 24-25)",
+   "category": "shootdowns",
+   "asOf": "2026-11-25",
+   "status": "ONE_PARTY",
+   "ukraine": {
+    "value": "Air Force overnight launch tally not read",
+    "source": null
+   },
+   "russia": {
+    "value": "No launch count published; MoD says drones hit a 330 kV substation in Zaporizhzhia, two locomotives in Dnipro, a 330 kV substation in Zelenodolsk, an industrial plant in Snovsk (Chernihiv Oblast) and a cargo ship at Chornomorsk",
+    "source": "mod_strikes_1125"
    },
    "independent": []
   }
@@ -8434,6 +8573,41 @@
    "id": "ukrinform_vinnytsia_1124",
    "title": "Ukrinform: Russian attack damages business, energy facility in Vinnytsia, injuring four (Nov 24)",
    "url": "https://www.ukrinform.net/rubric-ato/4187935-russian-attack-damages-business-energy-facility-in-vinnytsia-injuring-four.html"
+  },
+  {
+   "id": "ki_losses_1125",
+   "title": "Kyiv Independent: Russia breaks yearly troop losses record at 432,519 casualties, General Staff says (Nov 24-25)",
+   "url": "https://kyivindependent.com/russia-breaks-yearly-troop-losses-record-in-ukraine-at-432-519-casualties-general-staff-says/"
+  },
+  {
+   "id": "mod_pvo_1125",
+   "title": "Russian MoD (Telegram): 305 Ukrainian drones destroyed overnight, incl. Samara region (Nov 25)",
+   "url": "https://t.me/mod_russia/69316"
+  },
+  {
+   "id": "mod_strikes_1125",
+   "title": "Russian MoD (Telegram): overnight strikes on Zaporizhzhia, Dnipropetrovsk, Chernihiv, Chornomorsk targets (Nov 25)",
+   "url": "https://t.me/mod_russia/69315"
+  },
+  {
+   "id": "ki_odesa_1124",
+   "title": "Kyiv Independent: Russian attacks kill 2 in Odesa Oblast, including child, injure more in Kyiv (Nov 24)",
+   "url": "https://kyivindependent.com/russian-attacks-kill-2-in-odesa-oblast-including-child-injure-more-in-kyiv/"
+  },
+  {
+   "id": "ukrinform_dnipro_1124",
+   "title": "Ukrinform: Injury toll in Russian strike on Dnipro apartment building rises to six (Nov 24)",
+   "url": "https://www.ukrinform.net/rubric-ato/4188203-injury-toll-in-russian-strike-on-dnipro-apartment-building-rises-to-six.html"
+  },
+  {
+   "id": "ukrinform_lozova_1124",
+   "title": "Ukrinform: Russian drones strike Merefa, Lozova in Kharkiv region, six injured (Nov 24)",
+   "url": "https://www.ukrinform.net/rubric-ato/4188257-russian-drones-strike-merefa-lozova-in-kharkiv-region-six-injured.html"
+  },
+  {
+   "id": "gs_samara_1125",
+   "title": "General Staff of Ukraine (Telegram): Kuibyshev and Syzran refineries hit (Nov 25)",
+   "url": "https://t.me/GeneralStaffZSU/42994"
   }
  ]
 }
