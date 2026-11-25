@@ -2,6 +2,16 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-25 06:04 Toronto — Ukraine — OK
+- Added 4 event(s):
+  - `odesa-1124` 2026-11-24 [ONE_PARTY] Russian attacks on Odesa Oblast kill two, including a teenager
+  - `dnipro-1124` 2026-11-24 [ONE_PARTY] Russian strike on Dnipro damages apartment buildings, six injured
+  - `lozova-1124` 2026-11-24 [ONE_PARTY] Russian drones hit Lozova and Merefa in Kharkiv region, six injured
+  - `samara-1125` 2026-11-25 [ONE_PARTY] Ukraine's General Staff claims strikes on Kuibyshev and Syzran refineries in Samara region
+- Stats: 1 updated, 2 added
+- 7 new source link(s)
+- Totals: 203 events, 64 stats, 348 sources; coverage 2026-10-10 to 2026-11-25
+
 ## 2026-11-24 06:41 Toronto — Middle East — OK
 - Added 10 event(s):
   - `khan-younis-1124` 2026-11-24 [ONE_PARTY] Gaza officials say Israeli strikes killed at least six, including police at a Khan Younis post; Israel says it hit militants
