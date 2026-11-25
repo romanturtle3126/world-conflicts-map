@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-24T20:45:09+00:00",
+  "lastUpdated": "2026-11-25T00:59:14+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -56,6 +56,72 @@
   ]
  },
  "items": [
+  {
+   "headline": "German city of Darmstadt donates generators to schools and kindergartens in Uzhhorod",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-society/4187895-german-city-of-darmstadt-donates-generators-to-schools-and-kindergartens-in-uzhhorod.html",
+   "date": "2026-11-24T23:36:00.000Z"
+  },
+  {
+   "headline": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
+   "date": "2026-11-24T23:29:40.000Z"
+  },
+  {
+   "headline": "Russian attacks kill 2 in Odesa Oblast, including child, injure more in Kyiv",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/russian-attacks-kill-2-in-odesa-oblast-including-child-injure-more-in-kyiv/",
+   "date": "2026-11-24T23:08:00.000Z"
+  },
+  {
+   "headline": "SSU arrests suspected Russian agent posing as volunteer to direct strikes on Kramatorsk",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-crime/4187892-ssu-arrests-suspected-russian-agent-posing-as-volunteer-to-direct-strikes-on-kramatorsk.html",
+   "date": "2026-11-24T22:42:00.000Z"
+  },
+  {
+   "headline": "Debris from Russian drone causes fire in 16-story residential building in Kyiv",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4188265-debris-from-russian-drone-causes-fire-in-16story-residential-building-in-kyiv.html",
+   "date": "2026-11-24T21:57:00.000Z"
+  },
+  {
+   "headline": "Zelensky presents Magyar with 1942 newspapers mentioning his great-grandfather, who worked in Mukachevo",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4188264-zelensky-presents-magyar-with-1942-newspapers-mentioning-his-greatgrandfather-who-worked-in-mukachevo.html",
+   "date": "2026-11-24T21:37:00.000Z"
+  },
+  {
+   "headline": "Hungary sees Ukraine's EU accession as lengthy process – Magyar",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4188267-hungary-sees-ukraines-eu-accession-as-lengthy-process-magyar.html",
+   "date": "2026-11-24T21:25:00.000Z"
+  },
+  {
+   "headline": "Russian drones strike Merefa, Lozova in Kharkiv region, six injured",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4188257-russian-drones-strike-merefa-lozova-in-kharkiv-region-six-injured.html",
+   "date": "2026-11-24T21:17:00.000Z"
+  },
+  {
+   "headline": "Russian jets spark air raid alert in South Korea",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
+   "date": "2026-11-24T21:14:57.000Z"
+  },
+  {
+   "headline": "Russian strikes on Odesa region kill two, including 17-year-old boy, injure three",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4188254-russian-strikes-on-odesa-region-kill-two-including-17yearold-boy-injure-three.html",
+   "date": "2026-11-24T20:58:00.000Z"
+  },
+  {
+   "headline": "Ukraine seeks equal partnership with Hungary, support for its EU integration – Zelensky",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4188251-ukraine-seeks-equal-partnership-with-hungary-support-for-its-eu-integration-zelensky.html",
+   "date": "2026-11-24T20:41:00.000Z"
+  },
   {
    "headline": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
    "source": "Al Jazeera",
@@ -273,12 +339,6 @@
    "date": "2026-11-24T17:06:00.000Z"
   },
   {
-   "headline": "After Libya, where will Ukraine strike Russia next?",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/after-libya-where-will-ukraine-strike-russia-next?traffic_source=rss",
-   "date": "2026-11-24T17:05:45.000Z"
-  },
-  {
    "headline": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
    "source": "BBC News Europe",
    "link": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
@@ -347,12 +407,6 @@
    "date": "2026-11-24T16:01:47.000Z"
   },
   {
-   "headline": "Arsenal vs Borussia Dortmund LIVE: UEFA Champions League",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/sports/liveblog/2026/11/24/arsenal-vs-borussia-dortmund-live-uefa-champions-league?traffic_source=rss",
-   "date": "2026-11-24T16:01:23.000Z"
-  },
-  {
    "headline": "Intelligence warns of potential Russian attacks on British companies supporting Ukraine – media",
    "source": "Ukrinform",
    "link": "https://www.ukrinform.net/rubric-polytics/4188164-intelligence-warns-of-potential-russian-attacks-on-british-companies-supporting-ukraine-media.html",
@@ -395,12 +449,6 @@
    "date": "2026-11-24T15:37:52.000Z"
   },
   {
-   "headline": "Zelensky makes first statement after meeting with Magyar in Uzhhorod",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4188149-zelensky-makes-first-statement-after-meeting-with-magyar-in-uzhhorod.html",
-   "date": "2026-11-24T15:25:00.000Z"
-  },
-  {
    "headline": "Zelenskyy: Ukraine needs €115bn for 2027, with €90bn currently agreed",
    "source": "Ukrainska Pravda",
    "link": "https://www.pravda.com.ua/eng/news/2026/11/24/8064459/",
@@ -417,12 +465,6 @@
    "source": "UK Ministry of Defence (GOV.UK)",
    "link": "https://www.gov.uk/government/news/first-uk-defence-secretary-to-visit-kharkiv-as-uk-ramps-up-support-for-ukraine",
    "date": "2026-11-24T15:09:26.000Z"
-  },
-  {
-   "headline": "UK defence secretary visits Kharkiv, announces additional RapidRanger launchers for Ukraine",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4188135-uk-defence-secretary-visits-kharkiv-announces-additional-rapidranger-launchers-for-ukraine.html",
-   "date": "2026-11-24T15:08:00.000Z"
   },
   {
    "headline": "What can Ukraine expect in 2027? KI Insights monthly briefing",
@@ -451,22 +493,10 @@
    "date": "2026-11-24T14:51:28.000Z"
   },
   {
-   "headline": "Zelensky and Magyar pay tribute to fallen Ukrainian defenders in Uzhhorod",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4188130-zelensky-and-magyar-pay-tribute-to-fallen-ukrainian-defenders-in-uzhhorod.html",
-   "date": "2026-11-24T14:50:00.000Z"
-  },
-  {
    "headline": "Reporter's notebook: Inside a Ukrainian power plant caught in cycle of Russian destruction",
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/reporters-notebook-inside-a-ukrainian-power-plant-caught-in-cycle-of-russian-destruction-2/",
    "date": "2026-11-24T14:40:38.000Z"
-  },
-  {
-   "headline": "Hungarian Prime Minister arrives in Zakarpattia",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4188112-hungarian-prime-minister-arrives-in-zakarpattia.html",
-   "date": "2026-11-24T14:36:00.000Z"
   },
   {
    "headline": "Zelensky confirms Ukrainian attack on Russian ship in Gulf of Finland",
@@ -487,23 +517,11 @@
    "date": "2026-11-24T14:28:00.000Z"
   },
   {
-   "headline": "Latvian President sees potential turning point in Ukraine war next year",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4188107-latvian-president-sees-potential-turning-point-in-ukraine-war-next-year.html",
-   "date": "2026-11-24T14:18:00.000Z"
-  },
-  {
    "headline": "Заземлили вражеские дроны 💥 Операторы беспилотников группировки «Восток» уничтожили пункты управления БПЛА противника в Запорожской области. #ВойскаБПС 🔹 MAКС – территория СВОих",
    "source": "Russian Defence Ministry (Telegram)",
    "official": "Russia",
    "link": "https://t.me/mod_russia/69304",
    "date": "2026-11-24T14:11:19.000Z"
-  },
-  {
-   "headline": "Blocked Kerch Strait further traps Russia's Black Sea Fleet – Ukrainian Navy Spokesperson",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4188095-blocked-kerch-strait-further-traps-russias-black-sea-fleet-ukrainian-navy-spokesperson.html",
-   "date": "2026-11-24T13:59:00.000Z"
   },
   {
    "headline": "росія побила антирекорд втрат за всю війну і з початку 2026 року втратила 432 519 військових. Стільки ж осіб живе в чотирьох регіонах рф Сьогодні, 24 листопада, армія рф побила абсолютний антирекорд усієї війни: її втрати з початку 2026 року сягнули 432 519 осіб. Це більше,…",
@@ -519,23 +537,11 @@
    "date": "2026-11-24T13:42:46.000Z"
   },
   {
-   "headline": "Sybiha, Tajani discuss security in Black and Mediterranean Seas following strikes on Russian vessels off Libya",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4188092-sybiha-tajani-discuss-security-in-black-and-mediterranean-seas-following-strikes-on-russian-vessels-off-libya.html",
-   "date": "2026-11-24T13:40:00.000Z"
-  },
-  {
    "headline": "«Мне даже передали привет от друга, с кем мы вместе жили в общежитии при колледже». Войска беспилотных систем — это не только сами операторы БПЛА, но и все те, кто им помогает выполнить боевую задачу. Например, сапёры, которые готовят снаряды для ударных дронов. А также…",
    "source": "Russian Defence Ministry (Telegram)",
    "official": "Russia",
    "link": "https://t.me/mod_russia/69303",
    "date": "2026-11-24T13:21:51.000Z"
-  },
-  {
-   "headline": "Zelensky confirms strike on Russian ship in Gulf of Finland",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4188087-zelensky-confirms-strike-on-russian-ship-in-gulf-of-finland.html",
-   "date": "2026-11-24T13:20:00.000Z"
   },
   {
    "headline": "Moldova to bring its Russia, Belarus sanctions in line with EU as part of membership requirements",
@@ -555,12 +561,6 @@
    "source": "BBC News Europe",
    "link": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-24T12:45:43.000Z"
-  },
-  {
-   "headline": "Ukraine condemns decision to hand world nuclear body lead role to sanctioned Russian",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/ukraine-condemns-decision-to-hand-world-nuclear-body-lead-role-to-sanctioned-russian/",
-   "date": "2026-11-24T12:37:08.000Z"
   },
   {
    "headline": "CEOs from sensitive sectors receive briefings on Russia threats",
