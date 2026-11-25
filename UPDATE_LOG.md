@@ -2,6 +2,34 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-25 06:41 Toronto — Middle East — OK
+- Lanes: 2 updated
+- Totals: 134 events, 18 stats, 212 sources; coverage 2026-10-06 to 2026-11-25
+
+## 2026-11-25 06:41 Toronto — Middle East — OK (partial — 1 quarantined)
+- Lanes: 1 updated
+- Quarantined 1 item(s) — NOT merged:
+  - lane "hormuz-lane": missing text
+- Totals: 134 events, 18 stats, 212 sources; coverage 2026-10-06 to 2026-11-25
+
+## 2026-11-25 06:41 Toronto — Middle East — OK (partial — 2 quarantined)
+- Added 6 event(s):
+  - `gaza-city-1125` 2026-11-25 [ONE_PARTY] Gaza officials say an Israeli strike killed Hamas security official Mohammad Abuelouf and his family in Beach camp
+  - `ras-tanura-1125` 2026-11-25 [DISPUTED] Houthis say they hit Ras Tanura refinery and set it on fire; Saudi-led coalition says it shot down four drones
+  - `riyadh-1124` 2026-11-24 [ONE_PARTY] Saudi civil defence says 11 wounded as a Houthi drone hits the Riyadh tower housing the sovereign wealth fund
+  - `hodeidah-1124` 2026-11-24 [ONE_PARTY] Saudi-led coalition says it struck Hodeidah port and targets in Saada and Amran; Houthis had threatened Saudi Red Sea ports
+  - `khasab-1125` 2026-11-25 [ONE_PARTY] IRGC Navy says two more "violating" tankers hit mines off Hormuz; no independent confirmation
+  - `bandar-abbas-1125` 2026-11-25 [ONE_PARTY] Iran's army says it shot down a US MQ-9 and a "Lucas" drone over Hormuz; no US comment found
+- Updated 1 event(s):
+  - `gaza-1124` changed status, title, caption, coordPrecision, sources, claims (status ONE_PARTY → CONFIRMED)
+- Quarantined 2 item(s) — NOT merged:
+  - lane "hormuz-lane": missing name; lane "hormuz-lane": missing text
+  - lane "red-sea-lane": missing name
+- 13 new source link(s)
+- Totals: 134 events, 18 stats, 212 sources; coverage 2026-10-06 to 2026-11-25
+- warning: link https://www.bbc.co.uk/news/articles/c6rrg7ggq190o returned 403 (site may block bots)
+- warning: source "ctp_1124" is not used by any event or stat
+
 ## 2026-11-25 06:04 Toronto — Ukraine — OK
 - Added 4 event(s):
   - `odesa-1124` 2026-11-24 [ONE_PARTY] Russian attacks on Odesa Oblast kill two, including a teenager

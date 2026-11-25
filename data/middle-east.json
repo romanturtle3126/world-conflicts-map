@@ -2,11 +2,11 @@
  "schemaVersion": 1,
  "map": "middle-east",
  "meta": {
-  "lastUpdated": "2026-11-24T06:41:59-05:00",
-  "coverage": "2026-10-06 to 2026-11-24",
+  "lastUpdated": "2026-11-25T06:41:45-05:00",
+  "coverage": "2026-10-06 to 2026-11-25",
   "notes": [
-   "Refreshed 2026-11-24 (about 12:00 UTC) from Middle East Eye, Al Jazeera, Al-Monitor (Reuters), Critical Threats/ISW Iran Update of Nov 23, IDF Telegram, Tasnim English Telegram and the Houthi military spokesman Telegram (army21ye).",
-   "Not read: UKMTO (Cloudflare block), CENTCOM press page (403; only older items in the leads), OCHA oPt (latest report still Nov 18), X posts (not searched). IRNA and Gaza MoH posts checked via the leads only, nothing new used. Stats and Brent not refreshed; Lebanon had no new reporting.",
+   "Refreshed 2026-11-25 (about 12:00 UTC) from BBC, Al Jazeera, Al-Monitor (Reuters), Middle East Eye live blog, Critical Threats/ISW Iran Update of Nov 24, IDF, Tasnim, IRNA, Gaza MoH and Houthi military spokesman Telegram channels.",
+   "Not read: UKMTO (403 block), CENTCOM (nothing new in the leads), OCHA oPt (no new report found; latest still Nov 18), X posts (embed service not usable without post ids; no X searches done). Gaza MoH posts today concern hospital generators and no new casualty totals; stats not refreshed.",
    "Marker positions are approximate (see coordPrecision)."
   ]
  },
@@ -4223,14 +4223,24 @@
    "oblast": "Gaza Strip",
    "front": "Gaza & West Bank",
    "type": "airstrike",
-   "status": "ONE_PARTY",
-   "title": "IDF says it and the Shin Bet struck a senior Hamas figure; details not yet released",
-   "caption": "The IDF's Telegram channel posted at about 10:33 UTC that the IDF and the Shin Bet (ISA) struck a senior Hamas figure and that details would follow. The post gives no location, name or outcome, and I found no independent report or Hamas statement yet. Marker is at Gaza city only as the Strip's reference point.",
+   "status": "CONFIRMED",
+   "title": "Israel kills Hamas internal security chief Naeem Abu Nahel in Gaza City; Hamas interior ministry confirms",
+   "caption": "The IDF and Shin Bet said they killed Naim (Naeem) Abu Nahal (Abu Nahel), head of Hamas's Internal Security Apparatus. BBC reports Gaza's Hamas-run interior ministry also said he was targeted in western Gaza City; witnesses said a drone hit him on a side street near a tent camp. The Israeli military says he advanced attacks on Israeli troops and civilians; the ministry says his service countered collaborators with Israel. Marker is at Gaza city, not the exact street.",
    "lat": 31.5016,
    "lon": 34.4667,
-   "coordPrecision": "oblast",
+   "coordPrecision": "approx",
    "place": "Gaza",
    "sources": [
+    {
+     "id": "bbc_1124_nahel",
+     "title": "BBC, Israeli air strike kills Hamas internal security chief in Gaza, Nov 24",
+     "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o"
+    },
+    {
+     "id": "tg_idf_19519",
+     "title": "IDF Telegram, joint IDF and ISA announcement: head of Hamas Internal Security Apparatus eliminated, Nov 24",
+     "url": "https://t.me/idfofficial/19519"
+    },
     {
      "id": "tg_idf_19518",
      "title": "IDF Telegram, joint IDF and ISA announcement on strike on a senior Hamas figure, Nov 24",
@@ -4240,8 +4250,13 @@
    "claims": [
     {
      "who": "IDF / Shin Bet",
-     "says": "Struck a senior terrorist in Hamas; details to follow.",
-     "source": "tg_idf_19518"
+     "says": "Killed Abu Nahal, head of the Internal Security Apparatus; says he advanced attacks on Israeli troops and civilians.",
+     "source": "tg_idf_19519"
+    },
+    {
+     "who": "Gaza interior ministry (via BBC)",
+     "says": "He was targeted in western Gaza City; his service combated gangs collaborating with Israel.",
+     "source": "bbc_1124_nahel"
     }
    ],
    "read": "full"
@@ -4333,6 +4348,241 @@
     }
    ],
    "read": "full"
+  },
+  {
+   "id": "riyadh-1124",
+   "date": "2026-11-24",
+   "region": "gulf",
+   "oblast": "Saudi Arabia (Riyadh)",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Saudi civil defence says 11 wounded as a Houthi drone hits the Riyadh tower housing the sovereign wealth fund",
+   "caption": "Al Jazeera, citing Saudi authorities, reports a Houthi drone struck the tallest tower in Riyadh on Tuesday, wounding at least 11 people; Reuters says it is the second strike on the PIF tower in under a week (the first, Nov 19, caused no injuries). Qatar and Pakistan condemned it. The Houthis' own statement of Nov 25 claims a three-phase attack on Riyadh's financial centre; I could not match it to this exact strike.",
+   "lat": 24.6877,
+   "lon": 46.7219,
+   "coordPrecision": "city",
+   "place": "Riyadh",
+   "sources": [
+    {
+     "id": "aj_1125_intercept",
+     "title": "Al Jazeera, Saudi-led coalition intercepts Houthi attacks after Hodeidah strike, Nov 25",
+     "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike"
+    },
+    {
+     "id": "am_1125_ras",
+     "title": "Al-Monitor (Reuters), Yemen's Houthis say they attacked Saudi Arabia's Ras Tanura refinery, Nov 25",
+     "url": "https://www.al-monitor.com/originals/2026/11/yemens-houthis-say-they-attacked-saudi-arabias-ras-tanura-refinery"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Saudi civil defence (via Al Jazeera, Reuters)",
+     "says": "Drone struck the tower; 11 wounded.",
+     "source": "aj_1125_intercept"
+    },
+    {
+     "who": "Houthi military spokesman",
+     "says": "Attacked Riyadh financial district in three phases.",
+     "source": "am_1125_ras"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "hodeidah-1124",
+   "date": "2026-11-24",
+   "region": "yemen",
+   "oblast": "Yemen (Hodeidah)",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "airstrike",
+   "status": "ONE_PARTY",
+   "title": "Saudi-led coalition says it struck Hodeidah port and targets in Saada and Amran; Houthis had threatened Saudi Red Sea ports",
+   "caption": "The coalition spokesman said it targeted operational capabilities at Hodeidah and destroyed several targets in Saada and Amran, after the Riyadh tower strike. The Houthi military spokesman had warned that Jeddah and all Saudi Red Sea ports would be targets if Hodeidah port were bombed, and urged workers and shipping firms to leave them. I found no independent damage report for Hodeidah. Marker is at Al Hudaydah city.",
+   "lat": 14.7978,
+   "lon": 42.9545,
+   "coordPrecision": "city",
+   "place": "Al Hudaydah",
+   "sources": [
+    {
+     "id": "aj_1125_intercept",
+     "title": "Al Jazeera, Saudi-led coalition intercepts Houthi attacks after Hodeidah strike, Nov 25",
+     "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike"
+    },
+    {
+     "id": "tg_army21ye_4145",
+     "title": "Houthi military spokesman Telegram, warning that Jeddah and Saudi Red Sea ports will be targets, Nov 24",
+     "url": "https://t.me/army21ye/4145"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Saudi-led coalition (via Al Jazeera)",
+     "says": "Struck operational capabilities at Hodeidah and targets in Saada and Amran.",
+     "source": "aj_1125_intercept"
+    },
+    {
+     "who": "Houthi military spokesman",
+     "says": "Jeddah and all Saudi Red Sea ports are targets if Hodeidah port is bombed.",
+     "source": "tg_army21ye_4145"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "gaza-city-1125",
+   "date": "2026-11-25",
+   "region": "gaza",
+   "oblast": "Gaza Strip",
+   "front": "Gaza & West Bank",
+   "type": "airstrike",
+   "status": "ONE_PARTY",
+   "title": "Gaza officials say an Israeli strike killed Hamas security official Mohammad Abuelouf and his family in Beach camp",
+   "caption": "Reuters, citing Gaza's Hamas-run interior ministry and medics, reports an early-Wednesday Israeli airstrike on an apartment in the Beach refugee camp, Gaza City, killed Mohammad Abuelouf, a colonel in Hamas's interior security service, his wife and two children. A later strike in Karama neighbourhood killed one person. The Israeli military told Reuters it \"targeted several military operatives\" and would comment later. It is the second senior Hamas security official reported killed in 24 hours. Marker is at Gaza city.",
+   "lat": 31.5016,
+   "lon": 34.4667,
+   "coordPrecision": "approx",
+   "place": "Gaza",
+   "sources": [
+    {
+     "id": "am_1125_abuelouf",
+     "title": "Al-Monitor (Reuters), Israeli strike kills Hamas official, his wife and children, Nov 25",
+     "url": "https://www.al-monitor.com/originals/2026/11/israeli-strike-kills-hamas-official-his-wife-and-children"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Gaza interior ministry and medics (via Reuters)",
+     "says": "Abuelouf, his wife and two children killed in the apartment strike; one more killed in Karama.",
+     "source": "am_1125_abuelouf"
+    },
+    {
+     "who": "Israeli military (via Reuters)",
+     "says": "Targeted several military operatives; more comment to follow.",
+     "source": "am_1125_abuelouf"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "ras-tanura-1125",
+   "date": "2026-11-25",
+   "region": "gulf",
+   "oblast": "Saudi Arabia (Eastern Province)",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "drone",
+   "status": "DISPUTED",
+   "title": "Houthis say they hit Ras Tanura refinery and set it on fire; Saudi-led coalition says it shot down four drones",
+   "caption": "The Houthi military spokesman said a strike on the Ras Tanura refinery caused fires and a second operation hit the financial centre in Riyadh. The coalition spokesman said air defences destroyed four drones at Ras Tanura, with fragments falling and no casualties, and did not say the refinery was hit. Reuters says NASA imagery it reviewed showed thick black smoke covering about 600 square kilometres around the refinery; Aramco and the Saudi government had not commented. The cause of the smoke is not established in the sources I read.",
+   "lat": 26.7074,
+   "lon": 50.0674,
+   "coordPrecision": "city",
+   "place": "Ras Tanura",
+   "sources": [
+    {
+     "id": "am_1125_ras",
+     "title": "Al-Monitor (Reuters), Yemen's Houthis say they attacked Saudi Arabia's Ras Tanura refinery, Nov 25",
+     "url": "https://www.al-monitor.com/originals/2026/11/yemens-houthis-say-they-attacked-saudi-arabias-ras-tanura-refinery"
+    },
+    {
+     "id": "aj_1125_intercept",
+     "title": "Al Jazeera, Saudi-led coalition intercepts Houthi attacks after Hodeidah strike, Nov 25",
+     "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike"
+    },
+    {
+     "id": "tg_army21ye_4151",
+     "title": "Houthi military spokesman Telegram (English), operations on Ras Tanura refinery and Riyadh financial centre, Nov 25",
+     "url": "https://t.me/army21ye/4151"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Houthi military spokesman",
+     "says": "Precise hits on Ras Tanura refinery causing fires; three-phase attack on Riyadh financial centre.",
+     "source": "tg_army21ye_4151"
+    },
+    {
+     "who": "Saudi-led coalition (via Al Jazeera)",
+     "says": "Destroyed four drones over Ras Tanura; fragments fell; no casualties in initial assessment.",
+     "source": "aj_1125_intercept"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "khasab-1125",
+   "date": "2026-11-25",
+   "region": "gulf",
+   "oblast": "Strait of Hormuz",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "naval",
+   "status": "ONE_PARTY",
+   "title": "IRGC Navy says two more \"violating\" tankers hit mines off Hormuz; no independent confirmation",
+   "caption": "The IRGC Navy said that early Wednesday two oil tankers hit naval mines off the southern and eastern coasts of the strait, with fires in their engine rooms, while trying to use a \"fake\" route. Tasnim posted video it says shows two tankers exploding. Middle East Eye notes the page cites no UKMTO or shipping source, and I could not read UKMTO. Iran's army spokesman also said surveillance of the strait is being tightened and vessels must coordinate passage. Marker is at Khasab, not the sites.",
+   "lat": 26.1799,
+   "lon": 56.2477,
+   "coordPrecision": "oblast",
+   "place": "Khasab",
+   "sources": [
+    {
+     "id": "mee_1125_irgc",
+     "title": "Middle East Eye live blog, IRGC Navy says two violating oil tankers hit naval mine in Hormuz Strait, Nov 25",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-navy-two-violating-oil-tankers-hit-naval-mine-hormuz-strait"
+    },
+    {
+     "id": "tg_irna_42618",
+     "title": "IRNA English Telegram, two violating oil tankers explode on unauthorized route in Hormuz, Nov 25",
+     "url": "https://t.me/Irna_en/42618"
+    },
+    {
+     "id": "tg_tasnim_49396",
+     "title": "Tasnim English Telegram, video of two oil tankers exploding on unauthorized route in Hormuz, Nov 25",
+     "url": "https://t.me/Tasnimnews_en/49396"
+    }
+   ],
+   "claims": [
+    {
+     "who": "IRGC Navy (via IRNA)",
+     "says": "Two tankers hit naval mines on an unauthorized route; fires in engine rooms.",
+     "source": "tg_irna_42618"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "bandar-abbas-1125",
+   "date": "2026-11-25",
+   "region": "iran-war",
+   "oblast": "Strait of Hormuz",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Iran's army says it shot down a US MQ-9 and a \"Lucas\" drone over Hormuz; no US comment found",
+   "caption": "In a statement late Tuesday the Iranian army said air defences intercepted a US Lucas drone over the western strait and destroyed a US MQ-9 over the eastern strait. Middle East Eye reports no US response and I found none. Iran made a similar MQ-9 claim on Nov 21. Marker is at Bandar Abbas; the locations are only given as western and eastern Hormuz.",
+   "lat": 27.1865,
+   "lon": 56.2808,
+   "coordPrecision": "oblast",
+   "place": "Bandar Abbas",
+   "sources": [
+    {
+     "id": "mee_1125_mq9",
+     "title": "Middle East Eye live blog, Iranian army claims downing of MQ-9 drone over Hormuz Strait, Nov 25",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-army-claims-downing-mq-9-drone-over-hormuz-strait"
+    },
+    {
+     "id": "tg_irna_42616",
+     "title": "IRNA English Telegram, Iranian air defense shoots down two drones over Persian Gulf, Nov 25",
+     "url": "https://t.me/Irna_en/42616"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Iran's army (via IRNA)",
+     "says": "Intercepted a Lucas drone over western Hormuz and destroyed an MQ-9 over eastern Hormuz.",
+     "source": "tg_irna_42616"
+    }
+   ],
+   "read": "full"
   }
  ],
  "lanes": [
@@ -4340,7 +4590,7 @@
    "id": "hormuz-lane",
    "name": "Strait of Hormuz",
    "status": "DISPUTED",
-   "text": "Nov 23-24: the IRGC Navy says seven tankers in all hit mines in and east of the strait (three on Nov 23, two and a fourth on Nov 24) and that the strait stays shut until its conditions are met; none is independently confirmed. Nov 22: Iran's navy says two supertankers hit mines east of the strait and UKMTO reports a tanker incident with military forces in the Gulf of Oman (details unclear). Restricted since Feb 28. Nov 22: UKMTO reported two tankers hit by projectiles near Khasab, one in the engine room (via Critical Threats and France 24); Iran's army said a ship hit a mine after entering a restricted zone. Nov 22: Bahrain says Iran struck an industrial site; the IRGC says it hit US bases. Nov 21: UKMTO's weekly report (via Middle East Eye) counts six attacks on commercial vessels in the week (four in Hormuz, two in the Arabian Gulf); transits 115 outbound and 148 inbound in the week to Nov 18, about 65% below pre-war. Nov 21: Iran's IRGC says it downed a US MQ-9 over Hormuz (no US comment). Nov 19: Iran's army said three tankers hit mines east of the strait; no independent confirmation. Nov 20: Araghchi says the strait stays shut until Iran's seven conditions are met. The US says routes are cleared and the strait is open. The UN says at least 25 seafarers have died since February.",
+   "text": "Nov 25: the IRGC Navy says two more tankers hit mines off the southern and eastern coasts of the strait and Iran's army says it is tightening control, warning ships to coordinate passage; none of the tanker incidents is independently confirmed. Nov 23-24: the IRGC Navy says seven tankers in all hit mines in and east of the strait (three on Nov 23, two and a fourth on Nov 24) and that the strait stays shut until its conditions are met; none is independently confirmed. Nov 22: Iran's navy says two supertankers hit mines east of the strait and UKMTO reports a tanker incident with military forces in the Gulf of Oman (details unclear). Restricted since Feb 28. Nov 22: UKMTO reported two tankers hit by projectiles near Khasab, one in the engine room (via Critical Threats and France 24); Iran's army said a ship hit a mine after entering a restricted zone. Nov 22: Bahrain says Iran struck an industrial site; the IRGC says it hit US bases. Earlier: UKMTO weekly report (Nov 21) counted six attacks on merchant ships in the week; transits about 65% below pre-war. The US says routes are cleared and the strait is open; the UN says at least 25 seafarers have died since February.",
    "sources": [
     {
      "id": "mee_1122_mines",
@@ -4401,6 +4651,16 @@
      "id": "mee_1123_tankers",
      "title": "Middle East Eye live blog, Three tankers explode in Strait of Hormuz, Nov 23",
      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/three-tankers-explode-strait-hormuz"
+    },
+    {
+     "id": "mee_1125_irgc",
+     "title": "Middle East Eye live blog, IRGC Navy says two violating oil tankers hit naval mine in Hormuz Strait, Nov 25",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-navy-two-violating-oil-tankers-hit-naval-mine-hormuz-strait"
+    },
+    {
+     "id": "tg_irna_42618",
+     "title": "IRNA English Telegram, two violating oil tankers explode on unauthorized route in Hormuz, Nov 25",
+     "url": "https://t.me/Irna_en/42618"
     }
    ],
    "claims": [
@@ -4468,7 +4728,7 @@
    "id": "red-sea-lane",
    "name": "Red Sea / Bab el-Mandeb",
    "status": "ONE_PARTY",
-   "text": "Contested. Nov 22: the Houthis claimed strikes on the Rabigh refinery and a radar in Riyadh province, and Houthi-affiliated media say a Saudi strike on Hodeidah killed four. Contested. Houthi-Saudi fighting continues: the coalition hit Hodeidah port on Nov 19 and the Houthis fired at Riyadh and southern Saudi Arabia Nov 20-21 and threatened Jeddah and other Saudi Red Sea ports. UKMTO reports no ship attacks in the Red Sea since Aug 24, and Bab al-Mandab transits about 22% below levels before the Jul 22 Houthi blockade announcement (via Middle East Eye).",
+   "text": "Nov 24-25: the coalition says it struck Hodeidah port and targets in Saada and Amran; the Houthis warn Jeddah and Saudi Red Sea ports are targets and claim a Nov 25 strike on Ras Tanura (the coalition says it downed four drones). Nov 24-25: the coalition says it struck Hodeidah port and targets in Saada and Amran; the Houthis warn Jeddah and Saudi Red Sea ports are targets and claim a Nov 25 strike on Ras Tanura (the coalition says it downed four drones). Contested. Nov 22: the Houthis claimed strikes on the Rabigh refinery and a radar in Riyadh province, and Houthi-affiliated media say a Saudi strike on Hodeidah killed four. Contested. Houthi-Saudi fighting continues: the coalition hit Hodeidah port on Nov 19 and the Houthis fired at Riyadh and southern Saudi Arabia Nov 20-21 and threatened Jeddah and other Saudi Red Sea ports. UKMTO reports no ship attacks in the Red Sea since Aug 24, and Bab al-Mandab transits about 22% below levels before the Jul 22 Houthi blockade announcement (via Middle East Eye).",
    "sources": [
     {
      "id": "tg_army21ye_4139",
@@ -4494,6 +4754,26 @@
      "id": "am_1120_houthi",
      "title": "Al-Monitor, Yemen's Houthis launch strikes after Saudi coalition's special operation, Nov 20",
      "url": "https://www.al-monitor.com/originals/2026/11/yemens-houthis-launch-strikes-after-saudi-coalitions-special-operation"
+    },
+    {
+     "id": "aj_1125_intercept",
+     "title": "Al Jazeera, Saudi-led coalition intercepts Houthi attacks after Hodeidah strike, Nov 25",
+     "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike"
+    },
+    {
+     "id": "tg_army21ye_4145",
+     "title": "Houthi military spokesman Telegram, warning that Jeddah and Saudi Red Sea ports will be targets, Nov 24",
+     "url": "https://t.me/army21ye/4145"
+    },
+    {
+     "id": "aj_1125_intercept",
+     "title": "Al Jazeera, Saudi-led coalition intercepts Houthi attacks after Hodeidah strike, Nov 25",
+     "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike"
+    },
+    {
+     "id": "tg_army21ye_4145",
+     "title": "Houthi military spokesman Telegram, warning that Jeddah and Saudi Red Sea ports will be targets, Nov 24",
+     "url": "https://t.me/army21ye/4145"
     }
    ],
    "claims": [
@@ -5951,6 +6231,71 @@
    "id": "am_1123_rubio",
    "title": "Al-Monitor, Rubio meets Qatari PM as Iran standoff deepens, Nov 23",
    "url": "https://www.al-monitor.com/originals/2026/11/rubio-meets-qatari-pm-iran-standoff-deepens"
+  },
+  {
+   "id": "bbc_1124_nahel",
+   "title": "BBC, Israeli air strike kills Hamas internal security chief in Gaza, Nov 24",
+   "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o"
+  },
+  {
+   "id": "tg_idf_19519",
+   "title": "IDF Telegram, joint IDF and ISA announcement: head of Hamas Internal Security Apparatus eliminated, Nov 24",
+   "url": "https://t.me/idfofficial/19519"
+  },
+  {
+   "id": "am_1125_abuelouf",
+   "title": "Al-Monitor (Reuters), Israeli strike kills Hamas official, his wife and children, Nov 25",
+   "url": "https://www.al-monitor.com/originals/2026/11/israeli-strike-kills-hamas-official-his-wife-and-children"
+  },
+  {
+   "id": "am_1125_ras",
+   "title": "Al-Monitor (Reuters), Yemen's Houthis say they attacked Saudi Arabia's Ras Tanura refinery, Nov 25",
+   "url": "https://www.al-monitor.com/originals/2026/11/yemens-houthis-say-they-attacked-saudi-arabias-ras-tanura-refinery"
+  },
+  {
+   "id": "aj_1125_intercept",
+   "title": "Al Jazeera, Saudi-led coalition intercepts Houthi attacks after Hodeidah strike, Nov 25",
+   "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike"
+  },
+  {
+   "id": "tg_army21ye_4151",
+   "title": "Houthi military spokesman Telegram (English), operations on Ras Tanura refinery and Riyadh financial centre, Nov 25",
+   "url": "https://t.me/army21ye/4151"
+  },
+  {
+   "id": "tg_army21ye_4145",
+   "title": "Houthi military spokesman Telegram, warning that Jeddah and Saudi Red Sea ports will be targets, Nov 24",
+   "url": "https://t.me/army21ye/4145"
+  },
+  {
+   "id": "mee_1125_irgc",
+   "title": "Middle East Eye live blog, IRGC Navy says two violating oil tankers hit naval mine in Hormuz Strait, Nov 25",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-navy-two-violating-oil-tankers-hit-naval-mine-hormuz-strait"
+  },
+  {
+   "id": "mee_1125_mq9",
+   "title": "Middle East Eye live blog, Iranian army claims downing of MQ-9 drone over Hormuz Strait, Nov 25",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-army-claims-downing-mq-9-drone-over-hormuz-strait"
+  },
+  {
+   "id": "tg_irna_42618",
+   "title": "IRNA English Telegram, two violating oil tankers explode on unauthorized route in Hormuz, Nov 25",
+   "url": "https://t.me/Irna_en/42618"
+  },
+  {
+   "id": "tg_irna_42616",
+   "title": "IRNA English Telegram, Iranian air defense shoots down two drones over Persian Gulf, Nov 25",
+   "url": "https://t.me/Irna_en/42616"
+  },
+  {
+   "id": "ctp_1124",
+   "title": "Critical Threats / ISW, Iran Update, Nov 24, 2026",
+   "url": "https://www.criticalthreats.org/analysis/iran-update-november-24-2026"
+  },
+  {
+   "id": "tg_tasnim_49396",
+   "title": "Tasnim English Telegram, video of two oil tankers exploding on unauthorized route in Hormuz, Nov 25",
+   "url": "https://t.me/Tasnimnews_en/49396"
   }
  ]
 }
