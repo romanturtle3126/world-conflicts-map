@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-26T11:05:22+00:00",
+  "lastUpdated": "2026-11-26T11:42:45+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -71,7 +71,7 @@
    {
     "source": "Tasnim English (Telegram)",
     "ok": true,
-    "count": 11
+    "count": 7
    },
    {
     "source": "IRNA English (Telegram)",
@@ -81,6 +81,39 @@
   ]
  },
  "items": [
+  {
+   "headline": "Yemen: Warring sides exchange shelling and air strikes, as Saudi oil facilities burn",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/news/houthi-shelling-kills-one-woman-yemens-taiz",
+   "date": "2026-11-26T11:36:57.000Z"
+  },
+  {
+   "headline": "📄 Leader: Basij Organization must undergo a transformation, rebirth 📌 Tehran, IRNA — Leader of the Islamic Revolution Ayatollah Sayyid Mojtaba Hosseini Khamenei has called for the necessity of the Basij Organization to undergo a transformation and experience rebirth,…",
+   "source": "IRNA English (Telegram)",
+   "official": "Iran (state agency IRNA)",
+   "link": "https://t.me/Irna_en/42654",
+   "date": "2026-11-26T11:35:44.000Z"
+  },
+  {
+   "headline": "Egypt prosecutors announce arrest of man over deadly truck disaster",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/egypt-prosecutors-announce-arrest-man-over-deadly-truck-disaster",
+   "date": "2026-11-26T11:30:22.000Z"
+  },
+  {
+   "headline": "🔹Even robots hate Israel / Israeli media: A humanoid robot in Tehran repeats “Death to Israel” An Israeli media outlet reported on a video showing a humanoid robot at one of Tehran’s nightly rallies, noting that the robot repeatedly chanted “Death to Israel.” Highlighting…",
+   "source": "Tasnim English (Telegram)",
+   "official": "Iran (IRGC-affiliated Tasnim)",
+   "link": "https://t.me/Tasnimnews_en/49607",
+   "date": "2026-11-26T11:08:17.000Z"
+  },
+  {
+   "headline": "At Snap’s Friday Sale, no discount is impossible! 🛍✨ ⚡️ From now until December 27, you can enjoy discounts of up to 90%, and get your orders delivered in Tehran in under 3 hours. 🎁 Plus, this Friday Sale comes with an exciting giveaway! ✅ With every purchase from the Snap…",
+   "source": "Tasnim English (Telegram)",
+   "official": "Iran (IRGC-affiliated Tasnim)",
+   "link": "https://t.me/Tasnimnews_en/49605",
+   "date": "2026-11-26T11:07:44.000Z"
+  },
   {
    "headline": "French far-right leader Bardella faces fresh antisemitism accusations in media reports",
    "source": "Al-Monitor",
@@ -486,12 +519,6 @@
    "date": "2026-11-25T21:49:23.000Z"
   },
   {
-   "headline": "Loud explosions rock Riyadh as Houthis attack Saudi ports",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/news/loud-booms-rock-riyadh-houthis-attack-saudi-ports",
-   "date": "2026-11-25T21:42:56.000Z"
-  },
-  {
    "headline": "▪️ Reuters reports hearing a loud explosion in Saudi Arabia’s capital @TasnimNews",
    "source": "Tasnim English (Telegram)",
    "official": "Iran (IRGC-affiliated Tasnim)",
@@ -728,12 +755,6 @@
    "official": "Iran (state agency IRNA)",
    "link": "https://t.me/Irna_en/42644",
    "date": "2026-11-25T16:50:27.000Z"
-  },
-  {
-   "headline": "UK is moving military aircraft to hangars at night over possible drone threats, media reports say",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/uk-moving-military-aircraft-hangars-night-over-possible-drone-threats-media",
-   "date": "2026-11-25T16:46:37.000Z"
   },
   {
    "headline": "💬 China supports diplomacy on Iran nuclear issue, urges return to talks: Envoy 📌 Tehran, IRNA – China’s ambassador to Tehran has reaffirmed Beijing’s support for a diplomatic solution to Iran’s nuclear issue, urging all sides to keep the door to negotiations open,…",
@@ -1223,27 +1244,6 @@
    "official": "Iran (IRGC-affiliated Tasnim)",
    "link": "https://t.me/Tasnimnews_en/49292",
    "date": "2026-11-24T20:49:35.000Z"
-  },
-  {
-   "headline": "Saipa’s delay in obtaining scrappage certificates 🔹During a visit to Saipa Automotive Company, Tehran’s prosecutor, noting public complaints about delays in car deliveries, ordered that the problem of registering ready-to-deliver cars be resolved within a…",
-   "source": "Tasnim English (Telegram)",
-   "official": "Iran (IRGC-affiliated Tasnim)",
-   "link": "https://t.me/Tasnimnews_en/49288",
-   "date": "2026-11-24T20:10:15.000Z"
-  },
-  {
-   "headline": "Destruction of Lucas and MQ-9 drones by Army Air Defense Forces Army Public Relations: 🔹Earlier today, an American aggressor Lucas drone was shot down over the western part of the Strait of Hormuz by the Army Air Defense Forces’ indigenous systems, thanks to timely actions.…",
-   "source": "Tasnim English (Telegram)",
-   "official": "Iran (IRGC-affiliated Tasnim)",
-   "link": "https://t.me/Tasnimnews_en/49285",
-   "date": "2026-11-24T19:37:36.000Z"
-  },
-  {
-   "headline": "Yemen calls for halting Saudi arms shipments to its territory 🔹In a letter to the President of the Security Council and the UN Secretary-General, Yemeni Deputy Foreign Minister “Abdulwahab Al-Rawish” warned against the continued shipment of weapons and military equipment…",
-   "source": "Tasnim English (Telegram)",
-   "official": "Iran (IRGC-affiliated Tasnim)",
-   "link": "https://t.me/Tasnimnews_en/49283",
-   "date": "2026-11-24T19:32:53.000Z"
   },
   {
    "headline": "Yemen’s army says Houthi fighters closing in on government stronghold of Aden",
