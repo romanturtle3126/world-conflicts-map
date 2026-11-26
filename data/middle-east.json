@@ -2,12 +2,12 @@
  "schemaVersion": 1,
  "map": "middle-east",
  "meta": {
-  "lastUpdated": "2026-11-25T06:41:45-05:00",
-  "coverage": "2026-10-06 to 2026-11-25",
+  "lastUpdated": "2026-11-26T06:42:13-05:00",
+  "coverage": "2026-10-06 to 2026-11-26",
   "notes": [
-   "Refreshed 2026-11-25 (about 12:00 UTC) from BBC, Al Jazeera, Al-Monitor (Reuters), Middle East Eye live blog, Critical Threats/ISW Iran Update of Nov 24, IDF, Tasnim, IRNA, Gaza MoH and Houthi military spokesman Telegram channels.",
-   "Not read: UKMTO (403 block), CENTCOM (nothing new in the leads), OCHA oPt (no new report found; latest still Nov 18), X posts (embed service not usable without post ids; no X searches done). Gaza MoH posts today concern hospital generators and no new casualty totals; stats not refreshed.",
-   "Marker positions are approximate (see coordPrecision)."
+   "Refreshed 2026-11-26 (about 12:00 UTC, 07:00 Toronto) from the headline leads file, IDF, Gaza MoH, Houthi military spokesman, Tasnim and IRNA Telegram posts, Al Jazeera, Al-Monitor, Middle East Eye live blog and Critical Threats/ISW Iran Update of Nov 25.",
+   "Not read: UKMTO (blocked, only relayed via Middle East Eye), ISW main site (blocked; Critical Threats copy read), BBC (blocked), CENTCOM (no new item in the leads; X search found nothing for Nov 26), OCHA oPt (updates page loaded but no new report found), X posts (search returned no usable post ids; embed service not used).",
+   "Brent not refreshed (no Nov 25 settle found). Marker positions are approximate (see coordPrecision)."
   ]
  },
  "events": [
@@ -4583,6 +4583,262 @@
     }
    ],
    "read": "full"
+  },
+  {
+   "id": "jeddah-1125",
+   "date": "2026-11-25",
+   "region": "gulf",
+   "oblast": "Saudi Arabia (Jeddah and Jizan)",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "drone",
+   "status": "DISPUTED",
+   "title": "Houthis say they struck Jeddah and Jizan ports; Saudi forces say they downed a drone near Jeddah's port",
+   "caption": "The Houthi military spokesman said two operations hit Jeddah port and Jizan port in retaliation for the Saudi strike on Hodeidah port, claiming damage at both. Saudi forces said air defences destroyed a drone near Jeddah's port, with coalition spokesman Turki al-Malki saying debris caused no civilian injuries. Al-Monitor reports no outcome for the Houthi claim and I found no independent damage report for either port.",
+   "place": "Jeddah",
+   "coordPrecision": "approx",
+   "sources": [
+    {
+     "id": "tg_army21ye_4163",
+     "title": "Houthi military spokesman Telegram (English), operations on Jeddah and Jizan ports, Nov 25",
+     "url": "https://t.me/army21ye/4163"
+    },
+    {
+     "id": "am_1126_saudi",
+     "title": "Al-Monitor, Saudis down missiles targeting capital after Yemen port strikes, Nov 26",
+     "url": "https://www.al-monitor.com/originals/2026/11/saudis-down-missiles-targeting-capital-after-yemen-port-strikes"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "Houthi military spokesman",
+     "says": "Accurate and direct hits on Jeddah and Jizan ports, causing damage.",
+     "source": "tg_army21ye_4163"
+    },
+    {
+     "who": "Saudi forces / coalition (via Al-Monitor)",
+     "says": "Destroyed a drone near Jeddah's port and a cruise missile over the west; no civilian injuries from debris.",
+     "source": "am_1126_saudi"
+    }
+   ],
+   "lat": 21.4901,
+   "lon": 39.1862
+  },
+  {
+   "id": "nabatieh-1125",
+   "date": "2026-11-25",
+   "region": "lebanon",
+   "oblast": "Lebanon (Nabatieh)",
+   "front": "Lebanon & Syria",
+   "type": "airstrike",
+   "status": "UNVERIFIED",
+   "title": "Iranian state agency relays report of Israeli drone strike on Mayfadoun and shelling at Ain al-Samahiya",
+   "caption": "IRNA, citing Lebanon's media regulator, says an Israeli drone detonated on a house roof in Mayfadoun while artillery hit Ain al-Samahiya, both in Nabatieh province, with shelling also reported near Baraachit. No casualties are given and I found no Israeli statement or Lebanese ministry report. Marker is at Nabatieh.",
+   "place": "Nabatieh",
+   "coordPrecision": "approx",
+   "sources": [
+    {
+     "id": "tg_irna_42644",
+     "title": "IRNA English Telegram, Israeli drone and artillery strikes on southern Lebanon, Nov 25",
+     "url": "https://t.me/Irna_en/42644"
+    }
+   ],
+   "read": "full",
+   "lat": 33.3789,
+   "lon": 35.4839
+  },
+  {
+   "id": "deir-al-balah-1126",
+   "date": "2026-11-26",
+   "region": "gaza",
+   "oblast": "Gaza Strip (Deir al-Balah)",
+   "front": "Gaza & West Bank",
+   "type": "airstrike",
+   "status": "CONFIRMED",
+   "title": "Israeli strike in Deir al-Balah kills Gaza education official Khaled Abu Nada and his wife",
+   "caption": "The IDF says it killed Khaled Abu Nada, whom it describes as head of Hamas's Political Bureau economic department and education minister, in an overnight strike in the Deir al-Balah area. Al Jazeera, citing health officials, reports he was undersecretary of Gaza's Education Ministry, that his wife was also killed and six people were wounded, and that Israel's prime minister and defence minister confirmed the killing. The IDF says it took precautions to limit harm to civilians. I could not read the BBC report (blocked).",
+   "place": "Deir el-Balah",
+   "sources": [
+    {
+     "id": "aj_1126_gaza",
+     "title": "Al Jazeera, Israeli attacks on Gaza kill senior education official, seven other people, Nov 26",
+     "url": "https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people"
+    },
+    {
+     "id": "tg_idf_19526",
+     "title": "IDF Telegram, IDF eliminated Khaled Abu Nada in Deir al-Balah, Nov 26",
+     "url": "https://t.me/idfofficial/19526"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "IDF",
+     "says": "Killed Abu Nada, a senior Hamas Political Bureau figure who managed its finances; took precautions to reduce civilian harm.",
+     "source": "tg_idf_19526"
+    },
+    {
+     "who": "Gaza health officials (via Al Jazeera)",
+     "says": "Abu Nada, an Education Ministry undersecretary, and his wife were killed in a strike on an apartment; six wounded.",
+     "source": "aj_1126_gaza"
+    }
+   ],
+   "lat": 31.4183,
+   "lon": 34.3493,
+   "coordPrecision": "city"
+  },
+  {
+   "id": "gaza-city-1126",
+   "date": "2026-11-26",
+   "region": "gaza",
+   "oblast": "Gaza Strip (Gaza City)",
+   "front": "Gaza & West Bank",
+   "type": "airstrike",
+   "status": "ONE_PARTY",
+   "title": "Gaza hospital officials say Israeli drone strikes killed three in Shati camp and three in Tuffah",
+   "caption": "Al Jazeera, citing al-Shifa Hospital, reports a drone attack on a group in Shati camp killed three and wounded four, and a separate strike in the Tuffah neighbourhood killed three. Health officials count at least eight killed across Gaza on Thursday. I found no Israeli statement on these two strikes.",
+   "place": "Gaza",
+   "sources": [
+    {
+     "id": "aj_1126_gaza",
+     "title": "Al Jazeera, Israeli attacks on Gaza kill senior education official, seven other people, Nov 26",
+     "url": "https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "Gaza health officials / al-Shifa (via Al Jazeera)",
+     "says": "Three killed in Shati camp, three in Tuffah; at least eight killed across Gaza.",
+     "source": "aj_1126_gaza"
+    }
+   ],
+   "lat": 31.5016,
+   "lon": 34.4667,
+   "coordPrecision": "city"
+  },
+  {
+   "id": "riyadh-1126",
+   "date": "2026-11-26",
+   "region": "gulf",
+   "oblast": "Saudi Arabia (Riyadh)",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "missile",
+   "status": "ONE_PARTY",
+   "title": "Saudi forces say they destroyed two ballistic missiles fired toward Riyadh after explosions are heard",
+   "caption": "Al-Monitor reports Saudi forces said air defences destroyed two ballistic missiles launched toward the capital. Middle East Eye reports loud explosions in Riyadh after a 'hostile aerial threat' alert. Residents reported windows shaking and no damage from the intercepted missiles was reported. No group has claimed this specific launch in anything I read.",
+   "place": "Riyadh",
+   "coordPrecision": "city",
+   "sources": [
+    {
+     "id": "am_1126_saudi",
+     "title": "Al-Monitor, Saudis down missiles targeting capital after Yemen port strikes, Nov 26",
+     "url": "https://www.al-monitor.com/originals/2026/11/saudis-down-missiles-targeting-capital-after-yemen-port-strikes"
+    },
+    {
+     "id": "mee_1126_riyadh",
+     "title": "Middle East Eye live blog, Loud explosions rock Riyadh as Houthis attack Saudi ports, Nov 26",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/loud-explosions-rock-riyadh-houthis-attack-saudi-ports"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "Saudi forces (via Al-Monitor)",
+     "says": "Two ballistic missiles toward the capital destroyed; no damage reported.",
+     "source": "am_1126_saudi"
+    }
+   ],
+   "lat": 24.6877,
+   "lon": 46.7219
+  },
+  {
+   "id": "dubai-1126",
+   "date": "2026-11-26",
+   "region": "gulf",
+   "oblast": "UAE (Gulf waters west of Dubai)",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "naval",
+   "status": "UNVERIFIED",
+   "title": "UKMTO reports an explosion from an 'unknown projectile' near a tanker about 50 nm west of Dubai",
+   "caption": "Middle East Eye, relaying a UKMTO advisory, says the tanker's master reported an explosion caused by an unknown projectile; the vessel was not damaged and the crew are safe. No party is named. The page's weekday does not match its dateline, so the exact date is uncertain. I could not read the UKMTO site itself (blocked).",
+   "place": "Dubai",
+   "coordPrecision": "oblast",
+   "sources": [
+    {
+     "id": "mee_1126_ukmto",
+     "title": "Middle East Eye live blog, UKMTO reports explosion near tanker west of Dubai, Nov 25-26",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-reports-explosion-near-tanker-west-dubai"
+    }
+   ],
+   "read": "snippet",
+   "lat": 25.0773,
+   "lon": 55.3093
+  },
+  {
+   "id": "bandar-abbas-1126",
+   "date": "2026-11-26",
+   "region": "iran-war",
+   "oblast": "Strait of Hormuz",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "naval",
+   "status": "ONE_PARTY",
+   "title": "IRGC Navy says two more tankers hit mines in Hormuz, one a supertanker with 2 million barrels now ablaze",
+   "caption": "The IRGC Navy's press office says two unauthorized tankers with their tracking switched off hit naval mines and exploded early Thursday north of Bandar Kharg, and that one carrying over 2 million barrels is burning and adrift. It says they were trying to pass under US air cover. A separate IRNA item quotes an IRGC spokesman saying Iran can keep the strait closed. No independent or UKMTO confirmation found, and I did not find a US response.",
+   "place": "Bandar Abbas",
+   "coordPrecision": "oblast",
+   "sources": [
+    {
+     "id": "tg_tasnim_49590",
+     "title": "Tasnim English Telegram, IRGC Navy says two unauthorized tankers hit mines in Hormuz, Nov 26",
+     "url": "https://t.me/Tasnimnews_en/49590"
+    },
+    {
+     "id": "tg_irna_42652",
+     "title": "IRNA English Telegram, IRGC spokesman says Iran can sustain Hormuz blockade, Nov 26",
+     "url": "https://t.me/Irna_en/42652"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "IRGC Navy",
+     "says": "Two tankers hit mines and caught fire; one is a supertanker with over 2 million barrels, adrift and ablaze.",
+     "source": "tg_tasnim_49590"
+    }
+   ],
+   "lat": 27.1865,
+   "lon": 56.2808
+  },
+  {
+   "id": "taiz-1126",
+   "date": "2026-11-26",
+   "region": "yemen",
+   "oblast": "Yemen (Taiz)",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "artillery",
+   "status": "ONE_PARTY",
+   "title": "Yemeni state news agency says Houthi shelling southeast of Taiz killed a woman and wounded seven",
+   "caption": "Middle East Eye, citing only the government-run Saba agency, reports the shelling killed one woman and wounded at least seven people, including a child, and attributes it to the Houthis. There is no Houthi comment and no independent confirmation. Marker is at Taiz city.",
+   "place": "Taiz",
+   "coordPrecision": "approx",
+   "sources": [
+    {
+     "id": "mee_1126_taiz",
+     "title": "Middle East Eye live blog, Houthi shelling reportedly kills woman in Yemen's Taiz, Nov 26",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-shelling-reportedly-kills-woman-yemens-taiz"
+    }
+   ],
+   "read": "snippet",
+   "claims": [
+    {
+     "who": "Saba (Yemeni government agency, via Middle East Eye)",
+     "says": "Houthi shelling killed a woman and wounded seven.",
+     "source": "mee_1126_taiz"
+    }
+   ],
+   "lat": 13.5795,
+   "lon": 44.0209
   }
  ],
  "lanes": [
@@ -4858,36 +5114,36 @@
   {
    "label": "Gaza: killed since Oct 2023",
    "category": "casualties",
-   "asOf": "2026-11-23",
-   "asOfNote": "Nov 23, 2026",
+   "asOf": "2026-11-26",
+   "asOfNote": "Nov 26, 2026",
    "status": "DISPUTED",
    "rows": [
     {
      "who": "Gaza health ministry (Telegram)",
-     "value": "74,746 killed, 176,234 injured (does not separate fighters)",
-     "source": "tg_mohgaza_7748"
+     "value": "74,772 killed, 176,298 injured (does not separate fighters)",
+     "source": "tg_mohgaza_7761"
     },
     {
      "who": "Israeli military",
      "value": "No comparable total; says many killed were fighters"
     }
    ],
-   "note": "MoH figure was 74,742 on Nov 22 and 74,570 on Oct 29. Cumulative total as posted on Nov 23.",
+   "note": "MoH figure was 74,746 on Nov 23. Cumulative total as posted on Nov 26.",
    "sources": [
-    "tg_mohgaza_7748"
+    "tg_mohgaza_7761"
    ]
   },
   {
    "label": "Gaza: killed since the Oct 10, 2025 ceasefire",
    "category": "casualties",
-   "asOf": "2026-11-23",
-   "asOfNote": "Nov 23, 2026 (Gaza health ministry Telegram; OCHA to Nov 16)",
+   "asOf": "2026-11-26",
+   "asOfNote": "Nov 26, 2026 (Gaza health ministry Telegram; OCHA to Nov 16)",
    "status": "DISPUTED",
    "rows": [
     {
-     "who": "Gaza health ministry (Telegram, Nov 23)",
-     "value": "1,679 killed, 6,100 injured since the ceasefire; 851 bodies recovered; 4 killed (3 new, 1 died of wounds) and 7 injured in the 24 hours to Nov 23",
-     "source": "tg_mohgaza_7748"
+     "who": "Gaza health ministry (Telegram, Nov 26)",
+     "value": "1,705 killed, 6,163 injured since the ceasefire; 851 bodies recovered; 19 killed (18 new, 1 died of wounds) and 48 injured in the 48 hours to Nov 26",
+     "source": "tg_mohgaza_7761"
     },
     {
      "who": "Gaza health ministry (via UN OCHA, report of Nov 18)",
@@ -4895,26 +5151,20 @@
      "source": "ocha_1118"
     },
     {
-     "who": "Gaza health ministry (via BBC, Nov 19)",
-     "value": "At least 1,658 killed since the ceasefire; Israeli military says six of its soldiers killed in that period",
-     "source": "bbc_1119_gaza"
-    },
-    {
      "who": "Israeli military",
      "value": "Says four of its soldiers killed in that period; says Hamas is rebuilding"
     },
     {
      "who": "UN Human Rights Office (verified)",
-     "value": "1,076 deaths verified to end of July 2026"
+     "value": "1,076 deaths verified to end of July 2026",
+     "source": "ocha_1015"
     }
    ],
-   "note": "UN verification lags; counts cover different periods. The Israeli military row dates from Nov 11 (Reuters).",
+   "note": "UN verification lags; counts cover different periods. The MoH post dates the ceasefire to Oct 11; the map keeps the Oct 10 label. The Israeli military row dates from Nov 11 (Reuters).",
    "sources": [
-    "tg_mohgaza_7748",
+    "tg_mohgaza_7761",
     "ocha_1118",
-    "bbc_1119_gaza",
-    "ocha_1015",
-    "tg_mohgaza_7733"
+    "ocha_1015"
    ]
   },
   {
@@ -6296,6 +6546,66 @@
    "id": "tg_tasnim_49396",
    "title": "Tasnim English Telegram, video of two oil tankers exploding on unauthorized route in Hormuz, Nov 25",
    "url": "https://t.me/Tasnimnews_en/49396"
+  },
+  {
+   "id": "tg_mohgaza_7761",
+   "title": "Gaza Ministry of Health Telegram, 48-hour and cumulative toll, Nov 26",
+   "url": "https://t.me/MOHMediaGaza/7761"
+  },
+  {
+   "id": "ctp_1125",
+   "title": "Critical Threats / ISW, Iran Update, Nov 25, 2026",
+   "url": "https://www.criticalthreats.org/analysis/iran-update-november-25-2026"
+  },
+  {
+   "id": "aj_1126_gaza",
+   "title": "Al Jazeera, Israeli attacks on Gaza kill senior education official, seven other people, Nov 26",
+   "url": "https://www.aljazeera.com/news/2026/11/26/israeli-attacks-on-gaza-kill-senior-education-official-seven-other-people"
+  },
+  {
+   "id": "tg_idf_19526",
+   "title": "IDF Telegram, IDF eliminated Khaled Abu Nada in Deir al-Balah, Nov 26",
+   "url": "https://t.me/idfofficial/19526"
+  },
+  {
+   "id": "tg_army21ye_4163",
+   "title": "Houthi military spokesman Telegram (English), operations on Jeddah and Jizan ports, Nov 25",
+   "url": "https://t.me/army21ye/4163"
+  },
+  {
+   "id": "am_1126_saudi",
+   "title": "Al-Monitor, Saudis down missiles targeting capital after Yemen port strikes, Nov 26",
+   "url": "https://www.al-monitor.com/originals/2026/11/saudis-down-missiles-targeting-capital-after-yemen-port-strikes"
+  },
+  {
+   "id": "mee_1126_riyadh",
+   "title": "Middle East Eye live blog, Loud explosions rock Riyadh as Houthis attack Saudi ports, Nov 26",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/loud-explosions-rock-riyadh-houthis-attack-saudi-ports"
+  },
+  {
+   "id": "mee_1126_ukmto",
+   "title": "Middle East Eye live blog, UKMTO reports explosion near tanker west of Dubai, Nov 25-26",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-reports-explosion-near-tanker-west-dubai"
+  },
+  {
+   "id": "tg_tasnim_49590",
+   "title": "Tasnim English Telegram, IRGC Navy says two unauthorized tankers hit mines in Hormuz, Nov 26",
+   "url": "https://t.me/Tasnimnews_en/49590"
+  },
+  {
+   "id": "tg_irna_42652",
+   "title": "IRNA English Telegram, IRGC spokesman says Iran can sustain Hormuz blockade, Nov 26",
+   "url": "https://t.me/Irna_en/42652"
+  },
+  {
+   "id": "mee_1126_taiz",
+   "title": "Middle East Eye live blog, Houthi shelling reportedly kills woman in Yemen's Taiz, Nov 26",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-shelling-reportedly-kills-woman-yemens-taiz"
+  },
+  {
+   "id": "tg_irna_42644",
+   "title": "IRNA English Telegram, Israeli drone and artillery strikes on southern Lebanon, Nov 25",
+   "url": "https://t.me/Irna_en/42644"
   }
  ]
 }
