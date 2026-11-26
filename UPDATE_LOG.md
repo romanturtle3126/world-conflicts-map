@@ -2,6 +2,17 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-26 06:04 Toronto — Ukraine — OK
+- Added 4 event(s):
+  - `kyiv-1125` 2026-11-25 [CONFIRMED] Ballistic missile attack on Kyiv hits shopping center and industrial buildings, seven injured
+  - `sloviansk-1125` 2026-11-25 [ONE_PARTY] Russian FAB-500 bomb on central Sloviansk kills one, injures 10
+  - `zaporizhzhia-1125` 2026-11-25 [ONE_PARTY] Russian attacks on Zaporizhzhia injure five, including a child, and set a transport company on fire
+  - `savasleyka-1125` 2026-11-25 [ONE_PARTY] Ukraine's General Staff says five Russian military jets hit at Savasleyka airfield
+- Stats: 1 updated, 2 added
+- 8 new source link(s)
+- Totals: 207 events, 66 stats, 356 sources; coverage 2026-10-10 to 2026-11-25
+- warning: link https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo returned 403 (site may block bots)
+
 ## 2026-11-25 06:41 Toronto — Middle East — OK
 - Lanes: 2 updated
 - Totals: 134 events, 18 stats, 212 sources; coverage 2026-10-06 to 2026-11-25
