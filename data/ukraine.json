@@ -2,11 +2,11 @@
  "schemaVersion": 1,
  "map": "ukraine",
  "meta": {
-  "lastUpdated": "2026-11-25T06:04:34-05:00",
+  "lastUpdated": "2026-11-26T06:04:38-05:00",
   "coverage": "2026-10-10 to 2026-11-25",
   "notes": [
-   "Refreshed Nov 25, 2026 (UTC) from Telegram channels kpszsu (alert posts only), GeneralStaffZSU and mod_russia, Ukrinform and Kyiv Independent articles, and the headline leads file (pulled Nov 25 ~01:00 UTC).",
-   "Not read this run: ISW assessment, X posts, Reuters/AP, Guardian (feed 403), Air Force overnight launch tally for Nov 24-25, Putin retaliation statement, Kramatorsk and Kinburn Spit reports. Russian MoD claim of Barvinivka (Zaporizhzhia Oblast) not mapped.",
+   "Refreshed Nov 26, 2026 (UTC, ~11:00) from Telegram channels kpszsu (alert posts only), GeneralStaffZSU and mod_russia, Kyiv Independent, Ukrinform and BBC articles, and the headline leads file (pulled Nov 26 ~00:35 UTC).",
+   "Not read this run: ISW assessment, X posts, Reuters/AP, Guardian, Air Force launch tally for the night of Nov 25-26 beyond the Kyiv Independent relay, Russian MoD wording on Savasleyka (none published).",
    "Coordinates are city-level or approximate (see coordPrecision); markers flagged 'oblast' are not geolocated.",
    "Casualty figures are as reported by the cited outlet at time of writing and may have been revised."
   ]
@@ -5765,6 +5765,127 @@
     }
    ],
    "read": "full"
+  },
+  {
+   "id": "kyiv-1125",
+   "date": "2026-11-25",
+   "region": "rear",
+   "oblast": "Kyiv",
+   "front": "Rear (Kyiv)",
+   "type": "missile",
+   "status": "CONFIRMED",
+   "title": "Ballistic missile attack on Kyiv hits shopping center and industrial buildings, seven injured",
+   "caption": "Russia launched ballistic missiles at Ukraine late on Nov 25 (air alert from about 22:46 local time), striking a shopping center, an industrial building and a non-residential building in Kyiv's Desnianskyi district, according to Mayor Vitali Klitschko. Kyiv City Military Administration says seven people were injured; Klitschko says three were hospitalized, two in serious condition. Ukraine's Air Force counts 113 drones (76 jet-powered) in the same night; Russia's MoD says it hit defense-industry enterprises in Kyiv.",
+   "lat": 50.4547,
+   "lon": 30.5238,
+   "coordPrecision": "city",
+   "place": "Kyiv",
+   "sources": [
+    {
+     "id": "ki_kyiv_1125",
+     "title": "Kyiv Independent: Russia slams Kyiv in ballistic missile attack, hits shopping center (Nov 25-26)",
+     "url": "https://kyivindependent.com/russia-slams-kyiv-in-ballistic-missile-attack-hits-shopping-center/"
+    },
+    {
+     "id": "ukrinform_kyiv_1125",
+     "title": "Ukrinform: Kyiv under ballistic missile attack, strikes reported in industrial area (Nov 26)",
+     "url": "https://www.ukrinform.net/rubric-ato/4188681-kyiv-under-ballistic-missile-attack-strikes-reported-in-industrial-area.html"
+    },
+    {
+     "id": "mod_kyiv_1126",
+     "title": "Russian MoD (Telegram): massive strike on defense-industry enterprises in Kyiv (Nov 26)",
+     "url": "https://t.me/mod_russia/69332"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Kyiv city authorities",
+     "says": "A shopping center, an industrial building and a non-residential building in Desnianskyi district were hit; seven injured.",
+     "source": "ki_kyiv_1125"
+    },
+    {
+     "who": "Russia's MoD",
+     "says": "A massive strike with ground-based high-precision weapons and drones hit defense-industry enterprises in Kyiv.",
+     "source": "mod_kyiv_1126"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "sloviansk-1125",
+   "date": "2026-11-25",
+   "region": "donbas",
+   "oblast": "Donetsk",
+   "front": "Kramatorsk / Sloviansk",
+   "type": "airstrike",
+   "status": "ONE_PARTY",
+   "title": "Russian FAB-500 bomb on central Sloviansk kills one, injures 10",
+   "caption": "Sloviansk city military administration head Vadym Liakh says a 500-kg FAB-500 aerial bomb hit the city center around 10:00 on Nov 25. The injury toll rose to 10, five hospitalized including two men aged 74 and 75 in critical condition; one man, born 1949, was killed. No independent confirmation was read.",
+   "lat": 48.8497,
+   "lon": 37.5974,
+   "coordPrecision": "city",
+   "place": "Slovyansk",
+   "sources": [
+    {
+     "id": "ukrinform_sloviansk_1125",
+     "title": "Ukrinform: Injury toll in Russian airstrike on Sloviansk rises to 10, one person killed (Nov 25)",
+     "url": "https://www.ukrinform.net/rubric-ato/4188608-injury-toll-in-russian-airstrike-on-sloviansk-rises-to-10-one-person-killed.html"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "zaporizhzhia-1125",
+   "date": "2026-11-25",
+   "region": "south",
+   "oblast": "Zaporizhzhia",
+   "front": "Zaporizhzhia",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Russian attacks on Zaporizhzhia injure five, including a child, and set a transport company on fire",
+   "caption": "Zaporizhzhia Governor Mykhailo Semikin says five people, including a child, were injured in Russian attacks on the city's Kosmichnyi district, which hit a residential area and a motor transport company. About ten private houses, a warehouse and vehicles were damaged and a fire broke out. Earlier attacks that morning hit the Shevchenkivskyi district. No independent confirmation was read.",
+   "lat": 47.8517,
+   "lon": 35.1171,
+   "coordPrecision": "city",
+   "place": "Zaporizhzhya",
+   "sources": [
+    {
+     "id": "ukrinform_zap_1125",
+     "title": "Ukrinform: Russian forces strike Zaporizhzhia, sparking fire at transport company, injuring five (Nov 25)",
+     "url": "https://www.ukrinform.net/rubric-ato/4188578-russian-forces-strike-zaporizhzhia-sparking-fire-at-transport-company-injuring-five.html"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "savasleyka-1125",
+   "date": "2026-11-25",
+   "region": "russia",
+   "oblast": "Nizhny Novgorod Oblast, Russia",
+   "front": "Russia (deep strikes)",
+   "type": "deep-strike",
+   "status": "ONE_PARTY",
+   "title": "Ukraine's General Staff says five Russian military jets hit at Savasleyka airfield",
+   "caption": "Ukraine's General Staff says three MiG-31 and two Su-34 aircraft were hit in an attack on Savasleyka airfield in Nizhny Novgorod Oblast, about 300 km east of Moscow, and that the extent of damage is still being assessed. It did not say what weapons were used. Russia has not commented, per the BBC. No independent confirmation of the damage was read.",
+   "lat": 55.4606,
+   "lon": 42.3207,
+   "coordPrecision": "city",
+   "place": "Savasleyka",
+   "sources": [
+    {
+     "id": "bbc_savasleyka_1125",
+     "title": "BBC: Five Russian military jets hit in airfield strike, says Ukraine (Nov 25)",
+     "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Ukraine's General Staff",
+     "says": "Three MiG-31 and two Su-34 aircraft hit at Savasleyka airfield; assessment ongoing.",
+     "source": "bbc_savasleyka_1125"
+    }
+   ],
+   "read": "full"
   }
  ],
  "stats": [
@@ -6855,15 +6976,45 @@
   {
    "label": "Russian drones and missiles launched at Ukraine (night of Nov 24-25)",
    "category": "shootdowns",
-   "asOf": "2026-11-25",
+   "asOf": "2026-11-26",
    "status": "ONE_PARTY",
    "ukraine": {
-    "value": "Air Force overnight launch tally not read",
-    "source": null
+    "value": "112 drones launched since the evening of Nov 24, 88 shot down (Air Force, via Ukrinform)",
+    "source": "ukrinform_laser_1125"
    },
    "russia": {
     "value": "No launch count published; MoD says drones hit a 330 kV substation in Zaporizhzhia, two locomotives in Dnipro, a 330 kV substation in Zelenodolsk, an industrial plant in Snovsk (Chernihiv Oblast) and a cargo ship at Chornomorsk",
     "source": "mod_strikes_1125"
+   },
+   "independent": []
+  },
+  {
+   "label": "Russian drones and missiles launched at Ukraine (night of Nov 25-26)",
+   "category": "shootdowns",
+   "asOf": "2026-11-26",
+   "status": "DISPUTED",
+   "ukraine": {
+    "value": "Air Force: an unspecified number of ballistic missiles plus 113 drones, 76 of them jet-powered; 87 drones (52 jet-powered) downed or suppressed as of 08:00; strikes at 20 locations, debris at 6 (relayed by Kyiv Independent)",
+    "source": "ki_kyiv_1125"
+   },
+   "russia": {
+    "value": "No launch count published; MoD says a massive strike hit defense-industry enterprises in Kyiv and a dry-cargo ship south-east of Odesa",
+    "source": "mod_kyiv_1126"
+   },
+   "independent": []
+  },
+  {
+   "label": "Ukrainian drones shot down over Russia (night of Nov 25-26)",
+   "category": "shootdowns",
+   "asOf": "2026-11-26",
+   "status": "ONE_PARTY",
+   "ukraine": {
+    "value": "No count published",
+    "source": null
+   },
+   "russia": {
+    "value": "MoD claims 343 fixed-wing drones destroyed overnight over Bryansk, Belgorod, Kursk, Oryol, Voronezh, Tula, Saratov, Samara, Rostov and Ulyanovsk regions, the Moscow region, Stavropol and Krasnodar krais, Tatarstan, Bashkortostan, Crimea, and the Azov and Black seas",
+    "source": "mod_pvo_1126"
    },
    "independent": []
   }
@@ -8608,6 +8759,46 @@
    "id": "gs_samara_1125",
    "title": "General Staff of Ukraine (Telegram): Kuibyshev and Syzran refineries hit (Nov 25)",
    "url": "https://t.me/GeneralStaffZSU/42994"
+  },
+  {
+   "id": "mod_pvo_1126",
+   "title": "Russian MoD (Telegram): 343 Ukrainian drones destroyed overnight (Nov 26)",
+   "url": "https://t.me/mod_russia/69333"
+  },
+  {
+   "id": "ukrinform_laser_1125",
+   "title": "Ukrinform: Ukraine's Blysk laser shoots down Russian jet-powered drone (Nov 25-26)",
+   "url": "https://www.ukrinform.net/rubric-defense/4188627-ukraines-blysk-laser-makes-world-first-shooting-down-russian-jetpowered-drone.html"
+  },
+  {
+   "id": "ki_kyiv_1125",
+   "title": "Kyiv Independent: Russia slams Kyiv in ballistic missile attack, hits shopping center (Nov 25-26)",
+   "url": "https://kyivindependent.com/russia-slams-kyiv-in-ballistic-missile-attack-hits-shopping-center/"
+  },
+  {
+   "id": "ukrinform_kyiv_1125",
+   "title": "Ukrinform: Kyiv under ballistic missile attack, strikes reported in industrial area (Nov 26)",
+   "url": "https://www.ukrinform.net/rubric-ato/4188681-kyiv-under-ballistic-missile-attack-strikes-reported-in-industrial-area.html"
+  },
+  {
+   "id": "mod_kyiv_1126",
+   "title": "Russian MoD (Telegram): massive strike on defense-industry enterprises in Kyiv (Nov 26)",
+   "url": "https://t.me/mod_russia/69332"
+  },
+  {
+   "id": "ukrinform_sloviansk_1125",
+   "title": "Ukrinform: Injury toll in Russian airstrike on Sloviansk rises to 10, one person killed (Nov 25)",
+   "url": "https://www.ukrinform.net/rubric-ato/4188608-injury-toll-in-russian-airstrike-on-sloviansk-rises-to-10-one-person-killed.html"
+  },
+  {
+   "id": "ukrinform_zap_1125",
+   "title": "Ukrinform: Russian forces strike Zaporizhzhia, sparking fire at transport company, injuring five (Nov 25)",
+   "url": "https://www.ukrinform.net/rubric-ato/4188578-russian-forces-strike-zaporizhzhia-sparking-fire-at-transport-company-injuring-five.html"
+  },
+  {
+   "id": "bbc_savasleyka_1125",
+   "title": "BBC: Five Russian military jets hit in airfield strike, says Ukraine (Nov 25)",
+   "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo"
   }
  ]
 }
