@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-25T20:56:17+00:00",
+  "lastUpdated": "2026-11-26T00:35:20+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -20,8 +20,8 @@
    },
    {
     "source": "Euronews",
-    "ok": true,
-    "count": 7
+    "ok": false,
+    "error": "HTTP 406"
    },
    {
     "source": "BBC News Europe",
@@ -57,6 +57,54 @@
  },
  "items": [
   {
+   "headline": "Russian-provoked incident causing casualties on NATO territory could be red line for Alliance – Rinkēvičs",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4188335-russianprovoked-incident-causing-casualties-on-nato-territory-could-be-red-line-for-alliance-rinkevics.html",
+   "date": "2026-11-25T23:28:00.000Z"
+  },
+  {
+   "headline": "No good news from US on accelerating air defense missile deliveries, Zelensky says",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/no-good-news-from-us-on-accelerating-air-defense-missile-deliveries-zelensky-says/",
+   "date": "2026-11-25T23:05:31.000Z"
+  },
+  {
+   "headline": "SBU detains hairdresser in Sloviansk suspected of directing Russian strikes",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4188297-sbu-detains-hairdresser-in-sloviansk-suspected-of-directing-russian-strikes.html",
+   "date": "2026-11-25T22:32:00.000Z"
+  },
+  {
+   "headline": "War update: 151 clashes along the front line; 40 Russian troops killed on Pokrovsk axis",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4188683-war-update-151-clashes-along-the-front-line-40-russian-troops-killed-on-pokrovsk-axis.html",
+   "date": "2026-11-25T22:06:30.000Z"
+  },
+  {
+   "headline": "Russia slams Kyiv in ballistic missile attack, hits shopping center, injures 4",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/russia-slams-kyiv-in-ballistic-missile-attack-hits-shopping-center/",
+   "date": "2026-11-25T21:42:35.000Z"
+  },
+  {
+   "headline": "Kyiv under ballistic missile attack. Strike hits shopping mall",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4188681-kyiv-under-ballistic-missile-attack-strikes-reported-in-industrial-area.html",
+   "date": "2026-11-25T21:29:00.000Z"
+  },
+  {
+   "headline": "Ukrainian attacks drive Russian oil refining to 20-year low – Bloomberg",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-economy/4188679-ukrainian-attacks-drive-russian-oil-refining-to-20year-low-bloomberg.html",
+   "date": "2026-11-25T21:15:50.000Z"
+  },
+  {
+   "headline": "Cabinet eases approval of new Ukrainian drones, EW systems and explosives for military use",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4188677-cabinet-eases-approval-of-new-ukrainian-drones-ew-systems-and-explosives-for-military-use.html",
+   "date": "2026-11-25T20:58:39.000Z"
+  },
+  {
    "headline": "Former European leaders urge EU to make long-term commitments to Ukraine",
    "source": "Ukrinform",
    "link": "https://www.ukrinform.net/rubric-polytics/4188675-former-european-leaders-urge-eu-to-make-longterm-commitments-to-ukraine.html",
@@ -88,12 +136,6 @@
    "date": "2026-11-25T19:28:00.000Z"
   },
   {
-   "headline": "Europe Tonight: Russia reportedly prepares nuclear satellite launch",
-   "source": "Euronews",
-   "link": "https://www.euronews.com/2026/11/25/europe-tonight-russia-reportedly-prepares-nuclear-satellite-launch",
-   "date": "2026-11-25T19:20:03.000Z"
-  },
-  {
    "headline": "Ukrainian laser downs Russian jet-powered drone in world first",
    "source": "Al Jazeera",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
@@ -111,12 +153,6 @@
    "source": "Ukrinform",
    "link": "https://www.ukrinform.net/rubric-economy/4188654-government-extends-deadline-for-businesses-to-provide-shelters-during-yellow-air-alerts-to-june-2027.html",
    "date": "2026-11-25T19:12:00.000Z"
-  },
-  {
-   "headline": "French judo legend and Olympic medalist Teddy Riner says Ukraine is not France's war",
-   "source": "Euronews",
-   "link": "https://www.euronews.com/2026/11/25/french-judo-legend-and-olympic-medalist-teddy-riner-says-ukraine-is-not-frances-war",
-   "date": "2026-11-25T19:08:25.000Z"
   },
   {
    "headline": "Russian aircraft and vessels carrying military cargo legitimate targets for Ukraine – Zelensky",
@@ -255,12 +291,6 @@
    "date": "2026-11-25T17:07:50.000Z"
   },
   {
-   "headline": "Europe Tonight: Trump unveils new tariffs amid Russian nuclear space threat",
-   "source": "Euronews",
-   "link": "https://www.euronews.com/2026/11/25/europe-tonight-trump-unveils-new-tariffs-amid-russian-nuclear-space-threat",
-   "date": "2026-11-25T17:00:28.000Z"
-  },
-  {
    "headline": "AI expands Russia's ability to conduct global disinformation campaigns – expert",
    "source": "Ukrinform",
    "link": "https://www.ukrinform.net/rubric-society/4188604-ai-expands-russias-ability-to-conduct-global-disinformation-campaigns-expert.html",
@@ -388,18 +418,6 @@
    "date": "2026-11-25T15:04:31.000Z"
   },
   {
-   "headline": "Ukrainian forces thwart Russian attempt to break through near Dobropillia",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4188565-ukrainian-forces-thwart-russian-attempt-to-break-through-near-dobropillia.html",
-   "date": "2026-11-25T15:03:00.000Z"
-  },
-  {
-   "headline": "EU seeks 'fuller picture' of Ireland's alumina sales to Russia as doubts remain",
-   "source": "Euronews",
-   "link": "https://www.euronews.com/2026/11/25/eu-seeks-fuller-picture-of-irelands-alumina-sales-to-russia-as-doubts-remain",
-   "date": "2026-11-25T15:01:16.000Z"
-  },
-  {
    "headline": "IIHF to appeal ruling allowing Russia's return to international hockey in Swiss court",
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/iihf-to-appeal-ruling-allowing-russias-return-to-international-hockey-in-swiss-court/",
@@ -412,22 +430,10 @@
    "date": "2026-11-25T14:51:00.000Z"
   },
   {
-   "headline": "5 Russian aircraft hit at airfield in Russia's Nizhny Novgorod Oblast, General Staff says",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/5-russian-aircraft-hit-at-airfield-in-russias-nizhny-novgorod-oblast-general-staff-says/",
-   "date": "2026-11-25T14:50:15.000Z"
-  },
-  {
    "headline": "Five Russian military jets hit in airfield strike, says Ukraine",
    "source": "BBC News Europe",
    "link": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-25T14:46:41.000Z"
-  },
-  {
-   "headline": "Sybiha outlines three priorities for Ukraine Recovery Conference in Tallinn",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-vidbudova/4188558-sybiha-outlines-three-priorities-for-ukraine-recovery-conference-in-tallinn.html",
-   "date": "2026-11-25T14:44:00.000Z"
   },
   {
    "headline": "Six injured, including child, in Russian attack on Zaporizhzhia – photos",
@@ -456,12 +462,6 @@
    "date": "2026-11-25T14:28:28.000Z"
   },
   {
-   "headline": "Russian drone strikes energy facility in Poltava region, four injured",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-economy/4188553-russian-drone-strikes-energy-facility-in-poltava-region-four-injured.html",
-   "date": "2026-11-25T14:24:00.000Z"
-  },
-  {
    "headline": "Дроноводы снова на высоте ⬆️ Операторы дронов 51-й общевойсковой армии группировки «Центр» уничтожили тяжелую технику и беспилотники боевиков ВСУ. 📍 Днепропетровское направление #ВойскаБПС 🔹 MAКС – территория СВОих",
    "source": "Russian Defence Ministry (Telegram)",
    "official": "Russia",
@@ -475,40 +475,10 @@
    "date": "2026-11-25T14:22:00.000Z"
   },
   {
-   "headline": "From Crimea to Kaliningrad — Do Ukraine's latest strikes signal a broader campaign?",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/from-crimea-to-kaliningrad-do-ukraines-latest-strikes-signal-a-broader-campaign-2/",
-   "date": "2026-11-25T14:11:43.000Z"
-  },
-  {
-   "headline": "Ukraine ready to accelerate implementation of agreements on rights of Hungarian minority – Sybiha",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4188544-ukraine-ready-to-accelerate-implementation-of-agreements-on-rights-of-hungarian-minority-sybiha.html",
-   "date": "2026-11-25T14:07:00.000Z"
-  },
-  {
-   "headline": "Russian strikes kill seven in Ukraine as Kyiv hits three refineries",
-   "source": "Euronews",
-   "link": "https://www.euronews.com/2026/11/25/russian-strikes-kill-seven-in-ukraine-as-kyiv-hits-three-refineries",
-   "date": "2026-11-25T14:06:14.000Z"
-  },
-  {
    "headline": "Poland plans to establish a no-fly zone near its border with Ukraine",
    "source": "Ukrainska Pravda",
    "link": "https://www.pravda.com.ua/eng/news/2026/11/25/8064627/",
    "date": "2026-11-25T14:04:00.000Z"
-  },
-  {
-   "headline": "Christmas decorations found in washed up container from ship hit by drones off Bulgaria’s Black Sea coast",
-   "source": "Euronews",
-   "link": "https://www.euronews.com/2026/11/25/christmas-decorations-found-in-washed-up-container-from-ship-hit-by-drones-off-bulgarias-b",
-   "date": "2026-11-25T13:43:22.000Z"
-  },
-  {
-   "headline": "Russians strike community in Zhytomyr region again, injury toll rises to nine",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4188526-russians-strike-community-in-zhytomyr-region-again-injury-toll-rises-to-nine.html",
-   "date": "2026-11-25T13:43:00.000Z"
   },
   {
    "headline": "Russian drone damages Dovzhenko Film Studio hostel in Kyiv – video, photos",
@@ -523,22 +493,10 @@
    "date": "2026-11-25T13:26:00.000Z"
   },
   {
-   "headline": "Khmara, Stoltenberg discuss strengthening Ukraine's air defenses and supporting defense industry",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4188516-khmara-stoltenberg-discuss-strengthening-ukraines-air-defenses-and-supporting-defense-industry.html",
-   "date": "2026-11-25T13:21:00.000Z"
-  },
-  {
    "headline": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
    "source": "BBC News Europe",
    "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-25T12:21:49.000Z"
-  },
-  {
-   "headline": "Czech Republic ready to support Poland after Russian airspace violations",
-   "source": "Euronews",
-   "link": "https://www.euronews.com/2026/11/25/czech-republic-to-support-poland-after-russian-airspace-violations",
-   "date": "2026-11-25T11:57:50.000Z"
   },
   {
    "headline": "5 літаків, якими росіяни тероризують цивільних українців, уражено на аеродромі «Саваслейка» 💥 24-го та в ніч на 25 листопада удари Сил оборони України дістали один із ключових аеродромів російської авіації. У Нижньогородській області уражено аеродром «Саваслейка». Саме…",
