@@ -2,6 +2,21 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-26 06:42 Toronto — Middle East — OK
+- Added 8 event(s):
+  - `deir-al-balah-1126` 2026-11-26 [CONFIRMED] Israeli strike in Deir al-Balah kills Gaza education official Khaled Abu Nada and his wife
+  - `gaza-city-1126` 2026-11-26 [ONE_PARTY] Gaza hospital officials say Israeli drone strikes killed three in Shati camp and three in Tuffah
+  - `jeddah-1125` 2026-11-25 [DISPUTED] Houthis say they struck Jeddah and Jizan ports; Saudi forces say they downed a drone near Jeddah's port
+  - `riyadh-1126` 2026-11-26 [ONE_PARTY] Saudi forces say they destroyed two ballistic missiles fired toward Riyadh after explosions are heard
+  - `dubai-1126` 2026-11-26 [UNVERIFIED] UKMTO reports an explosion from an 'unknown projectile' near a tanker about 50 nm west of Dubai
+  - `bandar-abbas-1126` 2026-11-26 [ONE_PARTY] IRGC Navy says two more tankers hit mines in Hormuz, one a supertanker with 2 million barrels now ablaze
+  - `taiz-1126` 2026-11-26 [ONE_PARTY] Yemeni state news agency says Houthi shelling southeast of Taiz killed a woman and wounded seven
+  - `nabatieh-1125` 2026-11-25 [UNVERIFIED] Iranian state agency relays report of Israeli drone strike on Mayfadoun and shelling at Ain al-Samahiya
+- Stats: 2 updated, 0 added
+- 12 new source link(s)
+- Totals: 142 events, 18 stats, 224 sources; coverage 2026-10-06 to 2026-11-26
+- warning: source "ctp_1125" is not used by any event or stat
+
 ## 2026-11-26 06:04 Toronto — Ukraine — OK
 - Added 4 event(s):
   - `kyiv-1125` 2026-11-25 [CONFIRMED] Ballistic missile attack on Kyiv hits shopping center and industrial buildings, seven injured
