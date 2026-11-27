@@ -2,11 +2,11 @@
  "schemaVersion": 1,
  "map": "ukraine",
  "meta": {
-  "lastUpdated": "2026-11-26T06:04:38-05:00",
-  "coverage": "2026-10-10 to 2026-11-25",
+  "lastUpdated": "2026-11-27T06:04:38-05:00",
+  "coverage": "2026-10-10 to 2026-11-27",
   "notes": [
-   "Refreshed Nov 26, 2026 (UTC, ~11:00) from Telegram channels kpszsu (alert posts only), GeneralStaffZSU and mod_russia, Kyiv Independent, Ukrinform and BBC articles, and the headline leads file (pulled Nov 26 ~00:35 UTC).",
-   "Not read this run: ISW assessment, X posts, Reuters/AP, Guardian, Air Force launch tally for the night of Nov 25-26 beyond the Kyiv Independent relay, Russian MoD wording on Savasleyka (none published).",
+   "Refreshed Nov 27, 2026 (UTC, ~11:30) from Telegram channels GeneralStaffZSU, mod_russia and kpszsu (alert posts only), Ukrinform and Kyiv Independent articles, and the headline leads file (pulled Nov 27 ~00:40 UTC).",
+   "Not read this run: ISW assessment, X posts (none found by search), Reuters/AP, the Air Force launch tally for the night of Nov 26-27 (not in the Telegram preview or found by search), Russian MoD wording on Marinovka (none published). The Marinovka airfield strike (General Staff, Nov 26) is not mapped because the place list has no match near the airfield.",
    "Coordinates are city-level or approximate (see coordPrecision); markers flagged 'oblast' are not geolocated.",
    "Casualty figures are as reported by the cited outlet at time of writing and may have been revised."
   ]
@@ -5886,6 +5886,220 @@
     }
    ],
    "read": "full"
+  },
+  {
+   "id": "kharkiv-1126",
+   "date": "2026-11-26",
+   "region": "north",
+   "oblast": "Kharkiv",
+   "front": "Kharkiv",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Russian drone attack on Kharkiv kills one, injures eight, hits aviation university",
+   "caption": "Kharkiv regional military administration head Oleh Syniehubov says one person was killed and eight were injured in a Russian attack on Kharkiv on Nov 26; four were hospitalized. Education Minister Andrii Butenko says a drone hit the main building of the National Aerospace University (Kharkiv Aviation Institute), starting fires on two floors and injuring four employees. No independent confirmation was read.",
+   "lat": 49.9818,
+   "lon": 36.2548,
+   "coordPrecision": "city",
+   "place": "Kharkiv",
+   "sources": [
+    {
+     "id": "ukrinform_kharkiv_1126",
+     "title": "Ukrinform: Injury toll from Russian attack on Kharkiv rises to eight, one killed (Nov 26)",
+     "url": "https://www.ukrinform.net/rubric-ato/4188924-injury-toll-from-russian-attack-on-kharkiv-rises-to-eight-one-killed.html"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "zaporizhzhia-1126",
+   "date": "2026-11-26",
+   "region": "south",
+   "oblast": "Zaporizhzhia",
+   "front": "Zaporizhzhia",
+   "type": "other",
+   "status": "ONE_PARTY",
+   "title": "Four police investigators killed in Russian strike on Zaporizhzhia",
+   "caption": "Zaporizhzhia regional police chief Artem Kysko says four investigators from the unit handling particularly serious crimes were killed in a Russian strike on the city: three died at the scene and their supervisor died after more than a day of treatment. He says regional police lost ten officers in November. No independent confirmation was read.",
+   "lat": 47.8517,
+   "lon": 35.1171,
+   "coordPrecision": "city",
+   "place": "Zaporizhzhya",
+   "sources": [
+    {
+     "id": "ukrinform_zap_police_1126",
+     "title": "Ukrinform: Russian strike kills four police investigators in Zaporizhzhia (Nov 26)",
+     "url": "https://www.ukrinform.net/rubric-ato/4188859-russian-strike-kills-four-police-investigators-in-zaporizhzhia.html"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "slavyansk-1126",
+   "date": "2026-11-26",
+   "region": "russia",
+   "oblast": "Krasnodar Krai, Russia",
+   "front": "Russia (deep strikes)",
+   "type": "deep-strike",
+   "status": "ONE_PARTY",
+   "title": "Ukraine's military intelligence says drones hit Slavyansk-on-Kuban refinery",
+   "caption": "Ukraine's Defense Intelligence (DIU) says its long-range drones hit production facilities, the tank farm and pipelines at the Slavyansk-on-Kuban refinery in Krasnodar Krai overnight on Nov 26, starting a fire. The refinery was struck before, in September. No Russian statement or independent confirmation was read.",
+   "lat": 45.2515,
+   "lon": 38.1213,
+   "coordPrecision": "city",
+   "place": "Slavyansk-na-Kubani",
+   "sources": [
+    {
+     "id": "ukrinform_slavyansk_1126",
+     "title": "Ukrinform: Ukraine hits Russian refinery in Krasnodar Krai, setting fire to key facilities (Nov 26)",
+     "url": "https://www.ukrinform.net/rubric-ato/4188986-ukraine-hits-russian-refinery-in-krasnodar-krai-setting-fire-to-key-facilities.html"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Ukraine's Defense Intelligence",
+     "says": "Drones hit production facilities, tank farm and pipelines; fire broke out.",
+     "source": "ukrinform_slavyansk_1126"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "subkhankulovo-1126",
+   "date": "2026-11-26",
+   "region": "russia",
+   "oblast": "Bashkortostan, Russia",
+   "front": "Russia (deep strikes)",
+   "type": "deep-strike",
+   "status": "ONE_PARTY",
+   "title": "Ukraine's General Staff claims hit on Transneft station in Bashkortostan",
+   "caption": "Ukraine's General Staff says it hit an oil tank and started a fire at the Subkhankulovo linear production and dispatching station (Transneft) in Bashkortostan. Local outlet Bashinform reported an air raid alert, and the head of Tuymazinsky district said drone debris fell in an industrial zone and sparked a fire. The Kyiv Independent could not independently verify the claim.",
+   "lat": 54.5574,
+   "lon": 53.8115,
+   "coordPrecision": "city",
+   "place": "Subkhankulovo",
+   "sources": [
+    {
+     "id": "ki_bashkortostan_1126",
+     "title": "Kyiv Independent: Ukraine strikes 2 Russian oil facilities, air field in Volgograd Oblast, General Staff confirms (Nov 26)",
+     "url": "https://kyivindependent.com/2-russian-oil-facilities-reportedly-on-fire-in-bashkortostan-and-samara-oblast/"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Ukraine's General Staff",
+     "says": "Hit on an oil tank and a fire at the Subkhankulovo station.",
+     "source": "ki_bashkortostan_1126"
+    },
+    {
+     "who": "Tuymazinsky district head (Russia)",
+     "says": "Drone debris fell in the industrial zone and sparked a fire.",
+     "source": "ki_bashkortostan_1126"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "letychiv-1126",
+   "date": "2026-11-26",
+   "region": "rear",
+   "oblast": "Khmelnytskyi",
+   "front": "Rear (West)",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Fire at enterprise in Khmelnytskyi district after Russian attack; Russia names Letychiv plant",
+   "caption": "Khmelnytskyi regional military administration head Serhii Tyurin says a Russian attack started a fire on the premises of an enterprise in Khmelnytskyi district; no casualties were reported. Russia's MoD says drones hit the 'Termoplast' plant in Letychiv, which it says produces strike drones. Ukraine did not name the plant. No independent confirmation was read.",
+   "lat": 49.3801,
+   "lon": 27.6189,
+   "coordPrecision": "approx",
+   "place": "Letychiv",
+   "sources": [
+    {
+     "id": "ukrinform_khmelnytskyi_1126",
+     "title": "Ukrinform: Russian forces strike factory in Khmelnytskyi region (Nov 26)",
+     "url": "https://www.ukrinform.net/rubric-ato/4189047-russian-forces-strike-factory-in-khmelnytskyi-region.html"
+    },
+    {
+     "id": "mod_strikes_1127",
+     "title": "Russian MoD (Telegram): overnight strikes on Ukrainian targets (Nov 27)",
+     "url": "https://t.me/mod_russia/69355"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Khmelnytskyi regional administration",
+     "says": "Fire at an enterprise in Khmelnytskyi district after a Russian attack; no casualties reported.",
+     "source": "ukrinform_khmelnytskyi_1126"
+    },
+    {
+     "who": "Russia's MoD",
+     "says": "Drones hit the 'Termoplast' plant in Letychiv, a producer of strike drones.",
+     "source": "mod_strikes_1127"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "sevastopol-1126",
+   "date": "2026-11-26",
+   "region": "crimea-sea",
+   "oblast": "Crimea (occupied)",
+   "front": "Crimea",
+   "type": "energy",
+   "status": "UNVERIFIED",
+   "title": "Large power outage hits occupied Crimea, Sevastopol briefly without electricity",
+   "caption": "Russian-installed provider Sevastopolenergo says an 'incident at power facilities outside the region' left Sevastopol temporarily without power and disrupted public transport in several cities on Nov 26. Electricity restrictions have applied across the peninsula since Nov 25 and authorities warned they could last up to 10 days. The cause is not independently established.",
+   "lat": 44.608,
+   "lon": 33.5213,
+   "coordPrecision": "approx",
+   "place": "Sevastopol",
+   "sources": [
+    {
+     "id": "ki_crimea_1126",
+     "title": "Kyiv Independent: Large-scale power outage hits Russian-occupied Crimea, disrupts transport (Nov 26)",
+     "url": "https://kyivindependent.com/large-scale-power-outage-hits-russian-occupied-crimea-disrupts-transport/"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "bila-tserkva-1127",
+   "date": "2026-11-27",
+   "region": "rear",
+   "oblast": "Kyiv",
+   "front": "Rear (Kyiv)",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Warehouse fire in Bila Tserkva district after Russian attack; Russia claims logistics center",
+   "caption": "Kyiv Regional Military Administration says a warehouse caught fire in the Bila Tserkva district after an enemy attack late on Nov 26; preliminary reports say no deaths or injuries. Russia's MoD says it hit a logistics center in Bila Tserkva that stored components for solid rocket fuel. No independent confirmation was read.",
+   "lat": 49.7994,
+   "lon": 30.1165,
+   "coordPrecision": "approx",
+   "place": "Bila Tserkva",
+   "sources": [
+    {
+     "id": "ukrinform_bilatserkva_1127",
+     "title": "Ukrinform: Enemy attack sparks warehouse fire in Bila Tserkva district (Nov 27)",
+     "url": "https://www.ukrinform.net/rubric-ato/4189074-enemy-attack-sparks-warehouse-fire-in-bila-tserkva-district.html"
+    },
+    {
+     "id": "mod_strikes_1127",
+     "title": "Russian MoD (Telegram): overnight strikes on Ukrainian targets (Nov 27)",
+     "url": "https://t.me/mod_russia/69355"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Kyiv Regional Military Administration",
+     "says": "Warehouse fire in Bila Tserkva district after an enemy attack; preliminary: no casualties.",
+     "source": "ukrinform_bilatserkva_1127"
+    },
+    {
+     "who": "Russia's MoD",
+     "says": "Hit a logistics center in Bila Tserkva storing components for solid rocket fuel.",
+     "source": "mod_strikes_1127"
+    }
+   ],
+   "read": "full"
   }
  ],
  "stats": [
@@ -7015,6 +7229,36 @@
    "russia": {
     "value": "MoD claims 343 fixed-wing drones destroyed overnight over Bryansk, Belgorod, Kursk, Oryol, Voronezh, Tula, Saratov, Samara, Rostov and Ulyanovsk regions, the Moscow region, Stavropol and Krasnodar krais, Tatarstan, Bashkortostan, Crimea, and the Azov and Black seas",
     "source": "mod_pvo_1126"
+   },
+   "independent": []
+  },
+  {
+   "label": "Ukrainian drones shot down over Russia (night of Nov 26-27)",
+   "category": "shootdowns",
+   "asOf": "2026-11-27",
+   "status": "ONE_PARTY",
+   "ukraine": {
+    "value": "No count published",
+    "source": null
+   },
+   "russia": {
+    "value": "MoD claims 318 fixed-wing drones destroyed overnight over Bryansk, Belgorod, Kaluga, Kursk, Leningrad, Novgorod, Oryol, Rostov, Smolensk and Tula regions and Crimea",
+    "source": "mod_pvo_1127"
+   },
+   "independent": []
+  },
+  {
+   "label": "Russian drones and missiles launched at Ukraine (night of Nov 26-27)",
+   "category": "shootdowns",
+   "asOf": "2026-11-27",
+   "status": "ONE_PARTY",
+   "ukraine": {
+    "value": "Air Force launch tally not read this run",
+    "source": null
+   },
+   "russia": {
+    "value": "No launch count published; MoD says drones hit the 'Termoplast' plant in Letychiv, a plant in Zaporizhzhia, 330 kV substations in Kryvyi Rih and Zhytomyr, a logistics center in Bila Tserkva, four locomotives and a dry-cargo ship south-west of Odesa",
+    "source": "mod_strikes_1127"
    },
    "independent": []
   }
@@ -8799,6 +9043,51 @@
    "id": "bbc_savasleyka_1125",
    "title": "BBC: Five Russian military jets hit in airfield strike, says Ukraine (Nov 25)",
    "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo"
+  },
+  {
+   "id": "mod_pvo_1127",
+   "title": "Russian MoD (Telegram): air defence claims for the night (Nov 27)",
+   "url": "https://t.me/mod_russia/69356"
+  },
+  {
+   "id": "mod_strikes_1127",
+   "title": "Russian MoD (Telegram): overnight strikes on Ukrainian targets (Nov 27)",
+   "url": "https://t.me/mod_russia/69355"
+  },
+  {
+   "id": "ukrinform_kharkiv_1126",
+   "title": "Ukrinform: Injury toll from Russian attack on Kharkiv rises to eight, one killed (Nov 26)",
+   "url": "https://www.ukrinform.net/rubric-ato/4188924-injury-toll-from-russian-attack-on-kharkiv-rises-to-eight-one-killed.html"
+  },
+  {
+   "id": "ukrinform_zap_police_1126",
+   "title": "Ukrinform: Russian strike kills four police investigators in Zaporizhzhia (Nov 26)",
+   "url": "https://www.ukrinform.net/rubric-ato/4188859-russian-strike-kills-four-police-investigators-in-zaporizhzhia.html"
+  },
+  {
+   "id": "ukrinform_slavyansk_1126",
+   "title": "Ukrinform: Ukraine hits Russian refinery in Krasnodar Krai, setting fire to key facilities (Nov 26)",
+   "url": "https://www.ukrinform.net/rubric-ato/4188986-ukraine-hits-russian-refinery-in-krasnodar-krai-setting-fire-to-key-facilities.html"
+  },
+  {
+   "id": "ki_bashkortostan_1126",
+   "title": "Kyiv Independent: Ukraine strikes 2 Russian oil facilities, air field in Volgograd Oblast, General Staff confirms (Nov 26)",
+   "url": "https://kyivindependent.com/2-russian-oil-facilities-reportedly-on-fire-in-bashkortostan-and-samara-oblast/"
+  },
+  {
+   "id": "ukrinform_khmelnytskyi_1126",
+   "title": "Ukrinform: Russian forces strike factory in Khmelnytskyi region (Nov 26)",
+   "url": "https://www.ukrinform.net/rubric-ato/4189047-russian-forces-strike-factory-in-khmelnytskyi-region.html"
+  },
+  {
+   "id": "ukrinform_bilatserkva_1127",
+   "title": "Ukrinform: Enemy attack sparks warehouse fire in Bila Tserkva district (Nov 27)",
+   "url": "https://www.ukrinform.net/rubric-ato/4189074-enemy-attack-sparks-warehouse-fire-in-bila-tserkva-district.html"
+  },
+  {
+   "id": "ki_crimea_1126",
+   "title": "Kyiv Independent: Large-scale power outage hits Russian-occupied Crimea, disrupts transport (Nov 26)",
+   "url": "https://kyivindependent.com/large-scale-power-outage-hits-russian-occupied-crimea-disrupts-transport/"
   }
  ]
 }

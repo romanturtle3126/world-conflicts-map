@@ -2,6 +2,19 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-27 06:04 Toronto — Ukraine — OK
+- Added 7 event(s):
+  - `kharkiv-1126` 2026-11-26 [ONE_PARTY] Russian drone attack on Kharkiv kills one, injures eight, hits aviation university
+  - `zaporizhzhia-1126` 2026-11-26 [ONE_PARTY] Four police investigators killed in Russian strike on Zaporizhzhia
+  - `slavyansk-1126` 2026-11-26 [ONE_PARTY] Ukraine's military intelligence says drones hit Slavyansk-on-Kuban refinery
+  - `subkhankulovo-1126` 2026-11-26 [ONE_PARTY] Ukraine's General Staff claims hit on Transneft station in Bashkortostan
+  - `letychiv-1126` 2026-11-26 [ONE_PARTY] Fire at enterprise in Khmelnytskyi district after Russian attack; Russia names Letychiv plant
+  - `bila-tserkva-1127` 2026-11-27 [ONE_PARTY] Warehouse fire in Bila Tserkva district after Russian attack; Russia claims logistics center
+  - `sevastopol-1126` 2026-11-26 [UNVERIFIED] Large power outage hits occupied Crimea, Sevastopol briefly without electricity
+- Stats: 0 updated, 2 added
+- 9 new source link(s)
+- Totals: 214 events, 68 stats, 365 sources; coverage 2026-10-10 to 2026-11-27
+
 ## 2026-11-26 06:42 Toronto — Middle East — OK
 - Added 8 event(s):
   - `deir-al-balah-1126` 2026-11-26 [CONFIRMED] Israeli strike in Deir al-Balah kills Gaza education official Khaled Abu Nada and his wife
