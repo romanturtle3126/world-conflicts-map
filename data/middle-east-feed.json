@@ -1,12 +1,12 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-27T00:43:47+00:00",
+  "lastUpdated": "2026-11-27T11:05:15+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
     "source": "Al Jazeera",
     "ok": true,
-    "count": 8
+    "count": 6
    },
    {
     "source": "BBC News Middle East",
@@ -25,8 +25,8 @@
    },
    {
     "source": "France 24 Middle East",
-    "ok": true,
-    "count": 25
+    "ok": false,
+    "error": "HTTP 403"
    },
    {
     "source": "Al-Monitor",
@@ -46,7 +46,7 @@
    {
     "source": "IDF (Telegram)",
     "ok": true,
-    "count": 18
+    "count": 16
    },
    {
     "source": "State of Israel / PMO (Telegram)",
@@ -71,7 +71,7 @@
    {
     "source": "Tasnim English (Telegram)",
     "ok": true,
-    "count": 10
+    "count": 8
    },
    {
     "source": "IRNA English (Telegram)",
@@ -82,16 +82,319 @@
  },
  "items": [
   {
-   "headline": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
-   "date": "2026-11-27T00:00:00.000Z"
+   "headline": "Joint IDF and ISA announcement: Over the past week in the Gaza Strip: IDF and ISA eliminated several terrorists, including three terrorists who infiltrated Israel during the October 7th Massacre Earlier this week (Tuesday), the IDF and ISA struck in the Khan Younis area and…",
+   "source": "IDF (Telegram)",
+   "official": "Israel (IDF)",
+   "link": "https://t.me/idfofficial/19535",
+   "date": "2026-11-27T10:59:44.000Z"
   },
   {
-   "headline": "Georgian police clash with Turkiye’s Besiktas fans over Palestinian flag",
+   "headline": "Iran’s beach soccer team advanced to the final after a heavy victory over Lebanon ⚽️ Final score: Iran 10 _ Lebanon 2 ⚽️ Iran’s goal scorers: Davoud Shakouri, Mohammad Ali Mokhtari, Mohammad Masoumi Zadeh (3 goals), Seyed Ali Nazim, Ali Mirshakari, Mohed Mohammadpour (2…",
+   "source": "Tasnim English (Telegram)",
+   "official": "Iran (IRGC-affiliated Tasnim)",
+   "link": "https://t.me/Tasnimnews_en/49746",
+   "date": "2026-11-27T10:59:03.000Z"
+  },
+  {
+   "headline": "Reza Amirkhani: A dedicated writer among enduring names Efsin Ala, poet and writer, in a conversation with Tasnim News: 🔹Reza was a truly dedicated writer who had mastery over the nuances of the Persian language and literature. In other words, he possessed extraordinary…",
+   "source": "Tasnim English (Telegram)",
+   "official": "Iran (IRGC-affiliated Tasnim)",
+   "link": "https://t.me/Tasnimnews_en/49745",
+   "date": "2026-11-27T10:55:00.000Z"
+  },
+  {
+   "headline": "Trump backs Iraqi prime minister's attempts to bring all arms under state control",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-backs-iraqi-prime-ministers-attempts-bring-all-arms-under-state",
+   "date": "2026-11-27T10:51:43.000Z"
+  },
+  {
+   "headline": "In Israel, calls for 'unity' are a code for Jewish tribal supremacy",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/opinion/israel-calls-unity-code-jewish-tribal-supremacy",
+   "date": "2026-11-27T10:49:49.000Z"
+  },
+  {
+   "headline": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
    "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss",
-   "date": "2026-11-26T23:37:17.000Z"
+   "link": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss",
+   "date": "2026-11-27T10:31:20.000Z"
+  },
+  {
+   "headline": "Under-attack Palestinians find unlikely ally in Israeli retired general",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/under-attack-palestinians-find-unlikely-ally-israeli-retired-general",
+   "date": "2026-11-27T10:30:31.000Z"
+  },
+  {
+   "headline": "🎙 Iranian navy commander says maritime conflict has extended to oceans 📌 Tehran, IRNA – Iranian Navy Commander Rear Admiral Shahram Irani says the conflict at sea has expanded into the oceans, noting that Iranian forces have prevented adversaries from entering the country’s…",
+   "source": "IRNA English (Telegram)",
+   "official": "Iran (state agency IRNA)",
+   "link": "https://t.me/Irna_en/42669",
+   "date": "2026-11-27T10:29:16.000Z"
+  },
+  {
+   "headline": "💬 Iranian Navy ready to deliver decisive response to any threat: Top commander 📌 Tehran, IRNA – Chief of Staff of the Iranian Armed Forces Major General Ali Abdollahi says the Army’s Navy is fully prepared to deliver a decisive, effective and deterrent response to any enemy…",
+   "source": "IRNA English (Telegram)",
+   "official": "Iran (state agency IRNA)",
+   "link": "https://t.me/Irna_en/42668",
+   "date": "2026-11-27T10:22:15.000Z"
+  },
+  {
+   "headline": "IDF: The IDF reveals: The Hezbollah terrorist organization is exploiting civilian fishing boats to gather intelligence on IDF troops Information obtained from the interrogation of military operatives active in the maritime border area reveals that the Hezbollah terrorist…",
+   "source": "IDF (Telegram)",
+   "official": "Israel (IDF)",
+   "link": "https://t.me/idfofficial/19533",
+   "date": "2026-11-27T10:16:55.000Z"
+  },
+  {
+   "headline": "‘I cannot go to work’: Iranians contend with pollution as well as US war",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/economy/2026/11/27/i-cannot-go-to-work-iranians-contend-with-pollution-as-well-as-us-war?traffic_source=rss",
+   "date": "2026-11-27T10:15:44.000Z"
+  },
+  {
+   "headline": "Commemoration Ceremony for Ayatollah Vahid Khurasani 🔹 A memorial service and commemoration for the esteemed Grand Ayatollah Hussein Vahid Khurasani was held this morning (Friday, 6 Azar) at the Qolek Mosque in Tehran. 📷 Photographer: “Mohammadhossein Mohedi-Nejad” 📸 View…",
+   "source": "Tasnim English (Telegram)",
+   "official": "Iran (IRGC-affiliated Tasnim)",
+   "link": "https://t.me/Tasnimnews_en/49743",
+   "date": "2026-11-27T10:08:05.000Z"
+  },
+  {
+   "headline": "🖥 Iran, Turkey agree to expand security cooperation at Ankara meeting 📌 Ankara, IRNA – Iran and Turkey have agreed to strengthen operational cooperation and information sharing on border security, counterterrorism and efforts to combat drug and arms smuggling during their…",
+   "source": "IRNA English (Telegram)",
+   "official": "Iran (state agency IRNA)",
+   "link": "https://t.me/Irna_en/42667",
+   "date": "2026-11-27T10:00:14.000Z"
+  },
+  {
+   "headline": "UN warns famine risks rising as hunger hotspots increase",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/un-warns-famine-risks-rising-hunger-hotspots-increase",
+   "date": "2026-11-27T09:46:28.000Z"
+  },
+  {
+   "headline": "The secret behind Reza Amirkhani’s special popularity Gol-Ali Babaei, a writer on the Iran-Iraq War, in an interview with Tasnim: 🔹Apart from Reza Amirkhani’s remarkable works, what was equally important to me—and what made people admire and be fond of him—was his courtesy…",
+   "source": "Tasnim English (Telegram)",
+   "official": "Iran (IRGC-affiliated Tasnim)",
+   "link": "https://t.me/Tasnimnews_en/49733",
+   "date": "2026-11-27T09:43:27.000Z"
+  },
+  {
+   "headline": "Democrats want to end Trump’s Iran war. But how different are they?",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/27/democrats-want-to-end-trumps-iran-war-but-how-different-are-they?traffic_source=rss",
+   "date": "2026-11-27T09:43:01.000Z"
+  },
+  {
+   "headline": "Hamedi: We won’t allow foreign exchange pressures to affect people’s livelihoods ▪️In a note addressed to the dear people of Iran, Hamedi wrote: Central Bank Governor: 🔹We’re aware of the heavy burden of inflation and instability on your lives. No economic justification or…",
+   "source": "Tasnim English (Telegram)",
+   "official": "Iran (IRGC-affiliated Tasnim)",
+   "link": "https://t.me/Tasnimnews_en/49732",
+   "date": "2026-11-27T09:42:58.000Z"
+  },
+  {
+   "headline": "Iranian Navy Admiral: We will definitely take revenge 🔹Commander of the Iranian Navy: We will give the US a response for patricide, fratricide, and infanticide; we will definitely take revenge. @TasnimNews",
+   "source": "Tasnim English (Telegram)",
+   "official": "Iran (IRGC-affiliated Tasnim)",
+   "link": "https://t.me/Tasnimnews_en/49731",
+   "date": "2026-11-27T09:29:04.000Z"
+  },
+  {
+   "headline": "📡 IRGC says warning fire forced US F-16 away from Iran’s airspace 📌 Tehran, IRNA – The Islamic Revolution Guards Corps (IRGC) has announced that a US F-16 fighter jet changed course and moved away from Iranian airspace after warning fire from an air defense system operated…",
+   "source": "IRNA English (Telegram)",
+   "official": "Iran (state agency IRNA)",
+   "link": "https://t.me/Irna_en/42666",
+   "date": "2026-11-27T09:23:11.000Z"
+  },
+  {
+   "headline": "Joint IDF and ISA announcement: IDF soldiers apprehended a terrorist cell planning to carry out a terror attack against Israeli civilians Yesterday (Thursday), IDF soldiers apprehended three terrorists in the area of Kobar. The apprehension was carried out following a…",
+   "source": "IDF (Telegram)",
+   "official": "Israel (IDF)",
+   "link": "https://t.me/idfofficial/19532",
+   "date": "2026-11-27T09:14:08.000Z"
+  },
+  {
+   "headline": "Zionist military forces penetrate outskirts of Syria’s Quneitra 🔹Syrian media reported that four military vehicles belonging to the Israeli regime’s army advanced along the “Ofania-Hurriya” road in the outskirts of Quneitra. They set up a temporary checkpoint, stopping and…",
+   "source": "Tasnim English (Telegram)",
+   "official": "Iran (IRGC-affiliated Tasnim)",
+   "link": "https://t.me/Tasnimnews_en/49729",
+   "date": "2026-11-27T09:06:19.000Z"
+  },
+  {
+   "headline": "General Abdullahi: The Army Navy will deliver a resolute, effective, and deterrent response to any threat or aggression by the enemy Chief of Staff of the Armed Forces and Commander of the Khatam al-Anbia Central Headquarters: 🔹The Persian Gulf and Strait of Hormuz have…",
+   "source": "Tasnim English (Telegram)",
+   "official": "Iran (IRGC-affiliated Tasnim)",
+   "link": "https://t.me/Tasnimnews_en/49728",
+   "date": "2026-11-27T09:02:31.000Z"
+  },
+  {
+   "headline": "🖥 Army ground force ready to defend Iran’s borders: Deputy cmdr. 📌 Tehran, IRNA – Brigadier General Sirous Amanollahi, deputy commander of the Iranian Army’s Ground Force for operations, says the force is at its highest level of combat readiness and had prepared plans to…",
+   "source": "IRNA English (Telegram)",
+   "official": "Iran (state agency IRNA)",
+   "link": "https://t.me/Irna_en/42665",
+   "date": "2026-11-27T08:40:08.000Z"
+  },
+  {
+   "headline": "‘Will I get taller?’: Gaza’s children suffer stunting amid war, blockade",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/features/2026/11/27/will-i-get-taller-gazas-children-suffer-stunting-amid-war-blockade?traffic_source=rss",
+   "date": "2026-11-27T08:37:52.000Z"
+  },
+  {
+   "headline": "IDF: The IDF eliminated operatives in Hamas’ military wing, including a terrorist who infiltrated Israeli territory during the October 7th Massacre and took part in the hostage handover “ceremony” Last week (Friday), the IDF struck in the central Gaza Strip and eliminated…",
+   "source": "IDF (Telegram)",
+   "official": "Israel (IDF)",
+   "link": "https://t.me/idfofficial/19531",
+   "date": "2026-11-27T08:17:59.000Z"
+  },
+  {
+   "headline": "Gaza’s children caught in the grip of a meningitis outbreak",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/news/gazas-children-caught-grip-meningitis-outbreak",
+   "date": "2026-11-27T08:11:31.000Z"
+  },
+  {
+   "headline": "Morning update",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-682",
+   "date": "2026-11-27T08:07:38.000Z"
+  },
+  {
+   "headline": "Watch: Israeli attack on residential building in Gaza City wounds children",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-israeli-attack-residential-building-gaza-city-wounds-children",
+   "date": "2026-11-27T08:03:40.000Z"
+  },
+  {
+   "headline": "📄 Iran’s security chief: Basij force is a major national asset 📌 Tehran, IRNA – Secretary of the Supreme National Security Council (SNSC) Major General Mohsen Rezaei has described Iran’s Basij force as a major national asset, saying its roots in the country’s history,…",
+   "source": "IRNA English (Telegram)",
+   "official": "Iran (state agency IRNA)",
+   "link": "https://t.me/Irna_en/42664",
+   "date": "2026-11-27T07:57:05.000Z"
+  },
+  {
+   "headline": "IRGC says it forced US fighter jet to retreat from Hengam Island",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-forced-us-fighter-jet-retreat-hengam-island",
+   "date": "2026-11-27T07:11:46.000Z"
+  },
+  {
+   "headline": "Western sanctions on Israeli settlers serve to shield the Israeli state",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/opinions/2026/11/27/western-sanctions-on-israeli-settlers-serve-to-shield-the-israeli-state?traffic_source=rss",
+   "date": "2026-11-27T07:09:53.000Z"
+  },
+  {
+   "headline": "🔊 Iran neither forgives nor forgets Minab massacre 📲 @Irna_en",
+   "source": "IRNA English (Telegram)",
+   "official": "Iran (state agency IRNA)",
+   "link": "https://t.me/Irna_en/42663",
+   "date": "2026-11-27T07:02:01.000Z"
+  },
+  {
+   "headline": "Exclusive-US pushed Venezuela, Iraq to consider leaving OPEC, sources say",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/exclusive-us-pushed-venezuela-iraq-consider-leaving-opec-sources-say",
+   "date": "2026-11-27T06:46:27.000Z"
+  },
+  {
+   "headline": "💬 Iran’s Italy embassy warns against efforts to draw Europe into regional crisis following Kuwait attack 📌 Tehran, IRNA – Iran’s embassy in Rome has rejected allegations that Iran was responsible for a drone attack on a military facility in Kuwait that killed two Italian…",
+   "source": "IRNA English (Telegram)",
+   "official": "Iran (state agency IRNA)",
+   "link": "https://t.me/Irna_en/42662",
+   "date": "2026-11-27T06:39:56.000Z"
+  },
+  {
+   "headline": "Costa Rica bars entry to UN rapporteur over 'links to terrorist acts'",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/costa-rica-bars-entry-un-rapporteur-over-links-terrorist-acts",
+   "date": "2026-11-27T06:30:22.000Z"
+  },
+  {
+   "headline": "Trump argues US does not 'need the oil' from Middle East, says Washington 'protects' Israel and region",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-argues-us-does-not-need-oil-middle-east-says-washington-protects",
+   "date": "2026-11-27T06:25:35.000Z"
+  },
+  {
+   "headline": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
+   "source": "BBC News Middle East",
+   "link": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-27T06:04:51.000Z"
+  },
+  {
+   "headline": "Iran warns on Gulf military presence as South Korea readies expanded naval role",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/iran-warns-gulf-military-presence-south-korea-readies-expanded-naval-role",
+   "date": "2026-11-27T05:46:29.000Z"
+  },
+  {
+   "headline": "Erdogan completes Turkey's ratification of Mecca defence pact",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/erdogan-completes-turkeys-ratification-mecca-defence-pact",
+   "date": "2026-11-27T05:46:29.000Z"
+  },
+  {
+   "headline": "📄 Iran ready for joint probe into Kuwait attack: Araghchi 📌 Tehran, IRNA – Iranian Foreign Minister Abbas Araghchi has firmly rejected allegations that Iran was involved in a drone attack in Kuwait and expressed Tehran’s readiness to conduct a joint investigation with…",
+   "source": "IRNA English (Telegram)",
+   "official": "Iran (state agency IRNA)",
+   "link": "https://t.me/Irna_en/42661",
+   "date": "2026-11-27T05:44:50.000Z"
+  },
+  {
+   "headline": "Trump says victory over Iran 'at hand', stresses that Tehran will 'never have a nuclear weapon'",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-says-victory-over-iran-hand-stress-tehran-will-never-have-nuclear",
+   "date": "2026-11-27T05:44:48.000Z"
+  },
+  {
+   "headline": "Israel uses south Lebanon Christian villages to try to divide and conquer",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/features/2026/11/27/israel-uses-christian-villages-in-southern-lebanon-to-divide-and-conquer?traffic_source=rss",
+   "date": "2026-11-27T05:27:18.000Z"
+  },
+  {
+   "headline": "University of Michigan faculty vote in support of pro-Palestine students facing charges",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/university-michigan-faculty-vote-support-pro-palestine-students-facing",
+   "date": "2026-11-27T04:59:27.000Z"
+  },
+  {
+   "headline": "Israeli military 'dependent on Amazon and Google' for its war on Gaza, former employees says",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-dependent-amazon-and-google-its-war-gaza",
+   "date": "2026-11-27T03:50:52.000Z"
+  },
+  {
+   "headline": "South Korea assures Iran that it has no plans of participating in the war",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/south-korea-assures-iran-it-has-no-plans-participating-war",
+   "date": "2026-11-27T03:48:36.000Z"
+  },
+  {
+   "headline": "Yemen war: How do the rival alliances and armed factions stack up?",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-war-how-do-rival-alliances-and-armed-factions-stack",
+   "date": "2026-11-27T03:06:18.000Z"
+  },
+  {
+   "headline": "Several countries slam suspected Iranian attack on Kuwait",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/several-countries-slam-suspected-iranian-attack-kuwait",
+   "date": "2026-11-27T02:26:09.000Z"
+  },
+  {
+   "headline": "Watch: Israeli forces demolish Palestinian livestock farming community without prior notice",
+   "source": "Middle East Eye",
+   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-israeli-forces-demolish-palestinian-livestock-farming-community",
+   "date": "2026-11-27T01:08:18.000Z"
+  },
+  {
+   "headline": "IAEA working with Russia, Ukraine on ceasefire to repair power link at Zaporizhzhia nuclear plant",
+   "source": "Al-Monitor",
+   "link": "https://www.al-monitor.com/originals/2026/11/iaea-working-russia-ukraine-ceasefire-repair-power-link-zaporizhzhia-nuclear",
+   "date": "2026-11-27T00:46:27.000Z"
   },
   {
    "headline": "Downing of a hostile drone in Yemeni skies 🔹 Yemeni local media report that a hostile drone was shot down in the skies over Al-Jawf province. @TasnimNews",
@@ -127,12 +430,6 @@
    "date": "2026-11-26T23:07:50.000Z"
   },
   {
-   "headline": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
-   "date": "2026-11-26T23:07:36.000Z"
-  },
-  {
    "headline": "Saudi Arabia, Turkey sign two defence cooperation agreements",
    "source": "Middle East Eye",
    "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-turkey-sign-two-defence-cooperation-agreements",
@@ -152,7 +449,7 @@
    "date": "2026-11-26T22:30:24.000Z"
   },
   {
-   "headline": "Majority of University of Michigan faculty vote in support of pro-Palestine students facing charges",
+   "headline": "University of Michigan faculty vote in support of pro-Palestine students facing charges",
    "source": "Middle East Eye",
    "link": "https://www.middleeasteye.net/news/majority-university-michigan-faculty-vote-support-pro-palestine-students-facing",
    "date": "2026-11-26T22:28:52.000Z"
@@ -177,12 +474,6 @@
    "date": "2026-11-26T21:54:30.000Z"
   },
   {
-   "headline": "Settlers smash foundations of Palestinian family's homes in West Bank",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/settlers-smash-foundations-palestinian-familys-homes-west-bank",
-   "date": "2026-11-26T21:49:02.000Z"
-  },
-  {
    "headline": "Satellite images of a fire at Saudi Arabia’s largest refinery 🔹 Satellite images of Saudi Arabia’s Ras Tanura Refinery—one of the world’s largest oil facilities with a daily refining capacity of 550,000 barrels—show an incident occurring there, with thick black smoke…",
    "source": "Tasnim English (Telegram)",
    "official": "Iran (IRGC-affiliated Tasnim)",
@@ -197,34 +488,10 @@
    "date": "2026-11-26T21:43:09.000Z"
   },
   {
-   "headline": "Georgian Police pepper-spray pro-Palestine Besiktas fans during match against Israeli club",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/georgian-police-pepper-spray-pro-palestine-besiktas-fans-during-match",
-   "date": "2026-11-26T21:18:55.000Z"
-  },
-  {
-   "headline": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
-   "date": "2026-11-26T21:08:44.000Z"
-  },
-  {
-   "headline": "American Doctor: Why this film isn’t what you think it’s about",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/video/american-doctor-why-film-isnt-what-you-think-its-about",
-   "date": "2026-11-26T20:41:33.000Z"
-  },
-  {
-   "headline": "Hamas weighs response after Israel kills 10 people in Gaza",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/hamas-weighs-response-after-israel-kills-10-people-in-gaza",
-   "date": "2026-11-26T20:35:23.000Z"
-  },
-  {
-   "headline": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/news/2026/11/26/attack-on-saudi-aramcos-jazan-refinery-kills-worker-disrupts-operations?traffic_source=rss",
-   "date": "2026-11-26T20:34:34.000Z"
+   "headline": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+   "source": "BBC News Middle East",
+   "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T21:17:53.000Z"
   },
   {
    "headline": "Saudi regime attacks a residential house in Sanaa Al-Masirah News: 🔹 Saudi warplanes targeted a civilian’s house in the “Azlat Al-Hajla” area, located in the “Al-Haymah Al-Kharijiyah” district to the west of Sanaa. Reports indicate that civilians are trapped under the…",
@@ -232,18 +499,6 @@
    "official": "Iran (IRGC-affiliated Tasnim)",
    "link": "https://t.me/Tasnimnews_en/49675",
    "date": "2026-11-26T20:27:25.000Z"
-  },
-  {
-   "headline": "Socialist weather and dogs barking in Hebrew: America's Thanksgiving culture wars",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/trending/socialist-weather-and-dogs%20barking-hebrew-americas-thanksgiving-culture-wars",
-   "date": "2026-11-26T20:21:44.000Z"
-  },
-  {
-   "headline": "Gaza’s health ministry says 19 Palestinians killed by Israeli attacks in 48 hours",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gazas-health-ministry-says-19-palestinians-killed-israeli-attacks-48",
-   "date": "2026-11-26T20:20:20.000Z"
   },
   {
    "headline": "🎥 Martyr Leader of the Revolution: Whatever conspiracies the US hatched against the Iranian people have backfired on itself. @TasnimNews",
@@ -258,12 +513,6 @@
    "official": "Israel (government)",
    "link": "https://t.me/StateofIsraelOfficial/6379",
    "date": "2026-11-26T19:46:31.000Z"
-  },
-  {
-   "headline": "Opinion: Why solidarity with Gaza failed to stop the genocide",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/opinion-why-solidarity-gaza-failed-stop-genocide",
-   "date": "2026-11-26T19:44:32.000Z"
   },
   {
    "headline": "Israeli airstrikes and artillery fire on various areas in southern Lebanon 🔹Lebanese media reported that Israeli warplanes targeted the highlands surrounding “Mishgharah”, “Al-Jbour” and “Tumat Niha” with airstrikes. 🔹According to the report, Israeli occupation forces’…",
@@ -287,18 +536,6 @@
    "date": "2026-11-26T19:26:49.000Z"
   },
   {
-   "headline": "Saudi Arabia says operations at refinery in Jazan halted after attack",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-arabia-says-operations-refinery-jazan-halted-after-attack",
-   "date": "2026-11-26T19:21:47.000Z"
-  },
-  {
-   "headline": "Why are winter rains forcing Palestinians in Gaza to flee again?",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
-   "date": "2026-11-26T19:19:12.000Z"
-  },
-  {
    "headline": "Commander-in-Chief of the Islamic Revolutionary Guards Corps expresses condolences over the passing of the mother of martyr Ali Akbar Shahmoradi Major General Ahmad Vahidi: 🔹I extend my condolences to His Eminence Ayatollah Seyyed Mojtaba Hosseini Khamenei, the respected…",
    "source": "Tasnim English (Telegram)",
    "official": "Iran (IRGC-affiliated Tasnim)",
@@ -318,18 +555,6 @@
    "official": "Iran (IRGC-affiliated Tasnim)",
    "link": "https://t.me/Tasnimnews_en/49664",
    "date": "2026-11-26T18:32:25.000Z"
-  },
-  {
-   "headline": "Kushner explains the ‘good thing’ about Gaza’s destruction",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss",
-   "date": "2026-11-26T18:30:36.000Z"
-  },
-  {
-   "headline": "Araghchi says Iran not behind drone attack that killed two in Kuwait",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/araghchi-says-iran-not-behind-drone-attack-killed-two-kuwait",
-   "date": "2026-11-26T18:15:56.000Z"
   },
   {
    "headline": "The Leader of the Revolution views Basij as the origin of remarkable progress and development 🔹Today’s message from the esteemed Leader of the Islamic Revolution indicates that in this new phase, the Basij is tasked with uniting all elements of this popular force and…",
@@ -380,28 +605,10 @@
    "date": "2026-11-26T17:40:53.000Z"
   },
   {
-   "headline": "Iraq closes two border crossings in Kurdistan region with Syria and Iran",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iraq-closes-two-border-crossings-kurdistan-region-syria-and-iran",
-   "date": "2026-11-26T17:36:31.000Z"
-  },
-  {
-   "headline": "Syrian children continue learning amid the ruins of war in Idlib",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib?traffic_source=rss",
-   "date": "2026-11-26T17:32:21.000Z"
-  },
-  {
    "headline": "Russell plays it straight in Verstappen feud, focuses on racing",
    "source": "Al-Monitor",
    "link": "https://www.al-monitor.com/originals/2026/11/russell-plays-it-straight-verstappen-feud-focuses-racing",
    "date": "2026-11-26T17:30:28.000Z"
-  },
-  {
-   "headline": "UAE's Lana Nusseibeh says she doesn't work for the UAE",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uaes-lana-nusseibeh-says-she-doesnt-work-uae",
-   "date": "2026-11-26T17:29:11.000Z"
   },
   {
    "headline": "🖥 Araghchi to Barrot: Before lecturing Iran, ensure Iranians’ freedom of expression in France 📌 Tehran, IRNA — Foreign Minister Abbas Araghchi has criticized France’s top diplomat over his post on X concerning the rights and freedom of expression of Iranians, saying…",
@@ -437,22 +644,10 @@
    "date": "2026-11-26T16:46:15.000Z"
   },
   {
-   "headline": "Iran denies responsibility for attack on Kuwait that killed two Italians",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-denies-responsibility-attack-kuwait-killed-two-italians",
-   "date": "2026-11-26T16:40:26.000Z"
-  },
-  {
    "headline": "Pro-monarchist Iran activists disrupt Paris event: videos",
    "source": "Al-Monitor",
    "link": "https://www.al-monitor.com/originals/2026/11/pro-monarchist-iran-activists-disrupt-paris-event-videos",
    "date": "2026-11-26T16:30:26.000Z"
-  },
-  {
-   "headline": "UK Jewish group files challenge against Hamas terror designation",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/uk-jewish-group-files-challenge-against-hamas-terror-designation",
-   "date": "2026-11-26T16:23:32.000Z"
   },
   {
    "headline": "MFA ISRAEL: For decades, Hamas has been destroying Gaza’s environment: ripping up water pipes to build rockets, polluting the sea with sewage and destroying land to dig terror tunnels. We are yet to see outrage from those who claim to care about the environment?",
@@ -460,12 +655,6 @@
    "official": "Israel (government)",
    "link": "https://t.me/StateofIsraelOfficial/6378",
    "date": "2026-11-26T16:19:24.000Z"
-  },
-  {
-   "headline": "Turkey and Iraq close in on oil-for-construction deal to fund $16bn Development Road",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/news/turkey-and-iraq-close-oil-construction-deal-fund-16bn-development-road",
-   "date": "2026-11-26T15:56:58.000Z"
   },
   {
    "headline": "Iraqi Kurds protest against Baghdad leader's moves to assert central control",
@@ -478,12 +667,6 @@
    "source": "Al-Monitor",
    "link": "https://www.al-monitor.com/originals/2026/11/co-leader-germanys-afd-criticises-planned-talks-russian-envoy",
    "date": "2026-11-26T15:46:45.000Z"
-  },
-  {
-   "headline": "Gaza hospitals receive bodies of 19 Palestinians in last 48 hours",
-   "source": "Middle East Eye",
-   "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gaza-hospitals-receive-bodies-19-palestinians-last-48-hours",
-   "date": "2026-11-26T15:39:56.000Z"
   },
   {
    "headline": "From Israel to our American friends, Happy Thanksgiving! 🇮🇱🇺🇸 Wishing you and your loved ones a holiday filled with gratitude, happiness and plenty of good food! 🧡🦃",
@@ -519,18 +702,6 @@
    "date": "2026-11-26T14:11:10.000Z"
   },
   {
-   "headline": "Iran vows to advance nuclear program as West presses for inspections",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/iran-vows-advance-nuclear-program-west-presses-inspections",
-   "date": "2026-11-26T14:06:18.000Z"
-  },
-  {
-   "headline": "Iran's supreme leader urges Guards-linked Basij volunteers to broaden social reach",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/irans-supreme-leader-urges-guards-linked-basij-volunteers-broaden-social-reach",
-   "date": "2026-11-26T13:46:31.000Z"
-  },
-  {
    "headline": "📡 Seoul has no plans to join war or deploy troops to region: South Korean FM tells Araghchi 📌 Tehran, IRNA — South Korean Foreign Minister Cho Hyun, in a telephone conversation with his Iranian counterpart, Abbas Araghchi, has said that his country does not plan to deploy…",
    "source": "IRNA English (Telegram)",
    "official": "Iran (state agency IRNA)",
@@ -543,12 +714,6 @@
    "official": "Iran (IRGC-affiliated Tasnim)",
    "link": "https://t.me/Tasnimnews_en/49617",
    "date": "2026-11-26T12:51:17.000Z"
-  },
-  {
-   "headline": "Hamas weighs response after Israel kills 10 people in Gaza",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/hamas-weighs-response-after-israel-kills-10-people-gaza",
-   "date": "2026-11-26T12:46:28.000Z"
   },
   {
    "headline": "IDF: Earlier today (Thursday), security forces were dispatched to the area of Jalud following a report and footage of suspects using a civilian engineering vehicle to deliberately demolish a structure in the area. Police officers from the Shomron District and forensic…",
@@ -565,17 +730,17 @@
    "date": "2026-11-26T12:28:49.000Z"
   },
   {
-   "headline": "Israel threatens to displace one million Palestinians in Gaza unless Hamas disarms",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/middle-east/20261126-israel-threatens-to-displace-one-million-palestinians-in-gaza-unless-hamas-disarms",
-   "date": "2026-11-26T12:28:31.000Z"
-  },
-  {
    "headline": "📡 Two more offending oil tankers hit naval mines in Strait of Hormuz 📌 Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) Navy has reported explosions involving two more offending oil tankers traveling along unauthorized and unsafe routes in the Strait of Hormuz. In…",
    "source": "IRNA English (Telegram)",
    "official": "Iran (state agency IRNA)",
    "link": "https://t.me/Irna_en/42655",
    "date": "2026-11-26T12:24:52.000Z"
+  },
+  {
+   "headline": "Egyptian authorities arrest motorist over tanker crash that killed 31",
+   "source": "BBC News Middle East",
+   "link": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-11-26T12:16:06.000Z"
   },
   {
    "headline": "MFA ISRAEL: An Israeli medical team from Save a Child's Heart is working with Ethiopian doctors to provide lifesaving heart care for children. Led by two Ethiopian surgeons trained through the Israeli program, the mission builds on a partnership that has helped over 1,000…",
@@ -709,12 +874,6 @@
    "official": "Iran (state agency IRNA)",
    "link": "https://t.me/Irna_en/42654",
    "date": "2026-11-26T11:35:44.000Z"
-  },
-  {
-   "headline": "Egypt prosecutors announce arrest of man over deadly truck disaster",
-   "source": "Al-Monitor",
-   "link": "https://www.al-monitor.com/originals/2026/11/egypt-prosecutors-announce-arrest-man-over-deadly-truck-disaster",
-   "date": "2026-11-26T11:30:22.000Z"
   },
   {
    "headline": "🔹Even robots hate Israel / Israeli media: A humanoid robot in Tehran repeats “Death to Israel” An Israeli media outlet reported on a video showing a humanoid robot at one of Tehran’s nightly rallies, noting that the robot repeatedly chanted “Death to Israel.” Highlighting…",
@@ -877,12 +1036,6 @@
    "date": "2026-11-26T06:43:13.000Z"
   },
   {
-   "headline": "Iraqi court sentences 8 French nationals to life in prison for IS group membership",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/middle-east/20261126-iraqi-court-to-sentence-20-french-nationals-for-is-group-membership",
-   "date": "2026-11-26T06:28:48.000Z"
-  },
-  {
    "headline": "💬 Baqaei slams US senator for misrepresenting North Korea’s nuclear program to advance pro-Israel arguments against Iran 📌 Tehran, IRNA – Iranian Foreign Ministry spokesperson Esmaeil Baqaei has criticized US Senator John Cornyn for attributing remarks about North Korea’s…",
    "source": "IRNA English (Telegram)",
    "official": "Iran (state agency IRNA)",
@@ -922,12 +1075,6 @@
    "official": "Iran (IRGC-affiliated Tasnim)",
    "link": "https://t.me/Tasnimnews_en/49546",
    "date": "2026-11-25T22:58:00.000Z"
-  },
-  {
-   "headline": "Israeli lawmakers advance October 7 inquiry opposed by Netanyahu",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/israeli-lawmakers-advance-october-7-inquiry-opposed-by-netanyahu",
-   "date": "2026-11-25T22:26:40.000Z"
   },
   {
    "headline": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
@@ -989,12 +1136,6 @@
    "official": "Iran (IRGC-affiliated Tasnim)",
    "link": "https://t.me/Tasnimnews_en/49519",
    "date": "2026-11-25T19:31:32.000Z"
-  },
-  {
-   "headline": "In boost for Netanyahu, judges question corruption trial charges",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/in-boost-for-netanyahu-judges-question-corruption-trial-charges",
-   "date": "2026-11-25T19:28:13.000Z"
   },
   {
    "headline": "Tajik: Iranians’ unity amazed the second and third worlds during the Imposed War A spokesman for the Basij organization said in an interview with Tasnim: 🔹All Iranians are Basijis; the martyr Leader of the Revolution stated that every Iranian is a potential…",
@@ -1081,169 +1222,10 @@
    "date": "2026-11-25T18:06:43.000Z"
   },
   {
-   "headline": "🔻 Tehran City Council chief outlines factors behind capital’s wartime resilience 📌 Moscow, IRNA – Chairman of the Tehran City Council, Mehdi Chamran, has elaborated on the factors behind the Iranian capital’s resilience during the recent wars against Iran. Chamran, who is…",
-   "source": "IRNA English (Telegram)",
-   "official": "Iran (state agency IRNA)",
-   "link": "https://t.me/Irna_en/42645",
-   "date": "2026-11-25T18:06:39.000Z"
-  },
-  {
-   "headline": "Gol Gohar fell short of their first Asian win; promotion dream shattered ⚽️ UAE’s Al Jazira and Iran’s Gol Gohar faced each other in Week 5 of the AFC Champions League 2 at Abu Dhabi’s Mohammed Bin Zayed Stadium. Gol Gohar suffered a 1-0 defeat in the match. ⚽️ Anderson…",
-   "source": "Tasnim English (Telegram)",
-   "official": "Iran (IRGC-affiliated Tasnim)",
-   "link": "https://t.me/Tasnimnews_en/49509",
-   "date": "2026-11-25T18:01:14.000Z"
-  },
-  {
-   "headline": "Mojtaba Aghaei: Contrary to America’s wishes, we desire deep relations with neighboring countries 🔹Advisor to the IRGC Commander: We want deeper and stronger relations with regional countries, although we know that the Americans and Zionists do not want such…",
-   "source": "Tasnim English (Telegram)",
-   "official": "Iran (IRGC-affiliated Tasnim)",
-   "link": "https://t.me/Tasnimnews_en/49508",
-   "date": "2026-11-25T17:52:56.000Z"
-  },
-  {
-   "headline": "Mojtaba Ahmadi: The US will suffer a much heavier defeat in a potential future war 🔹Advisor to the IRGC Commander: In a potential future war, they will realize from the first or second day that they will be defeated, and this defeat will be far more severe.…",
-   "source": "Tasnim English (Telegram)",
-   "official": "Iran (IRGC-affiliated Tasnim)",
-   "link": "https://t.me/Tasnimnews_en/49507",
-   "date": "2026-11-25T17:47:45.000Z"
-  },
-  {
-   "headline": "Sheikh Naim Qassem: Iran is what stopped Israel’s aggression against Lebanon Secretary-General of Hezbollah Lebanon: 🔹After the government’s failure to defend sovereignty, retreat is not an option; sovereignty, national unity, and confronting the enemy are not mere…",
-   "source": "Tasnim English (Telegram)",
-   "official": "Iran (IRGC-affiliated Tasnim)",
-   "link": "https://t.me/Tasnimnews_en/49506",
-   "date": "2026-11-25T17:45:31.000Z"
-  },
-  {
-   "headline": "Sheikh Naim Qassem: Lebanese President equated resistance with aggressors Secretary-General of Hezbollah Lebanon: 🔹In his Independence Day speech, the President put the aggression by the US and Israel on par with Lebanon’s noble national resistance. 🔹In…",
-   "source": "Tasnim English (Telegram)",
-   "official": "Iran (IRGC-affiliated Tasnim)",
-   "link": "https://t.me/Tasnimnews_en/49505",
-   "date": "2026-11-25T17:44:18.000Z"
-  },
-  {
-   "headline": "Taeb: Iran is a stage where a nation’s resistance against global powers is on display Head of the Basij: 🔹We strive to foster scientific development, and we will earnestly pursue the work of the Basij Construction Corps. We will also revitalize the “Journey to Progress”…",
-   "source": "Tasnim English (Telegram)",
-   "official": "Iran (IRGC-affiliated Tasnim)",
-   "link": "https://t.me/Tasnimnews_en/49503",
-   "date": "2026-11-25T17:42:32.000Z"
-  },
-  {
-   "headline": "شن الطيران الحربي السعودي خلال الـ24 ساعة الماضية 105 غارات جوية وصواريخ استهدف بها الأعيان المدنية في العاصمة صنعاء ومحافظات الجوف وتعز وعمران وحجة وصعدة والحديدة والضالع وإب ولحج والحديدة والبيضاء وذلك من خلال طائرات \"F-15\" و \"تايفون\" أقلعت من قاعدتي خميس مشيط والطائف،…",
-   "source": "Houthi military spokesman (Telegram)",
-   "official": "Houthis (Yemeni Armed Forces)",
-   "link": "https://t.me/army21ye/4160",
-   "date": "2026-11-25T17:35:08.000Z"
-  },
-  {
-   "headline": "IDF: The Chief of the General Staff in a discussion with heads of local authorities in the Western Negev: \"Defending you is the primary mission of us all. We will not compromise on your security or on the security elements that build it—this is the sole consideration driving…",
-   "source": "IDF (Telegram)",
-   "official": "Israel (IDF)",
-   "link": "https://t.me/idfofficial/19523",
-   "date": "2026-11-25T17:12:13.000Z"
-  },
-  {
-   "headline": "📄 Israeli forces launch fresh drone, artillery strikes on southern Lebanon 📌 Tehran, IRNA – Israel keeps intensifying its aggression against southern Lebanon, with regime forces launching a drone attack and artillery shelling, simultaneously on the town of Mayfadoun and a…",
-   "source": "IRNA English (Telegram)",
-   "official": "Iran (state agency IRNA)",
-   "link": "https://t.me/Irna_en/42644",
-   "date": "2026-11-25T16:50:27.000Z"
-  },
-  {
-   "headline": "💬 China supports diplomacy on Iran nuclear issue, urges return to talks: Envoy 📌 Tehran, IRNA – China’s ambassador to Tehran has reaffirmed Beijing’s support for a diplomatic solution to Iran’s nuclear issue, urging all sides to keep the door to negotiations open,…",
-   "source": "IRNA English (Telegram)",
-   "official": "Iran (state agency IRNA)",
-   "link": "https://t.me/Irna_en/42643",
-   "date": "2026-11-25T16:25:24.000Z"
-  },
-  {
-   "headline": "💬 Violating tanker catches fire after striking mine east of Hormuz: Iran Navy 📌 Tehran, IRNA – An oil tanker violating maritime regulations caught fire after striking a naval mine east of the Strait of Hormuz, says Iran’s Army Navy. According to a statement issued by the…",
-   "source": "IRNA English (Telegram)",
-   "official": "Iran (state agency IRNA)",
-   "link": "https://t.me/Irna_en/42642",
-   "date": "2026-11-25T16:18:24.000Z"
-  },
-  {
-   "headline": "IDF: The Chief of the General Staff at the 50th Battalion’s exercise at the National Ground Training Center: “After three years of fighting, the IDF is returning to training. We continue to strengthen our defenses along all borders and protect communities from forward…",
-   "source": "IDF (Telegram)",
-   "official": "Israel (IDF)",
-   "link": "https://t.me/idfofficial/19522",
-   "date": "2026-11-25T16:01:56.000Z"
-  },
-  {
-   "headline": "Libya’s Haftar visits old foe Turkey for first time in ‘new phase’ of ties",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/middle-east/20261125-libya-s-haftar-visits-old-foe-turkey-in-a-first-hails-new-phase-of-ties",
-   "date": "2026-11-25T15:19:19.000Z"
-  },
-  {
-   "headline": "📄 Iran: Zionist regime poses gravest threat to Lebanon’s independence, stability 📌 Tehran, IRNA – Iran's Foreign Ministry has strongly condemned the Israeli aggression against Lebanon, stating that the attacks—coinciding with the country's Independence Day— show the Zionist…",
-   "source": "IRNA English (Telegram)",
-   "official": "Iran (state agency IRNA)",
-   "link": "https://t.me/Irna_en/42641",
-   "date": "2026-11-25T14:59:15.000Z"
-  },
-  {
-   "headline": "16 U.S. warplanes flew over Iraq 🔹According to the Islamic Resistance in Iraq, the U.S. military violated Iraq’s airspace yesterday with 16 military aircraft. @TasnimNews",
-   "source": "Tasnim English (Telegram)",
-   "official": "Iran (IRGC-affiliated Tasnim)",
-   "link": "https://t.me/Tasnimnews_en/49452",
-   "date": "2026-11-25T14:44:00.000Z"
-  },
-  {
-   "headline": "🔻 PSG vs Roma: Predicted lineups, team news, and Champions League preview 📌 PSG vs Roma: predicted lineups, injury updates, Champions League statistics, recent form, kick-off time, and everything you need to know ahead of the match. Paris Saint-Germain will attempt to…",
-   "source": "IRNA English (Telegram)",
-   "official": "Iran (state agency IRNA)",
-   "link": "https://t.me/Irna_en/42640",
-   "date": "2026-11-25T14:37:13.000Z"
-  },
-  {
-   "headline": "Black Friday or Fraud Friday? ▪️Discounts designed to empty people’s wallets! 🔹During these bizarre Black Friday sales, some websites inflate prices several times over just to make the subsequent “discounts” seem more appealing! 🔹In Iran, Black Friday has turned into a new…",
-   "source": "Tasnim English (Telegram)",
-   "official": "Iran (IRGC-affiliated Tasnim)",
-   "link": "https://t.me/Tasnimnews_en/49450",
-   "date": "2026-11-25T14:19:50.000Z"
-  },
-  {
-   "headline": "Scuffle in Israel’s Knesset 🔹Following the rejection of a controversial bill known as the “Minaret Bill” in the Israeli parliament (Knesset), tensions rose in the plenary session, leading to a verbal altercation between Itamar Ben-Gvir and the presiding officers. 🔹“Leave…",
-   "source": "Tasnim English (Telegram)",
-   "official": "Iran (IRGC-affiliated Tasnim)",
-   "link": "https://t.me/Tasnimnews_en/49449",
-   "date": "2026-11-25T14:11:09.000Z"
-  },
-  {
-   "headline": "Large-scale fire in Erbil, Iraq 🔹A fire broke out at an industrial unit in Erbil, Iraqi Kurdistan, sending a thick column of smoke into the sky. @TasnimNews",
-   "source": "Tasnim English (Telegram)",
-   "official": "Iran (IRGC-affiliated Tasnim)",
-   "link": "https://t.me/Tasnimnews_en/49448",
-   "date": "2026-11-25T14:10:12.000Z"
-  },
-  {
-   "headline": "New prices for various imported rice varieties have been announced Mojtaba Khaki, secretary of the Iran Rice Importers Association: 🔹Pakistani rice: Grade 1 is priced at 340,000–350,000 tomans; Grade 2 at 240,000–250,000 tomans; Grade 3 at 180,000–190,000 tomans. Indian…",
-   "source": "Tasnim English (Telegram)",
-   "official": "Iran (IRGC-affiliated Tasnim)",
-   "link": "https://t.me/Tasnimnews_en/49446",
-   "date": "2026-11-25T14:07:00.000Z"
-  },
-  {
    "headline": "Israeli strike kills senior Hamas security official and family in Gaza City",
    "source": "BBC News Middle East",
    "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-25T14:06:13.000Z"
-  },
-  {
-   "headline": "Saudi warplanes attack Yemeni historical sites 🔹Al-Masirah reported that Saudi aggressor warplanes, continuing their attacks on Taiz province, bombed the historic mausoleum complex of “Sayyid Ahmad Abad Sufyan”. 🔹This historic site was bombed for the second time. @TasnimNews",
-   "source": "Tasnim English (Telegram)",
-   "official": "Iran (IRGC-affiliated Tasnim)",
-   "link": "https://t.me/Tasnimnews_en/49445",
-   "date": "2026-11-25T13:40:48.000Z"
-  },
-  {
-   "headline": "Israeli MPs advance bill for inquiry into security failings that led to October 7 Hamas attack",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/middle-east/20261125-israeli-mps-advance-bill-for-inquiry-into-security-failings-that-led-to-october-7-hamas-attack",
-   "date": "2026-11-25T12:55:47.000Z"
   },
   {
    "headline": "Türk warns of widening risk of atrocity crimes against Palestinians",
@@ -1270,24 +1252,6 @@
    "date": "2026-11-25T10:03:42.000Z"
   },
   {
-   "headline": "Amnesty calls for ICC genocide probe over Israel's impact on births in Gaza",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/middle-east/20261125-amnesty-calls-for-icc-genocide-probe-over-israel-s-impact-on-births-in-gaza",
-   "date": "2026-11-25T04:01:48.000Z"
-  },
-  {
-   "headline": "Yemen’s army says Houthi fighters closing in on government stronghold of Aden",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/middle-east/20261124-yemen-army-houthi-attack-aden",
-   "date": "2026-11-24T16:51:30.000Z"
-  },
-  {
-   "headline": "'We are ready to facilitate removal of Netanyahu': Head of Israel's Arab-majority Joint List",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261124-we-are-ready-to-facilitate-the-removal-of-netanyahu-from-power-head-of-israel-s-joint-list",
-   "date": "2026-11-24T16:29:15.000Z"
-  },
-  {
    "headline": "Israeli air strike kills Hamas internal security chief in Gaza",
    "source": "BBC News Middle East",
    "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
@@ -1298,12 +1262,6 @@
    "source": "BBC News Middle East",
    "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-24T15:17:28.000Z"
-  },
-  {
-   "headline": "Israeli strikes on Gaza kill senior Hamas security official and six other people, medics say",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/middle-east/20261124-israeli-strikes-on-gaza-kill-senior-hamas-security-official-and-six-other-people-medics-say",
-   "date": "2026-11-24T13:07:03.000Z"
   },
   {
    "headline": "Iranian authorities flog singer who performed without hijab, lawyers say",
@@ -1324,76 +1282,16 @@
    "date": "2026-11-23T12:00:00.000Z"
   },
   {
-   "headline": "Israel’s Eisenkot slams ‘Jewish terrorism’ after attacks by settlers in West Bank",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank",
-   "date": "2026-11-22T21:29:16.000Z"
-  },
-  {
-   "headline": "West Bank attacks: Opposition leader Eisenkot decries \"Jewish terrorism\"",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism",
-   "date": "2026-11-22T16:25:09.000Z"
-  },
-  {
-   "headline": "Israel investigates West Bank fires",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/israel-investigates-west-bank-fires",
-   "date": "2026-11-22T13:47:04.000Z"
-  },
-  {
-   "headline": "Bahrain accuses Iran of striking industrial site as tankers hit in Hormuz",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/middle-east/20261122-bahrain-accuses-iran-of-striking-industrial-site-as-tankers-hit-in-hormuz",
-   "date": "2026-11-22T03:24:14.000Z"
-  },
-  {
-   "headline": "Eisenkot invites Netanyahu’s party for ‘marathon’ Israeli coalition talks",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
-   "date": "2026-11-21T20:49:04.000Z"
-  },
-  {
-   "headline": "Hormuz swim highlights environmental cost of war",
-   "source": "BBC News Middle East",
-   "link": "https://www.bbc.co.uk/news/articles/c95y1gr27xplo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-21T16:12:31.000Z"
-  },
-  {
-   "headline": "Endurance athlete swims in Hormuz Strait",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/endurance-athlete-swims-in-hormuz-strait",
-   "date": "2026-11-21T16:02:59.000Z"
-  },
-  {
    "headline": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
    "source": "UN News Middle East",
    "link": "https://news.un.org/feed/view/en/story/2026/11/1168851",
    "date": "2026-11-21T12:00:00.000Z"
   },
   {
-   "headline": "Houthis launch strikes on Saudi Arabia",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/houthis-launch-strikes-on-saudi-arabia",
-   "date": "2026-11-21T09:49:44.000Z"
-  },
-  {
    "headline": "US declassifies more UFO footage filmed in the Middle East",
    "source": "BBC News Middle East",
    "link": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-20T23:15:20.000Z"
-  },
-  {
-   "headline": "'I tell my son it's just fireworks': Life inside Yemeni city besieged by Houthis",
-   "source": "BBC News Middle East",
-   "link": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-20T22:14:17.000Z"
-  },
-  {
-   "headline": "Yemen's Houthis target Riyadh after Saudi coalition's 'special operation'",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/middle-east/20261120-yemen-s-houthis-target-riyadh-after-saudi-coalition-s-special-operation",
-   "date": "2026-11-20T18:36:15.000Z"
   },
   {
    "headline": "Why AI fakes are spreading after Saudi skyscraper attack",
@@ -1406,48 +1304,6 @@
    "source": "UN News Middle East",
    "link": "https://news.un.org/feed/view/en/story/2026/11/1168849",
    "date": "2026-11-20T12:00:00.000Z"
-  },
-  {
-   "headline": "Iraqi security forces deploy in Hezbollah stronghold under compromise deal",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/middle-east/20261120-iraqi-security-forces-to-deploy-in-hezbollah-stronghold-under-compromise-deal",
-   "date": "2026-11-20T08:37:27.000Z"
-  },
-  {
-   "headline": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-   "source": "BBC News Middle East",
-   "link": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-   "date": "2026-11-19T17:03:23.000Z"
-  },
-  {
-   "headline": "Skyscraper in Riyadh damaged as Saudi Arabia reports surge in new Houthi attacks",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/middle-east/20261119-skyscraper-in-riyadh-damaged-as-saudi-arabia-reports-surge-in-new-houthi-attacks",
-   "date": "2026-11-19T07:58:16.000Z"
-  },
-  {
-   "headline": "Gaza: Israel launched new offensive on Nuseirat",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/gaza-israel-launched-new-offensive-on-nuseirat",
-   "date": "2026-11-19T07:50:10.000Z"
-  },
-  {
-   "headline": "Middle East crisis poses 'largest threat' to energy security in history, warns IEA",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/middle-east/20261119-middle-east-crisis-energy-security-iea",
-   "date": "2026-11-19T05:11:59.000Z"
-  },
-  {
-   "headline": "Israeli army launches ground operation in Hamas-controlled area of Gaza",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/israeli-army-launches-ground-operation-in-hamas-controlled-area-of-gaza",
-   "date": "2026-11-18T19:55:15.000Z"
-  },
-  {
-   "headline": "Writer Etgar Keret: 'The Israel my parents dreamed of' is still possible, but not under Netanyahu",
-   "source": "France 24 Middle East",
-   "link": "https://www.france24.com/en/tv-shows/spotlight/20261118-netanyahu-s-only-2-tickets-are-racism-or-starting-a-war-he-stopped-acting-as-a-democratic-player",
-   "date": "2026-11-18T19:45:16.000Z"
   },
   {
    "headline": "Dozens more children killed in Yemen amid escalating hostilities",
