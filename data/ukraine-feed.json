@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-27T11:05:12+00:00",
+  "lastUpdated": "2026-11-27T11:42:16+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -36,12 +36,12 @@
    {
     "source": "Al Jazeera",
     "ok": true,
-    "count": 1
+    "count": 0
    },
    {
     "source": "UK Ministry of Defence (GOV.UK)",
     "ok": true,
-    "count": 2
+    "count": 1
    },
    {
     "source": "General Staff of Ukraine (Telegram)",
@@ -51,11 +51,86 @@
    {
     "source": "Russian Defence Ministry (Telegram)",
     "ok": true,
-    "count": 13
+    "count": 14
    }
   ]
  },
  "items": [
+  {
+   "headline": "Ukrainian forces strike Russian oil facilities, defense industry plants, military airfields over past week",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4189251-ukrainian-forces-strike-russian-oil-facilities-defense-industry-plants-military-airfields-over-past-week.html",
+   "date": "2026-11-27T11:39:00.000Z"
+  },
+  {
+   "headline": "🤝 Замминистра обороны РФ Павел Фрадков поблагодарил военных строителей за ежесуточный кропотливый труд. «Тот вклад, который делают военные строители в деле обустройства войск, сегодня очень востребован. И мы с вами хорошо понимаем, что от темпов, от сроков и от качества их…",
+   "source": "Russian Defence Ministry (Telegram)",
+   "official": "Russia",
+   "link": "https://t.me/mod_russia/69383",
+   "date": "2026-11-27T11:38:47.000Z"
+  },
+  {
+   "headline": "О привлечении военнослужащих в военно-строительные подразделения 🔁 Мы можем ротировать внутри Вооружённых Сил тех военнослужащих, которые имеют подходящую специальность. 🏛 Можем комплектовать за счёт выпуска из высших военных учебных заведений, в том числе…",
+   "source": "Russian Defence Ministry (Telegram)",
+   "official": "Russia",
+   "link": "https://t.me/mod_russia/69382",
+   "date": "2026-11-27T11:37:14.000Z"
+  },
+  {
+   "headline": "📚 Планируется к вводу учебный центр для младших специалистов, где можно будет приобрести и пройти первичную профессиональную подготовку, получить военно-учётную специальность в сфере строительства. ➡️ Для подготовки офицерских кадров по предложению Министра обороны и по…",
+   "source": "Russian Defence Ministry (Telegram)",
+   "official": "Russia",
+   "link": "https://t.me/mod_russia/69381",
+   "date": "2026-11-27T11:35:41.000Z"
+  },
+  {
+   "headline": "«Нам важно иметь возможность строительства объектов военной инфраструктуры и, в первую очередь, объектов особой важности в рамках так называемого замкнутого цикла – без привлечения третьих лиц: от технического задания, проектирования, строймонтажа до завершения передачи…",
+   "source": "Russian Defence Ministry (Telegram)",
+   "official": "Russia",
+   "link": "https://t.me/mod_russia/69380",
+   "date": "2026-11-27T11:33:28.000Z"
+  },
+  {
+   "headline": "⏩ У Министерства обороны появляется свой надёжный, автономный, контролируемый ресурс для решения задач в сфере военного строительства. ⚙️ Вооружённые Силы не могут и не имеют права зависеть от состояния или настроения рыночных коммерческих исполнителей, особенно в современных…",
+   "source": "Russian Defence Ministry (Telegram)",
+   "official": "Russia",
+   "link": "https://t.me/mod_russia/69379",
+   "date": "2026-11-27T11:32:08.000Z"
+  },
+  {
+   "headline": "О перезапуске военно-строительного комплекса 🏭 Перезапуск военно-строительного комплекса – это, по сути, реформирование всей нашей военно-строительной отрасли. Министр обороны в прошлом году такую задачу нам поставил, определил сроки и порядок её реализации. Она глобально…",
+   "source": "Russian Defence Ministry (Telegram)",
+   "official": "Russia",
+   "link": "https://t.me/mod_russia/69377",
+   "date": "2026-11-27T11:29:52.000Z"
+  },
+  {
+   "headline": "⚙️ Реализуется обширная программа по строительству объектов военной и военно-социальной инфраструктуры. Она утверждена Министром обороны, находится на его личном и постоянном контроле. Приоритеты: 🔹 Создание инфраструктуры под поступающее вооружение. 🔹 Возведение объектов…",
+   "source": "Russian Defence Ministry (Telegram)",
+   "official": "Russia",
+   "link": "https://t.me/mod_russia/69376",
+   "date": "2026-11-27T11:27:26.000Z"
+  },
+  {
+   "headline": "💬 О решении задач, поставленных Министром обороны РФ на расширенном заседании коллегии ведомства в декабре 2025 года, рассказал заместитель Министра обороны РФ генерал-лейтенант Павел Фрадков. 🔹 Минобороны России",
+   "source": "Russian Defence Ministry (Telegram)",
+   "official": "Russia",
+   "link": "https://t.me/mod_russia/69375",
+   "date": "2026-11-27T11:26:21.000Z"
+  },
+  {
+   "headline": "Liberian Foreign Minister makes first-ever visit to Kyiv",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4189245-liberian-foreign-minister-makes-firstever-visit-to-kyiv.html",
+   "date": "2026-11-27T11:20:00.000Z"
+  },
+  {
+   "headline": "Гвардейцы в ударе 💥 Операторы БПЛА-перехватчиков 58-й гвардейской общевойсковой армии группировки «Днепр» нейтрализовали ударные дроны ВСУ в Запорожской области. 📍 Ореховское направление #ВойскаБПС 🎮 Канал Минобороны России в MAКС – боевая работа 24/7. Присоединяйся!",
+   "source": "Russian Defence Ministry (Telegram)",
+   "official": "Russia",
+   "link": "https://t.me/mod_russia/69374",
+   "date": "2026-11-27T11:09:55.000Z"
+  },
   {
    "headline": "Secretary General of the Council of Europe arrives in Kyiv",
    "source": "Ukrinform",
@@ -67,6 +142,18 @@
    "source": "Ukrinform",
    "link": "https://www.ukrinform.net/rubric-ato/4189218-russian-strikes-hit-railways-and-energy-infrastructure-in-nine-ukrainian-regions-overnight-pm-koretskyi.html",
    "date": "2026-11-27T10:43:00.000Z"
+  },
+  {
+   "headline": "Zelenskyy sums up week's strikes on Russian oil refineries and military industry facilities – video",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064945/",
+   "date": "2026-11-27T10:37:00.000Z"
+  },
+  {
+   "headline": "IBSF demands that Ukrainian junior skeleton team remove Free Azov slogan from sleds",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064929/",
+   "date": "2026-11-27T10:34:00.000Z"
   },
   {
    "headline": "Zelensky: Ukraine will defend Kyiv by any means as Russia seeks to drive people from cities",
@@ -115,6 +202,12 @@
    "source": "Ukrainska Pravda",
    "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064936/",
    "date": "2026-11-27T09:52:00.000Z"
+  },
+  {
+   "headline": "UP 100 honours 16 cultural figures",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064934/",
+   "date": "2026-11-27T09:50:00.000Z"
   },
   {
    "headline": "❗️С 21 по 27 ноября Вооруженными Силами Российской Федерации нанесены два массированных и 12 групповых ударов, в результате которых поражены предприятия военной промышленности Украины, задействованные в производстве крылатых ракет, ракетного топлива, беспилотных летательных…",
@@ -348,12 +441,6 @@
    "date": "2026-11-27T06:01:50.000Z"
   },
   {
-   "headline": "Russian drones attack five districts in Dnipropetrovsk Oblast overnight: one killed, two severely injured",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064895/",
-   "date": "2026-11-27T05:57:00.000Z"
-  },
-  {
    "headline": "«Пусть в ваших сердцах живет гордость за принадлежность к элите Военно-морского флота России» 💬 Морпехи поздравляют боевых товарищей с профессиональным праздником. #ОтСВОих 🔹 Канал Минобороны России в MAКС – только для своих!",
    "source": "Russian Defence Ministry (Telegram)",
    "official": "Russia",
@@ -361,23 +448,11 @@
    "date": "2026-11-27T05:47:00.000Z"
   },
   {
-   "headline": "Trump says war in Ukraine might not have happened had Russia remained in G8",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064894/",
-   "date": "2026-11-27T05:44:00.000Z"
-  },
-  {
    "headline": "⚡️ В течение прошедшей ночи дежурными силами ПВО перехвачены и уничтожены 318 украинских беспилотных летательных аппаратов самолетного типа над территориями Брянской, Белгородской, Калужской, Курской, Ленинградской, Новгородской, Орловской, Ростовской, Смоленской, Тульской…",
    "source": "Russian Defence Ministry (Telegram)",
    "official": "Russia",
    "link": "https://t.me/mod_russia/69356",
    "date": "2026-11-27T05:41:11.000Z"
-  },
-  {
-   "headline": "Ukraine always coordinates attacks on Russian ships in foreign waters with other countries – Zelenskyy",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064890/",
-   "date": "2026-11-27T05:33:00.000Z"
   },
   {
    "headline": "Attack on Zaporizhzhia sparks fire at factory building",
@@ -391,12 +466,6 @@
    "official": "Russia",
    "link": "https://t.me/mod_russia/69355",
    "date": "2026-11-27T05:25:23.000Z"
-  },
-  {
-   "headline": "Estonia closing land borders with Russia to keep out spies",
-   "source": "Al Jazeera",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/estonia-closing-land-borders-with-russia-to-keep-out-spies?traffic_source=rss",
-   "date": "2026-11-27T04:46:15.000Z"
   },
   {
    "headline": "Coffin to be installed in central Vienna in memory of Holodomor victims",
@@ -496,18 +565,6 @@
    "source": "BBC News Europe",
    "link": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-26T22:06:20.000Z"
-  },
-  {
-   "headline": "Enemy attack sparks warehouse fire in Bila Tserkva district",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4189074-enemy-attack-sparks-warehouse-fire-in-bila-tserkva-district.html",
-   "date": "2026-11-26T22:03:00.000Z"
-  },
-  {
-   "headline": "Zelensky announces preparations for next prisoner exchange",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4189070-zelensky-announces-preparations-for-next-prisoner-exchange.html",
-   "date": "2026-11-26T21:25:00.000Z"
   },
   {
    "headline": "Hungary joins coalition for return of abducted Ukrainian children following Magyar visit, Zelensky says",
@@ -984,12 +1041,6 @@
    "official": "Russia",
    "link": "https://t.me/mod_russia/69301",
    "date": "2026-11-24T12:58:46.000Z"
-  },
-  {
-   "headline": "CEOs from sensitive sectors receive briefings on Russia threats",
-   "source": "UK Ministry of Defence (GOV.UK)",
-   "link": "https://www.gov.uk/government/news/ceos-from-sensitive-sectors-receive-briefings-on-russia-threats",
-   "date": "2026-11-24T12:30:08.000Z"
   },
   {
    "headline": "«СВОД», искусственный интеллект, мультиагентные платформы и кибербезопасность. О решении задач по цифровой трансформации, поставленных Министром обороны РФ на расширенном заседании коллегии ведомства в декабре 2025 года, рассказал замминистра обороны РФ Дмитрий Щербинин.…",
