@@ -2,6 +2,22 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-27 06:41 Toronto — Middle East — OK (partial — 2 quarantined)
+- Added 6 event(s):
+  - `kuwait-city-1126` 2026-11-26 [DISPUTED] Two Italian technicians killed in drone strike on Kuwaiti air-defence site; Kuwait and Italy blame Iran, Iran denies
+  - `nabatieh-1126` 2026-11-26 [ONE_PARTY] IDF says it struck dozens of Hezbollah rockets and launchers at a Radwan Force camp in Ein al-Tina
+  - `gaza-city-1127` 2026-11-27 [ONE_PARTY] Medical sources say Israeli strike on residential building in Gaza City's Rimal neighbourhood wounded women and children
+  - `nablus-1126` 2026-11-26 [ONE_PARTY] IDF says suspects used an engineering vehicle to demolish a structure near Jalud and calls it a serious criminal act
+  - `qeshm-1126` 2026-11-26 [ONE_PARTY] IRGC says warning fire from its air defence turned a US F-16 away near Hengam Island
+  - `sanaa-1126` 2026-11-26 [ONE_PARTY] Houthi military spokesman says Saudi aircraft carried out 109 air strikes and missile attacks in Yemen in 24 hours
+- Quarantined 2 item(s) — NOT merged:
+  - event "khan-younis-1125": title missing or longer than 140 characters
+  - lane "hormuz-lane": missing name
+- 13 new source link(s)
+- Totals: 148 events, 18 stats, 237 sources; coverage 2026-10-06 to 2026-11-27
+- warning: link https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o returned 403 (site may block bots)
+- warning: source "tg_idf_19535" is not used by any event or stat
+
 ## 2026-11-27 06:04 Toronto — Ukraine — OK
 - Added 7 event(s):
   - `kharkiv-1126` 2026-11-26 [ONE_PARTY] Russian drone attack on Kharkiv kills one, injures eight, hits aviation university
