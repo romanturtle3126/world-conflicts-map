@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-27T11:42:16+00:00",
+  "lastUpdated": "2026-11-27T14:09:24+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -20,8 +20,8 @@
    },
    {
     "source": "Euronews",
-    "ok": false,
-    "error": "HTTP 406"
+    "ok": true,
+    "count": 4
    },
    {
     "source": "BBC News Europe",
@@ -36,7 +36,7 @@
    {
     "source": "Al Jazeera",
     "ok": true,
-    "count": 0
+    "count": 1
    },
    {
     "source": "UK Ministry of Defence (GOV.UK)",
@@ -51,11 +51,128 @@
    {
     "source": "Russian Defence Ministry (Telegram)",
     "ok": true,
-    "count": 14
+    "count": 16
    }
   ]
  },
  "items": [
+  {
+   "headline": "15 ворожих складів уразили Сили оборони за один тиждень! 💥 Ліквідуємо склади окупантів максимально ефективно та оперативно, мов до Black Friday. З 19 по 26 листопада уражено: ▪️ 9 складів матеріально-технічного забезпечення; ▪️ 3 склади паливно-мастильних матеріалів; ▪️ 2…",
+   "source": "General Staff of Ukraine (Telegram)",
+   "official": "Ukraine",
+   "link": "https://t.me/GeneralStaffZSU/43009",
+   "date": "2026-11-27T13:59:05.000Z"
+  },
+  {
+   "headline": "Power engineers come under fire in Zaporizhzhia",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4189312-power-engineers-come-under-fire-in-zaporizhzhia.html",
+   "date": "2026-11-27T13:58:00.000Z"
+  },
+  {
+   "headline": "Russian drone attack on Kremenchuk injures two",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4189308-russian-drone-attack-on-kremenchuk-injures-two.html",
+   "date": "2026-11-27T13:35:00.000Z"
+  },
+  {
+   "headline": "Russian forces attack Lozova with jet-powered drones, injuring two people",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064978/",
+   "date": "2026-11-27T13:30:00.000Z"
+  },
+  {
+   "headline": "👊 «Противнику не даем ни шагу продвинуться»: командир артиллерийского взвода «Агро» об уничтожении противника в Дружковке. «Работаем за Алексеево-Дружковкой, по самой Дружковке, производим огневые налеты, тем самым обеспечиваем продвижение наших штурмовых групп», – говорит…",
+   "source": "Russian Defence Ministry (Telegram)",
+   "official": "Russia",
+   "link": "https://t.me/mod_russia/69385",
+   "date": "2026-11-27T13:04:06.000Z"
+  },
+  {
+   "headline": "Russians attack civilian business in Zhytomyr Oblast: one killed, two injured",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064970/",
+   "date": "2026-11-27T13:03:00.000Z"
+  },
+  {
+   "headline": "Russian strike hits infrastructure in Zhytomyr region, leaving people injured",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4189286-russian-strike-hits-infrastructure-in-zhytomyr-region-leaving-people-injured.html",
+   "date": "2026-11-27T13:00:00.000Z"
+  },
+  {
+   "headline": "North Korea halts Russia military aid over Seoul row, Kyiv says",
+   "source": "Euronews",
+   "link": "https://www.euronews.com/2026/11/27/north-korea-halts-russia-military-aid-over-seoul-row-kyiv-says",
+   "date": "2026-11-27T12:53:58.000Z"
+  },
+  {
+   "headline": "\"They tried to build their lives\": IT couple killed in Russian drone attack on Kharkiv",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064968/",
+   "date": "2026-11-27T12:48:00.000Z"
+  },
+  {
+   "headline": "Belarus says Ukraine and Russia have exchanged civilians at its border",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064971/",
+   "date": "2026-11-27T12:40:00.000Z"
+  },
+  {
+   "headline": "Ukrainian border guards reporting no unusual incidents or provocations from Belarus – SBGS spox",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4189274-ukrainian-border-guards-reporting-no-unusual-incidents-or-provocations-from-belarus-sbgs-spox.html",
+   "date": "2026-11-27T12:39:00.000Z"
+  },
+  {
+   "headline": "Russia extends ban on jet fuel exports amid Ukrainian attacks on oil refineries",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064967/",
+   "date": "2026-11-27T12:37:00.000Z"
+  },
+  {
+   "headline": "Russian secret services fabricating cases against civilians in occupied Kherson region to meet targets",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-society/4189265-russian-secret-services-fabricating-cases-against-civilians-in-occupied-kherson-region-to-meet-targets.html",
+   "date": "2026-11-27T12:19:00.000Z"
+  },
+  {
+   "headline": "Russian sabotage attacks across Europe fall short of strategic goals, threats remain, report says",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/russian-sabotage-attacks-across-europe-fall-short-of-strategic-goals-threats-remain-report-says/",
+   "date": "2026-11-27T12:17:34.000Z"
+  },
+  {
+   "headline": "Russian strike on enterprise in Nizhyn kills two, injures four",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4189261-russian-strike-on-enterprise-in-nizhyn-kills-two-injures-four.html",
+   "date": "2026-11-27T12:00:00.000Z"
+  },
+  {
+   "headline": "Why Bulgaria, Czechia, Hungary, and Slovakia are complicating the latest EU push for a Ukraine loan",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/why-bulgaria-czechia-hungary-and-slovakia-are-complicating-the-latest-eu-push-for-a-ukraine-loan/",
+   "date": "2026-11-27T11:52:46.000Z"
+  },
+  {
+   "headline": "Ukraine has US$80m for Grain from Ukraine programme – Zelenskyy",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064956/",
+   "date": "2026-11-27T11:47:00.000Z"
+  },
+  {
+   "headline": "Russia’s hybrid war on Europe evolving, but failing: IISS",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/27/russias-hybrid-war-on-europe-evolving-but-failing-iiss?traffic_source=rss",
+   "date": "2026-11-27T11:44:46.000Z"
+  },
+  {
+   "headline": "Военно-строительный комплекс: реализация масштабных проектов и создание военно-строительных подразделений. О решении задач, поставленных Министром обороны РФ на расширенном заседании коллегии ведомства в декабре 2025 года, рассказал замминистра обороны РФ генерал-лейтенант…",
+   "source": "Russian Defence Ministry (Telegram)",
+   "official": "Russia",
+   "link": "https://t.me/mod_russia/69384",
+   "date": "2026-11-27T11:41:33.000Z"
+  },
   {
    "headline": "Ukrainian forces strike Russian oil facilities, defense industry plants, military airfields over past week",
    "source": "Ukrinform",
@@ -125,6 +242,12 @@
    "date": "2026-11-27T11:20:00.000Z"
   },
   {
+   "headline": "Two killed in Russian attack on business in Nizhyn: people may be trapped under rubble",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064954/",
+   "date": "2026-11-27T11:11:00.000Z"
+  },
+  {
    "headline": "Гвардейцы в ударе 💥 Операторы БПЛА-перехватчиков 58-й гвардейской общевойсковой армии группировки «Днепр» нейтрализовали ударные дроны ВСУ в Запорожской области. 📍 Ореховское направление #ВойскаБПС 🎮 Канал Минобороны России в MAКС – боевая работа 24/7. Присоединяйся!",
    "source": "Russian Defence Ministry (Telegram)",
    "official": "Russia",
@@ -136,6 +259,12 @@
    "source": "Ukrinform",
    "link": "https://www.ukrinform.net/rubric-polytics/4189227-secretary-general-of-the-council-of-europe-arrives-in-kyiv.html",
    "date": "2026-11-27T11:00:00.000Z"
+  },
+  {
+   "headline": "Ukraine halts electricity exports",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064949/",
+   "date": "2026-11-27T10:55:00.000Z"
   },
   {
    "headline": "Russian strikes hit railways and energy infrastructure in nine Ukrainian regions overnight – PM Koretskyi",
@@ -150,6 +279,12 @@
    "date": "2026-11-27T10:37:00.000Z"
   },
   {
+   "headline": "AfD co-leader calls for parts of Ukraine to be ceded to Russia and accuses Kyiv of attacking its own citizens",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064946/",
+   "date": "2026-11-27T10:36:00.000Z"
+  },
+  {
    "headline": "IBSF demands that Ukrainian junior skeleton team remove Free Azov slogan from sleds",
    "source": "Ukrainska Pravda",
    "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064929/",
@@ -162,7 +297,7 @@
    "date": "2026-11-27T10:25:00.000Z"
   },
   {
-   "headline": "Russian attack damages Konvi printing house and Mison publishing house office in Kyiv for second time – photos",
+   "headline": "Kyiv printing house and publisher's office damaged by Russian attack for second time – photos",
    "source": "Ukrainska Pravda",
    "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064942/",
    "date": "2026-11-27T10:20:00.000Z"
@@ -241,6 +376,12 @@
    "date": "2026-11-27T09:41:00.000Z"
   },
   {
+   "headline": "Man injured in Russian drone attack on Chernihiv dies in hospital – photos",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064927/",
+   "date": "2026-11-27T09:39:00.000Z"
+  },
+  {
    "headline": "Surveillance, a Telegram campaign and a parliamentary petition. How \"Ukrainska Pravda\" is being put under pressure",
    "source": "Ukrainska Pravda",
    "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064930/",
@@ -254,12 +395,6 @@
    "date": "2026-11-27T09:30:12.000Z"
   },
   {
-   "headline": "Surveillance, a Telegram campaign and a parliamentary petition. How \"Ukrainska Pravda\" is being put under pressure",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/columns/2026/11/27/8064920/",
-   "date": "2026-11-27T09:26:00.000Z"
-  },
-  {
    "headline": "The controversial Ukrainian website deciding who counts as an enemy of state",
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/the-controversial-ukrainian-website-deciding-who-counts-as-an-enemy-of-state/",
@@ -270,12 +405,6 @@
    "source": "Ukrinform",
    "link": "https://www.ukrinform.net/rubric-ato/4189177-war-update-136-clashes-on-front-line-over-past-day-two-sectors-see-fiercest-fighting.html",
    "date": "2026-11-27T09:20:00.000Z"
-  },
-  {
-   "headline": "Russia is developing another military satellite communications system – Ukrainian intelligence",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064924/",
-   "date": "2026-11-27T09:17:00.000Z"
   },
   {
    "headline": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
@@ -296,10 +425,10 @@
    "date": "2026-11-27T08:58:00.000Z"
   },
   {
-   "headline": "Trump: I could say Putin is not my friend, but I want to make a deal",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064921/",
-   "date": "2026-11-27T08:56:00.000Z"
+   "headline": "Estonia prepares to close all five road border crossings with Russia",
+   "source": "Euronews",
+   "link": "https://www.euronews.com/video/2026/11/27/estonia-prepares-to-close-all-five-road-border-crossings-with-russia",
+   "date": "2026-11-27T08:57:16.000Z"
   },
   {
    "headline": "«Спасибо жене за то, что она ждет меня. За то, что воспитывает детей, пока мы защищаем Родину». Трогательный привет супруге шлёт командир орудия самоходной гаубицы «Мста-С» с позывным «Лексус». Его расчет профессионально уничтожает живую силу, технику и укрепления врага. Сам…",
@@ -309,16 +438,10 @@
    "date": "2026-11-27T08:55:04.000Z"
   },
   {
-   "headline": "EU leaders clash over long-term budget as talks collapse – Politico",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064922/",
-   "date": "2026-11-27T08:53:00.000Z"
-  },
-  {
-   "headline": "Russian attacks leave some residents in six Ukrainian oblasts without power",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064919/",
-   "date": "2026-11-27T08:32:00.000Z"
+   "headline": "Kim Jong Un watches Russian performers in Pyongyang",
+   "source": "Euronews",
+   "link": "https://www.euronews.com/video/2026/11/27/kim-jong-un-watches-russian-performers-in-pyongyang",
+   "date": "2026-11-27T08:49:16.000Z"
   },
   {
    "headline": "Air defences shoot down 110 of 155 Russian drones launched against Ukraine overnight",
@@ -334,10 +457,10 @@
    "date": "2026-11-27T08:21:50.000Z"
   },
   {
-   "headline": "Germany's Merz praises Trump for \"clear position\" in address to Putin",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064917/",
-   "date": "2026-11-27T08:21:00.000Z"
+   "headline": "Russia: Moscow's iconic Soviet-era expo park opens its 20,000-square-metre outdoor ice rink",
+   "source": "Euronews",
+   "link": "https://www.euronews.com/video/2026/11/27/russia-moscows-iconic-soviet-era-expo-park-opens-its-20000-square-metre-outdoor-ice-rink",
+   "date": "2026-11-27T08:08:29.000Z"
   },
   {
    "headline": "How a Nigerian journalist uncovered Russia's war machine in Africa",
@@ -398,34 +521,10 @@
    "date": "2026-11-27T06:57:02.000Z"
   },
   {
-   "headline": "Russia attacks energy facilities, logistics and critical infrastructure in three oblasts: two injured – photos",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064908/",
-   "date": "2026-11-27T06:45:00.000Z"
-  },
-  {
    "headline": "Russian attacks on Izium injure six, damage homes and cars",
    "source": "Ukrinform",
    "link": "https://www.ukrinform.net/rubric-ato/4189116-russian-attacks-on-izium-injure-six-damage-homes-and-cars.html",
    "date": "2026-11-27T06:38:00.000Z"
-  },
-  {
-   "headline": "Three injured in morning Russian drone strikes on two Kharkiv districts",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064903/",
-   "date": "2026-11-27T06:26:00.000Z"
-  },
-  {
-   "headline": "Ukrainian air defence downs 110 Russian drones, 27 hits reported",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064899/",
-   "date": "2026-11-27T06:20:00.000Z"
-  },
-  {
-   "headline": "Unidentified drone enters Latvian airspace: military launches interceptor UAV",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064897/",
-   "date": "2026-11-27T06:09:00.000Z"
   },
   {
    "headline": "Trump adds Ukraine to joint statement with NATO chief urging restraint in war escalation",
@@ -494,12 +593,6 @@
    "date": "2026-11-27T04:03:16.000Z"
   },
   {
-   "headline": "Ukraine foils Russia’s ‘Bear’s Corner’ encirclement plan in Kharkiv region – military spox",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4188854-ukraine-foils-russias-bears-corner-encirclement-plan-in-kharkiv-region-military-spox.html",
-   "date": "2026-11-27T03:40:00.000Z"
-  },
-  {
    "headline": "Более трех веков в одном строю ⚓️ От первых абордажных команд Петра Великого и легендарного десанта Цезаря Куникова на Малой земле – до сегодняшних «чёрных беретов» на передовой. Морские пехотинцы продолжают приумножать свою славную историю. Где мы – там победа! ▫️ 🔹 Курс на…",
    "source": "Russian Defence Ministry (Telegram)",
    "official": "Russia",
@@ -513,28 +606,10 @@
    "date": "2026-11-27T02:40:44.000Z"
   },
   {
-   "headline": "UK to provide £9.5 mln for construction of wind farm in Ukraine",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-economy/4188822-uk-to-provide-95-mln-for-construction-of-wind-farm-in-ukraine.html",
-   "date": "2026-11-27T02:25:00.000Z"
-  },
-  {
-   "headline": "SSU detains serviceman suspected of guiding Russian strikes at Ukraine’s Defense Forces in Donetsk region",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-crime/4188803-ssu-detains-serviceman-suspected-of-guiding-russian-strikes-at-ukraines-defense-forces-in-donetsk-region.html",
-   "date": "2026-11-27T01:33:00.000Z"
-  },
-  {
    "headline": "Starshield restrictions still hampering Ukraine's drone defenses, Zelensky tells BBC",
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/starshield-restrictions-still-hampering-ukraines-drone-defenses-zelensky-tells-bbc/",
    "date": "2026-11-27T01:17:50.000Z"
-  },
-  {
-   "headline": "20 tonnes of medicines and medical equipment arrive in Zakarpattia from Hungary",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-society/4188759-20-tonnes-of-medicines-and-medical-equipment-arrive-in-zakarpattia-from-hungary.html",
-   "date": "2026-11-27T00:28:00.000Z"
   },
   {
    "headline": "Armenia plans full withdrawal of Russian border guards in coming years, prime minister says",
@@ -543,22 +618,10 @@
    "date": "2026-11-26T23:58:00.000Z"
   },
   {
-   "headline": "Lithuania calls for Russia’s GRU to be designated terrorist organization",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4188754-lithuania-calls-for-russias-gru-to-be-designated-terrorist-organization.html",
-   "date": "2026-11-26T23:41:00.000Z"
-  },
-  {
    "headline": "Ukrainian man in critical condition after setting himself on fire in central Warsaw",
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/ukrainian-man-in-critical-condition-after-setting-himself-on-fire-in-central-warsaw/",
    "date": "2026-11-26T22:44:00.000Z"
-  },
-  {
-   "headline": "1,200 civilians remain in Druzhkivka community in Donetsk region",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4188728-1200-civilians-remain-in-druzhkivka-community-in-donetsk-region.html",
-   "date": "2026-11-26T22:41:00.000Z"
   },
   {
    "headline": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
@@ -584,12 +647,6 @@
    "official": "Ukraine",
    "link": "https://t.me/GeneralStaffZSU/43005",
    "date": "2026-11-26T20:00:44.000Z"
-  },
-  {
-   "headline": "Ukraine war latest: North Korea halts military aid to Russia, Ukrainian intelligence says",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/ukraine-war-latest-north-korea-halts-military-aid-to-russia-ukrainian-intelligence-says/",
-   "date": "2026-11-26T19:02:25.000Z"
   },
   {
    "headline": "Связь как воздух: когда она есть – её не замечают, но без неё не победить. На приеме 24/7 🤝 🔹 Курс на MAКС!",
@@ -687,12 +744,6 @@
    "official": "Russia",
    "link": "https://t.me/mod_russia/69339",
    "date": "2026-11-26T11:23:50.000Z"
-  },
-  {
-   "headline": "Ukraine strikes 2 Russian oil facilities, air field in Volgograd Oblast, General Staff confirms",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/2-russian-oil-facilities-reportedly-on-fire-in-bashkortostan-and-samara-oblast/",
-   "date": "2026-11-26T09:25:41.000Z"
   },
   {
    "headline": "Смертоносный «Град» на позициях ВСУ ⚔️ Артиллеристы группировки «Запад» накрыли пункты управления БПЛА и живую силу противника на Краснолиманском направлении. 🔹 Канал Минобороны России в MAКС – боевая работа 24/7",
@@ -1020,104 +1071,6 @@
    "official": "Russia",
    "link": "https://t.me/mod_russia/69304",
    "date": "2026-11-24T14:11:19.000Z"
-  },
-  {
-   "headline": "росія побила антирекорд втрат за всю війну і з початку 2026 року втратила 432 519 військових. Стільки ж осіб живе в чотирьох регіонах рф Сьогодні, 24 листопада, армія рф побила абсолютний антирекорд усієї війни: її втрати з початку 2026 року сягнули 432 519 осіб. Це більше,…",
-   "source": "General Staff of Ukraine (Telegram)",
-   "official": "Ukraine",
-   "link": "https://t.me/GeneralStaffZSU/42989",
-   "date": "2026-11-24T13:56:56.000Z"
-  },
-  {
-   "headline": "«Мне даже передали привет от друга, с кем мы вместе жили в общежитии при колледже». Войска беспилотных систем — это не только сами операторы БПЛА, но и все те, кто им помогает выполнить боевую задачу. Например, сапёры, которые готовят снаряды для ударных дронов. А также…",
-   "source": "Russian Defence Ministry (Telegram)",
-   "official": "Russia",
-   "link": "https://t.me/mod_russia/69303",
-   "date": "2026-11-24T13:21:51.000Z"
-  },
-  {
-   "headline": "🔥 Реактивный приговор Расчёты РСЗО «Град» 27-й гвардейской мотострелковой дивизии группировки «Центр» во взаимодействии с разведчиками и операторами БПЛА накрыли позиции ВСУ. 🔹 Минобороны России",
-   "source": "Russian Defence Ministry (Telegram)",
-   "official": "Russia",
-   "link": "https://t.me/mod_russia/69301",
-   "date": "2026-11-24T12:58:46.000Z"
-  },
-  {
-   "headline": "«СВОД», искусственный интеллект, мультиагентные платформы и кибербезопасность. О решении задач по цифровой трансформации, поставленных Министром обороны РФ на расширенном заседании коллегии ведомства в декабре 2025 года, рассказал замминистра обороны РФ Дмитрий Щербинин.…",
-   "source": "Russian Defence Ministry (Telegram)",
-   "official": "Russia",
-   "link": "https://t.me/mod_russia/69300",
-   "date": "2026-11-24T12:01:25.000Z"
-  },
-  {
-   "headline": "📈 Замминистра обороны РФ Дмитрий Щербинин: «Мы понимаем значение ИИ для разных сфер военной деятельности» «Если учитывать характер будущих военных конфликтов, становится понятно, почему это направление так важно. Боевые действия будут вестись одновременно на суше, в воздухе,…",
-   "source": "Russian Defence Ministry (Telegram)",
-   "official": "Russia",
-   "link": "https://t.me/mod_russia/69299",
-   "date": "2026-11-24T11:50:11.000Z"
-  },
-  {
-   "headline": "💻 Сейчас наша задача – сформировать культуру использования ИИ-агентов и справочно-рекомендательной системы. Вместе с отдельными центральными органами военного управления мы прорабатываем конкретные сценарии применения этих инструментов. 🗂 На платформе уже доступны,…",
-   "source": "Russian Defence Ministry (Telegram)",
-   "official": "Russia",
-   "link": "https://t.me/mod_russia/69298",
-   "date": "2026-11-24T11:49:33.000Z"
-  },
-  {
-   "headline": "🖥 К справочно-рекомендательной системе на базе большой языковой модели, где можно работать с документами ДСП, получили доступ более двух тысяч пользователей из более чем 35 центральных органов военного управления. «Мы также интегрировали ее с правовыми системами «Гарант» и…",
-   "source": "Russian Defence Ministry (Telegram)",
-   "official": "Russia",
-   "link": "https://t.me/mod_russia/69297",
-   "date": "2026-11-24T11:49:03.000Z"
-  },
-  {
-   "headline": "🤝 Во всех этих проектах мы стараемся исходить из человекоцентричного подхода. Нас интересует прежде всего, насколько удобно будет военнослужащему: сократится ли время получения социальной льготы или меры поддержки для него и членов его семьи, быстрее ли будут предоставляться…",
-   "source": "Russian Defence Ministry (Telegram)",
-   "official": "Russia",
-   "link": "https://t.me/mod_russia/69296",
-   "date": "2026-11-24T11:48:30.000Z"
-  },
-  {
-   "headline": "🗂 Реализуется большая программа проектов — «Единая информационная среда Министерства обороны». Речь не только о разработке новых систем. Как и при любом крупном внедрении, здесь необходим комплекс технических, организационных и нормативных мероприятий. «Мы готовим…",
-   "source": "Russian Defence Ministry (Telegram)",
-   "official": "Russia",
-   "link": "https://t.me/mod_russia/69295",
-   "date": "2026-11-24T11:48:02.000Z"
-  },
-  {
-   "headline": "🎮 Помимо СВОДа, много полезных цифровых сервисов реализуются инициативными организациями, гражданами и самими военнослужащими в интересах решения конкретных боевых задач. Это и решения для анализа эффективности применения БПЛА на основе видео и данных объективного контроля,…",
-   "source": "Russian Defence Ministry (Telegram)",
-   "official": "Russia",
-   "link": "https://t.me/mod_russia/69294",
-   "date": "2026-11-24T11:47:36.000Z"
-  },
-  {
-   "headline": "➡️ СВОД предоставляет информацию военнослужащим на разных уровнях управления. Не только командирам. Пользоваться системой могут и рядовые военнослужащие, если у них есть устройство с доступом к СВОДу. 📍 Кроме того, она дает возможность взаимодействовать с соседями и…",
-   "source": "Russian Defence Ministry (Telegram)",
-   "official": "Russia",
-   "link": "https://t.me/mod_russia/69293",
-   "date": "2026-11-24T11:47:13.000Z"
-  },
-  {
-   "headline": "🔄 В группировках войск развернуты центры информационно-технологического обеспечения. 📞 Это первая и вторая линии поддержки для пользователей, они также осуществляют администрирование программного обеспечения, инфраструктуры СВОДа и взаимодействуют с разработчиками.…",
-   "source": "Russian Defence Ministry (Telegram)",
-   "official": "Russia",
-   "link": "https://t.me/mod_russia/69292",
-   "date": "2026-11-24T11:46:45.000Z"
-  },
-  {
-   "headline": "Что такое СВОД? 🔄 СВОД – это экосистема цифровых сервисов, объединенных путем интеграции данных, общими служебными функциями и средствами защиты информации. Благодаря этому разные сервисы могут взаимодействовать как по вертикали управления, так и по горизонтали: например,…",
-   "source": "Russian Defence Ministry (Telegram)",
-   "official": "Russia",
-   "link": "https://t.me/mod_russia/69291",
-   "date": "2026-11-24T11:45:51.000Z"
-  },
-  {
-   "headline": "💬 О решении задач по цифровой трансформации, поставленных Министром обороны РФ на расширенном заседании коллегии ведомства в декабре 2025 года, рассказал замминистра обороны РФ Дмитрий Щербинин. Подробный разбор – в наших карточках 👇 🔹 Минобороны России",
-   "source": "Russian Defence Ministry (Telegram)",
-   "official": "Russia",
-   "link": "https://t.me/mod_russia/69290",
-   "date": "2026-11-24T11:45:10.000Z"
   },
   {
    "headline": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies",
