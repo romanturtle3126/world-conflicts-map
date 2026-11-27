@@ -2,12 +2,12 @@
  "schemaVersion": 1,
  "map": "middle-east",
  "meta": {
-  "lastUpdated": "2026-11-26T06:42:13-05:00",
-  "coverage": "2026-10-06 to 2026-11-26",
+  "lastUpdated": "2026-11-27T06:41:45-05:00",
+  "coverage": "2026-10-06 to 2026-11-27",
   "notes": [
-   "Refreshed 2026-11-26 (about 12:00 UTC, 07:00 Toronto) from the headline leads file, IDF, Gaza MoH, Houthi military spokesman, Tasnim and IRNA Telegram posts, Al Jazeera, Al-Monitor, Middle East Eye live blog and Critical Threats/ISW Iran Update of Nov 25.",
-   "Not read: UKMTO (blocked, only relayed via Middle East Eye), ISW main site (blocked; Critical Threats copy read), BBC (blocked), CENTCOM (no new item in the leads; X search found nothing for Nov 26), OCHA oPt (updates page loaded but no new report found), X posts (search returned no usable post ids; embed service not used).",
-   "Brent not refreshed (no Nov 25 settle found). Marker positions are approximate (see coordPrecision)."
+   "Refreshed 2026-11-27 (about 12:00 UTC, 07:00 Toronto) from the headline leads file, IDF, Gaza MoH, Houthi spokesman, Tasnim and IRNA Telegram posts, BBC, Al-Monitor, Middle East Eye, UN OCHA oPt situation report of Nov 26 and the Critical Threats/ISW Iran Update of Nov 25.",
+   "Not read: UKMTO (blocked by Cloudflare), Critical Threats Nov 26 update (not yet published), CENTCOM (no new item in the leads; web search found no Nov 26-27 X post), X posts (search returned no usable post ids), Euronews and France 24 feeds (HTTP errors). Brent and Lebanon MoPH totals not refreshed (no new figure found).",
+   "Marker positions are approximate (see coordPrecision)."
   ]
  },
  "events": [
@@ -4839,6 +4839,221 @@
    ],
    "lat": 13.5795,
    "lon": 44.0209
+  },
+  {
+   "id": "kuwait-city-1126",
+   "date": "2026-11-26",
+   "region": "gulf",
+   "oblast": "Kuwait",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "drone",
+   "status": "DISPUTED",
+   "title": "Two Italian technicians killed in drone strike on Kuwaiti air-defence site; Kuwait and Italy blame Iran, Iran denies",
+   "caption": "Kuwait's defence ministry said drones from Iran were intercepted and falling debris injured four people, and later confirmed two Italians died. Italy's foreign ministry said the two were Rheinmetall technicians servicing radar for Kuwait's Skyguard air defence; Italy's foreign minister said the drone was Iranian-made. Iran's armed forces spokesman said no military or offensive operations were conducted, and Foreign Minister Araghchi called the incident 'suspicious', expressed condolences and offered a joint investigation. The site is not named in the reports; marker is at Kuwait City.",
+   "lat": 29.367,
+   "lon": 47.9743,
+   "coordPrecision": "oblast",
+   "place": "Kuwait City",
+   "sources": [
+    {
+     "id": "bbc_1126_kuwait",
+     "title": "BBC, Two Italians killed in strike in Kuwait, as Iran denies responsibility, Nov 26",
+     "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o"
+    },
+    {
+     "id": "am_1126_kuwait",
+     "title": "Al-Monitor, Iranian drone attack on Kuwait leaves two Italians dead, Nov 26",
+     "url": "https://www.al-monitor.com/originals/2026/11/iranian-drone-attack-kuwait-leaves-two-italians-dead"
+    },
+    {
+     "id": "tg_irna_42658",
+     "title": "IRNA English Telegram, Iran denies Kuwaiti claims of attack by Iranian forces, Nov 26",
+     "url": "https://t.me/Irna_en/42658"
+    },
+    {
+     "id": "tg_irna_42661",
+     "title": "IRNA English Telegram, Iran ready for joint probe into Kuwait attack: Araghchi, Nov 27",
+     "url": "https://t.me/Irna_en/42661"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "Kuwait's army and defence ministry; Italy's foreign ministry",
+     "says": "Iranian drones struck a vital air-defence site; two Italian technicians died, a Kuwaiti and a Pakistani were hurt.",
+     "source": "bbc_1126_kuwait"
+    },
+    {
+     "who": "Iran's armed forces spokesman and Foreign Minister Araghchi",
+     "says": "No Iranian operation was conducted; the incident is suspicious; Iran offers a joint probe.",
+     "source": "tg_irna_42658"
+    }
+   ]
+  },
+  {
+   "id": "nabatieh-1126",
+   "date": "2026-11-26",
+   "region": "lebanon",
+   "oblast": "South Lebanon",
+   "front": "Lebanon & Syria",
+   "type": "airstrike",
+   "status": "ONE_PARTY",
+   "title": "IDF says it struck dozens of Hezbollah rockets and launchers at a Radwan Force camp in Ein al-Tina",
+   "caption": "The IDF said on Telegram that its aircraft struck dozens of rockets and launchers at a Radwan Force training camp in the Ein al-Tina area of southern Lebanon, saying they were meant for use against troops and civilians, and that it remains committed to the ceasefire agreement. Tasnim, citing Lebanese media, separately reported Israeli air strikes on highlands around Mishgharah, Al-Jbour and Tumat Niha. No Hezbollah or Lebanese health ministry statement and no independent confirmation found. Ein al-Tina was not found in the place list; marker is at Nabatieh, only the general area is known.",
+   "lat": 33.3789,
+   "lon": 35.4839,
+   "coordPrecision": "oblast",
+   "place": "Nabatieh",
+   "sources": [
+    {
+     "id": "tg_idf_19529",
+     "title": "IDF Telegram, IDF struck dozens of rockets and launchers belonging to Hezbollah in southern Lebanon, Nov 26",
+     "url": "https://t.me/idfofficial/19529"
+    },
+    {
+     "id": "tg_tasnim_49673",
+     "title": "Tasnim English Telegram, Israeli airstrikes and artillery fire on various areas in southern Lebanon, Nov 26",
+     "url": "https://t.me/Tasnimnews_en/49673"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "IDF",
+     "says": "Struck dozens of Hezbollah rockets and launchers at a Radwan Force camp; committed to the ceasefire.",
+     "source": "tg_idf_19529"
+    }
+   ]
+  },
+  {
+   "id": "nablus-1126",
+   "date": "2026-11-26",
+   "region": "westbank",
+   "oblast": "West Bank (Nablus area)",
+   "front": "Gaza & West Bank",
+   "type": "other",
+   "status": "ONE_PARTY",
+   "title": "IDF says suspects used an engineering vehicle to demolish a structure near Jalud and calls it a serious criminal act",
+   "caption": "The IDF said security forces went to the Jalud area after footage showed suspects using a civilian engineering vehicle to deliberately demolish a structure. It said police and forensic investigators would enter the scene, the Chief of the General Staff held an assessment, and it called the act 'a serious criminal act'. It did not name the suspects as settlers in the post. No Palestinian or independent account read. Jalud was not found in the place list; marker is at Nablus.",
+   "lat": 32.2211,
+   "lon": 35.2544,
+   "coordPrecision": "approx",
+   "place": "Nablus",
+   "sources": [
+    {
+     "id": "tg_idf_19527",
+     "title": "IDF Telegram, security forces dispatched to Jalud after report of deliberate demolition, Nov 26",
+     "url": "https://t.me/idfofficial/19527"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "IDF",
+     "says": "Suspects used a civilian engineering vehicle to demolish a structure; a criminal investigation is under way.",
+     "source": "tg_idf_19527"
+    }
+   ]
+  },
+  {
+   "id": "qeshm-1126",
+   "date": "2026-11-26",
+   "region": "iran-war",
+   "oblast": "Strait of Hormuz (Hengam Island)",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "other",
+   "status": "ONE_PARTY",
+   "title": "IRGC says warning fire from its air defence turned a US F-16 away near Hengam Island",
+   "caption": "The IRGC said its Aerospace Force air defence fired a warning shot at a US F-16 that approached Iranian airspace southeast of Hengam Island while escorting vessels, and the jet turned away. It called the airspace a red line. Middle East Eye and IRNA relay the statement. No US response and no independent confirmation found. Marker is at Qeshm, near the island.",
+   "lat": 26.9492,
+   "lon": 56.2691,
+   "coordPrecision": "approx",
+   "place": "Qeshm",
+   "sources": [
+    {
+     "id": "tg_irna_42666",
+     "title": "IRNA English Telegram, IRGC says warning fire forced US F-16 away from Iran's airspace, Nov 27",
+     "url": "https://t.me/Irna_en/42666"
+    },
+    {
+     "id": "mee_1127_hengam",
+     "title": "Middle East Eye live blog, IRGC says it forced US fighter jet to retreat from Hengam Island, Nov 27",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-forced-us-fighter-jet-retreat-hengam-island"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "IRGC",
+     "says": "An air-defence warning shot made a US F-16 turn away from Iranian airspace.",
+     "source": "tg_irna_42666"
+    }
+   ]
+  },
+  {
+   "id": "sanaa-1126",
+   "date": "2026-11-26",
+   "region": "yemen",
+   "oblast": "Yemen (Sanaa and nine provinces)",
+   "front": "Iran war / Gulf / Yemen",
+   "type": "airstrike",
+   "status": "ONE_PARTY",
+   "title": "Houthi military spokesman says Saudi aircraft carried out 109 air strikes and missile attacks in Yemen in 24 hours",
+   "caption": "The Houthi military spokesman said on Telegram that Saudi jets (F-15 and Typhoon from Khamis Mushait and Taif) and missiles from Najran carried out 109 raids on Sanaa and provinces including Al-Jawf, Taiz, Amran, Hajjah, Saada, Hodeidah, Lahij, Al-Bayda and Marib, leaving civilian dead and wounded, and put the total since the escalation at 5,934. Tasnim relays it. No Saudi-led coalition statement on this count and no independent confirmation read. Marker is at Sanaa.",
+   "lat": 15.3545,
+   "lon": 44.2065,
+   "coordPrecision": "oblast",
+   "place": "Sanaa",
+   "sources": [
+    {
+     "id": "tg_army21ye_4168",
+     "title": "Houthi military spokesman Telegram, 109 Saudi raids in 24 hours, Nov 26",
+     "url": "https://t.me/army21ye/4168"
+    },
+    {
+     "id": "tg_tasnim_49665",
+     "title": "Tasnim English Telegram, 109 Saudi airstrikes against Yemen in the past 24 hours, Nov 26",
+     "url": "https://t.me/Tasnimnews_en/49665"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "Houthi military spokesman",
+     "says": "109 Saudi air strikes and missile attacks in 24 hours; 5,934 since the escalation began.",
+     "source": "tg_army21ye_4168"
+    }
+   ]
+  },
+  {
+   "id": "gaza-city-1127",
+   "date": "2026-11-27",
+   "region": "gaza",
+   "oblast": "Gaza City",
+   "front": "Gaza & West Bank",
+   "type": "airstrike",
+   "status": "ONE_PARTY",
+   "title": "Medical sources say Israeli strike on residential building in Gaza City's Rimal neighbourhood wounded women and children",
+   "caption": "Middle East Eye, citing medical sources, reports an Israeli strike on a residential building in western Gaza City's Rimal neighbourhood on Friday injured civilians including children and women. No casualty count and no Israeli comment found. MEE also relays the Gaza health ministry's Nov 26 figures: 19 killed and 48 wounded in 48 hours, 1,705 killed since the ceasefire.",
+   "lat": 31.5016,
+   "lon": 34.4667,
+   "coordPrecision": "city",
+   "place": "Gaza",
+   "sources": [
+    {
+     "id": "mee_1127_rimal",
+     "title": "Middle East Eye live blog, Watch: Israeli attack on residential building in Gaza City wounds children, Nov 27",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-israeli-attack-residential-building-gaza-city-wounds-children"
+    }
+   ],
+   "read": "full",
+   "claims": [
+    {
+     "who": "Medical sources (via Middle East Eye)",
+     "says": "A strike on a residential building in Rimal wounded civilians, including children and women.",
+     "source": "mee_1127_rimal"
+    }
+   ]
   }
  ],
  "lanes": [
@@ -6606,6 +6821,71 @@
    "id": "tg_irna_42644",
    "title": "IRNA English Telegram, Israeli drone and artillery strikes on southern Lebanon, Nov 25",
    "url": "https://t.me/Irna_en/42644"
+  },
+  {
+   "id": "bbc_1126_kuwait",
+   "title": "BBC, Two Italians killed in strike in Kuwait, as Iran denies responsibility, Nov 26",
+   "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o"
+  },
+  {
+   "id": "am_1126_kuwait",
+   "title": "Al-Monitor, Iranian drone attack on Kuwait leaves two Italians dead, Nov 26",
+   "url": "https://www.al-monitor.com/originals/2026/11/iranian-drone-attack-kuwait-leaves-two-italians-dead"
+  },
+  {
+   "id": "tg_irna_42658",
+   "title": "IRNA English Telegram, Iran denies Kuwaiti claims of attack by Iranian forces, Nov 26",
+   "url": "https://t.me/Irna_en/42658"
+  },
+  {
+   "id": "tg_irna_42661",
+   "title": "IRNA English Telegram, Iran ready for joint probe into Kuwait attack: Araghchi, Nov 27",
+   "url": "https://t.me/Irna_en/42661"
+  },
+  {
+   "id": "tg_idf_19529",
+   "title": "IDF Telegram, IDF struck dozens of rockets and launchers belonging to Hezbollah in southern Lebanon, Nov 26",
+   "url": "https://t.me/idfofficial/19529"
+  },
+  {
+   "id": "tg_tasnim_49673",
+   "title": "Tasnim English Telegram, Israeli airstrikes and artillery fire on various areas in southern Lebanon, Nov 26",
+   "url": "https://t.me/Tasnimnews_en/49673"
+  },
+  {
+   "id": "mee_1127_rimal",
+   "title": "Middle East Eye live blog, Watch: Israeli attack on residential building in Gaza City wounds children, Nov 27",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/watch-israeli-attack-residential-building-gaza-city-wounds-children"
+  },
+  {
+   "id": "tg_idf_19535",
+   "title": "IDF Telegram, Joint IDF and ISA announcement on strikes in Gaza this past week, Nov 27",
+   "url": "https://t.me/idfofficial/19535"
+  },
+  {
+   "id": "tg_idf_19527",
+   "title": "IDF Telegram, security forces dispatched to Jalud after report of deliberate demolition, Nov 26",
+   "url": "https://t.me/idfofficial/19527"
+  },
+  {
+   "id": "tg_irna_42666",
+   "title": "IRNA English Telegram, IRGC says warning fire forced US F-16 away from Iran's airspace, Nov 27",
+   "url": "https://t.me/Irna_en/42666"
+  },
+  {
+   "id": "mee_1127_hengam",
+   "title": "Middle East Eye live blog, IRGC says it forced US fighter jet to retreat from Hengam Island, Nov 27",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-says-it-forced-us-fighter-jet-retreat-hengam-island"
+  },
+  {
+   "id": "tg_army21ye_4168",
+   "title": "Houthi military spokesman Telegram, 109 Saudi raids in 24 hours, Nov 26",
+   "url": "https://t.me/army21ye/4168"
+  },
+  {
+   "id": "tg_tasnim_49665",
+   "title": "Tasnim English Telegram, 109 Saudi airstrikes against Yemen in the past 24 hours, Nov 26",
+   "url": "https://t.me/Tasnimnews_en/49665"
   }
  ]
 }
