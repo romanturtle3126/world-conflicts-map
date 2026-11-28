@@ -1,12 +1,12 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-28T11:05:13+00:00",
+  "lastUpdated": "2026-11-28T11:43:13+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
     "source": "Al Jazeera",
     "ok": true,
-    "count": 5
+    "count": 7
    },
    {
     "source": "BBC News Middle East",
@@ -25,8 +25,8 @@
    },
    {
     "source": "France 24 Middle East",
-    "ok": false,
-    "error": "HTTP 403"
+    "ok": true,
+    "count": 25
    },
    {
     "source": "Al-Monitor",
@@ -71,7 +71,7 @@
    {
     "source": "Tasnim English (Telegram)",
     "ok": true,
-    "count": 6
+    "count": 5
    },
    {
     "source": "IRNA English (Telegram)",
@@ -81,6 +81,31 @@
   ]
  },
  "items": [
+  {
+   "headline": "Security tries to remove Palestinian flag at Selfridges on Black Friday",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/28/security-tries-to-remove-palestinian-flag-at-selfridges-on-black-friday?traffic_source=rss",
+   "date": "2026-11-28T11:30:07.000Z"
+  },
+  {
+   "headline": "Israel unity government talks stall: What happens now?",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/28/israel-unity-government-talks-stall-what-happens-now?traffic_source=rss",
+   "date": "2026-11-28T11:29:21.000Z"
+  },
+  {
+   "headline": "Israeli strike kills two Doctors Without Borders staff in Gaza",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/israeli-strike-kills-two-doctors-without-borders-staff-in-gaza",
+   "date": "2026-11-28T11:23:55.000Z"
+  },
+  {
+   "headline": "💬 In photos: Armenian Iranians in Tehran mark feast day of St. Thaddeus and St. Bartholomew 📲 @Irna_en",
+   "source": "IRNA English (Telegram)",
+   "official": "Iran (state agency IRNA)",
+   "link": "https://t.me/Irna_en/42688",
+   "date": "2026-11-28T11:11:25.000Z"
+  },
   {
    "headline": "Pezeshkian announces return of damaged South Pars gas pipelines to production",
    "source": "Middle East Eye",
@@ -121,11 +146,23 @@
    "date": "2026-11-28T10:57:48.000Z"
   },
   {
+   "headline": "War in the Middle East: Surge of violence in occupied West Bank",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east-surge-of-violence-in-occupied-west-bank",
+   "date": "2026-11-28T10:51:21.000Z"
+  },
+  {
    "headline": "🇵🇸 وزارة الصحة الفلسطينية – قطاع غزة ▪️التقرير الاحصائي لإجمالي ما وصل إلى مستشفيات قطاع غزة خلال الـ48 ساعة الماضية: 18 شهيد (15 شهيد جديد، 3 شهداء انتشال) و 38 إصابة. ▪️إحصائية الضحايا منذ وقف إطلاق النار في 11 أكتوبر 2025: إجمالي الشهداء: 1,720 شهيدًا. إجمالي الإصابات:…",
    "source": "Gaza Ministry of Health (Telegram)",
    "official": "Gaza (Ministry of Health)",
    "link": "https://t.me/MOHMediaGaza/7762",
    "date": "2026-11-28T10:47:06.000Z"
+  },
+  {
+   "headline": "Syrian Kurds protest against Baghdad leader's moves to assert central control",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/syrian-kurds-protest-against-baghdad-leader-s-moves-to-assert-central-control",
+   "date": "2026-11-28T10:45:18.000Z"
   },
   {
    "headline": "Instagram tops platforms for spreading fake news; fact-check posts gain more views 🔹In the first week of Azar, 148 fake news stories were identified; 76 were officially debunked, with 36 fact-check posts analyzed. 🔹The fact-check posts garnered a total of 154.3 million…",
@@ -560,6 +597,12 @@
    "date": "2026-11-27T18:46:30.000Z"
   },
   {
+   "headline": "'From bad to catastrophic: Iran's justice system was already unfair for many decades'",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/from-bad-to-catastrophic-iran-s-justice-system-was-already-unfair-for-many-decades",
+   "date": "2026-11-27T18:18:46.000Z"
+  },
+  {
    "headline": "Commemoration ceremony for the late Javad Khajesteh Bagherzadeh 🔹 This afternoon, on Friday, December 27, a commemoration ceremony for the late Javad Khajesteh Bagherzadeh was held at the Imam Sadiq (AS) Mosque in Palestine Square, attended by members of the public and…",
    "source": "Tasnim English (Telegram)",
    "official": "Iran (IRGC-affiliated Tasnim)",
@@ -609,6 +652,12 @@
    "source": "Al-Monitor",
    "link": "https://www.al-monitor.com/originals/2026/11/opec-expected-hold-q1-2027-output-steady-amid-disputes",
    "date": "2026-11-27T15:07:15.000Z"
+  },
+  {
+   "headline": "With new law, Iraq sees rise in child marriage, custody battles",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/tv-shows/focus/20261127-with-new-law-iraq-sees-rise-in-child-marriage-custody-battles",
+   "date": "2026-11-27T14:48:28.000Z"
   },
   {
    "headline": "🌍 Iranian tennis player withdraws from match against Israeli opponent 📌 Tehran, IRNA — Ali Yazdani, an Iranian tennis player, withdrew from the men’s doubles quarterfinals of the ITF World Tennis Tour in Antalya, Türkiye, to avoid playing an opponent from the Israeli…",
@@ -861,6 +910,12 @@
    "date": "2026-11-27T07:02:01.000Z"
   },
   {
+   "headline": "Israel's Eisenkot agrees to coalition deal with left-wing Democrats",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261127-israel-s-eisenkot-agrees-to-coalition-deal-with-left-wing-democrats",
+   "date": "2026-11-27T06:46:42.000Z"
+  },
+  {
    "headline": "💬 Iran’s Italy embassy warns against efforts to draw Europe into regional crisis following Kuwait attack 📌 Tehran, IRNA – Iran’s embassy in Rome has rejected allegations that Iran was responsible for a drone attack on a military facility in Kuwait that killed two Italian…",
    "source": "IRNA English (Telegram)",
    "official": "Iran (state agency IRNA)",
@@ -934,6 +989,12 @@
    "source": "BBC News Middle East",
    "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-26T21:17:53.000Z"
+  },
+  {
+   "headline": "Hamas weighs response after Israel kills 10 people in Gaza",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/hamas-weighs-response-after-israel-kills-10-people-in-gaza",
+   "date": "2026-11-26T20:35:23.000Z"
   },
   {
    "headline": "Saudi regime attacks a residential house in Sanaa Al-Masirah News: 🔹 Saudi warplanes targeted a civilian’s house in the “Azlat Al-Hajla” area, located in the “Al-Haymah Al-Kharijiyah” district to the west of Sanaa. Reports indicate that civilians are trapped under the…",
@@ -1118,6 +1179,12 @@
    "date": "2026-11-26T12:28:49.000Z"
   },
   {
+   "headline": "Israel threatens to displace one million Palestinians in Gaza unless Hamas disarms",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261126-israel-threatens-to-displace-one-million-palestinians-in-gaza-unless-hamas-disarms",
+   "date": "2026-11-26T12:28:31.000Z"
+  },
+  {
    "headline": "📡 Two more offending oil tankers hit naval mines in Strait of Hormuz 📌 Tehran, IRNA — The Islamic Revolution Guards Corps (IRGC) Navy has reported explosions involving two more offending oil tankers traveling along unauthorized and unsafe routes in the Strait of Hormuz. In…",
    "source": "IRNA English (Telegram)",
    "official": "Iran (state agency IRNA)",
@@ -1173,23 +1240,28 @@
    "date": "2026-11-26T12:09:45.000Z"
   },
   {
-   "headline": "MFA ISRAEL: Over 65,000 tents for Gazans have been approved by Israel, yet the UN continues to leave them undelivered. Winter shelters sit idle at open crossings because of the UN ‘s logistical failures. It is time for the UN to stop deflecting and do its job, instead of…",
-   "source": "State of Israel / PMO (Telegram)",
-   "official": "Israel (government)",
-   "link": "https://t.me/StateofIsraelOfficial/6359",
-   "date": "2026-11-26T12:09:34.000Z"
-  },
-  {
    "headline": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
    "source": "BBC News Middle East",
    "link": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-26T10:14:08.000Z"
   },
   {
+   "headline": "Iraqi court sentences 8 French nationals to life in prison for IS group membership",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261126-iraqi-court-to-sentence-20-french-nationals-for-is-group-membership",
+   "date": "2026-11-26T06:28:48.000Z"
+  },
+  {
    "headline": "Desperate appeals from women on death row in Iran after protests",
    "source": "BBC News Middle East",
    "link": "https://www.bbc.co.uk/news/articles/cm8x0ve4yd7wo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-26T06:01:58.000Z"
+  },
+  {
+   "headline": "Israeli lawmakers advance October 7 inquiry opposed by Netanyahu",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/israeli-lawmakers-advance-october-7-inquiry-opposed-by-netanyahu",
+   "date": "2026-11-25T22:26:40.000Z"
   },
   {
    "headline": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
@@ -1204,10 +1276,28 @@
    "date": "2026-11-25T19:47:39.000Z"
   },
   {
+   "headline": "In boost for Netanyahu, judges question corruption trial charges",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/in-boost-for-netanyahu-judges-question-corruption-trial-charges",
+   "date": "2026-11-25T19:28:13.000Z"
+  },
+  {
+   "headline": "Libya’s Haftar visits old foe Turkey for first time in ‘new phase’ of ties",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261125-libya-s-haftar-visits-old-foe-turkey-in-a-first-hails-new-phase-of-ties",
+   "date": "2026-11-25T15:19:19.000Z"
+  },
+  {
    "headline": "Israeli strike kills senior Hamas security official and family in Gaza City",
    "source": "BBC News Middle East",
    "link": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-25T14:06:13.000Z"
+  },
+  {
+   "headline": "Israeli MPs advance bill for inquiry into security failings that led to October 7 Hamas attack",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261125-israeli-mps-advance-bill-for-inquiry-into-security-failings-that-led-to-october-7-hamas-attack",
+   "date": "2026-11-25T12:55:47.000Z"
   },
   {
    "headline": "Türk warns of widening risk of atrocity crimes against Palestinians",
@@ -1234,6 +1324,24 @@
    "date": "2026-11-25T10:03:42.000Z"
   },
   {
+   "headline": "Amnesty calls for ICC genocide probe over Israel's impact on births in Gaza",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261125-amnesty-calls-for-icc-genocide-probe-over-israel-s-impact-on-births-in-gaza",
+   "date": "2026-11-25T04:01:48.000Z"
+  },
+  {
+   "headline": "Yemen’s army says Houthi fighters closing in on government stronghold of Aden",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261124-yemen-army-houthi-attack-aden",
+   "date": "2026-11-24T16:51:30.000Z"
+  },
+  {
+   "headline": "'We are ready to facilitate removal of Netanyahu': Head of Israel's Arab-majority Joint List",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261124-we-are-ready-to-facilitate-the-removal-of-netanyahu-from-power-head-of-israel-s-joint-list",
+   "date": "2026-11-24T16:29:15.000Z"
+  },
+  {
    "headline": "Israeli air strike kills Hamas internal security chief in Gaza",
    "source": "BBC News Middle East",
    "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
@@ -1244,6 +1352,12 @@
    "source": "BBC News Middle East",
    "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-24T15:17:28.000Z"
+  },
+  {
+   "headline": "Israeli strikes on Gaza kill senior Hamas security official and six other people, medics say",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261124-israeli-strikes-on-gaza-kill-senior-hamas-security-official-and-six-other-people-medics-say",
+   "date": "2026-11-24T13:07:03.000Z"
   },
   {
    "headline": "Iranian authorities flog singer who performed without hijab, lawyers say",
@@ -1264,16 +1378,64 @@
    "date": "2026-11-23T12:00:00.000Z"
   },
   {
+   "headline": "Israel’s Eisenkot slams ‘Jewish terrorism’ after attacks by settlers in West Bank",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank",
+   "date": "2026-11-22T21:29:16.000Z"
+  },
+  {
+   "headline": "West Bank attacks: Opposition leader Eisenkot decries \"Jewish terrorism\"",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism",
+   "date": "2026-11-22T16:25:09.000Z"
+  },
+  {
+   "headline": "Israel investigates West Bank fires",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/israel-investigates-west-bank-fires",
+   "date": "2026-11-22T13:47:04.000Z"
+  },
+  {
+   "headline": "Bahrain accuses Iran of striking industrial site as tankers hit in Hormuz",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261122-bahrain-accuses-iran-of-striking-industrial-site-as-tankers-hit-in-hormuz",
+   "date": "2026-11-22T03:24:14.000Z"
+  },
+  {
+   "headline": "Eisenkot invites Netanyahu’s party for ‘marathon’ Israeli coalition talks",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
+   "date": "2026-11-21T20:49:04.000Z"
+  },
+  {
+   "headline": "Endurance athlete swims in Hormuz Strait",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/endurance-athlete-swims-in-hormuz-strait",
+   "date": "2026-11-21T16:02:59.000Z"
+  },
+  {
    "headline": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
    "source": "UN News Middle East",
    "link": "https://news.un.org/feed/view/en/story/2026/11/1168851",
    "date": "2026-11-21T12:00:00.000Z"
   },
   {
+   "headline": "Houthis launch strikes on Saudi Arabia",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/houthis-launch-strikes-on-saudi-arabia",
+   "date": "2026-11-21T09:49:44.000Z"
+  },
+  {
    "headline": "US declassifies more UFO footage filmed in the Middle East",
    "source": "BBC News Middle East",
    "link": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-20T23:15:20.000Z"
+  },
+  {
+   "headline": "Yemen's Houthis target Riyadh after Saudi coalition's 'special operation'",
+   "source": "France 24 Middle East",
+   "link": "https://www.france24.com/en/middle-east/20261120-yemen-s-houthis-target-riyadh-after-saudi-coalition-s-special-operation",
+   "date": "2026-11-20T18:36:15.000Z"
   },
   {
    "headline": "Why AI fakes are spreading after Saudi skyscraper attack",

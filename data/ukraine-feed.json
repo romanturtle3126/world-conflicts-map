@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-28T11:05:10+00:00",
+  "lastUpdated": "2026-11-28T11:43:11+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -56,6 +56,18 @@
   ]
  },
  "items": [
+  {
+   "headline": "Ukraine commemorates victims of Holodomor famine",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/ukraine-commemorates-victims-of-holodomor-famine/",
+   "date": "2026-11-28T11:05:28.000Z"
+  },
+  {
+   "headline": "Ukraine calls for US envoy Kushner to be removed from peace talks, Politico says",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/28/8065099/",
+   "date": "2026-11-28T10:55:00.000Z"
+  },
   {
    "headline": "Russian forces attack railway infrastructure in Zhytomyr region, fires break out",
    "source": "Ukrinform",
@@ -460,12 +472,6 @@
    "date": "2026-11-27T19:24:47.000Z"
   },
   {
-   "headline": "Zelenskyy confirms that attack on Russian ship in Libya was not coordinated with Ukraine’s partners",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8065044/",
-   "date": "2026-11-27T19:13:00.000Z"
-  },
-  {
    "headline": "Germany votes through nearly 12 billion euros in Ukraine support for 2027",
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/germany-votes-through-nearly-12-billion-euros-in-ukraine-support-for-2027/",
@@ -534,12 +540,6 @@
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/ukraines-ai-workforce-grows-18-but-experienced-engineers-remain-scarce-study-shows/",
    "date": "2026-11-27T17:40:00.000Z"
-  },
-  {
-   "headline": "Ukraine hit oil, military facilities across 11 Russian regions over past week, Zelensky says",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/ukraine-hit-oil-military-facilities-across-11-russian-regions-over-past-week-zelensky-says/",
-   "date": "2026-11-27T17:34:45.000Z"
   },
   {
    "headline": "Владимир Путин проводит совещание о развитии группировки многоцелевых атомных подводных лодок Военно-Морского Флота В современных условиях Военно-Морской Флот играет крайне важную роль в обеспечении суверенитета и безопасности России, защите наших национальных интересов, и…",
@@ -1055,13 +1055,6 @@
    "source": "BBC News Europe",
    "link": "https://www.bbc.co.uk/news/videos/cwg7l58v9jdjo?at_medium=RSS&at_campaign=rss",
    "date": "2026-11-25T13:27:36.000Z"
-  },
-  {
-   "headline": "5 літаків, якими росіяни тероризують цивільних українців, уражено на аеродромі «Саваслейка» 💥 24-го та в ніч на 25 листопада удари Сил оборони України дістали один із ключових аеродромів російської авіації. У Нижньогородській області уражено аеродром «Саваслейка». Саме…",
-   "source": "General Staff of Ukraine (Telegram)",
-   "official": "Ukraine",
-   "link": "https://t.me/GeneralStaffZSU/42996",
-   "date": "2026-11-25T11:30:46.000Z"
   },
   {
    "headline": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies",
