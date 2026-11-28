@@ -2,6 +2,16 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-28 06:04 Toronto — Ukraine — OK
+- Added 4 event(s):
+  - `nizhyn-1127` 2026-11-27 [ONE_PARTY] Russian strike on businesses in Nizhyn kills seven, injures seven
+  - `kremenchuk-1127` 2026-11-27 [ONE_PARTY] Russian drones hit Kremenchuk: two schools damaged, six injured
+  - `yefremov-1127` 2026-11-27 [ONE_PARTY] Ukraine's General Staff says it hit Yefremov synthetic rubber plant in Tula Oblast
+  - `moscow-1128` 2026-11-28 [ONE_PARTY] Moscow mayor says 460 drones targeted Moscow Oblast overnight; airports restricted
+- Stats: 1 updated, 2 added
+- 9 new source link(s)
+- Totals: 218 events, 70 stats, 374 sources; coverage 2026-10-10 to 2026-11-28
+
 ## 2026-11-27 06:41 Toronto — Middle East — OK (partial — 2 quarantined)
 - Added 6 event(s):
   - `kuwait-city-1126` 2026-11-26 [DISPUTED] Two Italian technicians killed in drone strike on Kuwaiti air-defence site; Kuwait and Italy blame Iran, Iran denies
