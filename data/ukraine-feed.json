@@ -1,6 +1,6 @@
 {
  "meta": {
-  "lastUpdated": "2026-11-27T19:34:21+00:00",
+  "lastUpdated": "2026-11-28T00:10:26+00:00",
   "note": "Auto-pulled headlines. Unverified until reviewed.",
   "feeds": [
    {
@@ -20,8 +20,8 @@
    },
    {
     "source": "Euronews",
-    "ok": false,
-    "error": "HTTP 406"
+    "ok": true,
+    "count": 4
    },
    {
     "source": "BBC News Europe",
@@ -36,7 +36,7 @@
    {
     "source": "Al Jazeera",
     "ok": true,
-    "count": 2
+    "count": 3
    },
    {
     "source": "UK Ministry of Defence (GOV.UK)",
@@ -57,10 +57,83 @@
  },
  "items": [
   {
+   "headline": "Russian commanders threatened with being sent on assault missions over lack of progress in Zaporizhzhia sector – ATESH",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4189188-russian-commanders-threatened-with-being-sent-on-assault-missions-over-lack-of-progress-in-zaporizhzhia-sector-atesh.html",
+   "date": "2026-11-27T22:39:00.000Z"
+  },
+  {
+   "headline": "Russian drone attack on Kremenchuk injures 4, including 3 children",
+   "source": "Kyiv Independent",
+   "link": "https://kyivindependent.com/russian-drone-attack-on-kremenchuk-injures-4-including-3-children/",
+   "date": "2026-11-27T22:13:00.000Z"
+  },
+  {
+   "headline": "Hungary lifts entry ban on Ukrainian Commander Robert ‘Magyar’ Brovdi",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-society/4189431-hungary-lifts-entry-ban-on-ukrainian-commander-robert-magyar-brovdi.html",
+   "date": "2026-11-27T21:30:00.000Z"
+  },
+  {
+   "headline": "Zelensky confirms to Meloni that Ukraine did not coordinate Libya operation with Europe",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4189426-zelensky-confirms-to-meloni-that-ukraine-did-not-coordinate-libya-operation-with-europe.html",
+   "date": "2026-11-27T21:00:00.000Z"
+  },
+  {
+   "headline": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
+   "source": "Al Jazeera",
+   "link": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
+   "date": "2026-11-27T20:39:57.000Z"
+  },
+  {
+   "headline": "Russian troops attempting to infiltrate Stepnohirsk in Zaporizhzhia region – military",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4189428-russian-troops-attempting-to-infiltrate-stepnohirsk-in-zaporizhzhia-region-military.html",
+   "date": "2026-11-27T20:39:00.000Z"
+  },
+  {
+   "headline": "Russian drone attack damages two educational facilities in Kremenchuk, injuring two children",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-ato/4189423-russian-drone-attack-damages-two-educational-facilities-in-kremenchuk-injuring-two-children.html",
+   "date": "2026-11-27T20:20:00.000Z"
+  },
+  {
+   "headline": "Оперативна інформація станом на 22:00 27.11.2026 щодо російського вторгнення Загалом від початку цієї доби відбулося 134 бойових зіткнення. Противник завдав 47 авіаційних ударів, скинув 143 керовані авіабомби. Крім того, залучив для ураження 4940 дронів-камікадзе та здійснив…",
+   "source": "General Staff of Ukraine (Telegram)",
+   "official": "Ukraine",
+   "link": "https://t.me/GeneralStaffZSU/43013",
+   "date": "2026-11-27T20:02:29.000Z"
+  },
+  {
+   "headline": "Zelensky meets with Liberia's Foreign Minister",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-polytics/4189414-zelensky-meets-with-liberias-foreign-minister.html",
+   "date": "2026-11-27T19:56:00.000Z"
+  },
+  {
+   "headline": "Russian military flotilla en route to Libya turns back after Ukrainian attack on ships – Reuters",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8065047/",
+   "date": "2026-11-27T19:34:00.000Z"
+  },
+  {
+   "headline": "Cabinet approves revised 2027 State Budget for second reading, allocating nearly UAH 5 trillion to defense",
+   "source": "Ukrinform",
+   "link": "https://www.ukrinform.net/rubric-economy/4189409-cabinet-approves-revised-2027-state-budget-for-second-reading-allocating-nearly-uah-5-trillion-to-defense.html",
+   "date": "2026-11-27T19:30:00.000Z"
+  },
+  {
    "headline": "Rheinmetall may drop plans to build ammunition plant in Ukraine, CEO says",
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/rheinmetall-may-drop-plans-to-build-ammunition-plant-in-ukraine-ceo-says/",
    "date": "2026-11-27T19:24:47.000Z"
+  },
+  {
+   "headline": "Zelenskyy confirms that attack on Russian ship in Libya was not coordinated with Ukraine’s partners",
+   "source": "Ukrainska Pravda",
+   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8065044/",
+   "date": "2026-11-27T19:13:00.000Z"
   },
   {
    "headline": "Germany votes through nearly 12 billion euros in Ukraine support for 2027",
@@ -80,6 +153,12 @@
    "official": "Russia",
    "link": "https://t.me/mod_russia/69394",
    "date": "2026-11-27T19:03:58.000Z"
+  },
+  {
+   "headline": "Estonia will close border with Russia 'to secure Europe,' foreign minister says during Baku visit",
+   "source": "Euronews",
+   "link": "https://www.euronews.com/2026/11/27/estonia-will-close-border-with-russia-to-secure-europe-foreign-minister-says-during-baku-v",
+   "date": "2026-11-27T18:48:22.000Z"
   },
   {
    "headline": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
@@ -113,7 +192,7 @@
    "date": "2026-11-27T18:33:03.000Z"
   },
   {
-   "headline": "Zelensky says Ukraine aligns naval strikes with partners, Italy denies coordination over Libya attack",
+   "headline": "Zelensky acknowledges Ukraine did not coordinate Libya strike with European partners",
    "source": "Kyiv Independent",
    "link": "https://kyivindependent.com/zelensky-says-ukraine-aligns-naval-strikes-with-partners-italy-denies-coordination-over-libya-attack/",
    "date": "2026-11-27T18:26:38.000Z"
@@ -317,6 +396,12 @@
    "date": "2026-11-27T15:57:00.000Z"
   },
   {
+   "headline": "By Putin's logic, Russia should be returned to Mongolia, Belarus' Lukashenka says",
+   "source": "Euronews",
+   "link": "https://www.euronews.com/2026/11/27/by-putins-logic-russia-should-go-back-to-mongolia-belarus-lukashenka-says",
+   "date": "2026-11-27T15:37:01.000Z"
+  },
+  {
    "headline": "Spox Pletenchuk: Russia seeks alternative supply routes for troops after partial collapse of Kerch Bridge",
    "source": "Ukrinform",
    "link": "https://www.ukrinform.net/rubric-ato/4189356-spox-pletenchuk-russia-seeks-alternative-supply-routes-for-troops-after-partial-collapse-of-kerch-bridge.html",
@@ -347,6 +432,12 @@
    "source": "Ukrainska Pravda",
    "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064994/",
    "date": "2026-11-27T15:18:00.000Z"
+  },
+  {
+   "headline": "Russian drone strikes hit Ukraine's energy, rail and civilian infrastructure, causing deaths",
+   "source": "Euronews",
+   "link": "https://www.euronews.com/2026/11/27/russian-drone-strikes-hit-ukraines-energy-rail-and-civilian-infrastructure-causing-deaths",
+   "date": "2026-11-27T15:16:17.000Z"
   },
   {
    "headline": "Russia developing new satellite communications system for military use, HUR says",
@@ -405,12 +496,6 @@
    "date": "2026-11-27T14:28:00.000Z"
   },
   {
-   "headline": "9 Ukrainian children returned from Russian-occupied territories, Russia through Melania Trump's mediation, Zelensky says",
-   "source": "Kyiv Independent",
-   "link": "https://kyivindependent.com/9-ukrainian-children-returned-from-russian-occupied-territories-russia-through-melania-trumps-mediation-zelensky-says/",
-   "date": "2026-11-27T14:05:45.000Z"
-  },
-  {
    "headline": "15 ворожих складів уразили Сили оборони за один тиждень! 💥 Ліквідуємо склади окупантів максимально ефективно та оперативно, мов до Black Friday. З 19 по 26 листопада уражено: ▪️ 9 складів матеріально-технічного забезпечення; ▪️ 3 склади паливно-мастильних матеріалів; ▪️ 2…",
    "source": "General Staff of Ukraine (Telegram)",
    "official": "Ukraine",
@@ -449,6 +534,12 @@
    "date": "2026-11-27T13:00:00.000Z"
   },
   {
+   "headline": "North Korea halts Russia military aid over Seoul row, Kyiv says",
+   "source": "Euronews",
+   "link": "https://www.euronews.com/2026/11/27/north-korea-halts-russia-military-aid-over-seoul-row-kyiv-says",
+   "date": "2026-11-27T12:53:58.000Z"
+  },
+  {
    "headline": "\"They were trying to build their lives\": IT couple killed in Russian drone attack on Kharkiv",
    "source": "Ukrainska Pravda",
    "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064968/",
@@ -467,12 +558,6 @@
    "date": "2026-11-27T12:39:00.000Z"
   },
   {
-   "headline": "Russia extends ban on jet fuel exports amid Ukrainian attacks on oil refineries",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064967/",
-   "date": "2026-11-27T12:37:00.000Z"
-  },
-  {
    "headline": "Russian secret services fabricating cases against civilians in occupied Kherson region to meet targets",
    "source": "Ukrinform",
    "link": "https://www.ukrinform.net/rubric-society/4189265-russian-secret-services-fabricating-cases-against-civilians-in-occupied-kherson-region-to-meet-targets.html",
@@ -485,23 +570,11 @@
    "date": "2026-11-27T12:00:00.000Z"
   },
   {
-   "headline": "Ukraine has US$80m for Grain from Ukraine programme – Zelenskyy",
-   "source": "Ukrainska Pravda",
-   "link": "https://www.pravda.com.ua/eng/news/2026/11/27/8064956/",
-   "date": "2026-11-27T11:47:00.000Z"
-  },
-  {
    "headline": "Военно-строительный комплекс: реализация масштабных проектов и создание военно-строительных подразделений. О решении задач, поставленных Министром обороны РФ на расширенном заседании коллегии ведомства в декабре 2025 года, рассказал замминистра обороны РФ генерал-лейтенант…",
    "source": "Russian Defence Ministry (Telegram)",
    "official": "Russia",
    "link": "https://t.me/mod_russia/69384",
    "date": "2026-11-27T11:41:33.000Z"
-  },
-  {
-   "headline": "Ukrainian forces strike Russian oil facilities, defense industry plants, military airfields over past week",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4189251-ukrainian-forces-strike-russian-oil-facilities-defense-industry-plants-military-airfields-over-past-week.html",
-   "date": "2026-11-27T11:39:00.000Z"
   },
   {
    "headline": "🤝 Замминистра обороны РФ Павел Фрадков поблагодарил военных строителей за ежесуточный кропотливый труд. «Тот вклад, который делают военные строители в деле обустройства войск, сегодня очень востребован. И мы с вами хорошо понимаем, что от темпов, от сроков и от качества их…",
@@ -560,12 +633,6 @@
    "date": "2026-11-27T11:26:21.000Z"
   },
   {
-   "headline": "Liberian Foreign Minister makes first-ever visit to Kyiv",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4189245-liberian-foreign-minister-makes-firstever-visit-to-kyiv.html",
-   "date": "2026-11-27T11:20:00.000Z"
-  },
-  {
    "headline": "Гвардейцы в ударе 💥 Операторы БПЛА-перехватчиков 58-й гвардейской общевойсковой армии группировки «Днепр» нейтрализовали ударные дроны ВСУ в Запорожской области. 📍 Ореховское направление #ВойскаБПС 🎮 Канал Минобороны России в MAКС – боевая работа 24/7. Присоединяйся!",
    "source": "Russian Defence Ministry (Telegram)",
    "official": "Russia",
@@ -573,41 +640,11 @@
    "date": "2026-11-27T11:09:55.000Z"
   },
   {
-   "headline": "Secretary General of the Council of Europe arrives in Kyiv",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4189227-secretary-general-of-the-council-of-europe-arrives-in-kyiv.html",
-   "date": "2026-11-27T11:00:00.000Z"
-  },
-  {
-   "headline": "Russian strikes hit railways and energy infrastructure in nine Ukrainian regions overnight – PM Koretskyi",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4189218-russian-strikes-hit-railways-and-energy-infrastructure-in-nine-ukrainian-regions-overnight-pm-koretskyi.html",
-   "date": "2026-11-27T10:43:00.000Z"
-  },
-  {
-   "headline": "Zelensky: Ukraine will defend Kyiv by any means as Russia seeks to drive people from cities",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-polytics/4189210-zelensky-ukraine-will-defend-kyiv-by-any-means-as-russia-seeks-to-drive-people-from-cities.html",
-   "date": "2026-11-27T10:25:00.000Z"
-  },
-  {
-   "headline": "Russian aggression claims 777 children's lives in Ukraine",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4189198-russian-aggression-claims-777-childrens-lives-in-ukraine.html",
-   "date": "2026-11-27T10:06:00.000Z"
-  },
-  {
    "headline": "❗️С 21 по 27 ноября Вооруженными Силами Российской Федерации нанесены два массированных и 12 групповых ударов, в результате которых поражены предприятия военной промышленности Украины, задействованные в производстве крылатых ракет, ракетного топлива, беспилотных летательных…",
    "source": "Russian Defence Ministry (Telegram)",
    "official": "Russia",
    "link": "https://t.me/mod_russia/69373",
    "date": "2026-11-27T09:49:22.000Z"
-  },
-  {
-   "headline": "Explosions rock Russian plant producing components for Iskander missile fuel",
-   "source": "Ukrinform",
-   "link": "https://www.ukrinform.net/rubric-ato/4189183-explosions-rock-russian-plant-producing-components-for-iskander-missile-fuel.html",
-   "date": "2026-11-27T09:48:00.000Z"
   },
   {
    "headline": "Морпехи бьют наверняка ▫️ Расчеты беспилотников 810-й бригады морской пехоты группировки «Север» уничтожают живую силу, технику, пункты управления БПЛА и дроны противника. 📍 Сумская область #ВойскаБПС ▫️ Канал Минобороны России в MAКС – источник мощных новостей",
@@ -1060,13 +1097,6 @@
    "official": "Russia",
    "link": "https://t.me/mod_russia/69313",
    "date": "2026-11-25T02:03:01.000Z"
-  },
-  {
-   "headline": "Оперативна інформація станом на 22:00 24.11.2026 щодо відбиття російського вторгнення Загалом від початку цієї доби відбулося 184 бойові зіткнення. Противник завдав 49 авіаційних ударів, скинув 152 керовані авіабомби. Крім того, залучив для ураження 2639 дронів-камікадзе та…",
-   "source": "General Staff of Ukraine (Telegram)",
-   "official": "Ukraine",
-   "link": "https://t.me/GeneralStaffZSU/42991",
-   "date": "2026-11-24T20:00:52.000Z"
   },
   {
    "headline": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies",
