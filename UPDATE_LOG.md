@@ -2,6 +2,23 @@
 
 Newest first. Written by scripts/merge-update.mjs on every daily run.
 
+## 2026-11-28 06:42 Toronto — Middle East — OK (partial — 1 quarantined)
+- Added 8 event(s):
+  - `gaza-city-1127-2` 2026-11-27 [DISPUTED] MSF says Israeli strike killed two watchmen at its Gaza clinic; IDF says they were Hamas militants
+  - `bandar-abbas-1126-2` 2026-11-26 [ONE_PARTY] CENTCOM says US aircraft disabled the Palau-flagged bulk carrier Pacific Archer after it left Bandar Abbas
+  - `khasab-1127` 2026-11-27 [ONE_PARTY] IRGC Navy says tankers hit mines north of Gonom Island and off Khasab; no independent confirmation
+  - `riyadh-1128` 2026-11-28 [ONE_PARTY] Saudi-led coalition says air defences destroyed a Houthi cruise missile launched at Riyadh
+  - `khamis-mushait-1128` 2026-11-28 [ONE_PARTY] Coalition says it destroyed a Houthi ballistic missile fired at southern Saudi Arabia; alert sounded at Khamis Mushait
+  - `taiz-1127-2` 2026-11-27 [ONE_PARTY] Yemeni state news agency says Houthi drone, rocket and sniper attacks killed three civilians in Taiz
+  - `nabatieh-1128` 2026-11-28 [ONE_PARTY] Lebanese state agency says Israeli jets raided Kfar Tibnit in two waves; blasts reported at Qantara
+  - `tayasir-1122` 2026-11-22 [CONFIRMED] Israeli forces demolish all remaining structures in Khirbet Samra, northern Jordan Valley
+- Stats: 3 updated, 0 added
+- Lanes: 1 updated
+- Quarantined 1 item(s) — NOT merged:
+  - lane "hormuz-lane": missing text
+- 21 new source link(s)
+- Totals: 156 events, 18 stats, 258 sources; coverage 2026-10-06 to 2026-11-28
+
 ## 2026-11-28 06:04 Toronto — Ukraine — OK
 - Added 4 event(s):
   - `nizhyn-1127` 2026-11-27 [ONE_PARTY] Russian strike on businesses in Nizhyn kills seven, injures seven
