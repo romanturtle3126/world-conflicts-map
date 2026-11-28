@@ -2,11 +2,11 @@
  "schemaVersion": 1,
  "map": "ukraine",
  "meta": {
-  "lastUpdated": "2026-11-27T06:04:38-05:00",
-  "coverage": "2026-10-10 to 2026-11-27",
+  "lastUpdated": "2026-11-28T06:04:38-05:00",
+  "coverage": "2026-10-10 to 2026-11-28",
   "notes": [
-   "Refreshed Nov 27, 2026 (UTC, ~11:30) from Telegram channels GeneralStaffZSU, mod_russia and kpszsu (alert posts only), Ukrinform and Kyiv Independent articles, and the headline leads file (pulled Nov 27 ~00:40 UTC).",
-   "Not read this run: ISW assessment, X posts (none found by search), Reuters/AP, the Air Force launch tally for the night of Nov 26-27 (not in the Telegram preview or found by search), Russian MoD wording on Marinovka (none published). The Marinovka airfield strike (General Staff, Nov 26) is not mapped because the place list has no match near the airfield.",
+   "Refreshed Nov 28, 2026 (UTC, ~13:00) from Telegram channels GeneralStaffZSU, mod_russia and kpszsu (alert posts only), Kyiv Independent and Ukrinform articles, and the headline leads file (pulled Nov 28 ~00:10 UTC).",
+   "Not read this run: ISW assessment (none found for Nov 27), X posts (two searches returned no x.com results; the embed service returned no post text), Reuters/AP, Russian MoD's own wording on the Moscow Oblast attack, Ukraine's comment on it (none published at time of writing).",
    "Coordinates are city-level or approximate (see coordPrecision); markers flagged 'oblast' are not geolocated.",
    "Casualty figures are as reported by the cited outlet at time of writing and may have been revised."
   ]
@@ -6100,17 +6100,152 @@
     }
    ],
    "read": "full"
+  },
+  {
+   "id": "nizhyn-1127",
+   "date": "2026-11-27",
+   "region": "north",
+   "oblast": "Chernihiv",
+   "front": "Chernihiv",
+   "type": "airstrike",
+   "status": "ONE_PARTY",
+   "title": "Russian strike on businesses in Nizhyn kills seven, injures seven",
+   "caption": "Ukraine's State Emergency Service says a Russian strike on local businesses in Nizhyn on Nov 27 killed seven people and injured seven; rescuers pulled one person alive from the rubble before operations ended on the morning of Nov 28. Earlier police reports gave three dead and seven injured, so the toll rose during the day. No Russian statement or independent confirmation of the toll was read.",
+   "lat": 51.0477,
+   "lon": 31.8884,
+   "coordPrecision": "city",
+   "place": "Nizhyn",
+   "sources": [
+    {
+     "id": "ki_nizhyn_1128",
+     "title": "Kyiv Independent: Russian attacks kill 10, injure 55 across Ukraine over past day as deadly strike hits Chernihiv Oblast businesses (Nov 28)",
+     "url": "https://kyivindependent.com/russian-attacks-kill-10-injure-55-across-ukraine-over-past-day-as-deadly-strike-hits-chernihiv-oblast-businesses/"
+    },
+    {
+     "id": "ukrinform_nizhyn_1127",
+     "title": "Ukrinform: Death toll in Russian strike on Nizhyn rises to three, seven injured (Nov 27)",
+     "url": "https://www.ukrinform.net/rubric-ato/4189402-death-toll-in-russian-strike-on-nizhyn-rises-to-three-seven-injured.html"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Ukraine's State Emergency Service",
+     "says": "Seven killed and seven injured in the strike on businesses; one person pulled alive from rubble.",
+     "source": "ki_nizhyn_1128"
+    },
+    {
+     "who": "Chernihiv regional police",
+     "says": "Earlier count: three killed and seven injured.",
+     "source": "ukrinform_nizhyn_1127"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "kremenchuk-1127",
+   "date": "2026-11-27",
+   "region": "rear",
+   "oblast": "Poltava",
+   "front": "Rear (Poltava)",
+   "type": "drone",
+   "status": "ONE_PARTY",
+   "title": "Russian drones hit Kremenchuk: two schools damaged, six injured",
+   "caption": "Poltava Governor Vitalii Diakivnych says a Russian drone attack damaged two educational institutions in central Kremenchuk on Nov 27, injuring four people including three children. Earlier that afternoon another drone strike on the city injured two women, aged 55 and 17. The Kyiv Independent could not immediately confirm the numbers.",
+   "lat": 49.0625,
+   "lon": 33.4048,
+   "coordPrecision": "city",
+   "place": "Kremenchuk",
+   "sources": [
+    {
+     "id": "ki_kremenchuk_1128",
+     "title": "Kyiv Independent: Russian drone attack on Kremenchuk injures 4, including 3 children (Nov 28)",
+     "url": "https://kyivindependent.com/russian-drone-attack-on-kremenchuk-injures-4-including-3-children/"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Poltava Governor Vitalii Diakivnych",
+     "says": "Two educational institutions damaged; four injured, including three children.",
+     "source": "ki_kremenchuk_1128"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "yefremov-1127",
+   "date": "2026-11-27",
+   "region": "russia",
+   "oblast": "Tula Oblast, Russia",
+   "front": "Russia (deep strikes)",
+   "type": "deep-strike",
+   "status": "ONE_PARTY",
+   "title": "Ukraine's General Staff says it hit Yefremov synthetic rubber plant in Tula Oblast",
+   "caption": "Ukraine's General Staff says forces, with the 'Black Spark' resistance movement, hit the Yefremov synthetic rubber plant overnight on Nov 27. It says the plant makes a key component of solid rocket fuel used in Iskander ballistic missiles; damage is still being assessed. The General Staff also reported confirmed results of the Nov 23 strike on the Novoshakhtinsk refinery (Rostov Oblast): 20 horizontal tanks destroyed and 32 more tanks damaged. No Russian statement or independent confirmation was read.",
+   "lat": 53.1376,
+   "lon": 38.1186,
+   "coordPrecision": "city",
+   "place": "Yefremov",
+   "sources": [
+    {
+     "id": "ki_yefremov_1127",
+     "title": "Kyiv Independent: Ukraine war latest: Ukraine hits missile fuel production facility in Russia's Tula Oblast (Nov 27)",
+     "url": "https://kyivindependent.com/ukraine-war-latest-ukraine-hits-missile-fuel-production-facility-in-russias-tula-oblast-military-says/"
+    },
+    {
+     "id": "ukrinform_yefremov_1127",
+     "title": "Ukrinform: General Staff confirms strike on Tula factory producing fuel for Iskander missiles (Nov 27)",
+     "url": "https://www.ukrinform.net/rubric-ato/4189367-general-staff-confirms-strike-on-tula-factory-producing-fuel-for-iskander-missiles.html"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Ukraine's General Staff",
+     "says": "Hit the Yefremov synthetic rubber plant, which supplies a key ingredient of Iskander solid fuel; damage being assessed.",
+     "source": "ki_yefremov_1127"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "id": "moscow-1128",
+   "date": "2026-11-28",
+   "region": "russia",
+   "oblast": "Moscow Oblast, Russia",
+   "front": "Russia (deep strikes)",
+   "type": "deep-strike",
+   "status": "ONE_PARTY",
+   "title": "Moscow mayor says 460 drones targeted Moscow Oblast overnight; airports restricted",
+   "caption": "Moscow Mayor Sergey Sobyanin says 460 drones targeted Moscow Oblast overnight on Nov 28 and 123 were intercepted on approach to Moscow; he did not say how many were downed across the region. Flight restrictions were reported at Vnukovo and Domodedovo and at airports in Kaluga, Penza, Saratov and Tambov. Ukraine had not commented when the Kyiv Independent published, and the figures are Russian claims.",
+   "lat": 55.752,
+   "lon": 37.6178,
+   "coordPrecision": "approx",
+   "place": "Moscow",
+   "sources": [
+    {
+     "id": "ki_moscow_1128",
+     "title": "Kyiv Independent: Ukraine reportedly launches massive attack on Moscow Oblast with 460 drones (Nov 28)",
+     "url": "https://kyivindependent.com/ukraine-reportedly-launches-massive-attack-on-moscow-oblast-with-460-drones/"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Moscow Mayor Sergey Sobyanin",
+     "says": "460 drones targeted Moscow Oblast; 123 intercepted en route to Moscow.",
+     "source": "ki_moscow_1128"
+    }
+   ],
+   "read": "full"
   }
  ],
  "stats": [
   {
    "label": "Russian military personnel losses (cumulative, since Feb 24, 2022)",
    "category": "casualties",
-   "asOf": "2026-11-25",
+   "asOf": "2026-11-28",
    "status": "ONE_PARTY",
    "ukraine": {
-    "value": "1,643,580 killed and wounded, including +2,091 over the past day (General Staff figures as relayed by Kyiv Independent, Nov 25). Year-to-date 2026: 432,519, above all of 2024 (430,790)",
-    "source": "ki_losses_1125"
+    "value": "1,650,986 killed and wounded, including +2,825 over the past day (General Staff figures as relayed by Kyiv Independent, Nov 28)",
+    "source": "ki_losses_1128"
    },
    "russia": {
     "value": "No official cumulative figure published",
@@ -7259,6 +7394,36 @@
    "russia": {
     "value": "No launch count published; MoD says drones hit the 'Termoplast' plant in Letychiv, a plant in Zaporizhzhia, 330 kV substations in Kryvyi Rih and Zhytomyr, a logistics center in Bila Tserkva, four locomotives and a dry-cargo ship south-west of Odesa",
     "source": "mod_strikes_1127"
+   },
+   "independent": []
+  },
+  {
+   "label": "Russian drones and missiles launched at Ukraine (night of Nov 27-28)",
+   "category": "shootdowns",
+   "asOf": "2026-11-28",
+   "status": "DISPUTED",
+   "ukraine": {
+    "value": "Air Force: 162 drones, 74 of them jet-powered; 141 intercepted (54 jet-powered) as of 08:00; strikes at 13 locations, debris at 7 (relayed by Kyiv Independent)",
+    "source": "ki_nizhyn_1128"
+   },
+   "russia": {
+    "value": "No launch count published; MoD says drones hit the Zarichya 110 kV substation in Bila Tserkva, a fuel tank in Kiliya (Odesa Oblast), four locomotives (Synelnykove, Korosten, Liubotyn) and a dry-cargo ship south of Odesa",
+    "source": "mod_strikes_1128"
+   },
+   "independent": []
+  },
+  {
+   "label": "Ukrainian drones shot down over Russia (night of Nov 27-28)",
+   "category": "shootdowns",
+   "asOf": "2026-11-28",
+   "status": "ONE_PARTY",
+   "ukraine": {
+    "value": "No count published",
+    "source": null
+   },
+   "russia": {
+    "value": "MoD claims 1,246 fixed-wing drones destroyed overnight over 14 regions, Bashkortostan and Crimea; Moscow Mayor Sobyanin says 460 drones targeted Moscow Oblast, 123 intercepted en route to Moscow",
+    "source": "mod_pvo_1128"
    },
    "independent": []
   }
@@ -9088,6 +9253,51 @@
    "id": "ki_crimea_1126",
    "title": "Kyiv Independent: Large-scale power outage hits Russian-occupied Crimea, disrupts transport (Nov 26)",
    "url": "https://kyivindependent.com/large-scale-power-outage-hits-russian-occupied-crimea-disrupts-transport/"
+  },
+  {
+   "id": "ki_losses_1128",
+   "title": "Kyiv Independent: General Staff: Russia has lost 1,650,986 troops in Ukraine since Feb. 24, 2022 (Nov 28)",
+   "url": "https://kyivindependent.com/general-staff-russia-has-lost-1-650-986-troops-in-ukraine-since-feb-24-2022/"
+  },
+  {
+   "id": "ki_nizhyn_1128",
+   "title": "Kyiv Independent: Russian attacks kill 10, injure 55 across Ukraine over past day as deadly strike hits Chernihiv Oblast businesses (Nov 28)",
+   "url": "https://kyivindependent.com/russian-attacks-kill-10-injure-55-across-ukraine-over-past-day-as-deadly-strike-hits-chernihiv-oblast-businesses/"
+  },
+  {
+   "id": "mod_strikes_1128",
+   "title": "Russian MoD (Telegram): overnight strikes on Ukrainian targets (Nov 28)",
+   "url": "https://t.me/mod_russia/69397"
+  },
+  {
+   "id": "mod_pvo_1128",
+   "title": "Russian MoD (Telegram): 1,246 Ukrainian drones destroyed overnight (Nov 28)",
+   "url": "https://t.me/mod_russia/69398"
+  },
+  {
+   "id": "ukrinform_nizhyn_1127",
+   "title": "Ukrinform: Death toll in Russian strike on Nizhyn rises to three, seven injured (Nov 27)",
+   "url": "https://www.ukrinform.net/rubric-ato/4189402-death-toll-in-russian-strike-on-nizhyn-rises-to-three-seven-injured.html"
+  },
+  {
+   "id": "ki_kremenchuk_1128",
+   "title": "Kyiv Independent: Russian drone attack on Kremenchuk injures 4, including 3 children (Nov 28)",
+   "url": "https://kyivindependent.com/russian-drone-attack-on-kremenchuk-injures-4-including-3-children/"
+  },
+  {
+   "id": "ki_yefremov_1127",
+   "title": "Kyiv Independent: Ukraine war latest: Ukraine hits missile fuel production facility in Russia's Tula Oblast (Nov 27)",
+   "url": "https://kyivindependent.com/ukraine-war-latest-ukraine-hits-missile-fuel-production-facility-in-russias-tula-oblast-military-says/"
+  },
+  {
+   "id": "ukrinform_yefremov_1127",
+   "title": "Ukrinform: General Staff confirms strike on Tula factory producing fuel for Iskander missiles (Nov 27)",
+   "url": "https://www.ukrinform.net/rubric-ato/4189367-general-staff-confirms-strike-on-tula-factory-producing-fuel-for-iskander-missiles.html"
+  },
+  {
+   "id": "ki_moscow_1128",
+   "title": "Kyiv Independent: Ukraine reportedly launches massive attack on Moscow Oblast with 460 drones (Nov 28)",
+   "url": "https://kyivindependent.com/ukraine-reportedly-launches-massive-attack-on-moscow-oblast-with-460-drones/"
   }
  ]
 }
