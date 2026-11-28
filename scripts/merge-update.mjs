@@ -140,6 +140,8 @@ for (const f of inStats) {
 }
 
 // Lanes (by id). Status, text, sources and claims can change; the drawn line (points, colour) cannot.
+// The incoming lane is overlaid on the existing one: a field it omits is inherited, so a partial
+// lane update cannot fail validation over a field it never tried to change (the Nov 25-28 quarantines).
 const appliedLanes = [];
 if (inLanes.length) {
   next.lanes = next.lanes || [];
@@ -147,7 +149,7 @@ if (inLanes.length) {
     const i = next.lanes.findIndex((x) => x.id === (l && l.id));
     if (i < 0) { q("lane", (l && l.id) || "(no id)", "lane does not exist; new lanes are added by hand, not by the daily update"); continue; }
     const old = next.lanes[i];
-    const merged = { ...l, points: old.points, color: old.color };
+    const merged = { ...old, ...l, points: old.points, color: old.color };
     if (JSON.stringify(merged) === JSON.stringify(old)) continue;
     next.lanes[i] = merged;
     const errs = checkNext();
