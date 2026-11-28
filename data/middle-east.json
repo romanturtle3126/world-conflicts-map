@@ -2,11 +2,11 @@
  "schemaVersion": 1,
  "map": "middle-east",
  "meta": {
-  "lastUpdated": "2026-11-27T06:41:45-05:00",
-  "coverage": "2026-10-06 to 2026-11-27",
+  "lastUpdated": "2026-11-28T06:42:38-05:00",
+  "coverage": "2026-10-06 to 2026-11-28",
   "notes": [
-   "Refreshed 2026-11-27 (about 12:00 UTC, 07:00 Toronto) from the headline leads file, IDF, Gaza MoH, Houthi spokesman, Tasnim and IRNA Telegram posts, BBC, Al-Monitor, Middle East Eye, UN OCHA oPt situation report of Nov 26 and the Critical Threats/ISW Iran Update of Nov 25.",
-   "Not read: UKMTO (blocked by Cloudflare), Critical Threats Nov 26 update (not yet published), CENTCOM (no new item in the leads; web search found no Nov 26-27 X post), X posts (search returned no usable post ids), Euronews and France 24 feeds (HTTP errors). Brent and Lebanon MoPH totals not refreshed (no new figure found).",
+   "Refreshed 2026-11-28 (about 12:00 UTC, 07:00 Toronto) from the headline leads file, IDF and Gaza MoH Telegram posts, Tasnim and IRNA Telegram posts, CENTCOM (DVIDS release and X post read through the embed service), MSF on X (embed service), Al Jazeera, Al-Monitor (Reuters), Middle East Eye, UN OCHA oPt situation report of Nov 26 and the Critical Threats/ISW Iran Update of Nov 27.",
+   "Not read: UKMTO site (blocked by Cloudflare; weekly figures come from Middle East Eye), understandingwar.org (blocked), Euronews and France 24 feeds (HTTP errors), CENTCOM Nov 28 (no new item). The Houthi spokesman posted nothing new on Nov 28 in the Telegram preview, so the Houthi side of the Saudi missile events is missing. Brent and Lebanon MoPH totals not refreshed (no new figure found).",
    "Marker positions are approximate (see coordPrecision)."
   ]
  },
@@ -3987,6 +3987,34 @@
    "read": "full"
   },
   {
+   "front": "Gaza & West Bank",
+   "id": "tayasir-1122",
+   "date": "2026-11-22",
+   "region": "westbank",
+   "oblast": "West Bank (northern Jordan Valley)",
+   "type": "other",
+   "status": "CONFIRMED",
+   "title": "Israeli forces demolish all remaining structures in Khirbet Samra, northern Jordan Valley",
+   "caption": "UN OCHA's Nov 26 report says Israeli authorities demolished 79 Palestinian-owned structures across the West Bank in the week of Nov 17-23, including all remaining structures in Khirbet Samra. Middle East Eye, quoting residents, says bulldozers arrived without notice on Sunday, residents had ten minutes to retrieve belongings, and the debris was buried; more than 15 structures were destroyed and residents now live in tents. I found no Israeli army statement on this demolition. Marker is at Tayasir, near the community.",
+   "lat": 32.3404,
+   "lon": 35.396,
+   "coordPrecision": "approx",
+   "place": "Tayasir",
+   "sources": [
+    {
+     "id": "ocha_1126",
+     "title": "UN OCHA oPt, Humanitarian Situation Report, 26 November 2026",
+     "url": "https://www.ochaopt.org/content/humanitarian-situation-report-26-november-2026"
+    },
+    {
+     "id": "mee_1128_samra",
+     "title": "Middle East Eye, Residents of Jordan Valley vow to remain after Israeli bulldozers raze homes, Nov 28",
+     "url": "https://www.middleeasteye.net/news/khirbet-samra-palestinians-persist-staying-despite-israeli-attempts-displacement"
+    }
+   ],
+   "read": "full"
+  },
+  {
    "id": "tehran-1123",
    "date": "2026-11-23",
    "region": "iran-war",
@@ -5026,6 +5054,56 @@
    ]
   },
   {
+   "front": "Iran war / Gulf / Yemen",
+   "id": "bandar-abbas-1126-2",
+   "date": "2026-11-26",
+   "region": "iran-war",
+   "oblast": "Gulf of Oman",
+   "type": "naval",
+   "status": "ONE_PARTY",
+   "title": "CENTCOM says US aircraft disabled the Palau-flagged bulk carrier Pacific Archer after it left Bandar Abbas",
+   "caption": "CENTCOM said that on Nov 26 a US aircraft struck the stern of the M/V Pacific Archer in the Gulf of Oman with precision munitions after its crew tried to run the blockade despite warnings; propulsion was disabled and the crew was unharmed. It says US forces have redirected 158 vessels and disabled six. Al-Monitor (Reuters) and Critical Threats relay the statement; I found no independent confirmation of the ship's departure port, and some social media accounts dispute it. Critical Threats notes it was the first such CENTCOM announcement since Nov 7. Marker is at Bandar Abbas; the strike position is only given as the Gulf of Oman.",
+   "lat": 27.1865,
+   "lon": 56.2808,
+   "coordPrecision": "oblast",
+   "place": "Bandar Abbas",
+   "sources": [
+    {
+     "id": "centcom_1127_archer",
+     "title": "US Central Command (DVIDS), US Forces Disable Commercial Vessel During Blockade Enforcement Against Iran, Nov 27",
+     "url": "https://www.dvidshub.net/news/580348/us-forces-disable-commercial-vessel-during-blockade-enforcement-against-iran"
+    },
+    {
+     "id": "x_centcom_1127",
+     "title": "CENTCOM on X, commercial vessel disabled in the Gulf of Oman, Nov 27",
+     "url": "https://x.com/CENTCOM/status/2126359352869065046"
+    },
+    {
+     "id": "am_1127_blockade",
+     "title": "Al-Monitor (Reuters), US disables ship trying to leave Iran, as Tehran vows to confront blockade, Nov 27",
+     "url": "https://www.al-monitor.com/originals/2026/11/us-disables-ship-trying-leave-iran-tehran-vows-confront-blockade"
+    },
+    {
+     "id": "ctp_1127",
+     "title": "Critical Threats / ISW, Iran Update, November 27, 2026",
+     "url": "https://www.criticalthreats.org/analysis/iran-update-november-27-2026"
+    }
+   ],
+   "claims": [
+    {
+     "who": "CENTCOM",
+     "says": "Ship left Bandar Abbas, ignored warnings; stern struck, propulsion disabled, crew unharmed.",
+     "source": "centcom_1127_archer"
+    },
+    {
+     "who": "Iran (adviser Mokhber, Navy chief Irani, via state media)",
+     "says": "Neither will Hormuz reopen nor will the blockade stay; breaking it is \"underway\" (no comment on this ship).",
+     "source": "am_1127_blockade"
+    }
+   ],
+   "read": "full"
+  },
+  {
    "id": "gaza-city-1127",
    "date": "2026-11-27",
    "region": "gaza",
@@ -5054,6 +5132,220 @@
      "source": "mee_1127_rimal"
     }
    ]
+  },
+  {
+   "front": "Gaza & West Bank",
+   "id": "gaza-city-1127-2",
+   "date": "2026-11-27",
+   "region": "gaza",
+   "oblast": "Gaza Strip (Gaza City)",
+   "type": "airstrike",
+   "status": "DISPUTED",
+   "title": "MSF says Israeli strike killed two watchmen at its Gaza clinic; IDF says they were Hamas militants",
+   "caption": "Doctors Without Borders (MSF) said two of its watchmen were killed on Friday night in a \"direct hit\" on one of its clinics in Gaza City, bringing the number of its staff killed in Gaza to 17, and said the premises were clearly marked and known to the Israeli military. The IDF confirmed the strike and named Ahmed Sufyan Muhammad Ali Abu Hasira and Moaz Yousef Alitsbach, saying both were Hamas military-wing members working as guards, and that the strike was not aimed at a hospital and did not damage medical infrastructure. I found no independent check of the IDF's claim about the two men. Marker is at Gaza city; the exact clinic location is not given.",
+   "lat": 31.5016,
+   "lon": 34.4667,
+   "coordPrecision": "approx",
+   "place": "Gaza",
+   "sources": [
+    {
+     "id": "aj_1128_msf",
+     "title": "Al Jazeera, Israeli 'direct hit' on Doctors Without Borders Gaza clinic kills 2 staff, Nov 28",
+     "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff"
+    },
+    {
+     "id": "x_msf_1127",
+     "title": "MSF International on X, two watchmen killed in Israeli strike on a Gaza clinic, Nov 27",
+     "url": "https://x.com/MSF/status/2126437061452275776"
+    },
+    {
+     "id": "tg_idf_19538",
+     "title": "IDF Telegram, IDF says it struck two Hamas operatives who were MSF clinic guards, Nov 27",
+     "url": "https://t.me/idfofficial/19538"
+    },
+    {
+     "id": "mee_1128_msfidf",
+     "title": "Middle East Eye live blog, Israeli army acknowledges Gaza strike that killed two MSF workers, Nov 28",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-acknowledges-gaza-strike-killed-two-msf-workers"
+    }
+   ],
+   "claims": [
+    {
+     "who": "MSF",
+     "says": "Two colleagues, both watchmen, killed in a direct hit on a clearly marked clinic whose location Israel knew.",
+     "source": "x_msf_1127"
+    },
+    {
+     "who": "IDF",
+     "says": "Struck two Hamas military-wing operatives who worked as clinic guards; not aimed at a hospital, no damage to medical infrastructure.",
+     "source": "tg_idf_19538"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "front": "Iran war / Gulf / Yemen",
+   "id": "khasab-1127",
+   "date": "2026-11-27",
+   "region": "gulf",
+   "oblast": "Strait of Hormuz",
+   "type": "naval",
+   "status": "ONE_PARTY",
+   "title": "IRGC Navy says tankers hit mines north of Gonom Island and off Khasab; no independent confirmation",
+   "caption": "The IRGC Navy press office said that on the morning of Nov 27 two tankers tried to pass north of Gonom Island via an \"unauthorized route\", one hit a mine and exploded and the other turned back; late that night it said a tanker hit a mine at the mouth of Khasab port and another exploded east of the strait. Middle East Eye relays the claim. I found no UKMTO or shipping-source report of these two incidents, and CENTCOM, which called other Iranian naval claims false, did not address them in the posts I read. Marker is at Khasab, not the sites.",
+   "lat": 26.1799,
+   "lon": 56.2477,
+   "coordPrecision": "oblast",
+   "place": "Khasab",
+   "sources": [
+    {
+     "id": "tg_tasnim_49747",
+     "title": "Tasnim English Telegram, IRGC Navy says tanker hit mine north of Gonom Island, Nov 27",
+     "url": "https://t.me/Tasnimnews_en/49747"
+    },
+    {
+     "id": "tg_tasnim_49830",
+     "title": "Tasnim English Telegram, IRGC Navy says two tankers exploded off Khasab and east of Hormuz, Nov 27",
+     "url": "https://t.me/Tasnimnews_en/49830"
+    },
+    {
+     "id": "mee_1128_morning",
+     "title": "Middle East Eye live blog, Morning update, Nov 28",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-683"
+    },
+    {
+     "id": "mee_1128_cccl",
+     "title": "Middle East Eye live blog, Centcom rejects Iran's claims on warship attack, Hormuz shipping charges, Nov 28",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-rejects-irans-claims-warship-attack-hormuz-shipping-charges"
+    }
+   ],
+   "claims": [
+    {
+     "who": "IRGC Navy (via Tasnim)",
+     "says": "Tankers on unauthorized routes hit mines; use of such routes has fallen sharply.",
+     "source": "tg_tasnim_49747"
+    },
+    {
+     "who": "CENTCOM (via Middle East Eye)",
+     "says": "Rejected other Iranian claims about US forces and Hormuz shipping as false; said Iran no longer has a navy.",
+     "source": "mee_1128_cccl"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "front": "Iran war / Gulf / Yemen",
+   "id": "taiz-1127-2",
+   "date": "2026-11-27",
+   "region": "yemen",
+   "oblast": "Yemen (Taiz)",
+   "type": "artillery",
+   "status": "ONE_PARTY",
+   "title": "Yemeni state news agency says Houthi drone, rocket and sniper attacks killed three civilians in Taiz",
+   "caption": "The government-run Saba agency says Houthi drone strikes, rocket fire and sniper attacks on residential areas on Friday killed three people, including a 10-year-old boy and his father, and wounded three, among them an 18-month-old girl in Sabir al-Mawadim district. Taiz's Siege Affairs Office separately reported two people killed in a drone attack on the city's northwest front and it was unclear if these were the same deaths. There is no Houthi comment. Al Jazeera reports the government says its forces hit Houthi positions in 726 attacks and killed or injured at least 121 Houthis, which is also a one-sided claim.",
+   "lat": 13.5795,
+   "lon": 44.0209,
+   "coordPrecision": "city",
+   "place": "Taiz",
+   "sources": [
+    {
+     "id": "mee_1128_taiz",
+     "title": "Middle East Eye live blog, Houthi attacks kill three civilians and wound three others in Taiz, report says, Nov 28",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-attacks-kill-three-civilians-and-wound-three-others-taiz-report"
+    },
+    {
+     "id": "mee_1128_khamis",
+     "title": "Middle East Eye live blog, Saudi coalition reports Houthi ballistic missile launch towards kingdom's south, Nov 28",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-coalition-says-it-intercepts-houthi-ballistic-missile-targeting"
+    },
+    {
+     "id": "aj_1128_yemen",
+     "title": "Al Jazeera, Yemen government forces hit Houthi positions as UN warns of hunger crisis, Nov 28",
+     "url": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis"
+    }
+   ],
+   "claims": [
+    {
+     "who": "Yemeni government (Saba)",
+     "says": "Houthi attacks killed three civilians in Taiz on Friday.",
+     "source": "mee_1128_taiz"
+    },
+    {
+     "who": "Yemeni government forces",
+     "says": "726 attacks on Houthi positions; at least 121 Houthis killed or injured.",
+     "source": "aj_1128_yemen"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "front": "Iran war / Gulf / Yemen",
+   "id": "riyadh-1128",
+   "date": "2026-11-28",
+   "region": "gulf",
+   "oblast": "Saudi Arabia (Riyadh)",
+   "type": "missile",
+   "status": "ONE_PARTY",
+   "title": "Saudi-led coalition says air defences destroyed a Houthi cruise missile launched at Riyadh",
+   "caption": "Coalition spokesman Turki al-Maliki said on X that Saudi air defences intercepted and destroyed a cruise missile the Houthis fired toward Riyadh, according to Middle East Eye. No damage or casualties are reported and I found no Houthi statement on this launch. Houthi-affiliated Al Masirah separately reports Saudi air strikes on telecoms networks in al-Sawma'ah and Mukayras districts of al-Bayda. Marker is at Riyadh.",
+   "lat": 24.6877,
+   "lon": 46.7219,
+   "coordPrecision": "city",
+   "place": "Riyadh",
+   "sources": [
+    {
+     "id": "mee_1128_riyadh",
+     "title": "Middle East Eye live blog, Saudi air defences destroy Houthi cruise missile over Riyadh, Nov 28",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-air-defences-destroy-houthi-cruise-missile-over-riyadh"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "front": "Iran war / Gulf / Yemen",
+   "id": "khamis-mushait-1128",
+   "date": "2026-11-28",
+   "region": "gulf",
+   "oblast": "Saudi Arabia (Asir)",
+   "type": "missile",
+   "status": "ONE_PARTY",
+   "title": "Coalition says it destroyed a Houthi ballistic missile fired at southern Saudi Arabia; alert sounded at Khamis Mushait",
+   "caption": "The Saudi-led coalition said its air defences intercepted a ballistic missile the Houthis fired toward the south of the kingdom; Saudi Civil Defence briefly issued an alert for Khamis Mushait in Asir before saying the threat had passed. No casualties are reported and I found no Houthi statement. Marker is at Khamis Mushait.",
+   "lat": 18.3,
+   "lon": 42.7333,
+   "coordPrecision": "approx",
+   "place": "Khamis Mushait",
+   "sources": [
+    {
+     "id": "mee_1128_khamis",
+     "title": "Middle East Eye live blog, Saudi coalition reports Houthi ballistic missile launch towards kingdom's south, Nov 28",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-coalition-says-it-intercepts-houthi-ballistic-missile-targeting"
+    }
+   ],
+   "read": "full"
+  },
+  {
+   "front": "Lebanon & Syria",
+   "id": "nabatieh-1128",
+   "date": "2026-11-28",
+   "region": "lebanon",
+   "oblast": "Lebanon (Nabatieh)",
+   "type": "airstrike",
+   "status": "ONE_PARTY",
+   "title": "Lebanese state agency says Israeli jets raided Kfar Tibnit in two waves; blasts reported at Qantara",
+   "caption": "Lebanon's National News Agency says Israeli jets carried out a two-wave air raid on Kfar Tibnit in Nabatieh district, after powerful Israeli explosions in Qantara on Friday evening. It also reports intense Israeli drone activity over Beirut and artillery fire along the Mansouri coast south of Tyre. No casualties or Israeli statement are given in the report I read. Marker is at Nabatieh; the exact site is Kfar Tibnit, which the place lookup lacks.",
+   "lat": 33.3789,
+   "lon": 35.4839,
+   "coordPrecision": "approx",
+   "place": "Nabatieh",
+   "sources": [
+    {
+     "id": "mee_1128_nabatieh",
+     "title": "Middle East Eye live blog, Israeli jets carry out air raid on Lebanese town in Nabatieh, NNA reports, Nov 28",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-jets-carry-out-air-raid-lebanese-town-nabatieh-nna-reports"
+    }
+   ],
+   "read": "full"
   }
  ],
  "lanes": [
@@ -5199,7 +5491,7 @@
    "id": "red-sea-lane",
    "name": "Red Sea / Bab el-Mandeb",
    "status": "ONE_PARTY",
-   "text": "Nov 24-25: the coalition says it struck Hodeidah port and targets in Saada and Amran; the Houthis warn Jeddah and Saudi Red Sea ports are targets and claim a Nov 25 strike on Ras Tanura (the coalition says it downed four drones). Nov 24-25: the coalition says it struck Hodeidah port and targets in Saada and Amran; the Houthis warn Jeddah and Saudi Red Sea ports are targets and claim a Nov 25 strike on Ras Tanura (the coalition says it downed four drones). Contested. Nov 22: the Houthis claimed strikes on the Rabigh refinery and a radar in Riyadh province, and Houthi-affiliated media say a Saudi strike on Hodeidah killed four. Contested. Houthi-Saudi fighting continues: the coalition hit Hodeidah port on Nov 19 and the Houthis fired at Riyadh and southern Saudi Arabia Nov 20-21 and threatened Jeddah and other Saudi Red Sea ports. UKMTO reports no ship attacks in the Red Sea since Aug 24, and Bab al-Mandab transits about 22% below levels before the Jul 22 Houthi blockade announcement (via Middle East Eye).",
+   "text": "Nov 28: the coalition says it destroyed a Houthi cruise missile aimed at Riyadh and a ballistic missile fired toward southern Saudi Arabia; Yemeni government forces say they hit Houthi positions. Nov 24-25: the coalition says it struck Hodeidah port and targets in Saada and Amran; the Houthis warn Jeddah and Saudi Red Sea ports are targets and claim a Nov 25 strike on Ras Tanura (the coalition says it downed four drones). Nov 24-25: the coalition says it struck Hodeidah port and targets in Saada and Amran; the Houthis warn Jeddah and Saudi Red Sea ports are targets and claim a Nov 25 strike on Ras Tanura (the coalition says it downed four drones). Contested. Nov 22: the Houthis claimed strikes on the Rabigh refinery and a radar in Riyadh province, and Houthi-affiliated media say a Saudi strike on Hodeidah killed four. Contested. Houthi-Saudi fighting continues: the coalition hit Hodeidah port on Nov 19 and the Houthis fired at Riyadh and southern Saudi Arabia Nov 20-21 and threatened Jeddah and other Saudi Red Sea ports. UKMTO reports no ship attacks in the Red Sea since Aug 24, and Bab al-Mandab transits about 22% below levels before the Jul 22 Houthi blockade announcement (via Middle East Eye).",
    "sources": [
     {
      "id": "tg_army21ye_4139",
@@ -5237,17 +5529,22 @@
      "url": "https://t.me/army21ye/4145"
     },
     {
-     "id": "aj_1125_intercept",
-     "title": "Al Jazeera, Saudi-led coalition intercepts Houthi attacks after Hodeidah strike, Nov 25",
-     "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike"
+     "id": "mee_1128_riyadh",
+     "title": "Middle East Eye live blog, Saudi air defences destroy Houthi cruise missile over Riyadh, Nov 28",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-air-defences-destroy-houthi-cruise-missile-over-riyadh"
     },
     {
-     "id": "tg_army21ye_4145",
-     "title": "Houthi military spokesman Telegram, warning that Jeddah and Saudi Red Sea ports will be targets, Nov 24",
-     "url": "https://t.me/army21ye/4145"
+     "id": "mee_1128_khamis",
+     "title": "Middle East Eye live blog, Saudi coalition reports Houthi ballistic missile launch towards kingdom's south, Nov 28",
+     "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-coalition-says-it-intercepts-houthi-ballistic-missile-targeting"
     }
    ],
    "claims": [
+    {
+     "who": "Saudi-led coalition (via Middle East Eye, Nov 28)",
+     "says": "Destroyed a Houthi cruise missile over Riyadh and a ballistic missile aimed at the south.",
+     "source": "mee_1128_riyadh"
+    },
     {
      "who": "UKMTO (via Middle East Eye)",
      "says": "No Red Sea attacks since Aug 24; Bab al-Mandab transits about 24% below pre-blockade levels."
@@ -5329,36 +5626,36 @@
   {
    "label": "Gaza: killed since Oct 2023",
    "category": "casualties",
-   "asOf": "2026-11-26",
-   "asOfNote": "Nov 26, 2026",
+   "asOf": "2026-11-28",
+   "asOfNote": "Nov 28, 2026",
    "status": "DISPUTED",
    "rows": [
     {
      "who": "Gaza health ministry (Telegram)",
-     "value": "74,772 killed, 176,298 injured (does not separate fighters)",
-     "source": "tg_mohgaza_7761"
+     "value": "74,790 killed, 176,336 injured (does not separate fighters)",
+     "source": "tg_mohgaza_7762"
     },
     {
      "who": "Israeli military",
      "value": "No comparable total; says many killed were fighters"
     }
    ],
-   "note": "MoH figure was 74,746 on Nov 23. Cumulative total as posted on Nov 26.",
+   "note": "MoH figure was 74,772 on Nov 26. Cumulative total as posted on Nov 28.",
    "sources": [
-    "tg_mohgaza_7761"
+    "tg_mohgaza_7762"
    ]
   },
   {
    "label": "Gaza: killed since the Oct 10, 2025 ceasefire",
    "category": "casualties",
-   "asOf": "2026-11-26",
-   "asOfNote": "Nov 26, 2026 (Gaza health ministry Telegram; OCHA to Nov 16)",
+   "asOf": "2026-11-28",
+   "asOfNote": "Nov 28, 2026 (Gaza health ministry Telegram; OCHA to Nov 16)",
    "status": "DISPUTED",
    "rows": [
     {
-     "who": "Gaza health ministry (Telegram, Nov 26)",
-     "value": "1,705 killed, 6,163 injured since the ceasefire; 851 bodies recovered; 19 killed (18 new, 1 died of wounds) and 48 injured in the 48 hours to Nov 26",
-     "source": "tg_mohgaza_7761"
+     "who": "Gaza health ministry (Telegram, Nov 28)",
+     "value": "1,720 killed, 6,201 injured since the ceasefire; 854 bodies recovered; 18 killed (15 new, 3 recovered) and 38 injured in the 48 hours to Nov 28",
+     "source": "tg_mohgaza_7762"
     },
     {
      "who": "Gaza health ministry (via UN OCHA, report of Nov 18)",
@@ -5377,7 +5674,7 @@
    ],
    "note": "UN verification lags; counts cover different periods. The MoH post dates the ceasefire to Oct 11; the map keeps the Oct 10 label. The Israeli military row dates from Nov 11 (Reuters).",
    "sources": [
-    "tg_mohgaza_7761",
+    "tg_mohgaza_7762",
     "ocha_1118",
     "ocha_1015"
    ]
@@ -5653,14 +5950,14 @@
   {
    "label": "Hormuz traffic",
    "category": "economy",
-   "asOf": "2026-11-21",
-   "asOfNote": "UKMTO weekly overview to Nov 18 (via Middle East Eye, Nov 21)",
+   "asOf": "2026-11-28",
+   "asOfNote": "UKMTO weekly overview to Nov 25 (via Middle East Eye, Nov 28)",
    "status": "DISPUTED",
    "rows": [
     {
-     "who": "UKMTO (via Middle East Eye, Nov 21)",
-     "value": "Transits about 65% below pre-war: 115 outbound, 148 inbound in the week to Nov 18 vs 139 and 169 the week before; six attacks on commercial vessels in the week (four Hormuz, two Arabian Gulf)",
-     "source": "mee_1121_ukmto"
+     "who": "UKMTO (via Middle East Eye, Nov 28)",
+     "value": "Transits still about 65% below pre-conflict: 166 outbound, 173 inbound in the week to Nov 25 (vs 115 and 148 the week to Nov 18); 10 incidents in the week, seven in Hormuz; about 70% of transits energy carriers; about 5% of ships reported attacked since Aug 17 confirmed lost or sunk; three tankers hit by unknown projectiles within 17 minutes on Nov 22, all continued",
+     "source": "mee_1128_ukmto"
     },
     {
      "who": "UKMTO (via Middle East Eye, Nov 21), Red Sea",
@@ -5681,8 +5978,9 @@
      "value": "Requires approval to transit; says the strait stays shut until its conditions are met"
     }
    ],
-   "note": "Counts from different monitors are not comparable. UKMTO page itself was blocked; figures are as relayed by Middle East Eye.",
+   "note": "Counts from different monitors are not comparable. UKMTO page itself was blocked; figures are as relayed by Middle East Eye. The 43% figure of ships on Iran's PGSA list is UKMTO's own comparison.",
    "sources": [
+    "mee_1128_ukmto",
     "mee_1121_ukmto",
     "aj_1114_seafarers"
    ]
@@ -6886,6 +7184,111 @@
    "id": "tg_tasnim_49665",
    "title": "Tasnim English Telegram, 109 Saudi airstrikes against Yemen in the past 24 hours, Nov 26",
    "url": "https://t.me/Tasnimnews_en/49665"
+  },
+  {
+   "id": "mee_1128_ukmto",
+   "title": "Middle East Eye live blog, UKMTO says five percent of ships attacked since 17 Aug sunk or lost, Nov 28",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-says-five-percent-ships-attacked-17-aug-sunk-or-lost"
+  },
+  {
+   "id": "tg_mohgaza_7762",
+   "title": "Gaza Ministry of Health Telegram, 48-hour statistical report and cumulative totals, Nov 28",
+   "url": "https://t.me/MOHMediaGaza/7762"
+  },
+  {
+   "id": "aj_1128_msf",
+   "title": "Al Jazeera, Israeli 'direct hit' on Doctors Without Borders Gaza clinic kills 2 staff, Nov 28",
+   "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff"
+  },
+  {
+   "id": "x_msf_1127",
+   "title": "MSF International on X, two watchmen killed in Israeli strike on a Gaza clinic, Nov 27",
+   "url": "https://x.com/MSF/status/2126437061452275776"
+  },
+  {
+   "id": "tg_idf_19538",
+   "title": "IDF Telegram, IDF says it struck two Hamas operatives who were MSF clinic guards, Nov 27",
+   "url": "https://t.me/idfofficial/19538"
+  },
+  {
+   "id": "mee_1128_msfidf",
+   "title": "Middle East Eye live blog, Israeli army acknowledges Gaza strike that killed two MSF workers, Nov 28",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-acknowledges-gaza-strike-killed-two-msf-workers"
+  },
+  {
+   "id": "centcom_1127_archer",
+   "title": "US Central Command (DVIDS), US Forces Disable Commercial Vessel During Blockade Enforcement Against Iran, Nov 27",
+   "url": "https://www.dvidshub.net/news/580348/us-forces-disable-commercial-vessel-during-blockade-enforcement-against-iran"
+  },
+  {
+   "id": "x_centcom_1127",
+   "title": "CENTCOM on X, commercial vessel disabled in the Gulf of Oman, Nov 27",
+   "url": "https://x.com/CENTCOM/status/2126359352869065046"
+  },
+  {
+   "id": "am_1127_blockade",
+   "title": "Al-Monitor (Reuters), US disables ship trying to leave Iran, as Tehran vows to confront blockade, Nov 27",
+   "url": "https://www.al-monitor.com/originals/2026/11/us-disables-ship-trying-leave-iran-tehran-vows-confront-blockade"
+  },
+  {
+   "id": "ctp_1127",
+   "title": "Critical Threats / ISW, Iran Update, November 27, 2026",
+   "url": "https://www.criticalthreats.org/analysis/iran-update-november-27-2026"
+  },
+  {
+   "id": "tg_tasnim_49747",
+   "title": "Tasnim English Telegram, IRGC Navy says tanker hit mine north of Gonom Island, Nov 27",
+   "url": "https://t.me/Tasnimnews_en/49747"
+  },
+  {
+   "id": "tg_tasnim_49830",
+   "title": "Tasnim English Telegram, IRGC Navy says two tankers exploded off Khasab and east of Hormuz, Nov 27",
+   "url": "https://t.me/Tasnimnews_en/49830"
+  },
+  {
+   "id": "mee_1128_morning",
+   "title": "Middle East Eye live blog, Morning update, Nov 28",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-683"
+  },
+  {
+   "id": "mee_1128_cccl",
+   "title": "Middle East Eye live blog, Centcom rejects Iran's claims on warship attack, Hormuz shipping charges, Nov 28",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/centcom-rejects-irans-claims-warship-attack-hormuz-shipping-charges"
+  },
+  {
+   "id": "mee_1128_riyadh",
+   "title": "Middle East Eye live blog, Saudi air defences destroy Houthi cruise missile over Riyadh, Nov 28",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-air-defences-destroy-houthi-cruise-missile-over-riyadh"
+  },
+  {
+   "id": "mee_1128_khamis",
+   "title": "Middle East Eye live blog, Saudi coalition reports Houthi ballistic missile launch towards kingdom's south, Nov 28",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-coalition-says-it-intercepts-houthi-ballistic-missile-targeting"
+  },
+  {
+   "id": "mee_1128_taiz",
+   "title": "Middle East Eye live blog, Houthi attacks kill three civilians and wound three others in Taiz, report says, Nov 28",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/houthi-attacks-kill-three-civilians-and-wound-three-others-taiz-report"
+  },
+  {
+   "id": "aj_1128_yemen",
+   "title": "Al Jazeera, Yemen government forces hit Houthi positions as UN warns of hunger crisis, Nov 28",
+   "url": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis"
+  },
+  {
+   "id": "mee_1128_nabatieh",
+   "title": "Middle East Eye live blog, Israeli jets carry out air raid on Lebanese town in Nabatieh, NNA reports, Nov 28",
+   "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-jets-carry-out-air-raid-lebanese-town-nabatieh-nna-reports"
+  },
+  {
+   "id": "ocha_1126",
+   "title": "UN OCHA oPt, Humanitarian Situation Report, 26 November 2026",
+   "url": "https://www.ochaopt.org/content/humanitarian-situation-report-26-november-2026"
+  },
+  {
+   "id": "mee_1128_samra",
+   "title": "Middle East Eye, Residents of Jordan Valley vow to remain after Israeli bulldozers raze homes, Nov 28",
+   "url": "https://www.middleeasteye.net/news/khirbet-samra-palestinians-persist-staying-despite-israeli-attempts-displacement"
   }
  ]
 }
